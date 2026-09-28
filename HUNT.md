@@ -9,9 +9,13 @@ The 6am scheduled run follows this file. Read all of it before searching.
 - Resale matters: he'll sell this bike later and wants his money back.
 - He doesn't want a bike fit or a tri saddle, so never count those as costs or selling points.
 
-## Fit (5'9", 175 cm, cycling inseam 81.5 cm)
-- **Yes:** 54 cm / Medium. 52–53 fits if the reach is sensible. 55–56 is borderline, so check stack and reach (stack over ~520 is too tall).
-- **No:** anything 51 or under, XS/S, 650c wheels, L/58 and up, or a standover height at or above 81.5 cm.
+## Fit (5'9", 175 cm, cycling inseam 81.5 cm, target saddle height ~72 cm BB to top)
+Ryan is fine going a bit bigger or smaller (2026-09-27), so the range is wide on purpose.
+- **Ideal:** 54 cm / Medium.
+- **Fine:** 51–56 cm, S/M through M/L.
+  - **Smaller** (51–53) is the safer direction on a TT bike: a lower front end is more aero, and the seatpost and stem make up the difference. Check that at least ~72 cm of saddle height is reachable.
+  - **Bigger** (55–56) is fine if stack is about 530 or less and reach is about 440 or less. Too tall a front end can't be fixed.
+- **No:** 50 and under, XS, 650c wheels, 57+ / L and up, or a standover height at or above 81.5 cm.
 - If the ad gives no size, ask for it. Never assume.
 
 ## Hard rules for the bike

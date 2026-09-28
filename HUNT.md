@@ -274,6 +274,9 @@ Rules:
   - coin-tap test on the frame, dropouts and hanger, BB creak, shifting
   - a test ride in the aero position
 
+## Privacy
+The app has no password, so anyone with the link can read the tracker. **Never write seller names, phone numbers, emails or addresses into `data/tracker.json`.** Refer to a seller by listing only ("the Lévis seller"). Messages in `thread` are fine, but strip any names or contact details from them.
+
 ## Output of every run
 1. Update `data/tracker.json`:
    - listings: asking price, `firstAsking` when it drops, `priceHistory` (append `{atISO, price}` whenever the asking price differs from the last entry), `photo` (the first image's `src` from the listing page, which starts with `https://scontent`; refresh it every run because the URLs expire), `fairValue`, `allInCost`, `target`, status, verdict, notes, thread, draft, `updatedISO`

@@ -406,7 +406,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T03:11:33.812Z",
+      "updatedISO": "2026-09-28T10:43:12.880Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -418,22 +418,28 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "negotiating",
+      "status": "gone",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 1150,
       "target": 750,
-      "verdict": "Fits (51, lower front) and cheap for a carbon P2, but Lévis is ~2.75 h: worth ~$1,250; all-in ~$1,150 at an $850 close (+ gas $70, tune-up $120, tyres $100). Not a steal unless it closes near $750.",
+      "verdict": "Seller replied \"Sorry, it's not available.\" The listing is still up at $1,000, but treat it as sold.",
       "notes": [
         "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
         "Photos did not load this run. Listed 10 weeks.",
-        "Seller: Michel Champagne. Main photo shows a silver/blue Cervélo with the big down-tube logo, which looks like the 2006-07 alloy P2K/P2 more than a carbon P2. The ad says carbon: confirm. If alloy, value drops to ~$800 and it is no longer a steal candidate."
+        "Seller: Michel Champagne. Main photo shows a silver/blue Cervélo with the big down-tube logo, which looks like the 2006-07 alloy P2K/P2 more than a carbon P2. The ad says carbon: confirm. If alloy, value drops to ~$800 and it is no longer a steal candidate.",
+        "2026-09-28: seller reply read in the inbox (sent Sun). Listing page still shows $1,000, 10 weeks."
       ],
       "thread": [
         {
           "atISO": "2026-09-28T03:11:33.812Z",
           "from": "us",
           "text": "Salut! Toujours disponible? C'est quel groupe (105, Ultegra?) et c'est du 10 ou 11 vitesses? Les roues sont de quelle marque? T'es de quelle taille toi? Et c'est quoi ton meilleur prix cash? Je suis à Laval."
+        },
+        {
+          "atISO": "2026-09-27T23:30:00-04:00",
+          "from": "seller",
+          "text": "Sorry, it's not available."
         }
       ]
     },
@@ -1170,6 +1176,146 @@
       "asking": 1250,
       "status": "passed",
       "verdict": "Road bike, and the wheels are Cosmic Elite/Reynolds alloy, not deep race wheels."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
+      "firstSeenISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T10:43:12.880Z",
+          "price": 1499
+        }
+      ],
+      "id": "4503935689882002",
+      "title": "Felt B14 triathlon, Ultegra, FSA crank",
+      "location": "Québec, QC",
+      "driveHours": 2.75,
+      "asking": 1499,
+      "firstAsking": 1750,
+      "status": "watching",
+      "size": "unknown",
+      "fairValue": 1050,
+      "allInCost": 1190,
+      "target": 900,
+      "verdict": "Fair, not a steal: worth ~$1,050; all-in ~$1,190 at a $1,000 close (+ gas $70, tune-up $120). Size and year not stated. Only interesting under ~$800.",
+      "notes": [
+        "Model/year: Felt B14, year not stated (probably 2012-2016 carbon). Size not stated: ask. Geometry unknown until size is known.",
+        "Ad: Ultegra groupset, FSA crank, two new tyres, used for one 70.3, two 40 km rides and half a trainer season. Comes with risers, rear bottle cage, Look pedals, computer mount.",
+        "Value evidence: table $700-1,100 for B12/B14/B16; Kingston 2014 B14 (tracked) asks $1,000. BBB not checked.",
+        "Listed a week ago, already down from $1,750."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1032305399343918/",
+      "firstSeenISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T10:43:12.880Z",
+          "price": 1200
+        }
+      ],
+      "id": "1032305399343918",
+      "title": "Triathlon bike \"medium 54\" (brand unknown), seatpost stuck",
+      "location": "Québec, QC",
+      "driveHours": 2.75,
+      "asking": 1200,
+      "status": "passed",
+      "size": "54 / M",
+      "verdict": "The ad says the seat can't be adjusted and suits riders 5'5\"-5'7\": a stuck seatpost, which is a costly fix.",
+      "notes": [
+        "Brand not named in the text. Listed 10 weeks."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2689908731388652/",
+      "firstSeenISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T10:43:12.880Z",
+          "price": 2000
+        }
+      ],
+      "id": "2689908731388652",
+      "title": "Cervélo tri bike, old alloy (P2K/Dual era), dark blue",
+      "location": "Ottawa, ON",
+      "driveHours": 2,
+      "asking": 2000,
+      "status": "passed",
+      "size": "unknown",
+      "verdict": "An old round-tube alloy Cervélo at $2,000 after 24 weeks: roughly 2-3x what it is worth (~$700).",
+      "notes": [
+        "Photo: dark blue alloy frame, red aerobars. Model not stated."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1751725949189440/",
+      "firstSeenISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T10:43:12.880Z",
+          "price": 1500
+        }
+      ],
+      "id": "1751725949189440",
+      "title": "Gioda Chrono triathlon, Small",
+      "location": "Ottawa, ON",
+      "driveHours": 2,
+      "asking": 1500,
+      "firstAsking": 1800,
+      "status": "passed",
+      "size": "S",
+      "verdict": "Size Small and a weak-resale brand at $1,500.",
+      "notes": []
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/989386040340722/",
+      "firstSeenISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T10:43:12.880Z",
+          "price": 570
+        }
+      ],
+      "id": "989386040340722",
+      "title": "Quintana Roo Tequilo 52 (vintage alloy), Ultegra",
+      "location": "Oro-Medonte, ON",
+      "driveHours": 6,
+      "asking": 570,
+      "status": "passed",
+      "size": "52",
+      "verdict": "Oro-Medonte (near Barrie) is over 3 h away, and it is a vintage alloy frame.",
+      "notes": []
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1765271658159156/",
+      "firstSeenISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T10:43:12.880Z",
+          "price": 1800
+        }
+      ],
+      "id": "1765271658159156",
+      "title": "Giant Trinity 2 2010 alloy, M, SRAM Red 10-sp",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 1800,
+      "status": "passed",
+      "size": "M",
+      "verdict": "Toronto, over 3 h away, and $1,800 for a 2010 alloy Trinity.",
+      "notes": []
     }
   ],
   "runs": [
@@ -1190,6 +1336,16 @@
       "summary": "One likely steal: a 2011 carbon Cervélo P2 in Montréal with HED Jet wheels at a moving sale; opening message drafted, 15 others added to watching.",
       "searched": 99,
       "newListings": 40
+    },
+    {
+      "atISO": "2026-09-28T10:43:12.880Z",
+      "summary": "No steals today: the Lévis P2 is no longer available, no other seller has replied, tracked prices are unchanged, and a Felt B14 in Québec City went to watching.",
+      "searched": 118,
+      "newListings": 7,
+      "notes": [
+        "Kijiji: only tri bike was a Cervélo P5 54 in Ottawa (kijiji 1742405042) at $2,995 with Magura brakes and carbon rims: passed. Not stored as a listing because the app sync rejects non-Facebook ids and urls.",
+        "Photos not refreshed: the browser tool blocks returning scontent URLs (signed query strings)."
+      ]
     }
   ]
 }

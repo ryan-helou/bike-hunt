@@ -44,15 +44,24 @@
       "url": "https://www.facebook.com/marketplace/item/2277577366378863/",
       "title": "Cervélo P1 54, alloy, carbon fork",
       "location": "Ottawa, ON",
-      "driveHours": 2.0,
+      "driveHours": 2,
       "asking": 800,
       "status": "watching",
       "verdict": "Best value found so far: fits, strong resale, comes with near-new GP5000s and a split-nose saddle. Groupset and year unknown.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
       "fairValue": 850,
       "target": 700,
-      "size": "54"
+      "size": "54",
+      "notes": [
+        "2026-09-27: still listed at $800, no change."
+      ],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "price": 800
+        }
+      ]
     },
     {
       "id": "1365269332366786",
@@ -64,10 +73,19 @@
       "status": "watching",
       "verdict": "Under 1,000 km, listed 27 weeks and already dropped from $1,400. Size not stated.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
       "firstAsking": 1400,
       "fairValue": 1000,
-      "target": 950
+      "target": 950,
+      "notes": [
+        "2026-09-27: still listed at $1,200, no change."
+      ],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "price": 1200
+        }
+      ]
     },
     {
       "id": "1366520905547089",
@@ -79,12 +97,19 @@
       "status": "watching",
       "verdict": "Carbon frame, deep wheels (material unknown), worn cockpit. Weak resale brand; only fair near $1,000.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
       "fairValue": 1050,
       "target": 1000,
       "size": "M",
       "notes": [
-        "27 Sep: still $1,500, listed 6 weeks."
+        "27 Sep: still $1,500, listed 6 weeks.",
+        "2026-09-27: still listed at $1,500, no change."
+      ],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "price": 1500
+        }
       ]
     },
     {
@@ -97,32 +122,50 @@
       "status": "watching",
       "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
       "fairValue": 950,
       "target": 850,
-      "size": "53.4"
+      "size": "53.4",
+      "notes": [
+        "2026-09-27: still listed at $1,000, no change."
+      ],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "price": 1000
+        }
+      ]
     },
     {
       "id": "1071871482371740",
       "url": "https://www.facebook.com/marketplace/item/1071871482371740/",
       "title": "Cervélo P2 \"52\"",
       "location": "Ottawa, ON",
-      "driveHours": 2.0,
+      "driveHours": 2,
       "asking": 1050,
       "status": "watching",
       "verdict": "Seller is 5'4\" and raced Mont-Tremblant 70.3. 52 is borderline for 5'9\"; needs the real frame size.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
       "fairValue": 950,
       "target": 850,
-      "size": "52?"
+      "size": "52?",
+      "notes": [
+        "2026-09-27: still listed at $1,050, no change."
+      ],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "price": 1050
+        }
+      ]
     },
     {
       "id": "1081124437811279",
       "url": "https://www.facebook.com/marketplace/item/1081124437811279/",
       "title": "Trek Speed Concept L/54",
       "location": "Mississauga, ON",
-      "driveHours": 6.0,
+      "driveHours": 6,
       "asking": 1000,
       "status": "passed",
       "verdict": "About 6 h away, past the 3 h limit, and 1st-gen proprietary brakes and stem.",
@@ -285,6 +328,829 @@
       "firstSeenISO": "2026-09-27T21:46:38-04:00",
       "updatedISO": "2026-09-27T21:46:38-04:00",
       "size": "56 L"
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1900
+        }
+      ],
+      "id": "1383737736983330",
+      "title": "2011 Cervélo P2 carbon (Medium) + HED Jet 6/9 wheels + Tacx Flow, moving sale",
+      "location": "Montréal, QC",
+      "driveHours": 0.3,
+      "asking": 1900,
+      "firstAsking": 2300,
+      "status": "needs-ok",
+      "size": "M (54?)",
+      "fairValue": 1750,
+      "allInCost": 1310,
+      "target": 1150,
+      "verdict": "Worth ~$1,750 for bike + HED wheels (~$1,900 with the Tacx Flow); all-in ~$1,310 if it closes at $1,150 (close $1,150 + tune-up $120 + bar tape $30 + gas $10). A steal only at $1,150 or less. Moving sale, 11 weeks up, already down from $2,300.",
+      "notes": [
+        "Model/year: 2011 Cervélo P2, full carbon, \"Medium\". 2011 P2 sizes 48/51/54/56/58; Medium likely 54 (stack ~525, reach ~408 from memory of the Cervélo chart, not confirmed this run). Ask the exact size.",
+        "Package: HED Jet RC6 front / RC9 rear \"Performance\" (alloy brake track under a carbon fairing, so fine with rim brakes; confirm HED hubs), training wheelset, ISM + Fizik saddles, new Continental tyres, 4 tubes, rear bottle cage, Tacx Flow smart trainer, fan. Pedals not included.",
+        "Groupset not stated: ask. Bar tape on the aerobars looks white and worn in the photo: counted $30.",
+        "Value evidence: P2 carbon asks this run $1,300 (P2C 48, Ottawa), $1,400 (P2-SL, Guelph; P2C, Brampton; P2 carbon 48, Burlington), $1,000 (P2 2010, Lévis) → about $1,150-1,200 at 85%. HED Jet 6/9 Performance pair ~$600 used (estimate, not checked on Pinkbike this run). Tacx Flow ~$150. BBB not checked.",
+        "Ryan already has a ThinkRider: the draft asks for a price without the trainer and fan.",
+        "Seller text: \"Serious buyers only, cash only, local pickup.\" No scam signals."
+      ],
+      "draft": {
+        "n": 1,
+        "purpose": "Opening: size, crashes, groupset, wheel hubs, seller height, best cash price without the trainer",
+        "text": "Hi! Is this still available? Is the Medium a 54 frame, and how tall are you? Any crashes, and what groupset is it (10 or 11 speed)? Are the HED wheels on HED hubs? I already have a trainer, so what's the best you could do cash for the bike and both wheelsets without the Tacx and fan? I'm in Laval and can come by this week."
+      }
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 700
+        }
+      ],
+      "id": "2651831985252795",
+      "title": "Specialized Transition (1st gen alloy), Small, Ultegra, Cosmic Elite",
+      "location": "Laval, QC",
+      "driveHours": 0.1,
+      "asking": 700,
+      "status": "watching",
+      "size": "S",
+      "fairValue": 850,
+      "allInCost": 850,
+      "target": 600,
+      "verdict": "Fits on the small side and standard calipers, but fair not cheap: worth ~$850; all-in ~$850 at a $600 close (+ tune-up $120, tyres/tape $130). Fallback only.",
+      "notes": [
+        "1st-gen alloy Transition with bar-end shifters, FSA SL-K carbon crank, Mavic Cosmic Elite (alloy). Photo shows red/white alloy frame, standard rim brakes.",
+        "Small ≈ 51-52: geometry not looked up this run. Alloy frame: ask whether the seatpost moves.",
+        "Listed 8 weeks."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1000
+        }
+      ],
+      "id": "1037818218696939",
+      "title": "Cervélo P2 carbon 2010, ~51 (20\" c-t)",
+      "location": "Lévis, QC",
+      "driveHours": 2.75,
+      "asking": 1000,
+      "status": "watching",
+      "size": "51",
+      "fairValue": 1250,
+      "allInCost": 1150,
+      "target": 850,
+      "verdict": "Fits (51, lower front) and cheap for a carbon P2, but Lévis is ~2.75 h: worth ~$1,250; all-in ~$1,150 at an $850 close (+ gas $70, tune-up $120, tyres $100). Not a steal unless it closes near $750.",
+      "notes": [
+        "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
+        "Photos did not load this run. Listed 10 weeks."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1070375975828762/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1000
+        }
+      ],
+      "id": "1070375975828762",
+      "title": "Felt B14 2014 carbon, 56, Dura-Ace RD 10-sp",
+      "location": "Kingston, ON",
+      "driveHours": 2.75,
+      "asking": 1000,
+      "status": "watching",
+      "size": "56",
+      "fairValue": 1000,
+      "allInCost": 1040,
+      "target": 850,
+      "verdict": "Felt 56 runs low so it probably fits (check stack is 530 or less), but it is fairly priced: worth ~$1,000; all-in ~$1,040 at an $850 close (+ gas $70, tune-up $120).",
+      "notes": [
+        "Seller 6'1\" said slightly small. Alloy TTR3 rims, Vision crank. Listed 4 days.",
+        "Geometry for the 2014 B14 56 not looked up this run."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 950
+        }
+      ],
+      "id": "27094078976918279",
+      "title": "Giant Trinity, 50 cm composite/alloy, Ultegra",
+      "location": "St-Joseph-de-Sorel, QC",
+      "driveHours": 1,
+      "asking": 950,
+      "firstAsking": 1250,
+      "status": "watching",
+      "size": "50 (S?)",
+      "fairValue": 850,
+      "allInCost": 1000,
+      "target": 750,
+      "verdict": "Dropped from $1,250 and 15 weeks up, but a Trinity composite is worth ~$850; all-in ~$1,000 at $750. Size \"50\" on a Giant that runs large: check stack.",
+      "notes": [
+        "Easton Aero Force bars, AeroDrink, Look Keo pedals included."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1500
+        }
+      ],
+      "id": "1686535096227038",
+      "title": "Cannondale Slice 51",
+      "location": "Joliette, QC",
+      "driveHours": 0.75,
+      "asking": 1500,
+      "status": "watching",
+      "size": "51",
+      "fairValue": 1150,
+      "allInCost": 1300,
+      "target": 1050,
+      "verdict": "Fits, but $1,500 against a $1,150 benchmark (the St-Jérôme Slice). Watch for a drop under $1,100.",
+      "notes": [
+        "Listed 5 weeks. Groupset and year not stated."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1592605915624733/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1800
+        }
+      ],
+      "id": "1592605915624733",
+      "title": "Felt DA4 2014, 54 (M), Dura-Ace derailleurs",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 1800,
+      "status": "watching",
+      "size": "54",
+      "fairValue": 1350,
+      "allInCost": 1500,
+      "target": 1200,
+      "verdict": "Fits, but fair at best and the seller says no lowballs: worth ~$1,350.",
+      "notes": [
+        "~8,000 km. Listed 10 weeks. \"Pas de Lowball, vendu à ce prix là, pas moins.\""
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/978309548239924/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 2000
+        }
+      ],
+      "id": "978309548239924",
+      "title": "Cervélo P2C carbon 54, Dura-Ace derailleurs, Ksyrium Equipe",
+      "location": "Ottawa, ON",
+      "driveHours": 2,
+      "asking": 2000,
+      "status": "watching",
+      "size": "54",
+      "fairValue": 1300,
+      "allInCost": 1470,
+      "target": 1150,
+      "verdict": "Fits, stale (18 weeks) but $2,000 is well above ~$1,300 value. Only interesting under ~$1,000.",
+      "notes": [
+        "Headset, cables and front brake replaced last winter. XLab wing included."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1900
+        }
+      ],
+      "id": "1044765311662820",
+      "title": "Cervélo P2 (year unknown)",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 1900,
+      "status": "watching",
+      "size": "?",
+      "fairValue": 1300,
+      "allInCost": 1450,
+      "target": 1150,
+      "verdict": "No details in the ad (video only). Watch for a drop.",
+      "notes": [
+        "Listed 3 weeks. \"Selling because I have a better one.\""
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1800
+        }
+      ],
+      "id": "1065664379202971",
+      "title": "Wilier Blade carbon, 54 (M), Ultegra, Ksyrium",
+      "location": "L'Épiphanie, QC",
+      "driveHours": 0.6,
+      "asking": 1800,
+      "status": "watching",
+      "size": "54",
+      "fairValue": 1150,
+      "allInCost": 1300,
+      "target": 1000,
+      "verdict": "Fits, but ~$1,150 value against $1,800 asking.",
+      "notes": [
+        "Listed 4 weeks. New Look pedals, Vision cockpit."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1062004785512482/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1800
+        }
+      ],
+      "id": "1062004785512482",
+      "title": "Garneau Gennix T1 carbon, Medium",
+      "location": "Sherbrooke, QC",
+      "driveHours": 1.75,
+      "asking": 1800,
+      "firstAsking": 1900,
+      "status": "watching",
+      "size": "M",
+      "fairValue": 1100,
+      "allInCost": 1300,
+      "target": 950,
+      "verdict": "Stale (a year) and overpriced for a weak-resale brand. Only under ~$1,000.",
+      "notes": []
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/27892804753681736/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 0
+        }
+      ],
+      "id": "27892804753681736",
+      "title": "Cannondale Slice Small 51, SRAM Red, carbon EIS rims",
+      "location": "Ste-Marguerite, QC",
+      "driveHours": 1,
+      "asking": 0,
+      "firstAsking": 3999,
+      "status": "watching",
+      "size": "51",
+      "fairValue": 1200,
+      "verdict": "Price shown as $0 (was $3,999), \"give me some offer\". Carbon rims with rim brakes break a hard rule, so it would need an alloy wheelset (~$250). Odd listing: watch only.",
+      "notes": [
+        "Tektro brakes suggest a 2014+ Slice. Listed 5 weeks."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1800
+        }
+      ],
+      "id": "2809070319493148",
+      "title": "Devinci Leo T2 carbon, SRAM Force 2x10",
+      "location": "Boucherville, QC",
+      "driveHours": 0.4,
+      "asking": 1800,
+      "status": "watching",
+      "size": "?",
+      "fairValue": 1100,
+      "allInCost": 1250,
+      "target": 950,
+      "verdict": "Just listed, prefers a trade. Weak resale; only interesting under ~$1,000.",
+      "notes": [
+        "Size not stated."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2141803323436059/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1875
+        }
+      ],
+      "id": "2141803323436059",
+      "title": "Specialized Transition Expert 54, like new",
+      "location": "Ottawa, ON",
+      "driveHours": 2,
+      "asking": 1875,
+      "status": "watching",
+      "size": "54",
+      "fairValue": 1150,
+      "allInCost": 1300,
+      "target": 1000,
+      "verdict": "Near-new but $1,875 is well above resale. Watch for a drop.",
+      "notes": [
+        "Ultegra, FSA crank, Dura-Ace RD, Mavic wheels. ~40 km."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1796226728200924/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 2000
+        }
+      ],
+      "id": "1796226728200924",
+      "title": "Quintana Roo Tequilo carbon 52, 105",
+      "location": "Québec, QC",
+      "driveHours": 2.75,
+      "asking": 2000,
+      "status": "watching",
+      "size": "52",
+      "fairValue": 1100,
+      "allInCost": 1300,
+      "target": 900,
+      "verdict": "Overpriced: a Tequilo is worth ~$1,100.",
+      "notes": [
+        "~2,000 km. Listed 2 weeks."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1388503449842108/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1050
+        }
+      ],
+      "id": "1388503449842108",
+      "title": "Devinci T2 Leo carbon 20.5\", Dura-Ace crank/shifters, Shimano 600 brakes",
+      "location": "Ottawa, ON",
+      "driveHours": 2,
+      "asking": 1050,
+      "firstAsking": 1525,
+      "status": "watching",
+      "size": "52",
+      "fairValue": 800,
+      "allInCost": 1000,
+      "target": 750,
+      "verdict": "Old (600 brakes) and weak resale: worth ~$800. Fair, not a steal.",
+      "notes": [
+        "Listed 9 weeks, dropped from $1,525."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1709318757040569/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 600
+        }
+      ],
+      "id": "1709318757040569",
+      "title": "\"Specialized Transition full carbon\" (really a road bike with clip-ons)",
+      "location": "Québec, QC",
+      "asking": 600,
+      "status": "passed",
+      "verdict": "Photo shows a Specialized road bike with clip-on aerobars, not a Transition."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1517024583264100/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 495
+        }
+      ],
+      "id": "1517024583264100",
+      "title": "Cervélo triathlon, 48 cm alloy, 650c",
+      "location": "Gatineau, QC",
+      "asking": 495,
+      "status": "passed",
+      "verdict": "48 cm and 650c wheels."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1683110383626726/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 500
+        }
+      ],
+      "id": "1683110383626726",
+      "title": "Cervélo One, 48 cm, 650c",
+      "location": "Québec, QC",
+      "asking": 500,
+      "status": "passed",
+      "verdict": "48 cm and 650c wheels."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1697365717933559/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 550
+        }
+      ],
+      "id": "1697365717933559",
+      "title": "Cervélo One 2002, 48 cm TT, 650c",
+      "location": "Carleton Place, ON",
+      "asking": 550,
+      "status": "passed",
+      "verdict": "650c, 48 cm top tube."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2137014070187659/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 700
+        }
+      ],
+      "id": "2137014070187659",
+      "title": "Kestrel 4000 XS, 650c, SRAM Red",
+      "location": "Trois-Rivières, QC",
+      "asking": 700,
+      "status": "passed",
+      "verdict": "XS and 650c."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2220728662047745/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1300
+        }
+      ],
+      "id": "2220728662047745",
+      "title": "Cervélo P2C 48, Dura-Ace RD",
+      "location": "Ottawa, ON",
+      "asking": 1300,
+      "status": "passed",
+      "verdict": "48 cm."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/813568748414916/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1100
+        }
+      ],
+      "id": "813568748414916",
+      "title": "Specialized Transition Expert M",
+      "location": "Ajax, ON",
+      "asking": 1100,
+      "status": "passed",
+      "verdict": "Ajax (GTA), over 3 h away."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2151992002341310/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1400
+        }
+      ],
+      "id": "2151992002341310",
+      "title": "Cervélo P2-SL 56 + Zipp tubulars",
+      "location": "Guelph, ON",
+      "asking": 1400,
+      "status": "passed",
+      "verdict": "Guelph, over 3 h away."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1351098253885451/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1200
+        }
+      ],
+      "id": "1351098253885451",
+      "title": "Cervélo P3 SL 55, Dura-Ace, Reynolds",
+      "location": "Perth South, ON",
+      "asking": 1200,
+      "status": "passed",
+      "verdict": "Perth South (near Stratford), over 3 h away."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/29666516762938631/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 2000
+        }
+      ],
+      "id": "29666516762938631",
+      "title": "Cannondale Slice L (56), Ultegra",
+      "location": "St-Jérôme, QC",
+      "asking": 2000,
+      "status": "passed",
+      "verdict": "Size L and $2,000."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1787581065745699/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 2000
+        }
+      ],
+      "id": "1787581065745699",
+      "title": "Argon 18 triathlon, Small (<5'6\")",
+      "location": "St-Jérôme, QC",
+      "asking": 2000,
+      "status": "passed",
+      "verdict": "Small for riders under 5'6\", and $2,000."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1650967153263315/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 2000
+        }
+      ],
+      "id": "1650967153263315",
+      "title": "Argon 18 E-117 XS",
+      "location": "Ste-Marthe-sur-le-Lac, QC",
+      "asking": 2000,
+      "status": "passed",
+      "verdict": "XS."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/969976265671607/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1850
+        }
+      ],
+      "id": "969976265671607",
+      "title": "Giant Aeryn Advanced XS",
+      "location": "Chelsea, QC",
+      "asking": 1850,
+      "status": "passed",
+      "verdict": "XS."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1038959662257194/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1000
+        }
+      ],
+      "id": "1038959662257194",
+      "title": "Felt triathlon 48 / XS",
+      "location": "Ottawa, ON",
+      "asking": 1000,
+      "status": "passed",
+      "verdict": "48 / XS."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1041953468417374/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1400
+        }
+      ],
+      "id": "1041953468417374",
+      "title": "Orbea Ordu carbon 48",
+      "location": "Ottawa, ON",
+      "asking": 1400,
+      "status": "passed",
+      "verdict": "48."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/895859989654299/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 900
+        }
+      ],
+      "id": "895859989654299",
+      "title": "Kuota K-Factor 58",
+      "location": "Gatineau, QC",
+      "asking": 900,
+      "status": "passed",
+      "verdict": "58 cm."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1772285717282576/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1500
+        }
+      ],
+      "id": "1772285717282576",
+      "title": "Gianella TTC, 26\" wheels",
+      "location": "Vaudreuil-Dorion, QC",
+      "asking": 1500,
+      "status": "passed",
+      "verdict": "26-inch (650c-class) wheels."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/928313776641826/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1820
+        }
+      ],
+      "id": "928313776641826",
+      "title": "Cannondale Slice-RS Small, Di2, no wheels",
+      "location": "Coteau-du-Lac, QC",
+      "asking": 1820,
+      "status": "passed",
+      "verdict": "Frame and Di2 without wheels at $1,820; same bike also listed in Vaudreuil. Not a steal."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/27759996087025470/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1800
+        }
+      ],
+      "id": "27759996087025470",
+      "title": "Cannondale Slice-RS Small, Di2, no wheels",
+      "location": "Vaudreuil-Dorion, QC",
+      "asking": 1800,
+      "status": "passed",
+      "verdict": "Duplicate of the Coteau-du-Lac listing: no wheels, $1,800."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/935833005544649/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 2000
+        }
+      ],
+      "id": "935833005544649",
+      "title": "Devinci T2 Ultegra",
+      "location": "Drummondville, QC",
+      "asking": 2000,
+      "status": "passed",
+      "verdict": "$2,000 for a Devinci T2 (weak resale, ~$1,000 value)."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2276353606104947/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 540
+        }
+      ],
+      "id": "2276353606104947",
+      "title": "Eclipse Time Machine 54-55, 50 mm carbon wheels + Tacx",
+      "location": "Ottawa, ON",
+      "asking": 540,
+      "status": "passed",
+      "verdict": "No-name frame, carbon rims with rim brakes; weak resale. Same bike as 4442661069349204."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/4442661069349204/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 540
+        }
+      ],
+      "id": "4442661069349204",
+      "title": "Eclipse Time Machine 54-55 (duplicate)",
+      "location": "Ottawa, ON",
+      "asking": 540,
+      "status": "passed",
+      "verdict": "Duplicate of the other Eclipse listing."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1433563015201756/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 500
+        }
+      ],
+      "id": "1433563015201756",
+      "title": "Kestrel TT frame, fork, seatpost only",
+      "location": "Montréal, QC",
+      "asking": 500,
+      "status": "passed",
+      "verdict": "Frameset only."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/27227286086909623/",
+      "firstSeenISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-27T22:58:19-04:00",
+          "price": 1250
+        }
+      ],
+      "id": "27227286086909623",
+      "title": "Marin carbon road bike with aerobars",
+      "location": "Lachute, QC",
+      "asking": 1250,
+      "status": "passed",
+      "verdict": "Road bike, and the wheels are Cosmic Elite/Reynolds alloy, not deep race wheels."
     }
   ],
   "runs": [
@@ -299,6 +1165,12 @@
       "summary": "The St-Jérôme Slice sold on Thursday, no new steals in 19 searches, and Facebook is only showing listings within 40 km of Laval.",
       "searched": 19,
       "newListings": 12
+    },
+    {
+      "atISO": "2026-09-27T22:58:19-04:00",
+      "summary": "One likely steal: a 2011 carbon Cervélo P2 in Montréal with HED Jet wheels at a moving sale; opening message drafted, 15 others added to watching.",
+      "searched": 99,
+      "newListings": 40
     }
   ]
 }

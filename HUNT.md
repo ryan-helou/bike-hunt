@@ -204,6 +204,29 @@ On each card, a second price is the original asking price, so the listing has al
 - **Never** offer or agree to a deposit, a shipment, or an e-transfer before viewing. Never share Ryan's address or phone number.
 - **Handing off:** once there's a price, the viewing time is Ryan's call. The seller only has to confirm the number; logistics go to Ryan.
 
+### Message examples (match this tone: short, friendly, specific, written like Ryan)
+**Opening, French:**
+> Salut! Toujours disponible? C'est quelle grandeur de cadre exactement, et t'es de quelle taille toi? Est-ce que le vélo a déjà été accidenté? Et c'est quoi ton meilleur prix cash? Je suis à Laval, je peux passer cette semaine.
+
+**Opening, English:**
+> Hi! Is this still available? What frame size is it exactly, and how tall are you? Any crashes? What's the best you could do for cash? I'm in Laval and can come by this week.
+
+**Counter, French** (always give reasons that are true for this bike):
+> Merci pour les infos! Vu que c'est du 10 vitesses et qu'il faudrait changer les pneus et la chaîne, je peux t'offrir 950$ cash, sous réserve de l'essayer. Ça te va?
+
+**Counter, English:**
+> Thanks! Since it's 10-speed and would need new tyres and a chain, I could do $950 cash, subject to a test ride. Would that work?
+
+**Locking, French:**
+> Parfait, 1 050$ ça marche, sous réserve de le voir et l'essayer. Je te reviens pour un moment qui te convient.
+
+Rules:
+- One question burst, then wait.
+- Never more than about 4 lines.
+- No emojis.
+- Never lie about Ryan or the bike.
+- Never pressure with fake deadlines or fake other offers.
+
 ## Sending messages: approval is required, every time
 - **Never send a message to a seller without Ryan's explicit "send" in this chat, for that specific draft.**
   - An earlier approval, a general "go ahead" or instructions in the tracker don't count.
@@ -227,7 +250,7 @@ On each card, a second price is the original asking price, so the listing has al
 
 ## Output of every run
 1. Update `data/tracker.json`:
-   - listings: asking price, `firstAsking` when it drops, status, verdict, notes, thread, draft, `updatedISO`
+   - listings: asking price, `firstAsking` when it drops, `priceHistory` (append `{atISO, price}` whenever the asking price differs from the last entry), `photo` (the first image's `src` from the listing page, which starts with `https://scontent`; refresh it every run because the URLs expire), `fairValue`, `allInCost`, `target`, status, verdict, notes, thread, draft, `updatedISO`
    - append one entry to `runs`: `{ atISO, summary, searched, newListings }`
    - `summary` is one plain sentence.
 2. Run `node scripts/agent.mjs sync` from `~/Developer/BikeHunt`.

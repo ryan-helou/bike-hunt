@@ -42,7 +42,10 @@ export interface Listing {
   status: Status;
   verdict: string; // one line: why it's here
   notes?: string[];
+  /** First listing photo (Facebook CDN URL; these expire, so it is refreshed each run). */
   photo?: string;
+  /** Every asking price seen, oldest first. Two or more drops = motivated seller. */
+  priceHistory?: { atISO: string; price: number }[];
   draft?: Draft;
   thread?: ThreadMessage[];
   firstSeenISO: string;

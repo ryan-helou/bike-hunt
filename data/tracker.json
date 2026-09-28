@@ -371,7 +371,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T03:07:57.250Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -383,22 +383,27 @@
       "location": "Laval, QC",
       "driveHours": 0.1,
       "asking": 700,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "S",
       "fairValue": 850,
       "allInCost": 850,
-      "target": 600,
+      "target": 500,
       "verdict": "Fits on the small side and standard calipers, but fair not cheap: worth ~$850; all-in ~$850 at a $600 close (+ tune-up $120, tyres/tape $130). Fallback only.",
       "notes": [
         "1st-gen alloy Transition with bar-end shifters, FSA SL-K carbon crank, Mavic Cosmic Elite (alloy). Photo shows red/white alloy frame, standard rim brakes.",
         "Small ≈ 51-52: geometry not looked up this run. Alloy frame: ask whether the seatpost moves.",
         "Listed 8 weeks."
-      ]
+      ],
+      "draft": {
+        "n": 3,
+        "purpose": "Opening: crashes, seatpost not seized, seller height, best cash price",
+        "text": "Hi! Is this still available? Any crashes, and does the seatpost still move freely? How tall are you? What's the best you could do for cash? I'm in Laval too and can come by this week."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T03:07:57.250Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -410,16 +415,21 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 1150,
-      "target": 850,
+      "target": 750,
       "verdict": "Fits (51, lower front) and cheap for a carbon P2, but Lévis is ~2.75 h: worth ~$1,250; all-in ~$1,150 at an $850 close (+ gas $70, tune-up $120, tyres $100). Not a steal unless it closes near $750.",
       "notes": [
         "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
         "Photos did not load this run. Listed 10 weeks."
-      ]
+      ],
+      "draft": {
+        "n": 2,
+        "purpose": "Opening: groupset/speed, wheels, seller height, best cash price",
+        "text": "Salut! Toujours disponible? C'est quel groupe (105, Ultegra?) et c'est du 10 ou 11 vitesses? Les roues sont de quelle marque? T'es de quelle taille toi? Et c'est quoi ton meilleur prix cash? Je suis à Laval."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",

@@ -149,29 +149,40 @@ Any of these gets a listing marked passed:
 - The seller refuses a test ride
 
 ## Searching (Claude in Chrome, Ryan's logged-in Facebook)
-URL template (Montréal slug, 300 km radius, relevance order):
-`https://www.facebook.com/marketplace/montreal/search?query=<Q>&maxPrice=2000&exact=false&radius=300`
+**How Facebook search behaves** (tested 2026-09-27):
+- Each search returns **at most about 15 listings, nearest first**, however large the radius. A Montréal search for "cervelo" with radius=300 returned only listings within about 40 km. Ottawa and Québec City **only appear when you search from those cities**.
+- Sorting by newest or by price makes Facebook ignore the query. Use the default relevance order only.
+- Only three city pages work by name: `montreal`, `ottawa`, `quebec`. Other names (sherbrooke, kingston, gatineau…) redirect to a generic search.
 
-Don't add `sortBy=creation_time_descend`: newest-first makes Facebook ignore the query and return any recent bike. Tested 2026-09-27.
+So run **every query from all three centres**:
+- `https://www.facebook.com/marketplace/montreal/search?query=<Q>&maxPrice=2000&exact=false&radius=250`: Montréal, Laval, Laurentides, Lanaudière, Montérégie, Granby, St-Jean
+- `https://www.facebook.com/marketplace/ottawa/search?query=<Q>&maxPrice=2000&exact=false&radius=250`: Ottawa, Gatineau, Chelsea, Carleton Place, Cornwall, Kingston edge
+- `https://www.facebook.com/marketplace/quebec/search?query=<Q>&maxPrice=2000&exact=false&radius=250`: Québec City, Lévis, Beauce, Trois-Rivières edge
 
-Queries:
-- **English:** triathlon bike, tri bike, TT bike, time trial bike
-- **French:** vélo triathlon, vélo contre la montre, vélo clm
-- **Models:** cervelo p2, cervelo p3, cervelo p1, cannondale slice, felt b12, felt b2, speed concept, argon 18, quintana roo, specialized transition, specialized shiv
-- **Parts:** aerobars bike, zipp, bike with deep wheels
-- **Vague titles:** vélo de course carbone, carbon road bike, vélo carbone
+Sherbrooke, Trois-Rivières, Drummondville and Kingston fall between the centres, so they only show up for specific searches (the model queries), where there are fewer than 15 nearer matches. That's acceptable. If a listing from there appears, it counts.
 
-After each search, run this in the page to scroll and extract the cards:
+Queries (run each on all three centres):
+- **Tri, English:** triathlon bike, tri bike, TT bike, time trial bike
+- **Tri, French:** vélo triathlon, vélo contre la montre, vélo clm
+- **Models:** cervelo p2, cervelo p3, cervelo p1, cervelo p5, cervelo, cannondale slice, felt b12, felt b2, felt IA, speed concept, trek equinox, argon 18 e-112, argon e-117, quintana roo, specialized transition, specialized shiv, giant trinity, kestrel, scott plasma, bmc timemachine
+- **Wheels and parts:** zipp 404, zipp 808, aerobars bike
+- **Vague titles:** vélo de course carbone, vélo carbone, carbon road bike
+
+That's about 30 queries × 3 centres. To save time, run the three centres of one query in the same `browser_batch`.
+
+After each search, run this in the page. It scrolls until no more cards load, then extracts them:
 ```js
-for (let i=0;i<4;i++){ window.scrollTo(0, document.body.scrollHeight); await new Promise(r=>setTimeout(r,1500)); }
+let prev=-1; for (let i=0;i<8;i++){ window.scrollTo(0, document.body.scrollHeight); await new Promise(r=>setTimeout(r,1500)); const n=document.querySelectorAll('a[href*="/marketplace/item/"]').length; if(n===prev && i>2) break; prev=n; }
 const seen=new Set(), out=[];
 document.querySelectorAll('a[href*="/marketplace/item/"]').forEach(a=>{const id=(a.href.match(/item\/(\d+)/)||[])[1]; if(!id||seen.has(id))return; seen.add(id); out.push(id+' | '+a.innerText.split('\n').map(s=>s.trim()).filter(Boolean).join(' | '));});
 out.join('\n')
 ```
+On each card, a second price is the original asking price, so the listing has already dropped. That's a motivated seller; note it.
 
 - Skip ids already in `data/tracker.json`, except to check the price.
 - Open each plausible new listing and read the description, size, photos and "listed X ago" before judging it.
-- Relevance order brings in road bikes and junk too (spin bikes, kids' bikes, hybrids). Ignore those; only tri/TT bikes count.
+- Ignore road bikes, spin bikes, kids' bikes and hybrids. Only tri/TT bikes count, plus road bikes that come with real deep race wheels, where the wheels alone make the steal.
+- **Check the whole list before messaging.** A good bike found early may not be the best one today.
 
 ## Seller conversations
 - The inbox is at `https://www.facebook.com/marketplace/inbox/`, or use Messenger.

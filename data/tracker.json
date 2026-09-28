@@ -332,7 +332,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T03:01:47.588Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -345,7 +345,7 @@
       "driveHours": 0.3,
       "asking": 1900,
       "firstAsking": 2300,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "M (54?)",
       "fairValue": 1750,
       "allInCost": 1310,
@@ -357,13 +357,16 @@
         "Groupset not stated: ask. Bar tape on the aerobars looks white and worn in the photo: counted $30.",
         "Value evidence: P2 carbon asks this run $1,300 (P2C 48, Ottawa), $1,400 (P2-SL, Guelph; P2C, Brampton; P2 carbon 48, Burlington), $1,000 (P2 2010, Lévis) → about $1,150-1,200 at 85%. HED Jet 6/9 Performance pair ~$600 used (estimate, not checked on Pinkbike this run). Tacx Flow ~$150. BBB not checked.",
         "Ryan already has a ThinkRider: the draft asks for a price without the trainer and fan.",
-        "Seller text: \"Serious buyers only, cash only, local pickup.\" No scam signals."
+        "Seller text: \"Serious buyers only, cash only, local pickup.\" No scam signals.",
+        "2026-09-27 23:00: Ryan sent the opening himself. The sent bubble contains the text twice back to back (probably a double paste)."
       ],
-      "draft": {
-        "n": 1,
-        "purpose": "Opening: size, crashes, groupset, wheel hubs, seller height, best cash price without the trainer",
-        "text": "Hi! Is this still available? Is the Medium a 54 frame, and how tall are you? Any crashes, and what groupset is it (10 or 11 speed)? Are the HED wheels on HED hubs? I already have a trainer, so what's the best you could do cash for the bike and both wheelsets without the Tacx and fan? I'm in Laval and can come by this week."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-27T23:00:00-04:00",
+          "from": "us",
+          "text": "Hi! Is this still available? Is the Medium a 54 frame, and how tall are you? Any crashes, and what groupset is it (10 or 11 speed)? Are the HED wheels on HED hubs? I already have a trainer, so what's the best you could do cash for the bike and both wheelsets without the Tacx and fan? I'm in Laval and can come by this week."
+        }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",

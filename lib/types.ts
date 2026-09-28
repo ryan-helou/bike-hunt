@@ -32,6 +32,8 @@ export interface Listing {
   firstAsking?: number;
   /** The agent's estimate of fair used value, CAD. */
   fairValue?: number;
+  /** Closing price + gas + tune-up + parts to replace: what the bike really costs. */
+  allInCost?: number;
   /** Price the agent is aiming to close at. */
   target?: number;
   /** Price the seller has agreed to, when locked. */

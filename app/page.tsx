@@ -47,7 +47,7 @@ function Card({ l, status }: { l: Listing; status: Status }) {
 
       <p className="mt-2 text-sm text-[var(--ink-2)]">{l.verdict}</p>
 
-      {(l.fairValue || l.target) && status !== "passed" && status !== "gone" && (
+      {(l.fairValue || l.target || l.allInCost) && status !== "passed" && status !== "gone" && (
         <dl className="mt-3 flex gap-5 text-xs num">
           {l.fairValue && (
             <div>
@@ -59,6 +59,20 @@ function Card({ l, status }: { l: Listing; status: Status }) {
             <div>
               <dt className="text-[var(--ink-3)]">Aiming for</dt>
               <dd className="font-medium">{money(l.target)}</dd>
+            </div>
+          )}
+          {l.allInCost && (
+            <div>
+              <dt className="text-[var(--ink-3)]">All-in</dt>
+              <dd className="font-medium">{money(l.allInCost)}</dd>
+            </div>
+          )}
+          {l.fairValue && l.allInCost && (
+            <div>
+              <dt className="text-[var(--ink-3)]">Margin</dt>
+              <dd className={`font-medium ${l.fairValue - l.allInCost >= 400 ? "text-[var(--good)]" : ""}`}>
+                {money(l.fairValue - l.allInCost)}
+              </dd>
             </div>
           )}
         </dl>
@@ -117,7 +131,7 @@ export default async function Home() {
       <header className="mb-5">
         <h1 className="text-2xl font-semibold">Bike Hunt</h1>
         <p className="mt-1 text-sm text-[var(--ink-3)]">
-          Tri/TT, 52–56 cm, within 3 h of Laval. Budget $900–1,200.
+          Tri/TT, 51–56 cm, within 3 h of Laval. Close ~$1,000 on a bike worth $400+ more.
         </p>
         {last && (
           <p className="mt-2 text-sm text-[var(--ink-2)]">

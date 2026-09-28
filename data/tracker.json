@@ -1,0 +1,121 @@
+{
+  "listings": [
+    {
+      "id": "2361376317940181",
+      "url": "https://www.facebook.com/marketplace/item/2361376317940181/",
+      "title": "Cannondale Slice 54 (M), carbon, Mavic Cosmic + Fulcrum spare wheels",
+      "location": "St-Jérôme, QC",
+      "driveHours": 0.75,
+      "asking": 1150,
+      "status": "negotiating",
+      "verdict": "Seller came down from $1,250 to $1,150. Likely 10-speed Force, not the 11 in the ad; counter at $1,000 suggested.",
+      "firstSeenISO": "2026-09-24T12:00:00-04:00",
+      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "firstAsking": 1250,
+      "fairValue": 1100,
+      "target": 1050,
+      "size": "54",
+      "notes": [
+        "Standard calipers, alloy brake track, 130 mm QR: fits the ThinkRider",
+        "Chips on the chainstay and head tube: coin-tap at viewing",
+        "Walk away above $1,150"
+      ]
+    },
+    {
+      "id": "2277577366378863",
+      "url": "https://www.facebook.com/marketplace/item/2277577366378863/",
+      "title": "Cervélo P1 54, alloy, carbon fork",
+      "location": "Ottawa, ON",
+      "driveHours": 2.0,
+      "asking": 800,
+      "status": "watching",
+      "verdict": "Best value found so far: fits, strong resale, comes with near-new GP5000s and a split-nose saddle. Groupset and year unknown.",
+      "firstSeenISO": "2026-09-24T12:00:00-04:00",
+      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "fairValue": 850,
+      "target": 700,
+      "size": "54"
+    },
+    {
+      "id": "1365269332366786",
+      "url": "https://www.facebook.com/marketplace/item/1365269332366786/",
+      "title": "Cervélo P2 SL 2008, T2 bars, R500 wheels",
+      "location": "Québec, QC",
+      "driveHours": 2.75,
+      "asking": 1200,
+      "status": "watching",
+      "verdict": "Under 1,000 km, listed 27 weeks and already dropped from $1,400. Size not stated.",
+      "firstSeenISO": "2026-09-24T12:00:00-04:00",
+      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "firstAsking": 1400,
+      "fairValue": 1000,
+      "target": 950
+    },
+    {
+      "id": "1366520905547089",
+      "url": "https://www.facebook.com/marketplace/item/1366520905547089/",
+      "title": "Planet X Stealth Pro Carbon, Medium",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 1500,
+      "status": "watching",
+      "verdict": "Carbon frame, deep wheels (material unknown), worn cockpit. Weak resale brand; only fair near $1,000.",
+      "firstSeenISO": "2026-09-24T12:00:00-04:00",
+      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "fairValue": 1050,
+      "target": 1000,
+      "size": "M"
+    },
+    {
+      "id": "1094876409717853",
+      "url": "https://www.facebook.com/marketplace/item/1094876409717853/",
+      "title": "Specialized Transition 53.4 (M), SRAM",
+      "location": "Montague, ON",
+      "driveHours": 2.5,
+      "asking": 1000,
+      "status": "watching",
+      "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
+      "firstSeenISO": "2026-09-24T12:00:00-04:00",
+      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "fairValue": 950,
+      "target": 850,
+      "size": "53.4"
+    },
+    {
+      "id": "1071871482371740",
+      "url": "https://www.facebook.com/marketplace/item/1071871482371740/",
+      "title": "Cervélo P2 \"52\"",
+      "location": "Ottawa, ON",
+      "driveHours": 2.0,
+      "asking": 1050,
+      "status": "watching",
+      "verdict": "Seller is 5'4\" and raced Mont-Tremblant 70.3. 52 is borderline for 5'9\"; needs the real frame size.",
+      "firstSeenISO": "2026-09-24T12:00:00-04:00",
+      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "fairValue": 950,
+      "target": 850,
+      "size": "52?"
+    },
+    {
+      "id": "1081124437811279",
+      "url": "https://www.facebook.com/marketplace/item/1081124437811279/",
+      "title": "Trek Speed Concept L/54",
+      "location": "Mississauga, ON",
+      "driveHours": 6.0,
+      "asking": 1000,
+      "status": "passed",
+      "verdict": "About 6 h away, past the 3 h limit, and 1st-gen proprietary brakes and stem.",
+      "firstSeenISO": "2026-09-24T12:00:00-04:00",
+      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "size": "54"
+    }
+  ],
+  "runs": [
+    {
+      "atISO": "2026-09-27T12:00:00-04:00",
+      "summary": "Seeded from the 24 Sep sweeps: 6 tracked, Slice in negotiation.",
+      "searched": 0,
+      "newListings": 0
+    }
+  ]
+}

@@ -405,7 +405,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T19:16:08.451Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -417,17 +417,20 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "gone",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1250,
-      "allInCost": 1150,
+      "allInCost": 990,
       "target": 750,
-      "verdict": "Seller replied \"Sorry, it's not available.\" The listing is still up at $1,000, but treat it as sold.",
+      "verdict": "Available after all. Worth ~$1,250; all-in ~$990 at a $700 close (+ gas $70, tune-up $120, tyres $100 if needed). Not a steal by the rule even at $700 (1.26x); it only passes near $600. Offer $700 and see.",
       "notes": [
         "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
         "Photos did not load this run. Listed 10 weeks.",
         "Main photo shows a silver/blue Cervélo with the big down-tube logo, which looks like the 2006-07 alloy P2K/P2 more than a carbon P2. The ad says carbon: confirm. If alloy, value drops to ~$800 and it is no longer a steal candidate.",
-        "2026-09-28: seller reply read in the inbox (sent Sun). Listing page still shows $1,000, 10 weeks."
+        "2026-09-28: seller reply read in the inbox (sent Sun). Listing page still shows $1,000, 10 weeks.",
+        "2026-09-28 12:22: Michel corrected his \"not available\": it is available, he is 5'11\". He then edited the ad: 2010, carbon, no crash, 20\" c-t (~51), 39\" ground to saddle top (~99 cm), 2x10, \"roue en acier\", Shimano wheels. No price given yet.",
+        "\"Roue en acier\" literally means steel wheels. Probably he means aluminium, but steel rims would brake badly in the wet: the draft asks.",
+        "Seller 5'11\" on a 51 suggests a low front end and a long post; Ryan needs ~72 cm BB-to-saddle, which fits within the 99 cm ground-to-saddle he gives."
       ],
       "thread": [
         {
@@ -439,8 +442,23 @@
           "atISO": "2026-09-27T23:30:00-04:00",
           "from": "seller",
           "text": "Sorry, it's not available."
+        },
+        {
+          "atISO": "2026-09-28T12:22:00-04:00",
+          "from": "seller",
+          "text": "(replying to his own \"Sorry, it's not available.\") Oui c'est disponible"
+        },
+        {
+          "atISO": "2026-09-28T12:22:00-04:00",
+          "from": "seller",
+          "text": "Je mesure 5 pieds 11 pouces"
         }
-      ]
+      ],
+      "draft": {
+        "n": 1,
+        "purpose": "Reply to Michel: confirm rims and tyres, open at $700",
+        "text": "Merci Michel! Les roues sont en aluminium? Et les pneus sont en bon état? Vu que c'est un 10 vitesses de 2010 et que j'ai 2h45 de route pour venir, je peux t'offrir 700$ cash, sous réserve de le voir et l'essayer. Ça te va?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",
@@ -1345,6 +1363,12 @@
         "Kijiji: only tri bike was a Cervélo P5 54 in Ottawa (kijiji 1742405042) at $2,995 with Magura brakes and carbon rims: passed. Not stored as a listing because the app sync rejects non-Facebook ids and urls.",
         "Photos not refreshed: the browser tool blocks returning scontent URLs (signed query strings)."
       ]
+    },
+    {
+      "atISO": "2026-09-28T19:16:08.451Z",
+      "summary": "Ad-hoc inbox check: the Lévis P2 seller says it is available after all; reply drafted at $700.",
+      "searched": 0,
+      "newListings": 0
     }
   ]
 }

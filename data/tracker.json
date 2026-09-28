@@ -49,7 +49,7 @@
       "status": "watching",
       "verdict": "Best value found so far: fits, strong resale, comes with near-new GP5000s and a split-nose saddle. Groupset and year unknown.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "fairValue": 850,
       "target": 700,
       "size": "54",
@@ -73,7 +73,7 @@
       "status": "watching",
       "verdict": "Under 1,000 km, listed 27 weeks and already dropped from $1,400. Size not stated.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "firstAsking": 1400,
       "fairValue": 1000,
       "target": 950,
@@ -97,7 +97,7 @@
       "status": "watching",
       "verdict": "Carbon frame, deep wheels (material unknown), worn cockpit. Weak resale brand; only fair near $1,000.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "fairValue": 1050,
       "target": 1000,
       "size": "M",
@@ -122,7 +122,7 @@
       "status": "watching",
       "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "fairValue": 950,
       "target": 850,
       "size": "53.4",
@@ -146,7 +146,7 @@
       "status": "watching",
       "verdict": "Seller is 5'4\" and raced Mont-Tremblant 70.3. 52 is borderline for 5'9\"; needs the real frame size.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "fairValue": 950,
       "target": 850,
       "size": "52?",
@@ -332,7 +332,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T19:22:45.817Z",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -370,14 +370,14 @@
         {
           "atISO": "2026-09-28T15:22:00-04:00",
           "from": "us",
-          "text": "Hi Kareem, just following up on the P2. Is it still available? If so, what's the best cash price for the bike and both wheelsets, without the Tacx and fan?"
+          "text": "Hi, just following up on the P2. Is it still available? If so, what's the best cash price for the bike and both wheelsets, without the Tacx and fan?"
         }
       ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T19:22:45.817Z",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -410,14 +410,14 @@
         {
           "atISO": "2026-09-28T15:22:00-04:00",
           "from": "us",
-          "text": "Hi Karole-Anne, just following up on the Transition. Is it still available, and what's the best you could do for cash?"
+          "text": "Hi, just following up on the Transition. Is it still available, and what's the best you could do for cash?"
         }
       ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T19:20:57.237Z",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -440,7 +440,7 @@
         "Photos did not load this run. Listed 10 weeks.",
         "Main photo shows a silver/blue Cervélo with the big down-tube logo, which looks like the 2006-07 alloy P2K/P2 more than a carbon P2. The ad says carbon: confirm. If alloy, value drops to ~$800 and it is no longer a steal candidate.",
         "2026-09-28: seller reply read in the inbox (sent Sun). Listing page still shows $1,000, 10 weeks.",
-        "2026-09-28 12:22: Michel corrected his \"not available\": it is available, he is 5'11\". He then edited the ad: 2010, carbon, no crash, 20\" c-t (~51), 39\" ground to saddle top (~99 cm), 2x10, \"roue en acier\", Shimano wheels. No price given yet.",
+        "2026-09-28 12:22: The seller corrected his \"not available\": it is available, he is 5'11\". He then edited the ad: 2010, carbon, no crash, 20\" c-t (~51), 39\" ground to saddle top (~99 cm), 2x10, \"roue en acier\", Shimano wheels. No price given yet.",
         "\"Roue en acier\" literally means steel wheels. Probably he means aluminium, but steel rims would brake badly in the wet: the draft asks.",
         "Seller 5'11\" on a 51 suggests a low front end and a long post; Ryan needs ~72 cm BB-to-saddle, which fits within the 99 cm ground-to-saddle he gives.",
         "2026-09-28 15:19: sent draft 1 on Ryan's \"yes send\" (offer $700, asked rims/tyres). Confirmed Sent in the chat."
@@ -469,14 +469,14 @@
         {
           "atISO": "2026-09-28T15:19:00-04:00",
           "from": "us",
-          "text": "Merci Michel! Les roues sont en aluminium? Et les pneus sont en bon état? Vu que c'est un 10 vitesses de 2010 et que j'ai 2h45 de route pour venir, je peux t'offrir 700$ cash, sous réserve de le voir et l'essayer. Ça te va?"
+          "text": "Merci! Les roues sont en aluminium? Et les pneus sont en bon état? Vu que c'est un 10 vitesses de 2010 et que j'ai 2h45 de route pour venir, je peux t'offrir 700$ cash, sous réserve de le voir et l'essayer. Ça te va?"
         }
       ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -502,7 +502,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -528,7 +528,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -553,7 +553,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1592605915624733/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -578,7 +578,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -603,7 +603,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -628,7 +628,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -653,7 +653,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1062004785512482/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -677,7 +677,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27892804753681736/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -701,7 +701,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -726,7 +726,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2141803323436059/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -751,7 +751,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1796226728200924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -776,7 +776,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1388503449842108/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1210,7 +1210,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
       "thread": [],
       "priceHistory": [
         {
@@ -1346,6 +1346,81 @@
       "size": "M",
       "verdict": "Toronto, over 3 h away, and $1,800 for a 2010 alloy Trinity.",
       "notes": []
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/3595288533961051/",
+      "firstSeenISO": "2026-09-28T22:43:55.286Z",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T22:43:55.286Z",
+          "price": 1900
+        }
+      ],
+      "notes": [
+        "Model: Argon 18 E-80 (entry alloy TT, Thermotech Alu 3005 frame, carbon fork), year not stated (E-80 sold ~2009-2012). Seller says 53 cm frame height; geometry unknown, ask stack or seller height before any offer.",
+        "Ad: \"Neuf\", tyres new, Shimano derailleur (groupset level not stated). Seller says paid $2,600. Also selling size 43 shoes.",
+        "Value evidence: alloy entry TT bikes (P1 $650-900, Transition alloy $700-1,100 in the table); no E-80 comps found this run. BBB not checked.",
+        "Listed 7 weeks at $1,900 with no drop yet. Alloy frame: ask whether the seatpost moves."
+      ],
+      "id": "3595288533961051",
+      "title": "Argon 18 E-80 alloy TT, 53 cm, carbon fork",
+      "location": "St-Germain-de-Grantham, QC",
+      "driveHours": 1.25,
+      "asking": 1900,
+      "status": "watching",
+      "size": "53",
+      "fairValue": 900,
+      "allInCost": 1180,
+      "target": 650,
+      "verdict": "Overpriced: worth ~$900 at most; all-in ~$1,180 even at a $1,000 close (+ gas $30, tune-up $120, tyres/tape unknown). Only worth a message under ~$650."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2242395686540526/",
+      "firstSeenISO": "2026-09-28T22:43:55.286Z",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T22:43:55.286Z",
+          "price": 1650
+        }
+      ],
+      "notes": [
+        "Listed about an hour before the 28 Sep evening run. Ad says new chain and tune-up ~400 km ago, Mavic wheels, 3T parts, FSA crank. Frame in the photo is a round-tube Cervélo road bike (S/R series look), so the P3 label is wrong."
+      ],
+      "id": "2242395686540526",
+      "title": "\"Cervélo P3 2013\" 54, 105/Ultegra (actually a road bike)",
+      "location": "Blainville, QC",
+      "driveHours": 0.2,
+      "asking": 1650,
+      "status": "passed",
+      "size": "54",
+      "verdict": "Not a TT bike: the photo shows a Cervélo road frame with drop bars and no aerobars, despite the P3 title. Not a steal at $1,650 either."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1681077009822302/",
+      "firstSeenISO": "2026-09-28T22:43:55.286Z",
+      "updatedISO": "2026-09-28T22:43:55.286Z",
+      "thread": [],
+      "priceHistory": [
+        {
+          "atISO": "2026-09-28T22:43:55.286Z",
+          "price": 1000
+        }
+      ],
+      "notes": [
+        "Ad: Ultegra brakes, 105, recent tune-up, tyres used one race and one summer. Seller could not find a replacement topper from Scott or Ritchey. Listed 12 weeks."
+      ],
+      "id": "1681077009822302",
+      "title": "2013 Scott Plasma 2, sold for parts (broken seat-mast topper)",
+      "location": "Gatineau, QC",
+      "driveHours": 2,
+      "asking": 1000,
+      "status": "passed",
+      "size": "unknown",
+      "verdict": "Unrideable: the proprietary seat-mast topper is damaged and discontinued. Parts you can not replace are a hard no."
     }
   ],
   "runs": [
@@ -1382,6 +1457,19 @@
       "summary": "Ad-hoc inbox check: the Lévis P2 seller says it is available after all; reply drafted at $700.",
       "searched": 0,
       "newListings": 0
+    },
+    {
+      "atISO": "2026-09-28T22:43:55.286Z",
+      "summary": "No steals tonight: no seller has replied to the three open offers, tracked prices are unchanged, and the only new TT bike is an overpriced Argon 18 E-80 near Drummondville.",
+      "searched": 99,
+      "newListings": 3,
+      "notes": [
+        "Kijiji: 24 searches (Québec + Ottawa), no new tri bikes; the Ottawa P5 at $2,995 is still up.",
+        "Marketplace location still Montréal, 500 km.",
+        "A \"Cervélo P3 2013\" in Blainville is really a road bike: passed.",
+        "Seller first names removed from sent-message text in threads (privacy rule).",
+        "Photos not refreshed: scontent URLs are blocked by the browser tool."
+      ]
     }
   ]
 }

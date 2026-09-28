@@ -1,18 +1,19 @@
 import webpush, { type WebPushError } from "web-push";
-import { allSubs, removeSub } from "./db";
+import { allSubs, removeSub, type Sub } from "./db";
 
 export function pushConfigured(): boolean {
   return !!(process.env.VAPID_PUBLIC_KEY && process.env.VAPID_PRIVATE_KEY);
 }
 
-export async function sendPush(p: { title: string; body?: string; tag?: string }) {
+export async function sendPush(p: { title: string; body?: string; tag?: string }, only?: Sub) {
   if (!pushConfigured()) return { sent: 0, failed: 0, pruned: 0, skipped: "not-configured" as const };
   webpush.setVapidDetails(
     process.env.VAPID_SUBJECT || "mailto:bike-hunt@localhost",
     process.env.VAPID_PUBLIC_KEY!,
     process.env.VAPID_PRIVATE_KEY!,
   );
-  const subs = await allSubs();
+  // `only` targets one device (the subscribe test), so a stranger on the open page can't buzz Ryan's phone.
+  const subs = only ? [only] : await allSubs();
   if (subs.length === 0) return { sent: 0, failed: 0, pruned: 0, skipped: "no-devices" as const };
   let sent = 0, failed = 0, pruned = 0;
   const body = JSON.stringify({ title: p.title, body: p.body, tag: p.tag ?? "bike-hunt", url: "/" });

@@ -12,8 +12,9 @@ export async function POST(req: Request) {
   if (!b.endpoint?.startsWith("https://") || !b.keys?.p256dh || !b.keys?.auth) {
     return Response.json({ error: "Incomplete subscription" }, { status: 400 });
   }
-  await saveSub({ endpoint: b.endpoint, keys: { p256dh: b.keys.p256dh, auth: b.keys.auth } });
-  const test = await sendPush({ title: "Bike Hunt is on", body: "Deals will show up here.", tag: "bike-hunt-test" });
+  const sub = { endpoint: b.endpoint, keys: { p256dh: b.keys.p256dh, auth: b.keys.auth } };
+  await saveSub(sub);
+  const test = await sendPush({ title: "Bike Hunt is on", body: "Deals will show up here.", tag: "bike-hunt-test" }, sub);
   return Response.json({ ok: true, test });
 }
 

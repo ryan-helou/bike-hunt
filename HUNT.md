@@ -185,8 +185,33 @@ On each card, a second price is the original asking price, so the listing has al
 - Ignore road bikes, spin bikes, kids' bikes and hybrids. Only tri/TT bikes count, plus road bikes that come with real deep race wheels, where the wheels alone make the steal.
 - **Check the whole list before messaging.** A good bike found early may not be the best one today.
 
+## Searching Kijiji (added 2026-09-27)
+Ryan asked for Kijiji to be part of every run. Older Québec sellers who don't know what they own still post there, and some never use Marketplace. That's the steal source. On the first test (27 Sep), inventory was thin: a province-wide "triathlon" search in Bikes returned 11 results and none were tri bikes. Run it anyway; it's cheap.
+
+**How Kijiji search behaves** (tested 2026-09-27):
+- No login needed. Use the same Chrome tab.
+- URL: `https://www.kijiji.ca/b-velo/<slug>/<query-with-dashes>/k0c644<loc>`. `c644` is the Bikes category, which cuts out shoes, books and parts.
+  - All of Québec: slug `quebec`, loc `l9001`
+  - Ottawa: slug `ottawa`, loc `l1700185`
+  - Grand Montréal only (if Québec is too noisy): slug `grand-montreal`, loc `l80002`
+  - Example: `https://www.kijiji.ca/b-velo/quebec/velo-triathlon/k0c644l9001`
+- `[data-testid="listing-card"]` is missing on some pages, so extract from the `/v-` links instead:
+```js
+await new Promise(r=>setTimeout(r,3000)); for(let i=0;i<4;i++){window.scrollTo(0,document.body.scrollHeight);await new Promise(r=>setTimeout(r,1200));}
+const a=[...new Map([...document.querySelectorAll('a[href*="/v-"]')].map(x=>[x.pathname.split('/').pop(),x])).values()];
+a.map(x=>{const c=x.closest('li,article,section')||x; return x.pathname.split('/').pop()+' | '+c.innerText.replace(/\n+/g,' / ').slice(0,120)}).join('\n')
+```
+- Open a listing at `https://www.kijiji.ca` + the link's pathname to read the full ad, the date and the location.
+
+Queries (run each on Québec and Ottawa): velo-triathlon, triathlon, tri-bike, time-trial, contre-la-montre, cervelo, felt, cannondale-slice, specialized-transition, argon-18, velo-de-course-carbone, zipp.
+
+In `data/tracker.json`, store a Kijiji listing with `id: "kijiji-<number>"`, `source: "kijiji"` and the full Kijiji `url`. Everything else (fit, hard rules, value, all-in cost, steal test, scam signals) is the same as for Marketplace.
+
+Messaging on Kijiji uses its "Send message" box on the listing page, and may need Ryan's Kijiji login. If it asks for a login, don't create an account or sign in. Tell Ryan in the final message and leave the draft in the tracker. The approval rules in "Sending messages" apply the same way.
+
 ## Seller conversations
 - The inbox is at `https://www.facebook.com/marketplace/inbox/`, or use Messenger.
+- Kijiji threads live at `https://www.kijiji.ca/m-msg-my-messages/` (needs Ryan's Kijiji login). If it shows a login page, skip it and don't sign in.
 - At the start of every run, read every thread for tracked listings.
 - Copy the seller's new messages into that listing's `thread`, then decide the next move.
 

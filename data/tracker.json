@@ -7,10 +7,10 @@
       "location": "St-Jérôme, QC",
       "driveHours": 0.75,
       "asking": 1150,
-      "status": "negotiating",
-      "verdict": "Seller came down from $1,250 to $1,150. Likely 10-speed Force, not the 11 in the ad; counter at $1,000 suggested.",
+      "status": "gone",
+      "verdict": "Sold by the seller on Thu 24 Sep, after quoting $1,150 in our thread.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
       "firstAsking": 1250,
       "fairValue": 1100,
       "target": 1050,
@@ -18,7 +18,25 @@
       "notes": [
         "Standard calipers, alloy brake track, 130 mm QR: fits the ThinkRider",
         "Chips on the chainstay and head tube: coin-tap at viewing",
-        "Walk away above $1,150"
+        "Walk away above $1,150",
+        "Marketplace shows it SOLD (Thu 24 Sep). Benchmark for a carbon Slice 54: about $1,150."
+      ],
+      "thread": [
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "from": "us",
+          "text": "C'est quoi le meilleur prix que tu peux me faire?"
+        },
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "from": "seller",
+          "text": "1150$"
+        },
+        {
+          "atISO": "2026-09-24T12:00:00-04:00",
+          "from": "us",
+          "text": "Okok"
+        }
       ]
     },
     {
@@ -31,7 +49,7 @@
       "status": "watching",
       "verdict": "Best value found so far: fits, strong resale, comes with near-new GP5000s and a split-nose saddle. Groupset and year unknown.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
       "fairValue": 850,
       "target": 700,
       "size": "54"
@@ -46,7 +64,7 @@
       "status": "watching",
       "verdict": "Under 1,000 km, listed 27 weeks and already dropped from $1,400. Size not stated.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
       "firstAsking": 1400,
       "fairValue": 1000,
       "target": 950
@@ -61,10 +79,13 @@
       "status": "watching",
       "verdict": "Carbon frame, deep wheels (material unknown), worn cockpit. Weak resale brand; only fair near $1,000.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
       "fairValue": 1050,
       "target": 1000,
-      "size": "M"
+      "size": "M",
+      "notes": [
+        "27 Sep: still $1,500, listed 6 weeks."
+      ]
     },
     {
       "id": "1094876409717853",
@@ -76,7 +97,7 @@
       "status": "watching",
       "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
       "fairValue": 950,
       "target": 850,
       "size": "53.4"
@@ -91,7 +112,7 @@
       "status": "watching",
       "verdict": "Seller is 5'4\" and raced Mont-Tremblant 70.3. 52 is borderline for 5'9\"; needs the real frame size.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T12:00:00-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
       "fairValue": 950,
       "target": 850,
       "size": "52?"
@@ -108,6 +129,162 @@
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
       "updatedISO": "2026-09-27T12:00:00-04:00",
       "size": "54"
+    },
+    {
+      "id": "1068544315624448",
+      "url": "https://www.facebook.com/marketplace/item/1068544315624448/",
+      "title": "Specialized triathlon bike, men's Small, 12-speed",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 1600,
+      "status": "passed",
+      "verdict": "Size Small, and $1,600 is over budget.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "S"
+    },
+    {
+      "id": "1058779183569051",
+      "url": "https://www.facebook.com/marketplace/item/1058779183569051/",
+      "title": "Trek Equinox E7, alloy, 105",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 1000,
+      "status": "passed",
+      "verdict": "Listed as size L (too big), and $1,000 is above fair value for an old alloy Equinox.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "L"
+    },
+    {
+      "id": "27588246307542408",
+      "url": "https://www.facebook.com/marketplace/item/27588246307542408/",
+      "title": "Louis Garneau TT 3 Aero Air-Stream 56 cm",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 750,
+      "status": "passed",
+      "verdict": "Standover is 81.5 cm, which hits the limit. The shifter is listed as an unknown entry-level 'Shimano 150'.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "56"
+    },
+    {
+      "id": "1305814394872711",
+      "url": "https://www.facebook.com/marketplace/item/1305814394872711/",
+      "title": "Cervélo (road) carbon, missing rear wheel",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 650,
+      "status": "passed",
+      "verdict": "Frame sticker reads 58 cm, looks like a road frame, and the rear wheel is missing.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "58?"
+    },
+    {
+      "id": "1626227492185597",
+      "url": "https://www.facebook.com/marketplace/item/1626227492185597/",
+      "title": "Vintage Guru Racelite with bullhorn and clip-ons",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 450,
+      "status": "passed",
+      "verdict": "A road frame with a TT cockpit and 9-speed Ultegra: no step up from the current TCR with clip-ons.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "firstAsking": 480
+    },
+    {
+      "id": "1594846215577772",
+      "url": "https://www.facebook.com/marketplace/item/1594846215577772/",
+      "title": "Giant alloy triathlon, 50 cm",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 400,
+      "status": "passed",
+      "verdict": "50 cm Small is too small, and the rear rim needs replacing.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "50"
+    },
+    {
+      "id": "3801753046633763",
+      "url": "https://www.facebook.com/marketplace/item/3801753046633763/",
+      "title": "Giant TCR 2004 with aerobars, Sora",
+      "location": "Terrebonne, QC",
+      "driveHours": 0.5,
+      "asking": 650,
+      "status": "passed",
+      "verdict": "A road bike with clip-ons, sized for 5'5\", and it's the same setup Ryan already has.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00"
+    },
+    {
+      "id": "2361243111351421",
+      "url": "https://www.facebook.com/marketplace/item/2361243111351421/",
+      "title": "Felt S32 triathlon/TT, Large",
+      "location": "Montréal, QC",
+      "driveHours": 0.25,
+      "asking": 800,
+      "status": "passed",
+      "verdict": "Size Large.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "L"
+    },
+    {
+      "id": "1271279661238662",
+      "url": "https://www.facebook.com/marketplace/item/1271279661238662/",
+      "title": "Cervélo P2, 3T, 48 cm frame",
+      "location": "St-Lambert, QC",
+      "driveHours": 0.25,
+      "asking": 1200,
+      "status": "passed",
+      "verdict": "48 cm is too small.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "48"
+    },
+    {
+      "id": "2104215036848141",
+      "url": "https://www.facebook.com/marketplace/item/2104215036848141/",
+      "title": "Louis Garneau triathlon, size S",
+      "location": "Terrebonne, QC",
+      "driveHours": 0.5,
+      "asking": 500,
+      "status": "passed",
+      "verdict": "Size Small.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "S"
+    },
+    {
+      "id": "2037377246904488",
+      "url": "https://www.facebook.com/marketplace/item/2037377246904488/",
+      "title": "Julian Edwins funny-bike pursuit TT, XL, 1x7",
+      "location": "Longueuil, QC",
+      "driveHours": 0.25,
+      "asking": 1300,
+      "status": "passed",
+      "verdict": "XL, 1x7 track-style pursuit bike.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "XL",
+      "firstAsking": 1450
+    },
+    {
+      "id": "27830772729924748",
+      "url": "https://www.facebook.com/marketplace/item/27830772729924748/",
+      "title": "Garneau Gennix T1 TT frame and fork only, 56 L",
+      "location": "Laval, QC",
+      "driveHours": 0.1,
+      "asking": 900,
+      "status": "passed",
+      "verdict": "Frame and fork only, size L.",
+      "firstSeenISO": "2026-09-27T21:46:38-04:00",
+      "updatedISO": "2026-09-27T21:46:38-04:00",
+      "size": "56 L"
     }
   ],
   "runs": [
@@ -116,6 +293,12 @@
       "summary": "Seeded from the 24 Sep sweeps: 6 tracked, Slice in negotiation.",
       "searched": 0,
       "newListings": 0
+    },
+    {
+      "atISO": "2026-09-27T21:46:38-04:00",
+      "summary": "The St-Jérôme Slice sold on Thursday, no new steals in 19 searches, and Facebook is only showing listings within 40 km of Laval.",
+      "searched": 19,
+      "newListings": 12
     }
   ]
 }

@@ -332,7 +332,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T03:01:47.588Z",
+      "updatedISO": "2026-09-28T19:20:57.237Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -345,7 +345,7 @@
       "driveHours": 0.3,
       "asking": 1900,
       "firstAsking": 2300,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "M (54?)",
       "fairValue": 1750,
       "allInCost": 1310,
@@ -366,12 +366,17 @@
           "from": "us",
           "text": "Hi! Is this still available? Is the Medium a 54 frame, and how tall are you? Any crashes, and what groupset is it (10 or 11 speed)? Are the HED wheels on HED hubs? I already have a trainer, so what's the best you could do cash for the bike and both wheelsets without the Tacx and fan? I'm in Laval and can come by this week."
         }
-      ]
+      ],
+      "draft": {
+        "n": 2,
+        "purpose": "Follow-up: no reply since Sunday",
+        "text": "Hi Kareem, just following up on the P2. Is it still available? If so, what's the best cash price for the bike and both wheelsets, without the Tacx and fan?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T03:11:33.812Z",
+      "updatedISO": "2026-09-28T19:20:57.237Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -383,7 +388,7 @@
       "location": "Laval, QC",
       "driveHours": 0.1,
       "asking": 700,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "S",
       "fairValue": 850,
       "allInCost": 850,
@@ -400,12 +405,17 @@
           "from": "us",
           "text": "Hi! Is this still available? Any crashes, and does the seatpost still move freely? How tall are you? What's the best you could do for cash? I'm in Laval too and can come by this week."
         }
-      ]
+      ],
+      "draft": {
+        "n": 3,
+        "purpose": "Follow-up: no reply since Sunday",
+        "text": "Hi Karole-Anne, just following up on the Transition. Is it still available, and what's the best you could do for cash?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T19:16:08.451Z",
+      "updatedISO": "2026-09-28T19:20:57.237Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -417,7 +427,7 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 990,
@@ -430,7 +440,8 @@
         "2026-09-28: seller reply read in the inbox (sent Sun). Listing page still shows $1,000, 10 weeks.",
         "2026-09-28 12:22: Michel corrected his \"not available\": it is available, he is 5'11\". He then edited the ad: 2010, carbon, no crash, 20\" c-t (~51), 39\" ground to saddle top (~99 cm), 2x10, \"roue en acier\", Shimano wheels. No price given yet.",
         "\"Roue en acier\" literally means steel wheels. Probably he means aluminium, but steel rims would brake badly in the wet: the draft asks.",
-        "Seller 5'11\" on a 51 suggests a low front end and a long post; Ryan needs ~72 cm BB-to-saddle, which fits within the 99 cm ground-to-saddle he gives."
+        "Seller 5'11\" on a 51 suggests a low front end and a long post; Ryan needs ~72 cm BB-to-saddle, which fits within the 99 cm ground-to-saddle he gives.",
+        "2026-09-28 15:19: sent draft 1 on Ryan's \"yes send\" (offer $700, asked rims/tyres). Confirmed Sent in the chat."
       ],
       "thread": [
         {
@@ -452,13 +463,13 @@
           "atISO": "2026-09-28T12:22:00-04:00",
           "from": "seller",
           "text": "Je mesure 5 pieds 11 pouces"
+        },
+        {
+          "atISO": "2026-09-28T15:19:00-04:00",
+          "from": "us",
+          "text": "Merci Michel! Les roues sont en aluminium? Et les pneus sont en bon état? Vu que c'est un 10 vitesses de 2010 et que j'ai 2h45 de route pour venir, je peux t'offrir 700$ cash, sous réserve de le voir et l'essayer. Ça te va?"
         }
-      ],
-      "draft": {
-        "n": 1,
-        "purpose": "Reply to Michel: confirm rims and tyres, open at $700",
-        "text": "Merci Michel! Les roues sont en aluminium? Et les pneus sont en bon état? Vu que c'est un 10 vitesses de 2010 et que j'ai 2h45 de route pour venir, je peux t'offrir 700$ cash, sous réserve de le voir et l'essayer. Ça te va?"
-      }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",

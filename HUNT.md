@@ -1,6 +1,6 @@
 # Bike Hunt: the daily playbook
 
-The 6am scheduled run follows this file. Read all of it before searching.
+The scheduled runs (6am and 6pm) follow this file. Read all of it before searching.
 
 ## The buyer
 - Ryan Helou, Laval QC (H7T 2W7). He's racing IRONMAN 70.3 Muskoka on 18 July 2027 and is replacing a $400 Giant TCR with clip-ons.
@@ -75,13 +75,61 @@ These are estimates. Adjust them for condition, groupset and wheels.
 | Quintana Roo (Seduza/Kilo/CD0.1) | 700–1,200 |
 | Planet X / Kuota / Guru / Blue | 700–1,200 (weak resale) |
 
+## Valuing a bike: use real numbers, not guesses
+The table above is only a starting point. For every candidate that might be a steal, set `fairValue` from evidence:
+1. **Bicycle Blue Book** (bicyclebluebook.com/value-guide): look up the brand, model and year. Take the "Good" condition used value, convert USD to CAD (about 1.37), then take off about 10% for the Québec/Ontario private market.
+2. **Comparables:** find 2–4 similar listings on Marketplace (same model ±2 years, similar groupset) and on Pinkbike's buy/sell (pinkbike.com/buysell, road/tri). Asking prices run high, so count them at about 85%.
+3. **Wheels on their own:** if the bike has real deep carbon wheels (Zipp, HED, Enve, Reynolds, Mavic Cosmic Carbone), value them separately with Pinkbike or eBay sold listings, then add them to the frameset value.
+4. Put `fairValue` as the lower end of what the evidence supports. In notes, write the sources in one line, for example: "BBB US$1,050 → ~C$1,300; comps $1,400/$1,550 (P2 2012 105)".
+
+## All-in cost: count the real price, not the sticker
+The steal rule compares resale value with the **all-in cost**, not the asking price. All-in cost is the likely closing price plus:
+- **Gas for the pickup:** about $25 per hour of one-way driving. Ottawa ≈ $50 and Québec City ≈ $70 round trip.
+- **Tune-up:** add $120 unless the seller says it was just serviced and the photos agree.
+- **Parts that need replacing, based on the photos and the ad:**
+  - tyres: $100 for a pair of GP5000s if they're cracked, square or Gatorskins
+  - chain: $40
+  - cassette: $60–90 if the chain is visibly worn or the bike has high km
+  - bar tape and base-bar tape: $30
+  - brake pads: $30
+  - cables and housing: $40
+- **Anything missing:** a saddle ($60 used), bottle cages, and aerobar pads ($40).
+- Pedals are not a cost, because Ryan moves his own.
+
+Put the total in `allInCost` and list what went into it in notes. **The steal test uses `allInCost`**: resale value must be at least $400 or 1.4× above the all-in cost.
+
+## Red flags in photos: check every candidate
+Zoom into the photos and ask for more if the view is missing. Record anything you find in notes:
+- **Carbon:**
+  - cracks or chips near the dropouts, the seat-tube clamp, the steerer and top-cap area, the BB, and under the down tube (chainsuck damage behind the chainrings)
+  - paint cracking in a straight line
+  - clear coat that's bubbled or lifted
+- **Alloy frames** (P1/P2 alloy, Transition, Felt B alloy):
+  - **stuck seatpost:** corrosion where the post enters the frame, or white powder at the clamp. This is common on old alloy frames with an alloy or carbon post, and it's very expensive to fix. Ask the seller whether the seatpost moves.
+  - cracks at the welds, especially around the BB and the head tube
+- **Rims:** a concave brake track (a worn-out rim; check the wear indicator), or rust spots on the spokes.
+- **Drivetrain:**
+  - hooked or shark-fin chainring teeth
+  - a rusted chain
+  - bar-end shifters with a broken ratchet ("shifts only in friction")
+- **Parts you can't replace:**
+  - proprietary brakes (Shiv 2011+, Speed Concept 1st gen, P4/P5 early)
+  - integrated stems or fronts
+  - 9-speed Dura-Ace bar-ends: they work, but cost more to replace
+  - old Di2 without a charger
+- **Signs of a crash:**
+  - a bent rear derailleur hanger (the derailleur isn't parallel to the cassette)
+  - scuffed bar-end shifters or aerobar ends
+  - a replaced fork of a different make
+- A bike with no clear photos of the drivetrain side is a question to ask, not a pass.
+
 ## What counts as a steal (Ryan, 2026-09-27: "all I care about")
 The goal is **value arbitrage**: pay about $1,000 for a bike that clearly resells for much more. A fairly priced bike is not a steal, however good it is.
 
 Only these should make it to messaging:
 1. It fits and passes every hard rule, **and**
 2. You believe it can close at **$1,200 or less** (ideally about $1,000), **and**
-3. Its fair used value is **at least $400 above that closing price, or at least 1.4× it**. So a $1,000 close needs a bike worth $1,400 or more.
+3. Its fair used value (see "Valuing a bike") is **at least $400 above the all-in cost, or at least 1.4× it** (see "All-in cost"). So a $1,000 all-in cost needs a bike worth $1,400 or more.
 
 Where steals come from:
 - **Underpriced by people who don't know the bike:** vague titles like "vélo de course", "vélo de mon mari", "bike for sale"; moving or estate sales; spouses selling. Photos showing a Cervélo P3/P2 carbon, Speed Concept, Argon, Felt DA/B2, or Zipp/Enve/HED wheels on real hubs.
@@ -90,7 +138,7 @@ Where steals come from:
 
 **Not steals:** the Cervélo P1 in Ottawa at $800 and the Slice in St-Jérôme at $1,150. Both are fair prices, not bargains. Keep them as fallbacks, not targets.
 
-Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a steal. In the `verdict`, always state the estimated resale value against the likely closing price, for example "worth ~$1,700, can likely close ~$1,100".
+Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a steal. In the `verdict`, always state resale value against all-in cost, for example "worth ~$1,700; all-in ~$1,180 (close $1,050 + tune-up + tyres)".
 
 ## Scam signals (mark passed)
 Any of these gets a listing marked passed:

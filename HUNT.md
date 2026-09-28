@@ -18,6 +18,37 @@ Ryan is fine going a bit bigger or smaller (2026-09-27), so the range is wide on
 - **No:** 50 and under, XS, 650c wheels, 57+ / L and up, or a standover height at or above 81.5 cm.
 - If the ad gives no size, ask for it. Never assume.
 
+### Size by brand and model: the label on the frame isn't enough
+Brands measure differently. A "54" Cervélo, a "54" Felt and a "Medium" Speed Concept are not the same bike. For every candidate:
+1. Identify the exact model and year. Use the photos (decals, cable routing, brakes, fork) if the ad doesn't say.
+2. Look up that model and year's **stack and reach** for the stated size in the manufacturer's geometry chart. Good sources are geometrygeeks.bike, bikeinsights.com, 99spokes.com, or an archived manufacturer PDF.
+3. Judge on stack and reach, not the label.
+
+**Ryan's window:**
+- **Stack:** 480–530 mm (best 495–520).
+- **Reach:** 395–445 mm (best 410–435).
+
+A lower stack or a shorter reach is fixable with spacers, a stem and the aerobar pads. A stack that's too high isn't fixable. If you can't find the geometry, ask the seller to measure (centre of the BB to the top of the head tube), or ask for their height. A seller between 5'7" and 5'11" is a good sign.
+
+**Starting points only:** confirm with the chart every time.
+
+| Brand / model | Size scheme | Likely fit for 5'9" |
+|---|---|---|
+| Cervélo P1/P2/P3/P2K/P3C (2004–2015) | 48 / 51 / 54 / 56 / 58 / 61 | 54 ideal, 51 fine (lower and shorter), 56 borderline (check stack) |
+| Cervélo P-series (2016+) / P5 | 48 / 51 / 54 / 56 / 58 | 54; 51 fine |
+| Cannondale Slice (2009–2015) | 48 / 51 / 54 / 56 / 58 | 54; 51 fine |
+| Felt B-series / DA / IA | 48 / 51 / 54 / 56 / 58 (runs long and low) | 54; 51 fine, 56 usually OK because Felt stack is low |
+| Specialized Transition | XS / S / M / L (M ≈ 53.4) | M; S fine |
+| Specialized Shiv | XS / S / M / L | M (proprietary brakes on 2011+; check) |
+| Trek Speed Concept / Equinox | letters vary by generation: S / M / L / XL (1st gen L ≈ 54 cm) | check the chart; typically M or L depending on generation |
+| Argon 18 E-112 / E-114 / E-117 / E-118 | XS / S / M / L (XXS–XL on newer ones) | S or M; check the chart |
+| Quintana Roo (Seduza, Kilo, CD0.1, PR) | 50 / 52 / 54 / 56 or XS–L | 54 / M; 52 fine |
+| Giant Trinity | XS / S / M / L (runs large) | S or M; check stack |
+| Kestrel (Talon, 4000, 4000 Pro) | 50 / 52 / 55 / 57 | 52 or 55 |
+| Scott Plasma / BMC TM / Planet X / Kuota / Guru / LG | S / M / L or number | usually M; check the chart |
+
+Always write the model, year, size, and stack and reach (or "geometry unknown") into the listing's notes.
+
 ## Hard rules for the bike
 - Rim or disc brakes are both fine, but **standard calipers only**. Watch the Shiv (2011+) and first-gen Speed Concept, which use proprietary brakes and stems.
 - Rim brakes need an **alloy braking surface**. Carbon clincher rims with rim brakes are a no (descents).

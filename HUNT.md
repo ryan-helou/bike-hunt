@@ -5,7 +5,7 @@ The 6am scheduled run follows this file. Read all of it before searching.
 ## The buyer
 - Ryan Helou, Laval QC (H7T 2W7). He's racing IRONMAN 70.3 Muskoka on 18 July 2027 and is replacing a $400 Giant TCR with clip-ons.
 - He is in no rush: he rides the ThinkRider trainer until February. **Only a real steal should reach him.**
-- Budget: $900–1,200 CAD to close. A listing asking up to about $1,500 is worth reading, because the price can come down.
+- Budget: about $1,000 to close, $1,200 at most. What he wants is a bike worth much more than he pays. A listing asking up to about $2,000 is worth reading, because stale listings come down.
 - Resale matters: he'll sell this bike later and wants his money back.
 - He doesn't want a bike fit or a tri saddle, so never count those as costs or selling points.
 
@@ -40,15 +40,22 @@ These are estimates. Adjust them for condition, groupset and wheels.
 | Quintana Roo (Seduza/Kilo/CD0.1) | 700–1,200 |
 | Planet X / Kuota / Guru / Blue | 700–1,200 (weak resale) |
 
-## What counts as a steal
+## What counts as a steal (Ryan, 2026-09-27: "all I care about")
+The goal is **value arbitrage**: pay about $1,000 for a bike that clearly resells for much more. A fairly priced bike is not a steal, however good it is.
+
 Only these should make it to messaging:
 1. It fits and passes every hard rule, **and**
-2. You believe it can close at **80% of fair value or less, and at $1,200 or less**, **or**
-3. It's clearly better than a mid-range deal (carbon P2/P3, Speed Concept 2nd gen+, Argon, 11-speed 105/Ultegra) and can close at $1,200 or less.
+2. You believe it can close at **$1,200 or less** (ideally about $1,000), **and**
+3. Its fair used value is **at least $400 above that closing price, or at least 1.4× it**. So a $1,000 close needs a bike worth $1,400 or more.
 
-Benchmarks to beat: the Cervélo P1 in Ottawa at $800 and the Slice in St-Jérôme at about $1,000–1,150.
+Where steals come from:
+- **Underpriced by people who don't know the bike:** vague titles like "vélo de course", "vélo de mon mari", "bike for sale"; moving or estate sales; spouses selling. Photos showing a Cervélo P3/P2 carbon, Speed Concept, Argon, Felt DA/B2, or Zipp/Enve/HED wheels on real hubs.
+- **Stale listings from motivated sellers:** a bike worth $1,600–2,200 that has sat for weeks at $1,500–1,900. These can come down to about $1,100–1,200 with a polite, reasoned offer.
+- **Race wheels bundled with the bike:** real Zipp 404/808, HED Jet or Enve are worth $600–1,200 on their own, so a "bike + deep wheels" ad can be a steal even at full price.
 
-Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for asking-price drops on tracked listings: a drop can turn a `watching` listing into a steal.
+**Not steals:** the Cervélo P1 in Ottawa at $800 and the Slice in St-Jérôme at $1,150. Both are fair prices, not bargains. Keep them as fallbacks, not targets.
+
+Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a steal. In the `verdict`, always state the estimated resale value against the likely closing price, for example "worth ~$1,700, can likely close ~$1,100".
 
 ## Scam signals (mark passed)
 Any of these gets a listing marked passed:
@@ -60,7 +67,7 @@ Any of these gets a listing marked passed:
 
 ## Searching (Claude in Chrome, Ryan's logged-in Facebook)
 URL template (Montréal slug, 300 km radius, relevance order):
-`https://www.facebook.com/marketplace/montreal/search?query=<Q>&maxPrice=1600&exact=false&radius=300`
+`https://www.facebook.com/marketplace/montreal/search?query=<Q>&maxPrice=2000&exact=false&radius=300`
 
 Don't add `sortBy=creation_time_descend`: newest-first makes Facebook ignore the query and return any recent bike. Tested 2026-09-27.
 
@@ -68,7 +75,8 @@ Queries:
 - **English:** triathlon bike, tri bike, TT bike, time trial bike
 - **French:** vélo triathlon, vélo contre la montre, vélo clm
 - **Models:** cervelo p2, cervelo p3, cervelo p1, cannondale slice, felt b12, felt b2, speed concept, argon 18, quintana roo, specialized transition, specialized shiv
-- **Parts:** aerobars bike
+- **Parts:** aerobars bike, zipp, bike with deep wheels
+- **Vague titles:** vélo de course carbone, carbon road bike, vélo carbone
 
 After each search, run this in the page to scroll and extract the cards:
 ```js

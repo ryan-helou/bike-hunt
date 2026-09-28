@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Bike Hunt",
   description: "Tri bike deals on Marketplace, found and negotiated daily.",
   manifest: "/manifest.webmanifest",
+  robots: { index: false, follow: false },
   icons: { apple: "/icons/apple-touch-icon.png" },
   appleWebApp: { capable: true, title: "Bike Hunt", statusBarStyle: "default" },
   // Next omits Apple's legacy tag; without it an installed iOS PWA letterboxes.

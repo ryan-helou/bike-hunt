@@ -1,5 +1,5 @@
 // Network-first with a cached fallback, plus Web Push. Bump BUILD on every deploy.
-const BUILD = "bikehunt-v1";
+const BUILD = "bikehunt-v2";
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (e) => {

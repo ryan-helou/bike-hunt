@@ -151,6 +151,7 @@ Any of these gets a listing marked passed:
 ## Searching (Claude in Chrome, Ryan's logged-in Facebook)
 **How Facebook search behaves** (tested 2026-09-27):
 - Each search returns **at most about 15 listings, nearest first**, however large the radius. A Montréal search for "cervelo" with radius=300 returned only listings within about 40 km. Ottawa and Québec City **only appear when you search from those cities**.
+- The `radius` URL parameter is ignored. Facebook uses the Marketplace location radius saved on Ryan's account. That was 40 km, which is why the 27 Sep searches stopped there. On 27 Sep (evening) it was changed to **Montréal, 500 km** with Ryan's OK. The choices are 250 or 500, and 250 cuts close to Québec City and Kingston. A Montréal "cervelo p1" search then returned Ottawa, Québec City, Gatineau and Toronto listings. Keep the three-centre searches as a backstop. Expect Toronto/GTA, Barrie and Clarington in the results, and skip them because they're over 3 h away. If a search page shows "Within 40 km" again, the setting was reset: tell Ryan, and don't change it yourself.
 - Sorting by newest or by price makes Facebook ignore the query. Use the default relevance order only.
 - Only three city pages work by name: `montreal`, `ottawa`, `quebec`. Other names (sherbrooke, kingston, gatineau…) redirect to a generic search.
 

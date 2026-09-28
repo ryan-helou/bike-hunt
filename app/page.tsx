@@ -1,6 +1,7 @@
+import { Photo } from "@/components/Photo";
 import { PushButton } from "@/components/PushButton";
 import { loadState } from "@/lib/db";
-import { SECTIONS, groupListings, money } from "@/lib/listings";
+import { SECTIONS, groupListings, margin, money, runIsStale } from "@/lib/listings";
 import type { Listing, Status } from "@/lib/types";
 
 export const dynamic = "force-dynamic";
@@ -19,6 +20,7 @@ function Card({ l, status }: { l: Listing; status: Status }) {
   const dropped = l.firstAsking && l.firstAsking > l.asking;
   return (
     <article className="rounded-2xl border border-[var(--rule)] bg-[var(--surface)] p-4">
+      {l.photo && status !== "passed" && status !== "gone" && <Photo src={l.photo} href={l.url} />}
       <div className="flex items-start justify-between gap-3">
         <div className="min-w-0">
           <a href={l.url} className="font-semibold leading-snug underline-offset-2 hover:underline">
@@ -67,15 +69,19 @@ function Card({ l, status }: { l: Listing; status: Status }) {
               <dd className="font-medium">{money(l.allInCost)}</dd>
             </div>
           )}
-          {l.fairValue && l.allInCost && (
+          {margin(l) !== undefined && (
             <div>
               <dt className="text-[var(--ink-3)]">Margin</dt>
-              <dd className={`font-medium ${l.fairValue - l.allInCost >= 400 ? "text-[var(--good)]" : ""}`}>
-                {money(l.fairValue - l.allInCost)}
-              </dd>
+              <dd className={`font-medium ${margin(l)! >= 400 ? "text-[var(--good)]" : ""}`}>{money(margin(l))}</dd>
             </div>
           )}
         </dl>
+      )}
+
+      {l.priceHistory && l.priceHistory.length > 1 && status !== "passed" && (
+        <p className="mt-2 text-xs text-[var(--ink-3)] num">
+          Price: {l.priceHistory.map((p) => money(p.price)).join(" → ")}
+        </p>
       )}
 
       {l.notes && l.notes.length > 0 && status !== "passed" && (
@@ -133,6 +139,11 @@ export default async function Home() {
         <p className="mt-1 text-sm text-[var(--ink-3)]">
           Tri/TT, 51–56 cm, within 3 h of Laval. Close ~$1,000 on a bike worth $400+ more.
         </p>
+        {runIsStale(last?.atISO) && (
+          <p className="mt-3 rounded-xl bg-[var(--warn-bg)] px-4 py-3 text-sm text-[var(--warn)]">
+            No run since {when(last!.atISO)}. The Mac may have been asleep or the Claude app closed.
+          </p>
+        )}
         {last && (
           <p className="mt-2 text-sm text-[var(--ink-2)]">
             <span className="text-[var(--ink-3)]">Last run {when(last.atISO)}:</span> {last.summary}

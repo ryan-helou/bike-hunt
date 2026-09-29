@@ -47,11 +47,11 @@
       "driveHours": 2,
       "asking": 800,
       "status": "watching",
-      "verdict": "Best value found so far: fits, strong resale, comes with near-new GP5000s and a split-nose saddle. Groupset and year unknown.",
+      "verdict": "Not a good deal at $750: all-in ~$920 vs ~$650-800 for an alloy P1. Good only at ~$630 or less.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T22:53:19.541Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "fairValue": 850,
-      "target": 700,
+      "target": 630,
       "size": "54",
       "notes": [
         "2026-09-27: still listed at $800, no change.",
@@ -112,12 +112,12 @@
       "driveHours": 2.75,
       "asking": 1200,
       "status": "negotiating",
-      "verdict": "Under 1,000 km, listed 27 weeks and already dropped from $1,400. Size not stated.",
+      "verdict": "Good deal only at ~$700 or less: an alloy 2008 P2 SL is worth ~$900; all-in = price + ~$190. Size unknown.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T21:53:59.878Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "firstAsking": 1400,
       "fairValue": 1000,
-      "target": 950,
+      "target": 700,
       "notes": [
         "2026-09-27: still listed at $1,200, no change.",
         "2026-09-29 ~17:50: sent draft 4 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
@@ -169,11 +169,11 @@
       "driveHours": 2.5,
       "asking": 1000,
       "status": "negotiating",
-      "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
+      "verdict": "Good deal only at ~$700 or less for an alloy Transition: worth ~$800-950; all-in = price + ~$170.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T22:09:19.438Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "fairValue": 950,
-      "target": 850,
+      "target": 700,
       "size": "53.4",
       "notes": [
         "2026-09-27: still listed at $1,000, no change.",
@@ -202,11 +202,11 @@
       "driveHours": 2,
       "asking": 1050,
       "status": "negotiating",
-      "verdict": "Seller is 5'4\" and raced Mont-Tremblant 70.3. 52 is borderline for 5'9\"; needs the real frame size.",
+      "verdict": "Good deal only at ~$780 or less, and only if the 52 really fits: worth ~$950; all-in = price + ~$170.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T22:09:19.438Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "fairValue": 950,
-      "target": 850,
+      "target": 780,
       "size": "52?",
       "notes": [
         "2026-09-27: still listed at $1,050, no change.",
@@ -398,7 +398,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -415,8 +415,8 @@
       "size": "M (54?)",
       "fairValue": 1750,
       "allInCost": 1310,
-      "target": 1150,
-      "verdict": "Worth ~$1,750 for bike + HED wheels (~$1,900 with the Tacx Flow); all-in ~$1,310 if it closes at $1,150 (close $1,150 + tune-up $120 + bar tape $30 + gas $10). A steal only at $1,150 or less. Moving sale, 11 weeks up, already down from $2,300.",
+      "target": 1400,
+      "verdict": "Good deal up to ~$1,400 for bike + HED Jet wheels: worth ~$1,700; all-in = price + ~$160.",
       "notes": [
         "Model/year: 2011 Cervélo P2, full carbon, \"Medium\". 2011 P2 sizes 48/51/54/56/58; Medium likely 54 (stack ~525, reach ~408 from memory of the Cervélo chart, not confirmed this run). Ask the exact size.",
         "Package: HED Jet RC6 front / RC9 rear \"Performance\" (alloy brake track under a carbon fairing, so fine with rim brakes; confirm HED hubs), training wheelset, ISM + Fizik saddles, new Continental tyres, 4 tubes, rear bottle cage, Tacx Flow smart trainer, fan. Pedals not included.",
@@ -444,7 +444,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -460,8 +460,8 @@
       "size": "S",
       "fairValue": 850,
       "allInCost": 850,
-      "target": 500,
-      "verdict": "Fits on the small side and standard calipers, but fair not cheap: worth ~$850; all-in ~$850 at a $600 close (+ tune-up $120, tyres/tape $130). Fallback only.",
+      "target": 600,
+      "verdict": "Good deal only at ~$600 or less: worth ~$850; all-in = price + ~$250 (tune-up, tyres, tape).",
       "notes": [
         "1st-gen alloy Transition with bar-end shifters, FSA SL-K carbon crank, Mavic Cosmic Elite (alloy). Photo shows red/white alloy frame, standard rim brakes.",
         "Small ≈ 51-52: geometry not looked up this run. Alloy frame: ask whether the seatpost moves.",
@@ -484,7 +484,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T17:29:53.132Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -500,8 +500,8 @@
       "size": "51",
       "fairValue": 1250,
       "allInCost": 990,
-      "target": 750,
-      "verdict": "Seller countered at $850 (from $1,000, after our $700). Worth ~$1,250; all-in ~$1,140 at $850 (+ gas $70, tune-up $120, tyres $100 if needed): not a steal. At $750 all-in ~$1,040 (1.2x), still short of the steal rule, which only passes near $600. Target stays $750.",
+      "target": 850,
+      "verdict": "Good deal at $750 (all-in ~$940 vs ~$900-1,250) if the frame is carbon; $850 only if it's a true 2010 P2, not an older P2C.",
       "notes": [
         "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
         "Photos did not load this run. Listed 10 weeks.",
@@ -713,7 +713,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T22:38:06.918Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -729,8 +729,8 @@
       "size": "54",
       "fairValue": 1300,
       "allInCost": 1470,
-      "target": 950,
-      "verdict": "Fits, stale (18 weeks) but $2,000 is well above ~$1,300 value. Only interesting under ~$1,000.",
+      "target": 1150,
+      "verdict": "Good deal up to ~$1,150: worth ~$1,300-1,500; all-in = price + ~$170 (gas $50, tune-up $120). Our $1,200 is break-even at best.",
       "notes": [
         "Headset, cables and front brake replaced last winter. XLab wing included.",
         "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
@@ -771,7 +771,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T22:09:19.438Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -787,8 +787,8 @@
       "size": "?",
       "fairValue": 1300,
       "allInCost": 1450,
-      "target": 1150,
-      "verdict": "No details in the ad (video only). Watch for a drop.",
+      "target": 1130,
+      "verdict": "Good deal only at ~$1,130 or less: worth ~$1,300; all-in = price + ~$170. Size/year unknown.",
       "notes": [
         "Listed 3 weeks. \"Selling because I have a better one.\"",
         "2026-09-29 ~18:05: sent draft 10 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
@@ -1402,7 +1402,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-29T22:09:19.438Z",
+      "updatedISO": "2026-09-29T23:05:12.445Z",
       "thread": [
         {
           "atISO": "2026-09-29T22:09:19.438Z",
@@ -1430,8 +1430,8 @@
       "size": "unknown",
       "fairValue": 1050,
       "allInCost": 1190,
-      "target": 900,
-      "verdict": "Fair, not a steal: worth ~$1,050; all-in ~$1,190 at a $1,000 close (+ gas $70, tune-up $120). Size and year not stated. Only interesting under ~$800.",
+      "target": 860,
+      "verdict": "Good deal only at ~$860 or less: worth ~$1,050; all-in = price + ~$190. Size/year unknown.",
       "notes": [
         "Model/year: Felt B14, year not stated (probably 2012-2016 carbon). Size not stated: ask. Geometry unknown until size is known.",
         "Ad: Ultegra groupset, FSA crank, two new tyres, used for one 70.3, two 40 km rides and half a trainer season. Comes with risers, rear bottle cage, Look pedals, computer mount.",

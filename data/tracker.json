@@ -868,7 +868,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27892804753681736/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T21:54:54.742Z",
+      "updatedISO": "2026-09-29T23:19:43.077Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -881,19 +881,15 @@
       "driveHours": 1,
       "asking": 0,
       "firstAsking": 3999,
-      "status": "needs-ok",
+      "status": "passed",
       "size": "51",
       "fairValue": 950,
-      "verdict": "Price shown as $0 (was $3,999), \"give me some offer\". Carbon rims with rim brakes break a hard rule, so it would need an alloy wheelset (~$250). Odd listing: watch only.",
+      "verdict": "Not a good deal: 51 is too small (same size as the Joliette Slice Ryan cancelled), mixed parts and no-name carbon rim-brake rims; worth ~$900-950.",
       "notes": [
         "Tektro brakes suggest a 2014+ Slice. Listed 5 weeks.",
-        "2026-09-29: draft 7 NOT sent despite \"send all\": the full ad lists mixed parts (SRAM Red crank, Shimano 105 derailleurs, Promax shifters, Tektro brakes, no-name EIS carbon rims). Worth ~$900-1,000 at most, so a $1,000 opener overpays. Suggest reopening at ~$800."
+        "2026-09-29: draft 7 NOT sent despite \"send all\": the full ad lists mixed parts (SRAM Red crank, Shimano 105 derailleurs, Promax shifters, Tektro brakes, no-name EIS carbon rims). Worth ~$900-1,000 at most, so a $1,000 opener overpays. Suggest reopening at ~$800.",
+        "2026-09-29: passed on Ryan's OK; draft 7 dropped unsent."
       ],
-      "draft": {
-        "n": 7,
-        "purpose": "Opener + $1,000 offer on the Ste-Marguerite Slice (seller asked for offers)",
-        "text": "Hi! Is this still available? What year is it, and is it a 51? Any crashes? You asked for offers: I could do $1,000 cash, subject to seeing and riding it. I'm in Laval."
-      },
       "target": 850
     },
     {

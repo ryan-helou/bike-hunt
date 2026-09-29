@@ -15,7 +15,9 @@ const base: Listing = {
 };
 
 assert.ok(validListing(base));
-assert.ok(!validListing({ ...base, url: "https://evil.example/item/123" }), "only Marketplace links");
+assert.ok(!validListing({ ...base, url: "https://evil.example/item/123" }), "only known sources");
+assert.ok(validListing({ ...base, url: "https://www.facebook.com/groups/quebecvelo/posts/123/" }), "group posts allowed");
+assert.ok(validListing({ ...base, url: "https://www.kijiji.ca/v-road-bike/ottawa/cervelo-p2/123" }), "kijiji allowed");
 assert.ok(!validListing({ ...base, status: "whatever" }), "unknown status rejected");
 assert.ok(!validListing({ ...base, id: "12a" }), "ids are numeric");
 

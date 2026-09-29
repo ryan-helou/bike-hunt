@@ -311,7 +311,7 @@ Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a s
   - the best price for cash
 - **First offer:** about 70–75% of asking. Always give concrete reasons: a 10-speed groupset, worn tape and pads, tyres to replace, weeks on the market, comparable listings.
 - **Walking up:** move in small steps and never go above `target`. Stop after 3 counters; the bike becomes `watching` and you check back if the price drops.
-- **Every offer is conditional on inspection and a test ride** ("sous réserve de le voir et l'essayer"). Never promise a sale.
+- **Tone (Ryan, 2026-09-29): sound like a committed, excited buyer.** Don't write "subject to seeing it" / "sous réserve de le voir" in messages; say he's ready to take it and "if you can do $X, it's a deal". Ryan still inspects at pickup (checklist under Locking) and can walk away if the bike isn't as described.
 - **Never** offer or agree to a deposit, a shipment, or an e-transfer before viewing. Never share Ryan's address or phone number.
 - **Handing off:** once there's a price, the viewing time is Ryan's call. The seller only has to confirm the number; logistics go to Ryan.
 

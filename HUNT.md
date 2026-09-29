@@ -280,7 +280,7 @@ Marketplace and Kijiji remain the main hunt. Everything else was checked and cos
 - **Building one:** a used frameset plus used parts plus a shop build comes to about $1,650–2,700, and 11-speed 105 was discontinued in March 2026. It only ties a $1,000 complete bike if a fitting frameset turns up at $400 or less and a used 105 11-speed group at $250 or less.
 
 ## Facebook groups (searched once Ryan has joined)
-Ryan joins these himself. Before searching a group, check that it shows "Joined". If it shows "Join" or "Pending", skip it and note that in the run summary.
+Ryan joins these himself. On 2026-09-29 he requested to join the two private tri groups ("Triathlon : achat/vente/échange… Montréal et Québec" and "Vente-Achat Route & Triathlon Québec"). Before searching a group, check that it shows "Joined". If it shows "Join" or "Pending", skip it and note that in the run summary.
 
 Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a short query set: triathlon, tri, clm, cervelo, slice, felt, speed concept, zipp. Group posts aren't Marketplace items, so use the post permalink as the listing `url` and a stable id taken from the post id.
 

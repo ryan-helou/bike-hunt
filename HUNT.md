@@ -42,15 +42,23 @@ A lower stack or a shorter reach is fixable with spacers, a stem and the aerobar
 | Specialized Shiv | XS / S / M / L | M (proprietary brakes on 2011+; check) |
 | Trek Speed Concept / Equinox | letters vary by generation: S / M / L / XL (1st gen L ≈ 54 cm) | check the chart; typically M or L depending on generation |
 | Argon 18 E-112 / E-114 / E-117 / E-118 | XS / S / M / L (XXS–XL on newer ones) | S or M; check the chart |
-| Quintana Roo (Seduza, Kilo, CD0.1, PR) | 50 / 52 / 54 / 56 or XS–L | 54 / M; 52 fine |
+| Quintana Roo CD0.1 / Kilo | XS–L | M (CD0.1 M = 497 / 420) |
+| Quintana Roo PRthree/PRfive/PRsix (2016+) | **the size IS the stack in cm**: 50 / 52 / 54 / 56 | **52** (520 / 410). A QR "54" has a 540 stack: too tall |
 | Giant Trinity | XS / S / M / L (runs large) | S or M; check stack |
 | Kestrel (Talon, 4000, 4000 Pro) | 50 / 52 / 55 / 57 | 52 or 55 |
 | Scott Plasma / BMC TM / Planet X / Kuota / Guru / LG | S / M / L or number | usually M; check the chart |
 
 Always write the model, year, size, and stack and reach (or "geometry unknown") into the listing's notes.
 
+**Verified size-54/M stack / reach (2026-09-28 research; geometrygeeks and Cervélo archive pages):**
+- Ideal: P1, P2 alloy and P2 carbon 2010–14 = 512 / 418 · P3 2008–13 = 498 / 419 · Felt B-series 2010–13 = 513 / 414 · Argon E-112 S = 495 / 411, M = 515 / 419 · Speedmax CF 2011–15 M ≈ 520 / 430.
+- Good: P2 2015–19, P3 2013–20 and the disc P-Series = 522 / 411 · Slice 2013–15 = 509 / 398 (short reach).
+- **Size traps:** Felt 2014+ 54 = 535 / 405 (too tall) and its 51 = 521 / 388 (short) · Shiv M = 540 · Trinity M = 539 · BMC "M-S" reach 377, take "M-L" · Cervélo P2/P3 48 and some Felt 48 are 650c.
+
 ## Hard rules for the bike
-- Rim or disc brakes are both fine, but **standard calipers only**. Watch the Shiv (2011+) and first-gen Speed Concept, which use proprietary brakes and stems.
+- Rim or disc brakes are both fine, but **standard calipers only** (direct-mount counts as standard). **Proprietary or integrated brakes/fronts = pass:** Trek Speed Concept 2011–2017 (**both** Gen 1 and Gen 2), Specialized Shiv 2011–2019 (except maybe the alloy 2012–13 Shiv Elite A1) and **Transition carbon 2008–2012** (centre-pull, rear under the BB; alloy Transitions are fine), Giant Trinity Advanced/Pro 2016+ (SpeedControl), BMC TM01, Argon E-118, Felt IA/DA, Cannondale Slice RS, Scott Plasma 5, Speedmax CF SLX.
+- **Recalls to check:** Felt 2010 B12/B14/B16 fork steerer (confirm the replacement fork), Cervélo P3 Ultegra 3T base bar sold Sep 2012–Jan 2013, Slice RS 2013 brake plates.
+- Bottom brackets: threaded BSA (easiest) on P1, P2 2010–14, P3 2010–13, Argon E-112/114. BBright press-fit on P2 2015+ and P3 2013/14+. BB30 on the Slice (creaks; budget $60–120). BB90 on the Speed Concept.
 - Rim brakes need an **alloy braking surface**. Carbon clincher rims with rim brakes are a no (descents).
 - Rear axle: 130 mm QR, or 142 thru-axle, which the trainer can take with an adapter.
 - Groupset: at least Sora/Tiagra-level shifting, preferably 105/Ultegra/Rival/Force. Note whether it's 10- or 11-speed.
@@ -75,9 +83,34 @@ These are estimates. Adjust them for condition, groupset and wheels.
 | Quintana Roo (Seduza/Kilo/CD0.1) | 700–1,200 |
 | Planet X / Kuota / Guru / Blue | 700–1,200 (weak resale) |
 
+**Bicycle Blue Book runs low** (checked 2026-09-28 through its value-guide API). Québec asks run about 1.3–1.8× BBB "Excellent", so read BBB as the floor, not the resale price. BBB private-party values, CAD at 1.37 (Excellent / Good):
+- P1: 540 / 435
+- P2 carbon 2010–14: 680–1,000 / 550–800
+- P3 2008–13: 1,100–1,470 / 890–1,180
+- Felt B12 2010–13: 830–1,030 / 670–830. Felt B2: 1,050–1,690 / 850–1,360
+- Slice 2011–15: 650–1,090 / 530–850
+- QR CD0.1: 760–1,060 / 610–850
+- Scott Plasma 3: 1,010–1,280 / 810–1,030
+- BMC TM02: 730–1,130 / 590–910
+
+Rule of thumb:
+- An ask at or below BBB Good is underpriced.
+- At or below BBB Excellent is a good deal.
+- Up to 1.5× Excellent is the normal market.
+
+**Hidden gems** (worth more than sellers ask, and they pass the rules):
+1. **Cervélo P3 2008–13.** Better frame than the P2 at the same fit, often priced like an old P2. A complete one at $1,000 or less is a steal.
+2. **P2 carbon 2010–14.** At $800 or less.
+3. **Felt B12/B2 2010–13.** Check the fork recall.
+4. **Argon E-112/E-114.** Montréal brand, so plenty locally. BBB has no data; price like a P2.
+5. **QR CD0.1.**
+6. **Scott Plasma 3.** A superbike with standard brakes.
+
+**Overrated:** Speed Concept, Shiv, Trinity Advanced (brakes), and old alloy P1/P2SL/P2K (sellers ask $800–900 for bikes BBB puts at $480–600).
+
 ## Valuing a bike: use real numbers, not guesses
 The table above is only a starting point. For every candidate that might be a steal, set `fairValue` from evidence:
-1. **Bicycle Blue Book** (bicyclebluebook.com/value-guide): look up the brand, model and year. Take the "Good" condition used value, convert USD to CAD (about 1.37), then take off about 10% for the Québec/Ontario private market.
+1. **Bicycle Blue Book** (bicyclebluebook.com/value-guide): look up the brand, model and year. Take the "Good" condition used value, convert USD to CAD (about 1.42 as of Sep 2026), then take off about 10% for the Québec/Ontario private market.
 2. **Comparables:** find 2–4 similar listings on Marketplace (same model ±2 years, similar groupset) and on Pinkbike's buy/sell (pinkbike.com/buysell, road/tri). Asking prices run high, so count them at about 85%.
 3. **Wheels on their own:** if the bike has real deep carbon wheels (Zipp, HED, Enve, Reynolds, Mavic Cosmic Carbone), value them separately with Pinkbike or eBay sold listings, then add them to the frameset value.
 4. Put `fairValue` as the lower end of what the evidence supports. In notes, write the sources in one line, for example: "BBB US$1,050 → ~C$1,300; comps $1,400/$1,550 (P2 2012 105)".
@@ -208,6 +241,39 @@ Queries (run each on Québec and Ottawa): velo-triathlon, triathlon, tri-bike, t
 In `data/tracker.json`, store a Kijiji listing with `id: "kijiji-<number>"`, `source: "kijiji"` and the full Kijiji `url`. Everything else (fit, hard rules, value, all-in cost, steal test, scam signals) is the same as for Marketplace.
 
 Messaging on Kijiji uses its "Send message" box on the listing page, and may need Ryan's Kijiji login. If it asks for a login, don't create an account or sign in. Tell Ryan in the final message and leave the draft in the tracker. The approval rules in "Sending messages" apply the same way.
+
+## Other sources (researched 2026-09-28, overnight)
+Marketplace and Kijiji remain the main hunt. Everything else was checked and costed.
+
+**Worth adding:**
+- **The two private Québec tri Facebook groups.** These are the biggest untapped source, but Ryan has to join them himself (they ask screening questions). The run never joins or posts on his account. Once he's a member, open each group's Buy/Sell tab every run and treat posts like listings.
+  - "Vente-Achat Route & Triathlon Québec": 19.5K members, about 577 posts a month. https://www.facebook.com/groups/1738822193041827/
+  - "Triathlon : achat/vente/échange… Montréal et au Québec": 14.3K members, about 436 posts a month. https://www.facebook.com/groups/achat.vente.echange.triathlon.montreal.quebec/
+  - A "Recherche vélo de triathlon 54/M" post in each, written by Ryan, would surface bikes before they're listed.
+- **Public groups** (use `/groups/<id>/search/?q=triathlon` and skip "(SOLD)" posts). Most of their posts also appear on Marketplace, so they're low yield; mainly useful as sold-price evidence.
+  - Vélos de montagne et route à vendre (Québec): https://www.facebook.com/groups/896566227149524/
+  - Ottawa Bicycle Classy Ads: https://www.facebook.com/groups/ottawabicycleclassfieds/
+  - Sold comps seen: Felt B16 carbon 52 $1,400 (Ottawa); Kuota Kueen K M $1,400 (Montréal).
+- **Pinkbike tri category, twice a week.** Works in Chrome; direct fetches hit Cloudflare. https://www.pinkbike.com/buysell/list/?region=3&category=108
+  - Mostly US shops at US$2,000+. Canadian listings are mostly BC/Alberta.
+  - A private seller elsewhere in Canada can ship: about $95–260, with no duty or tax.
+
+**Toronto/GTA:** allowed only when the steal test still passes with the trip in the all-in cost.
+- Meeting the seller halfway at Kingston: about $75–100 in fuel.
+- Same-day drive to Toronto: about $140–185 in fuel and 11–12 h.
+- VIA Rail takes no full-size bikes Montréal–Toronto in 2026. Buses don't work either.
+- A Toronto bike has to be at least about $100 cheaper than an Ottawa one to be worth the trip.
+- Seen 2026-09-28, all fair, none steals:
+  - Cervélo P3 (2008-ish P3C) "53", $1,250, 12 weeks listed
+  - alloy P3-SL, $1,000
+  - Scott Plasma (1st gen) 54, $1,000 (was $2,200)
+
+**Not worth it (numbers checked 2026-09-28):**
+- **USA:** each US$1 of asking price lands at about C$1.84. That's 13% duty on Taiwan/China-made bikes, plus GST+QST at the border, at 1.417 USD→CAD. Courier shipping adds $450+. eBay rarely ships bikes to Canada. A US bike only works at US$545–650 asking.
+- **Europe:** buycycle doesn't ship to Canada, and the classified sites are domestic only. Landed cost is about 1.5× the euro price (EUR→CAD 1.61). Canyon's cheapest Speedmax in Canada is C$7,599.
+- **China:** a frameset lands at $1,400–2,000. Built up, it's $2,900–4,300. Rim versions use hidden proprietary brakes, and resale is weak.
+- **New bikes from Canadian shops:** the cheapest new tri bike is about $3,500 (Aquila Crono 105), and prior-year Cervélo P / Argon E-117 run $5,300+. Clearance season runs October to February, but it's still far over budget.
+- **Building one:** a used frameset plus used parts plus a shop build comes to about $1,650–2,700, and 11-speed 105 was discontinued in March 2026. It only ties a $1,000 complete bike if a fitting frameset turns up at $400 or less and a used 105 11-speed group at $250 or less.
 
 ## Seller conversations
 - The inbox is at `https://www.facebook.com/marketplace/inbox/`, or use Messenger.

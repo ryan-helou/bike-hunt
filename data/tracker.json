@@ -122,12 +122,13 @@
       "status": "watching",
       "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-28T22:43:55.286Z",
+      "updatedISO": "2026-09-29T03:52:53.470Z",
       "fairValue": 950,
       "target": 850,
       "size": "53.4",
       "notes": [
-        "2026-09-27: still listed at $1,000, no change."
+        "2026-09-27: still listed at $1,000, no change.",
+        "2026-09-29 research: Transition carbon (2008-12) uses proprietary centre-pull brakes with the rear under the BB; alloy Transitions use standard calipers. Confirm which this is before any offer."
       ],
       "priceHistory": [
         {
@@ -332,7 +333,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T22:43:55.286Z",
+      "updatedISO": "2026-09-29T03:52:53.470Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -359,7 +360,8 @@
         "Ryan already has a ThinkRider: the draft asks for a price without the trainer and fan.",
         "Seller text: \"Serious buyers only, cash only, local pickup.\" No scam signals.",
         "2026-09-27 23:00: Ryan sent the opening himself. The sent bubble contains the text twice back to back (probably a double paste).",
-        "2026-09-28 15:22: sent follow-up (draft 2) on Ryan's \"send all\". Confirmed Sent."
+        "2026-09-28 15:22: sent follow-up (draft 2) on Ryan's \"send all\". Confirmed Sent.",
+        "2026-09-29 research: BBB puts a 2011 P2 carbon at ~C$690-850 Excellent; used HED Jet 6/9 rim wheels ~C$500-900 (est.). Package fair value ~C$1,200-1,700, so $1,900 is high; a counter at $1,400 or less is justified. Target $1,150 unchanged."
       ],
       "thread": [
         {
@@ -417,7 +419,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T22:43:55.286Z",
+      "updatedISO": "2026-09-29T03:52:53.470Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -443,7 +445,8 @@
         "2026-09-28 12:22: The seller corrected his \"not available\": it is available, he is 5'11\". He then edited the ad: 2010, carbon, no crash, 20\" c-t (~51), 39\" ground to saddle top (~99 cm), 2x10, \"roue en acier\", Shimano wheels. No price given yet.",
         "\"Roue en acier\" literally means steel wheels. Probably he means aluminium, but steel rims would brake badly in the wet: the draft asks.",
         "Seller 5'11\" on a 51 suggests a low front end and a long post; Ryan needs ~72 cm BB-to-saddle, which fits within the 99 cm ground-to-saddle he gives.",
-        "2026-09-28 15:19: sent draft 1 on Ryan's \"yes send\" (offer $700, asked rims/tyres). Confirmed Sent in the chat."
+        "2026-09-28 15:19: sent draft 1 on Ryan's \"yes send\" (offer $700, asked rims/tyres). Confirmed Sent in the chat.",
+        "2026-09-29 research: BBB Good for a 2010 P2 carbon is ~C$550-680, so the $700 offer is fair-to-good, not a steal. P2 2010-14 = 512/418 at 54; a 51 is lower and shorter. Threaded BSA BB."
       ],
       "thread": [
         {
@@ -726,7 +729,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2141803323436059/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-28T22:43:55.286Z",
+      "updatedISO": "2026-09-29T03:52:53.470Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -745,7 +748,8 @@
       "target": 1000,
       "verdict": "Near-new but $1,875 is well above resale. Watch for a drop.",
       "notes": [
-        "Ultegra, FSA crank, Dura-Ace RD, Mavic wheels. ~40 km."
+        "Ultegra, FSA crank, Dura-Ace RD, Mavic wheels. ~40 km.",
+        "2026-09-29 research: if this \"new\" Transition Expert is a 2008-12 carbon frame, it has proprietary brakes (hard no). Confirm year and brakes."
       ]
     },
     {

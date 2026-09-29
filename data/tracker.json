@@ -46,15 +46,16 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 800,
-      "status": "needs-ok",
+      "status": "negotiating",
       "verdict": "Best value found so far: fits, strong resale, comes with near-new GP5000s and a split-nose saddle. Groupset and year unknown.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T21:45:05.062Z",
+      "updatedISO": "2026-09-29T21:53:59.878Z",
       "fairValue": 850,
       "target": 700,
       "size": "54",
       "notes": [
-        "2026-09-27: still listed at $800, no change."
+        "2026-09-27: still listed at $800, no change.",
+        "2026-09-29 ~17:50: sent draft 3 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
       ],
       "priceHistory": [
         {
@@ -62,11 +63,13 @@
           "price": 800
         }
       ],
-      "draft": {
-        "n": 3,
-        "purpose": "Opening on the Ottawa P1 (fallback)",
-        "text": "Hi! Is this still available? Any crashes, and what groupset is it (10 or 11 speed)? Does the seatpost still move freely? How tall are you? What's the best you could do for cash? I'm in Laval, about 2 hours away."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-29T21:53:59.878Z",
+          "from": "us",
+          "text": "Hi! Is this still available? Any crashes, and what groupset is it (10 or 11 speed)? Does the seatpost still move freely? How tall are you? What's the best you could do for cash? I'm in Laval, about 2 hours away."
+        }
+      ]
     },
     {
       "id": "1365269332366786",
@@ -75,15 +78,16 @@
       "location": "Québec, QC",
       "driveHours": 2.75,
       "asking": 1200,
-      "status": "needs-ok",
+      "status": "negotiating",
       "verdict": "Under 1,000 km, listed 27 weeks and already dropped from $1,400. Size not stated.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T21:45:05.062Z",
+      "updatedISO": "2026-09-29T21:53:59.878Z",
       "firstAsking": 1400,
       "fairValue": 1000,
       "target": 950,
       "notes": [
-        "2026-09-27: still listed at $1,200, no change."
+        "2026-09-27: still listed at $1,200, no change.",
+        "2026-09-29 ~17:50: sent draft 4 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
       ],
       "priceHistory": [
         {
@@ -91,11 +95,13 @@
           "price": 1200
         }
       ],
-      "draft": {
-        "n": 4,
-        "purpose": "Opening on the Québec P2 SL (fallback, 27 weeks listed)",
-        "text": "Salut! Toujours disponible? C'est quelle grandeur de cadre, et t'es de quelle taille toi? C'est quel groupe (105, Ultegra?) et 9 ou 10 vitesses? La tige de selle bouge encore bien? C'est quoi ton meilleur prix cash? Je suis à Laval."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-29T21:53:59.878Z",
+          "from": "us",
+          "text": "Salut! Toujours disponible? C'est quelle grandeur de cadre, et t'es de quelle taille toi? C'est quel groupe (105, Ultegra?) et 9 ou 10 vitesses? La tige de selle bouge encore bien? C'est quoi ton meilleur prix cash? Je suis à Laval."
+        }
+      ]
     },
     {
       "id": "1366520905547089",
@@ -558,7 +564,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T21:45:05.062Z",
+      "updatedISO": "2026-09-29T21:53:59.878Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -570,20 +576,23 @@
       "location": "Joliette, QC",
       "driveHours": 0.75,
       "asking": 1500,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "51",
       "fairValue": 1150,
       "allInCost": 1300,
       "target": 1050,
       "verdict": "Fits, but $1,500 against a $1,150 benchmark (the St-Jérôme Slice). Watch for a drop under $1,100.",
       "notes": [
-        "Listed 5 weeks. Groupset and year not stated."
+        "Listed 5 weeks. Groupset and year not stated.",
+        "2026-09-29 ~17:50: sent draft 5 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
       ],
-      "draft": {
-        "n": 5,
-        "purpose": "Opening on the Joliette Slice 51 (fallback)",
-        "text": "Salut! Toujours disponible? C'est quelle année et quel groupe (105, Ultegra, 10 ou 11 vitesses)? Il a déjà été accidenté? T'es de quelle taille toi? C'est quoi ton meilleur prix cash? Je suis à Laval, je peux passer cette semaine."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-29T21:53:59.878Z",
+          "from": "us",
+          "text": "Salut! Toujours disponible? C'est quelle année et quel groupe (105, Ultegra, 10 ou 11 vitesses)? Il a déjà été accidenté? T'es de quelle taille toi? C'est quoi ton meilleur prix cash? Je suis à Laval, je peux passer cette semaine."
+        }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1592605915624733/",
@@ -613,7 +622,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T21:45:05.062Z",
+      "updatedISO": "2026-09-29T21:53:59.878Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -625,20 +634,23 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 2000,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "54",
       "fairValue": 1300,
       "allInCost": 1470,
       "target": 1150,
       "verdict": "Fits, stale (18 weeks) but $2,000 is well above ~$1,300 value. Only interesting under ~$1,000.",
       "notes": [
-        "Headset, cables and front brake replaced last winter. XLab wing included."
+        "Headset, cables and front brake replaced last winter. XLab wing included.",
+        "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
       ],
-      "draft": {
-        "n": 6,
-        "purpose": "Opening on the Ottawa P2C 54 (right frame, 18 weeks listed)",
-        "text": "Hi! Is this still available? Any crashes, and is it 10-speed? How tall are you? What's the best you could do for cash? I'm in Laval, about 2 hours away, and could come this week."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-29T21:53:59.878Z",
+          "from": "us",
+          "text": "Hi! Is this still available? Any crashes, and is it 10-speed? How tall are you? What's the best you could do for cash? I'm in Laval, about 2 hours away, and could come this week."
+        }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",

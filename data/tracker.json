@@ -171,14 +171,15 @@
       "status": "negotiating",
       "verdict": "Good deal only at ~$700 or less for an alloy Transition: worth ~$800-950; all-in = price + ~$170.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-29T23:09:59.588Z",
       "fairValue": 950,
       "target": 700,
       "size": "53.4",
       "notes": [
         "2026-09-27: still listed at $1,000, no change.",
         "2026-09-29 research: Transition carbon (2008-12) uses proprietary centre-pull brakes with the rear under the BB; alloy Transitions use standard calipers. Confirm which this is before any offer.",
-        "2026-09-29 ~18:05: sent draft 9 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~18:05: sent draft 9 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-09-29 evening: listing shows $1,000 with $1,200 crossed out (already dropped once). No reply yet."
       ],
       "priceHistory": [
         {
@@ -192,7 +193,8 @@
           "from": "us",
           "text": "Hi! Is this still available? What year is it, and is the frame aluminium or carbon? Does it use regular brake calipers? Any crashes, and what's the best you could do for cash? I'm in Laval."
         }
-      ]
+      ],
+      "firstAsking": 1200
     },
     {
       "id": "1071871482371740",
@@ -713,7 +715,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-29T23:10:02.935Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -725,12 +727,12 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 2000,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "54",
       "fairValue": 1300,
       "allInCost": 1470,
       "target": 1150,
-      "verdict": "Good deal up to ~$1,150: worth ~$1,300-1,500; all-in = price + ~$170 (gas $50, tune-up $120). Our $1,200 is break-even at best.",
+      "verdict": "Not a good deal at his $1,500 floor: all-in ~$1,670 vs ~$1,300-1,500 value. Good deal only up to ~$1,150.",
       "notes": [
         "Headset, cables and front brake replaced last winter. XLab wing included.",
         "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
@@ -738,7 +740,9 @@
         "2026-09-29 ~18:20: sent draft 14 (committed-buyer tone) on Ryan's \"send\". Confirmed Sent in the chat.",
         "2026-09-29 18:28: seller rejected $1,100 with no counter. Draft 15 asks his number and moves to $1,200 (above the $1,150 target; Ryan to decide). All-in at $1,200 ~$1,370 (gas $50, tune-up $120) vs ~$1,300-1,500 value: fair, not a steal, but the exact-fit bike.",
         "2026-09-29 ~18:35: sent draft 15 ($1,200, asked his number) on Ryan's \"send\". Confirmed Sent.",
-        "2026-09-29: Ryan: only steals. $1,200 fails the steal test (all-in ~$1,370 vs $1,300-1,500). If the seller accepts $1,200 or counters higher, pass politely; a steal needs ~$950 or less."
+        "2026-09-29: Ryan: only steals. $1,200 fails the steal test (all-in ~$1,370 vs $1,300-1,500). If the seller accepts $1,200 or counters higher, pass politely; a steal needs ~$950 or less.",
+        "2026-09-29 19:01: seller replied to our $1,200: \"$1500 is the lowest I’ll go.\" Per Ryan, pass politely. Draft 16 declines and leaves the door open at $1,100. Listed 18 weeks; watch for a drop.",
+        "2026-09-29 19:01: seller's floor is $1,500. Draft 19 passes politely and leaves the door open."
       ],
       "thread": [
         {
@@ -765,8 +769,23 @@
           "atISO": "2026-09-29T22:38:06.918Z",
           "from": "us",
           "text": "No worries! What's the best you'd take? I could go up to $1,200 cash, and I'm ready to come pick it up this week."
+        },
+        {
+          "atISO": "2026-09-29T19:01:00-04:00",
+          "from": "seller",
+          "text": "$1500 is the lowest I’ll go."
+        },
+        {
+          "atISO": "2026-09-29T19:01:00-04:00",
+          "from": "seller",
+          "text": "$1500 is the lowest I'll go."
         }
-      ]
+      ],
+      "draft": {
+        "n": 19,
+        "purpose": "Pass politely at his $1,500 floor",
+        "text": "Thanks for letting me know! That's a bit above my budget, so I'll pass for now. If it's still around later and you'd consider $1,150, just message me. Good luck with the sale!"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
@@ -1883,6 +1902,35 @@
           "price": 1000
         }
       ]
+    },
+    {
+      "id": "1110978031420570",
+      "url": "https://www.facebook.com/marketplace/item/1110978031420570/",
+      "title": "Devinci Leo T2 carbon 54, Ultegra, Zipp 404 (carbon clincher)",
+      "location": "Ste-Sophie, QC",
+      "driveHours": 0.5,
+      "asking": 1800,
+      "status": "watching",
+      "size": "54",
+      "firstSeenISO": "2026-09-29T23:09:59.588Z",
+      "updatedISO": "2026-09-29T23:09:59.588Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-29T23:09:59.588Z",
+          "price": 1800
+        }
+      ],
+      "fairValue": 1400,
+      "allInCost": 1370,
+      "target": 1100,
+      "verdict": "Not a good deal at $1,800: worth ~$1,400 (Leo T2 + Ultegra ~$800-900, Zipp 404 ~$600-700 resale); all-in = close + ~$270 (gas $20, alloy wheelset $250 for rim-brake rule; tune-up done). Good deal only at ~$1,100 or less. Listed 9 hours ago.",
+      "notes": [
+        "Ad: 54 cm, Shimano Ultegra (speed not stated), Zipp 404 with new GP5000, full carbon, tune-up at start of season, aero bottle and cages included. Listed 9 h ago at $1,800.",
+        "Model: Devinci Leo T2 (Devinci TT, rim brakes). Year and stack/reach unknown: geometry not found this run; ask stack or seller height before any offer.",
+        "Photo: Zipp 404 rims are dark all the way to the edge, so carbon brake track (Firecrest-era clincher). Carbon rims + rim brakes break the hard rule: ride it on an alloy wheelset (~$250) and keep or sell the Zipps (~$600-700).",
+        "Value evidence: tracked Leo T2s at $1,050 (Ottawa, older) and $1,950 (Boucherville, SRAM Force, valued ~$1,100); Devinci resale is weak. Zipp 404 clincher pair ~$600-700 used (estimate, not checked on Pinkbike).",
+        "Photo not stored: scontent URLs are blocked by the browser tool."
+      ]
     }
   ],
   "runs": [
@@ -1956,6 +2004,21 @@
         "Ryan (2026-09-29): a steal with missing parts is still a steal; HUNT.md updated to price missing parts into allInCost.",
         "Queries: cadre triathlon, tri frame, TT frameset, cervelo frame, triathlon/tri/TT bike, vélo triathlon, vélo contre la montre, cervelo, cannondale slice, felt triathlon, argon 18 triathlon, specialized transition, scott plasma (Montréal centre; Ottawa and Québec for the core tri queries), Kijiji triathlon.",
         "Inbox: no seller replies (Lévis read our $750 counter). A Facebook 'Make an offer' prompt card appeared in the Montréal P2 thread; not from the seller."
+      ]
+    },
+    {
+      "atISO": "2026-09-29T23:09:59.588Z",
+      "summary": "Evening run: no good deals; the Ottawa P2C seller holds at $1,500 (polite pass drafted), tracked prices unchanged, and the only new tri bike is a $1,800 Devinci Leo T2 with carbon Zipp 404s in Ste-Sophie.",
+      "searched": 114,
+      "newListings": 1,
+      "notes": [
+        "Inbox: one new seller reply (Ottawa P2C, $1,500 floor, 19:01). Other replies this evening were already handled in Ryan's live session (P1 closed, Joliette Slice cancelled).",
+        "Marketplace: 30 queries x 3 centres (a few pages hit browser timeouts and were re-run; the vague \"carbon road bike\" set only partly re-checked). Location still Montréal, 500 km. Nothing new in range except the Ste-Sophie Devinci; the rest were road bikes, parts or GTA listings.",
+        "Opened: Québec \"Vélo Cervélo\" (Cervélo RS road), Montréal \"Vélo full CARBONE FELT\" (mountain bike), Boucherville \"Cannondale\" (Scalpel MTB), Valleyfield \"Vélo\" (Kestrel Talon road 57), Profile Design aerobar set ($1,000, parts only), three Argon 18 road bikes.",
+        "Seen but over $2,000 or too big: Argon 18 tri bike Montréal $3,000 (just listed), TT/tri 58 cm Trois-Rivières $2,800.",
+        "Kijiji: 24 searches (Québec + Ottawa), no tri bikes; FLO wheels and the Ottawa P5 still up.",
+        "Pending drafts for Ryan: 16 (P2C pass), plus older 1 (FLO wheels, on hold), 2 (Lévis P2 questions), 7 (Ste-Marguerite Slice, held).",
+        "Not checked this run: Facebook tri groups, Pinkbike."
       ]
     }
   ]

@@ -169,6 +169,8 @@ Where steals come from:
 - **Stale listings from motivated sellers:** a bike worth $1,600–2,200 that has sat for weeks at $1,500–1,900. These can come down to about $1,100–1,200 with a polite, reasoned offer.
 - **Race wheels bundled with the bike:** real Zipp 404/808, HED Jet or Enve are worth $600–1,200 on their own, so a "bike + deep wheels" ad can be a steal even at full price.
 
+**Missing parts don't disqualify a steal (Ryan, 2026-09-29).** A frameset, a bike with no wheels, or one missing a saddle, aerobars or a shifter can still be a steal: price the missing parts at used Québec prices (a rim-brake 10/11-speed wheelset ~$150–350 alloy or ~$300–450 FLO/Cosmic Carbone-type; 105 group ~$250–400; aerobars ~$80–150; saddle ~$60) plus about $150 for a shop build if needed, add them to `allInCost`, and run the steal test on that. Only proprietary parts you can't buy (Speed Concept/Shiv brakes, a broken Plasma seat-mast topper) still mean pass.
+
 **Not steals:** the Cervélo P1 in Ottawa at $800 and the Slice in St-Jérôme at $1,150. Both are fair prices, not bargains. Keep them as fallbacks, not targets.
 
 Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a steal. In the `verdict`, always state resale value against all-in cost, for example "worth ~$1,700; all-in ~$1,180 (close $1,050 + tune-up + tyres)".

@@ -1902,10 +1902,10 @@
       "location": "Ste-Sophie, QC",
       "driveHours": 0.5,
       "asking": 1800,
-      "status": "watching",
+      "status": "negotiating",
       "size": "54",
       "firstSeenISO": "2026-09-29T23:09:59.588Z",
-      "updatedISO": "2026-09-29T23:09:59.588Z",
+      "updatedISO": "2026-09-29T23:53:14.228Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T23:09:59.588Z",
@@ -1913,15 +1913,25 @@
         }
       ],
       "fairValue": 1400,
-      "allInCost": 1370,
-      "target": 1100,
-      "verdict": "Not a good deal at $1,800: worth ~$1,400 (Leo T2 + Ultegra ~$800-900, Zipp 404 ~$600-700 resale); all-in = close + ~$270 (gas $20, alloy wheelset $250 for rim-brake rule; tune-up done). Good deal only at ~$1,100 or less. Listed 9 hours ago.",
+      "allInCost": 1840,
+      "target": 1350,
+      "verdict": "Not a good deal at $1,800: worth ~$1,400 whole (parts ~$1,450-2,150); all-in = price + ~$60 (gas $20, carbon pads $40) if the Zipps are a brand-name 2011+ generation. Good deal up to ~$1,350.",
       "notes": [
         "Ad: 54 cm, Shimano Ultegra (speed not stated), Zipp 404 with new GP5000, full carbon, tune-up at start of season, aero bottle and cages included. Listed 9 h ago at $1,800.",
         "Model: Devinci Leo T2 (Devinci TT, rim brakes). Year and stack/reach unknown: geometry not found this run; ask stack or seller height before any offer.",
         "Photo: Zipp 404 rims are dark all the way to the edge, so carbon brake track (Firecrest-era clincher). Carbon rims + rim brakes break the hard rule: ride it on an alloy wheelset (~$250) and keep or sell the Zipps (~$600-700).",
         "Value evidence: tracked Leo T2s at $1,050 (Ottawa, older) and $1,950 (Boucherville, SRAM Force, valued ~$1,100); Devinci resale is weak. Zipp 404 clincher pair ~$600-700 used (estimate, not checked on Pinkbike).",
-        "Photo not stored: scontent URLs are blocked by the browser tool."
+        "Photo not stored: scontent URLs are blocked by the browser tool.",
+        "2026-09-29 ~19:50: Ryan asked to DM (questions only, no price). Sent and confirmed in the Marketplace inbox.",
+        "Part values (estimates): frame/fork/post $400-600; Ultegra group $250-450 (10 vs 11 speed); Zipp 404 carbon clinchers $600-800; aerobars $80-150; GP5000s $80-100; bottles/cages/bag $30-50.",
+        "Ryan questioned the carbon-rim rule; proposed: brand-name 2011+ carbon clinchers OK with carbon pads and a brake-track check, no-name/pre-2011 still no. Not yet written into HUNT.md."
+      ],
+      "thread": [
+        {
+          "atISO": "2026-09-29T23:53:14.228Z",
+          "from": "us",
+          "text": "Salut! Toujours disponible? Le vélo m'intéresse beaucoup. C'est quelle année, et l'Ultegra est en 10 ou 11 vitesses? Les freins sont des étriers standards? Tu mesures combien toi? Et si tu peux m'envoyer une photo du moyeu des Zipp, ce serait parfait. Je suis à Laval."
+        }
       ]
     }
   ],

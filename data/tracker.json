@@ -46,7 +46,7 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 800,
-      "status": "negotiating",
+      "status": "needs-ok",
       "verdict": "Best value found so far: fits, strong resale, comes with near-new GP5000s and a split-nose saddle. Groupset and year unknown.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
       "updatedISO": "2026-09-29T21:53:59.878Z",
@@ -55,7 +55,8 @@
       "size": "54",
       "notes": [
         "2026-09-27: still listed at $800, no change.",
-        "2026-09-29 ~17:50: sent draft 3 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~17:50: sent draft 3 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-09-29: seller offers $750 cash + Profile Design bottle + original bars/aerobars. 10-speed, no crashes, seller 5'9\", seatpost moves (carbon assembly paste). All-in at $750 ~$920 (gas $50, tune-up $120) vs ~$800 resale for an alloy P1: fair, not a steal."
       ],
       "priceHistory": [
         {
@@ -68,8 +69,28 @@
           "atISO": "2026-09-29T21:53:59.878Z",
           "from": "us",
           "text": "Hi! Is this still available? Any crashes, and what groupset is it (10 or 11 speed)? Does the seatpost still move freely? How tall are you? What's the best you could do for cash? I'm in Laval, about 2 hours away."
+        },
+        {
+          "atISO": "2026-09-29T17:58:00-04:00",
+          "from": "seller",
+          "text": "No crashes, Shimano 11 speeds, seatpost moves very well once you remove the carbon glue I think it's called. I'm 5'9. For cash I could do 750 but I'll throw in a profile design bottle"
+        },
+        {
+          "atISO": "2026-09-29T18:00:00-04:00",
+          "from": "seller",
+          "text": "Sorry it's 10 speed"
+        },
+        {
+          "atISO": "2026-09-29T18:06:00-04:00",
+          "from": "seller",
+          "text": "I could also throw in the original handle bars and aero bars that came with it (less comfortable for me but more aero)"
         }
-      ]
+      ],
+      "draft": {
+        "n": 12,
+        "purpose": "Counter the P1 at $650",
+        "text": "Thanks, that's helpful! Since it's an older 10-speed alloy frame and I'd be driving 2 hours each way, could you do $650 cash with the bars and bottle? Subject to seeing it and a quick test ride."
+      }
     },
     {
       "id": "1365269332366786",
@@ -135,16 +156,17 @@
       "location": "Montague, ON",
       "driveHours": 2.5,
       "asking": 1000,
-      "status": "needs-ok",
+      "status": "negotiating",
       "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T21:54:54.742Z",
+      "updatedISO": "2026-09-29T22:09:19.438Z",
       "fairValue": 950,
       "target": 850,
       "size": "53.4",
       "notes": [
         "2026-09-27: still listed at $1,000, no change.",
-        "2026-09-29 research: Transition carbon (2008-12) uses proprietary centre-pull brakes with the rear under the BB; alloy Transitions use standard calipers. Confirm which this is before any offer."
+        "2026-09-29 research: Transition carbon (2008-12) uses proprietary centre-pull brakes with the rear under the BB; alloy Transitions use standard calipers. Confirm which this is before any offer.",
+        "2026-09-29 ~18:05: sent draft 9 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
       ],
       "priceHistory": [
         {
@@ -152,11 +174,13 @@
           "price": 1000
         }
       ],
-      "draft": {
-        "n": 9,
-        "purpose": "Opener on the Montague Transition (brake type decides it)",
-        "text": "Hi! Is this still available? What year is it, and is the frame aluminium or carbon? Does it use regular brake calipers? Any crashes, and what's the best you could do for cash? I'm in Laval."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-29T22:09:19.438Z",
+          "from": "us",
+          "text": "Hi! Is this still available? What year is it, and is the frame aluminium or carbon? Does it use regular brake calipers? Any crashes, and what's the best you could do for cash? I'm in Laval."
+        }
+      ]
     },
     {
       "id": "1071871482371740",
@@ -165,15 +189,16 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 1050,
-      "status": "needs-ok",
+      "status": "negotiating",
       "verdict": "Seller is 5'4\" and raced Mont-Tremblant 70.3. 52 is borderline for 5'9\"; needs the real frame size.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T21:54:54.742Z",
+      "updatedISO": "2026-09-29T22:09:19.438Z",
       "fairValue": 950,
       "target": 850,
       "size": "52?",
       "notes": [
-        "2026-09-27: still listed at $1,050, no change."
+        "2026-09-27: still listed at $1,050, no change.",
+        "2026-09-29 ~18:05: sent draft 8 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
       ],
       "priceHistory": [
         {
@@ -181,11 +206,13 @@
           "price": 1050
         }
       ],
-      "draft": {
-        "n": 8,
-        "purpose": "Opener on the Ottawa P2 \"52\"",
-        "text": "Hi! Is this still available? What year is it, and is the frame carbon or aluminium? Could you measure from the centre of the crank to the top of the head tube? Any crashes, and what's the best you could do for cash? I'm in Laval, about 2 hours away."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-29T22:09:19.438Z",
+          "from": "us",
+          "text": "Hi! Is this still available? What year is it, and is the frame carbon or aluminium? Could you measure from the centre of the crank to the top of the head tube? Any crashes, and what's the best you could do for cash? I'm in Laval, about 2 hours away."
+        }
+      ]
     },
     {
       "id": "1081124437811279",
@@ -586,7 +613,7 @@
       "location": "Joliette, QC",
       "driveHours": 0.75,
       "asking": 1500,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1150,
       "allInCost": 1300,
@@ -594,15 +621,31 @@
       "verdict": "Fits, but $1,500 against a $1,150 benchmark (the St-Jérôme Slice). Watch for a drop under $1,100.",
       "notes": [
         "Listed 5 weeks. Groupset and year not stated.",
-        "2026-09-29 ~17:50: sent draft 5 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~17:50: sent draft 5 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-09-29: seller says 2018 Slice, mostly SRAM Force, 53-39, 170 mm cranks, 10-speed, second owner, he's 5'6\". SRAM Force 10-speed suggests an older (pre-2015) Slice; \"2018\" may be when he bought it. No price or crash answer yet."
       ],
       "thread": [
         {
           "atISO": "2026-09-29T21:53:59.878Z",
           "from": "us",
           "text": "Salut! Toujours disponible? C'est quelle année et quel groupe (105, Ultegra, 10 ou 11 vitesses)? Il a déjà été accidenté? T'es de quelle taille toi? C'est quoi ton meilleur prix cash? Je suis à Laval, je peux passer cette semaine."
+        },
+        {
+          "atISO": "2026-09-29T17:55:00-04:00",
+          "from": "seller",
+          "text": "Je suis le deuxième propriétaire ; il s'agit d'un Cannondale Slice de 2018. La plupart des composants sont en SRAM Force. Le pédalier est en 53-39 avec des manivelles de 170 mm. C'est un modèle 10 vitesses."
+        },
+        {
+          "atISO": "2026-09-29T17:56:00-04:00",
+          "from": "seller",
+          "text": "Je mesure 5'6. Le vélo convient aux personnes mesurant entre 5'5 to 5'9"
         }
-      ]
+      ],
+      "draft": {
+        "n": 13,
+        "purpose": "Ask crashes + open at $1,050",
+        "text": "Merci pour les infos! Il a déjà été accidenté? Vu que c'est du 10 vitesses, je pourrais t'offrir 1 050$ cash, sous réserve de le voir et l'essayer. Ça te va?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1592605915624733/",
@@ -644,7 +687,7 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 2000,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "54",
       "fairValue": 1300,
       "allInCost": 1470,
@@ -652,20 +695,31 @@
       "verdict": "Fits, stale (18 weeks) but $2,000 is well above ~$1,300 value. Only interesting under ~$1,000.",
       "notes": [
         "Headset, cables and front brake replaced last winter. XLab wing included.",
-        "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-09-29: available, no crashes, great shape, 10-speed, seller is 5'9\" (Ryan's height, so the 54 should fit as set up). No price given. Worth ~$1,300-1,500; comps: P2C 48 Ottawa $1,300, P2 carbon 48 Burlington $1,400."
       ],
       "thread": [
         {
           "atISO": "2026-09-29T21:53:59.878Z",
           "from": "us",
           "text": "Hi! Is this still available? Any crashes, and is it 10-speed? How tall are you? What's the best you could do for cash? I'm in Laval, about 2 hours away, and could come this week."
+        },
+        {
+          "atISO": "2026-09-29T17:55:00-04:00",
+          "from": "seller",
+          "text": "Yep. Still available. No crashes. It's in great shape. It is a 10 speed. I'm 5'9\""
         }
-      ]
+      ],
+      "draft": {
+        "n": 14,
+        "purpose": "Open the P2C at $1,100",
+        "text": "Great, thanks! Since it's 10-speed and it's been listed a while, I could do $1,100 cash, subject to seeing it and a test ride. I'm your height so it should fit me well. Would that work?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T21:54:54.742Z",
+      "updatedISO": "2026-09-29T22:09:19.438Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -677,20 +731,23 @@
       "location": "Montréal, QC",
       "driveHours": 0.25,
       "asking": 1900,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "?",
       "fairValue": 1300,
       "allInCost": 1450,
       "target": 1150,
       "verdict": "No details in the ad (video only). Watch for a drop.",
       "notes": [
-        "Listed 3 weeks. \"Selling because I have a better one.\""
+        "Listed 3 weeks. \"Selling because I have a better one.\"",
+        "2026-09-29 ~18:05: sent draft 10 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
       ],
-      "draft": {
-        "n": 10,
-        "purpose": "Opener on the Montréal P2 (video-only ad)",
-        "text": "Hi! Is this still available? What year and frame size is it, and what groupset? Any crashes? What's the best you could do for cash? I'm in Laval and can come by this week."
-      }
+      "thread": [
+        {
+          "atISO": "2026-09-29T22:09:19.438Z",
+          "from": "us",
+          "text": "Hi! Is this still available? What year and frame size is it, and what groupset? Any crashes? What's the best you could do for cash? I'm in Laval and can come by this week."
+        }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
@@ -759,16 +816,18 @@
       "firstAsking": 3999,
       "status": "needs-ok",
       "size": "51",
-      "fairValue": 1200,
+      "fairValue": 950,
       "verdict": "Price shown as $0 (was $3,999), \"give me some offer\". Carbon rims with rim brakes break a hard rule, so it would need an alloy wheelset (~$250). Odd listing: watch only.",
       "notes": [
-        "Tektro brakes suggest a 2014+ Slice. Listed 5 weeks."
+        "Tektro brakes suggest a 2014+ Slice. Listed 5 weeks.",
+        "2026-09-29: draft 7 NOT sent despite \"send all\": the full ad lists mixed parts (SRAM Red crank, Shimano 105 derailleurs, Promax shifters, Tektro brakes, no-name EIS carbon rims). Worth ~$900-1,000 at most, so a $1,000 opener overpays. Suggest reopening at ~$800."
       ],
       "draft": {
         "n": 7,
         "purpose": "Opener + $1,000 offer on the Ste-Marguerite Slice (seller asked for offers)",
         "text": "Hi! Is this still available? What year is it, and is it a 51? Any crashes? You asked for offers: I could do $1,000 cash, subject to seeing and riding it. I'm in Laval."
-      }
+      },
+      "target": 850
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
@@ -1291,21 +1350,31 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-29T21:54:54.742Z",
-      "thread": [],
+      "updatedISO": "2026-09-29T22:09:19.438Z",
+      "thread": [
+        {
+          "atISO": "2026-09-29T22:09:19.438Z",
+          "from": "us",
+          "text": "Salut! Toujours disponible? C'est quelle année et quelle grandeur de cadre? Il a déjà été accidenté? C'est quoi ton meilleur prix cash? Je suis à Laval."
+        }
+      ],
       "priceHistory": [
         {
           "atISO": "2026-09-28T10:43:12.880Z",
           "price": 1499
+        },
+        {
+          "atISO": "2026-09-29T22:09:19.438Z",
+          "price": 1449
         }
       ],
       "id": "4503935689882002",
       "title": "Felt B14 triathlon, Ultegra, FSA crank",
       "location": "Québec, QC",
       "driveHours": 2.75,
-      "asking": 1499,
+      "asking": 1449,
       "firstAsking": 1750,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "unknown",
       "fairValue": 1050,
       "allInCost": 1190,
@@ -1315,13 +1384,9 @@
         "Model/year: Felt B14, year not stated (probably 2012-2016 carbon). Size not stated: ask. Geometry unknown until size is known.",
         "Ad: Ultegra groupset, FSA crank, two new tyres, used for one 70.3, two 40 km rides and half a trainer season. Comes with risers, rear bottle cage, Look pedals, computer mount.",
         "Value evidence: table $700-1,100 for B12/B14/B16; Kingston 2014 B14 (tracked) asks $1,000. BBB not checked.",
-        "Listed a week ago, already down from $1,750."
-      ],
-      "draft": {
-        "n": 11,
-        "purpose": "Opener on the Québec Felt B14",
-        "text": "Salut! Toujours disponible? C'est quelle année et quelle grandeur de cadre? Il a déjà été accidenté? C'est quoi ton meilleur prix cash? Je suis à Laval."
-      }
+        "Listed a week ago, already down from $1,750.",
+        "2026-09-29 ~18:05: sent draft 11 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1032305399343918/",

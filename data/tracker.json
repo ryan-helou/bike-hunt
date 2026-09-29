@@ -1643,9 +1643,9 @@
       "location": "Montréal, QC",
       "driveHours": 0.4,
       "asking": 350,
-      "status": "needs-ok",
+      "status": "watching",
       "firstSeenISO": "2026-09-29T17:25:46.830Z",
-      "updatedISO": "2026-09-29T17:25:46.830Z",
+      "updatedISO": "2026-09-29T17:27:41.090Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T17:25:46.830Z",
@@ -1659,7 +1659,8 @@
         "Ad: bought 2016 for $800 + tax, used only for triathlon races, negotiable. Posted 1 week ago. Photo shows a FLO 60 front with Conti GP4000 tyres; a thin light band at the rim edge matches the alloy brake track.",
         "11-speed freehub: takes the P2's 10-speed cassette with a 1.85 mm spacer.",
         "Check: cracks or lifting where the carbon fairing meets the alloy rim, hub bearings, brake-track wear, and which rear depth it is.",
-        "Kijiji messaging needs Ryan's Kijiji login: send it himself if the session can't."
+        "Kijiji messaging needs Ryan's Kijiji login: send it himself if the session can't.",
+        "2026-09-29: Ryan: hold the wheels message until the Lévis P2 closes at a good price. Draft kept, not approved."
       ],
       "draft": {
         "n": 1,

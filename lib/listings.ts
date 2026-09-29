@@ -42,6 +42,13 @@ export function money(n: number | undefined): string {
   return n === undefined ? "—" : `$${Math.round(n).toLocaleString("en-CA")}`;
 }
 
+/** Where listings may come from: Marketplace, the buy/sell groups Ryan joined, Kijiji. */
+const SOURCES = [
+  "https://www.facebook.com/marketplace/item/",
+  "https://www.facebook.com/groups/",
+  "https://www.kijiji.ca/",
+];
+
 /** Validate what the agent sends; reject the whole sync rather than store junk. */
 export function validListing(x: unknown): x is Listing {
   const l = x as Listing;
@@ -50,7 +57,7 @@ export function validListing(x: unknown): x is Listing {
     typeof l.id === "string" &&
     /^\d+$/.test(l.id) &&
     typeof l.url === "string" &&
-    l.url.startsWith("https://www.facebook.com/marketplace/item/") &&
+    SOURCES.some((prefix) => l.url.startsWith(prefix)) &&
     typeof l.title === "string" &&
     typeof l.asking === "number" &&
     SECTIONS.some((s) => s.status === l.status) &&

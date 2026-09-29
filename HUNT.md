@@ -275,6 +275,23 @@ Marketplace and Kijiji remain the main hunt. Everything else was checked and cos
 - **New bikes from Canadian shops:** the cheapest new tri bike is about $3,500 (Aquila Crono 105), and prior-year Cervélo P / Argon E-117 run $5,300+. Clearance season runs October to February, but it's still far over budget.
 - **Building one:** a used frameset plus used parts plus a shop build comes to about $1,650–2,700, and 11-speed 105 was discontinued in March 2026. It only ties a $1,000 complete bike if a fitting frameset turns up at $400 or less and a used 105 11-speed group at $250 or less.
 
+## Facebook groups (searched once Ryan has joined)
+Ryan joins these himself. Before searching a group, check that it shows "Joined". If it shows "Join" or "Pending", skip it and note that in the run summary.
+
+Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a short query set: triathlon, tri, clm, cervelo, slice, felt, speed concept, zipp. Group posts aren't Marketplace items, so use the post permalink as the listing `url` and a stable id taken from the post id.
+
+| Group | Size | Link |
+|---|---|---|
+| Triathlon : achat/vente/échange… Montréal et Québec | 14K, 10+/day | https://www.facebook.com/groups/achat.vente.echange.triathlon.montreal.quebec |
+| Vente-Achat Route & Triathlon Québec | 19K, 10+/day | https://www.facebook.com/groups/1738822193041827 |
+| Ventes, petites annonces TRIATHLON | 19K, 8/day | https://www.facebook.com/groups/395159830623867 |
+| Québec en Vélo - Achats et ventes de cyclisme | 21K, 40+/day | https://www.facebook.com/groups/quebecvelo |
+| Cyclisme Québec - Vente & Achat | 20K, 30+/day | https://www.facebook.com/groups/306070846399713 |
+| Greater Ottawa Bicycle Classifieds | 13K, 10+/day | https://www.facebook.com/groups/1648063688830400 |
+| Ottawa Bicycle Classy Ads | 44K, 7/day | https://www.facebook.com/groups/ottawabicycleclassfieds |
+
+"Vélo Volé - Montréal" (https://www.facebook.com/groups/velovolemtl, public, 23K) is a stolen-bike group. If a candidate looks too cheap, search it for the model.
+
 ## Seller conversations
 - The inbox is at `https://www.facebook.com/marketplace/inbox/`, or use Messenger.
 - Kijiji threads live at `https://www.kijiji.ca/m-msg-my-messages/` (needs Ryan's Kijiji login). If it shows a login page, skip it and don't sign in.

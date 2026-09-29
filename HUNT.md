@@ -312,6 +312,7 @@ Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a s
 - **First offer:** about 70–75% of asking. Always give concrete reasons: a 10-speed groupset, worn tape and pads, tyres to replace, weeks on the market, comparable listings.
 - **Walking up:** move in small steps and never go above `target`. Stop after 3 counters; the bike becomes `watching` and you check back if the price drops.
 - **Tone (Ryan, 2026-09-29): sound like a committed, excited buyer.** Don't write "subject to seeing it" / "sous réserve de le voir" in messages; say he's ready to take it and "if you can do $X, it's a deal". Ryan still inspects at pickup (checklist under Locking) and can walk away if the bike isn't as described.
+- **Only commit at a steal price (Ryan, 2026-09-29).** Never offer or accept, in committed language ("it's a deal"), a price whose all-in cost fails the steal test. On 2026-09-29 the agent agreed a fair-but-not-steal $1,100 on a Slice and Ryan had to cancel. Openers and questions are fine; the committed number must pass the test.
 - **Never** offer or agree to a deposit, a shipment, or an e-transfer before viewing. Never share Ryan's address or phone number.
 - **Handing off:** once there's a price, the viewing time is Ryan's call. The seller only has to confirm the number; logistics go to Ryan.
 

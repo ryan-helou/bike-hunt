@@ -135,10 +135,10 @@
       "location": "Montague, ON",
       "driveHours": 2.5,
       "asking": 1000,
-      "status": "watching",
+      "status": "needs-ok",
       "verdict": "Fits. Year and brake type unknown; early Transitions are fine, later ones use proprietary brakes.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T21:54:54.742Z",
       "fairValue": 950,
       "target": 850,
       "size": "53.4",
@@ -151,7 +151,12 @@
           "atISO": "2026-09-24T12:00:00-04:00",
           "price": 1000
         }
-      ]
+      ],
+      "draft": {
+        "n": 9,
+        "purpose": "Opener on the Montague Transition (brake type decides it)",
+        "text": "Hi! Is this still available? What year is it, and is the frame aluminium or carbon? Does it use regular brake calipers? Any crashes, and what's the best you could do for cash? I'm in Laval."
+      }
     },
     {
       "id": "1071871482371740",
@@ -160,10 +165,10 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 1050,
-      "status": "watching",
+      "status": "needs-ok",
       "verdict": "Seller is 5'4\" and raced Mont-Tremblant 70.3. 52 is borderline for 5'9\"; needs the real frame size.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T21:54:54.742Z",
       "fairValue": 950,
       "target": 850,
       "size": "52?",
@@ -175,7 +180,12 @@
           "atISO": "2026-09-24T12:00:00-04:00",
           "price": 1050
         }
-      ]
+      ],
+      "draft": {
+        "n": 8,
+        "purpose": "Opener on the Ottawa P2 \"52\"",
+        "text": "Hi! Is this still available? What year is it, and is the frame carbon or aluminium? Could you measure from the centre of the crank to the top of the head tube? Any crashes, and what's the best you could do for cash? I'm in Laval, about 2 hours away."
+      }
     },
     {
       "id": "1081124437811279",
@@ -655,7 +665,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T21:54:54.742Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -667,7 +677,7 @@
       "location": "Montréal, QC",
       "driveHours": 0.25,
       "asking": 1900,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "?",
       "fairValue": 1300,
       "allInCost": 1450,
@@ -675,7 +685,12 @@
       "verdict": "No details in the ad (video only). Watch for a drop.",
       "notes": [
         "Listed 3 weeks. \"Selling because I have a better one.\""
-      ]
+      ],
+      "draft": {
+        "n": 10,
+        "purpose": "Opener on the Montréal P2 (video-only ad)",
+        "text": "Hi! Is this still available? What year and frame size is it, and what groupset? Any crashes? What's the best you could do for cash? I'm in Laval and can come by this week."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
@@ -729,7 +744,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27892804753681736/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T21:54:54.742Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -742,13 +757,18 @@
       "driveHours": 1,
       "asking": 0,
       "firstAsking": 3999,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1200,
       "verdict": "Price shown as $0 (was $3,999), \"give me some offer\". Carbon rims with rim brakes break a hard rule, so it would need an alloy wheelset (~$250). Odd listing: watch only.",
       "notes": [
         "Tektro brakes suggest a 2014+ Slice. Listed 5 weeks."
-      ]
+      ],
+      "draft": {
+        "n": 7,
+        "purpose": "Opener + $1,000 offer on the Ste-Marguerite Slice (seller asked for offers)",
+        "text": "Hi! Is this still available? What year is it, and is it a 51? Any crashes? You asked for offers: I could do $1,000 cash, subject to seeing and riding it. I'm in Laval."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
@@ -1271,7 +1291,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T21:54:54.742Z",
       "thread": [],
       "priceHistory": [
         {
@@ -1285,7 +1305,7 @@
       "driveHours": 2.75,
       "asking": 1499,
       "firstAsking": 1750,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "unknown",
       "fairValue": 1050,
       "allInCost": 1190,
@@ -1296,7 +1316,12 @@
         "Ad: Ultegra groupset, FSA crank, two new tyres, used for one 70.3, two 40 km rides and half a trainer season. Comes with risers, rear bottle cage, Look pedals, computer mount.",
         "Value evidence: table $700-1,100 for B12/B14/B16; Kingston 2014 B14 (tracked) asks $1,000. BBB not checked.",
         "Listed a week ago, already down from $1,750."
-      ]
+      ],
+      "draft": {
+        "n": 11,
+        "purpose": "Opener on the Québec Felt B14",
+        "text": "Salut! Toujours disponible? C'est quelle année et quelle grandeur de cadre? Il a déjà été accidenté? C'est quoi ton meilleur prix cash? Je suis à Laval."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1032305399343918/",

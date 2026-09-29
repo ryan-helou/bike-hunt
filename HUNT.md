@@ -4,7 +4,7 @@ The scheduled runs (6am and 6pm) follow this file. Read all of it before searchi
 
 ## The buyer
 - Ryan Helou, Laval QC (H7T 2W7). He's racing IRONMAN 70.3 Muskoka on 18 July 2027 and is replacing a $400 Giant TCR with clip-ons.
-- He is in no rush: he rides the ThinkRider trainer until February. **Only a real steal should reach him.**
+- He is in no rush: he rides the ThinkRider trainer until February. **Only good deals should reach him** (see "Good deal or not").
 - Budget: about $1,000 to close, $1,200 at most. What he wants is a bike worth much more than he pays. A listing asking up to about $2,000 is worth reading, because stale listings come down.
 - Resale matters: he'll sell this bike later and wants his money back.
 - He doesn't want a bike fit or a tri saddle, so never count those as costs or selling points.
@@ -99,7 +99,7 @@ Rule of thumb:
 - Up to 1.5× Excellent is the normal market.
 
 **Hidden gems** (worth more than sellers ask, and they pass the rules):
-1. **Cervélo P3 2008–13.** Better frame than the P2 at the same fit, often priced like an old P2. A complete one at $1,000 or less is a steal.
+1. **Cervélo P3 2008–13.** Better frame than the P2 at the same fit, often priced like an old P2. A complete one at $1,000 or less is a very good deal.
 2. **P2 carbon 2010–14.** At $800 or less.
 3. **Felt B12/B2 2010–13.** Check the fork recall.
 4. **Argon E-112/E-114.** Montréal brand, so plenty locally. BBB has no data; price like a P2.
@@ -109,14 +109,14 @@ Rule of thumb:
 **Overrated:** Speed Concept, Shiv, Trinity Advanced (brakes), and old alloy P1/P2SL/P2K (sellers ask $800–900 for bikes BBB puts at $480–600).
 
 ## Valuing a bike: use real numbers, not guesses
-The table above is only a starting point. For every candidate that might be a steal, set `fairValue` from evidence:
+The table above is only a starting point. For every candidate that might be a good deal, set `fairValue` from evidence:
 1. **Bicycle Blue Book** (bicyclebluebook.com/value-guide): look up the brand, model and year. Take the "Good" condition used value, convert USD to CAD (about 1.42 as of Sep 2026), then take off about 10% for the Québec/Ontario private market.
 2. **Comparables:** find 2–4 similar listings on Marketplace (same model ±2 years, similar groupset) and on Pinkbike's buy/sell (pinkbike.com/buysell, road/tri). Asking prices run high, so count them at about 85%.
 3. **Wheels on their own:** if the bike has real deep carbon wheels (Zipp, HED, Enve, Reynolds, Mavic Cosmic Carbone), value them separately with Pinkbike or eBay sold listings, then add them to the frameset value.
 4. Put `fairValue` as the lower end of what the evidence supports. In notes, write the sources in one line, for example: "BBB US$1,050 → ~C$1,300; comps $1,400/$1,550 (P2 2012 105)".
 
 ## All-in cost: count the real price, not the sticker
-The steal rule compares resale value with the **all-in cost**, not the asking price. All-in cost is the likely closing price plus:
+The good-deal check compares resale value with the **all-in cost**, not the asking price. All-in cost is the likely closing price plus:
 - **Gas for the pickup:** about $25 per hour of one-way driving. Ottawa ≈ $50 and Québec City ≈ $70 round trip.
 - **Tune-up:** add $120 unless the seller says it was just serviced and the photos agree.
 - **Parts that need replacing, based on the photos and the ad:**
@@ -129,7 +129,7 @@ The steal rule compares resale value with the **all-in cost**, not the asking pr
 - **Anything missing:** a saddle ($60 used), bottle cages, and aerobar pads ($40).
 - Pedals are not a cost, because Ryan moves his own.
 
-Put the total in `allInCost` and list what went into it in notes. **The steal test uses `allInCost`**: resale value must be at least $400 or 1.4× above the all-in cost.
+Put the total in `allInCost` and list what went into it in notes. **The good-deal check uses `allInCost`**: fair used value must be at least the all-in cost.
 
 ## Red flags in photos: check every candidate
 Zoom into the photos and ask for more if the view is missing. Record anything you find in notes:
@@ -156,24 +156,26 @@ Zoom into the photos and ask for more if the view is missing. Record anything yo
   - a replaced fork of a different make
 - A bike with no clear photos of the drivetrain side is a question to ask, not a pass.
 
-## What counts as a steal (Ryan, 2026-09-27: "all I care about")
-The goal is **value arbitrage**: pay about $1,000 for a bike that clearly resells for much more. A fairly priced bike is not a steal, however good it is.
+## Good deal or not (Ryan, 2026-09-29: replaces the old steal test)
+Ryan doesn't want a steal score. For every candidate, give a plain verdict: **Good deal** or **Not a good deal**, with one line of why.
 
-Only these should make it to messaging:
-1. It fits and passes every hard rule, **and**
-2. You believe it can close at **$1,200 or less** (ideally about $1,000), **and**
-3. Its fair used value (see "Valuing a bike") is **at least $400 above the all-in cost, or at least 1.4× it** (see "All-in cost"). So a $1,000 all-in cost needs a bike worth $1,400 or more.
+A listing is a **good deal** when all of these hold:
+1. It fits and passes every hard rule.
+2. It can likely close at **$1,200 or less**.
+3. Its **all-in cost is at or below its fair used value**: he'd get his money back if he resold it. (See "Valuing a bike" and "All-in cost".)
 
-Where steals come from:
+Anything else is **not a good deal**, even a nice bike: say which point fails (too small, proprietary brakes, all-in above value, too far…). Put the verdict first in `verdict`, then the numbers, for example "Good deal: worth ~$1,400; all-in ~$1,270 (close $1,100 + gas $50 + tune-up $120)". A good deal with a big margin (value well above all-in) is worth saying so, but no separate score.
+
+Where good deals come from:
 - **Underpriced by people who don't know the bike:** vague titles like "vélo de course", "vélo de mon mari", "bike for sale"; moving or estate sales; spouses selling. Photos showing a Cervélo P3/P2 carbon, Speed Concept, Argon, Felt DA/B2, or Zipp/Enve/HED wheels on real hubs.
 - **Stale listings from motivated sellers:** a bike worth $1,600–2,200 that has sat for weeks at $1,500–1,900. These can come down to about $1,100–1,200 with a polite, reasoned offer.
-- **Race wheels bundled with the bike:** real Zipp 404/808, HED Jet or Enve are worth $600–1,200 on their own, so a "bike + deep wheels" ad can be a steal even at full price.
+- **Race wheels bundled with the bike:** real Zipp 404/808, HED Jet or Enve are worth $600–1,200 on their own, so a "bike + deep wheels" ad can be a good deal even near full price.
 
-**Missing parts don't disqualify a steal (Ryan, 2026-09-29).** A frameset, a bike with no wheels, or one missing a saddle, aerobars or a shifter can still be a steal: price the missing parts at used Québec prices (a rim-brake 10/11-speed wheelset ~$150–350 alloy or ~$300–450 FLO/Cosmic Carbone-type; 105 group ~$250–400; aerobars ~$80–150; saddle ~$60) plus about $150 for a shop build if needed, add them to `allInCost`, and run the steal test on that. Only proprietary parts you can't buy (Speed Concept/Shiv brakes, a broken Plasma seat-mast topper) still mean pass.
+**Missing parts are fine (Ryan, 2026-09-29).** A frameset, a bike with no wheels, or one missing a saddle, aerobars or a shifter can still be a good deal: price the missing parts at used Québec prices (a rim-brake 10/11-speed wheelset ~$150–350 alloy or ~$300–450 FLO/Cosmic Carbone-type; 105 group ~$250–400; aerobars ~$80–150; saddle ~$60) plus about $150 for a shop build if needed, add them to `allInCost`, and judge on that. Only proprietary parts you can't buy (Speed Concept/Shiv brakes, a broken Plasma seat-mast topper) still mean pass.
 
-**Not steals:** the Cervélo P1 in Ottawa at $800 and the Slice in St-Jérôme at $1,150. Both are fair prices, not bargains. Keep them as fallbacks, not targets.
+**Buying priorities:** frame and fit first, then standard parts, then groupset (105/Ultegra; replacing a group costs $300–500+). Wheels are the easy swap: stock wheels resell for ~$50–150.
 
-Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a steal. In the `verdict`, always state resale value against all-in cost, for example "worth ~$1,700; all-in ~$1,180 (close $1,050 + tune-up + tyres)".
+Good deals that fit go to messaging (drafts for Ryan's OK). Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a good deal.
 
 ## Scam signals (mark passed)
 Any of these gets a listing marked passed:
@@ -217,11 +219,11 @@ On each card, a second price is the original asking price, so the listing has al
 
 - Skip ids already in `data/tracker.json`, except to check the price.
 - Open each plausible new listing and read the description, size, photos and "listed X ago" before judging it.
-- Ignore road bikes, spin bikes, kids' bikes and hybrids. Only tri/TT bikes count, plus road bikes that come with real deep race wheels, where the wheels alone make the steal.
+- Ignore road bikes, spin bikes, kids' bikes and hybrids. Only tri/TT bikes count, plus road bikes that come with real deep race wheels, where the wheels alone make it a good deal.
 - **Check the whole list before messaging.** A good bike found early may not be the best one today.
 
 ## Searching Kijiji (added 2026-09-27)
-Ryan asked for Kijiji to be part of every run. Older Québec sellers who don't know what they own still post there, and some never use Marketplace. That's the steal source. On the first test (27 Sep), inventory was thin: a province-wide "triathlon" search in Bikes returned 11 results and none were tri bikes. Run it anyway; it's cheap.
+Ryan asked for Kijiji to be part of every run. Older Québec sellers who don't know what they own still post there, and some never use Marketplace. That's where underpriced bikes hide. On the first test (27 Sep), inventory was thin: a province-wide "triathlon" search in Bikes returned 11 results and none were tri bikes. Run it anyway; it's cheap.
 
 **How Kijiji search behaves** (tested 2026-09-27):
 - No login needed. Use the same Chrome tab.
@@ -240,7 +242,7 @@ a.map(x=>{const c=x.closest('li,article,section')||x; return x.pathname.split('/
 
 Queries (run each on Québec and Ottawa): velo-triathlon, triathlon, tri-bike, time-trial, contre-la-montre, cervelo, felt, cannondale-slice, specialized-transition, argon-18, velo-de-course-carbone, zipp.
 
-In `data/tracker.json`, store a Kijiji listing with `id: "kijiji-<number>"`, `source: "kijiji"` and the full Kijiji `url`. Everything else (fit, hard rules, value, all-in cost, steal test, scam signals) is the same as for Marketplace.
+In `data/tracker.json`, store a Kijiji listing with `id: "kijiji-<number>"`, `source: "kijiji"` and the full Kijiji `url`. Everything else (fit, hard rules, value, all-in cost, good-deal check, scam signals) is the same as for Marketplace.
 
 Messaging on Kijiji uses its "Send message" box on the listing page, and may need Ryan's Kijiji login. If it asks for a login, don't create an account or sign in. Tell Ryan in the final message and leave the draft in the tracker. The approval rules in "Sending messages" apply the same way.
 
@@ -260,12 +262,12 @@ Marketplace and Kijiji remain the main hunt. Everything else was checked and cos
   - Mostly US shops at US$2,000+. Canadian listings are mostly BC/Alberta.
   - A private seller elsewhere in Canada can ship: about $95–260, with no duty or tax.
 
-**Toronto/GTA:** allowed only when the steal test still passes with the trip in the all-in cost.
+**Toronto/GTA:** allowed only when it's still a good deal with the trip in the all-in cost.
 - Meeting the seller halfway at Kingston: about $75–100 in fuel.
 - Same-day drive to Toronto: about $140–185 in fuel and 11–12 h.
 - VIA Rail takes no full-size bikes Montréal–Toronto in 2026. Buses don't work either.
 - A Toronto bike has to be at least about $100 cheaper than an Ottawa one to be worth the trip.
-- Seen 2026-09-28, all fair, none steals:
+- Seen 2026-09-28 (under the old steal test, none passed):
   - Cervélo P3 (2008-ish P3C) "53", $1,250, 12 weeks listed
   - alloy P3-SL, $1,000
   - Scott Plasma (1st gen) 54, $1,000 (was $2,200)
@@ -312,7 +314,7 @@ Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a s
 - **First offer:** about 70–75% of asking. Always give concrete reasons: a 10-speed groupset, worn tape and pads, tyres to replace, weeks on the market, comparable listings.
 - **Walking up:** move in small steps and never go above `target`. Stop after 3 counters; the bike becomes `watching` and you check back if the price drops.
 - **Tone (Ryan, 2026-09-29): sound like a committed, excited buyer.** Don't write "subject to seeing it" / "sous réserve de le voir" in messages; say he's ready to take it and "if you can do $X, it's a deal". Ryan still inspects at pickup (checklist under Locking) and can walk away if the bike isn't as described.
-- **Only commit at a steal price (Ryan, 2026-09-29).** Never offer or accept, in committed language ("it's a deal"), a price whose all-in cost fails the steal test. On 2026-09-29 the agent agreed a fair-but-not-steal $1,100 on a Slice and Ryan had to cancel. Openers and questions are fine; the committed number must pass the test.
+- **Only commit at a good-deal price (Ryan, 2026-09-29).** Never offer or accept, in committed language ("it's a deal"), a price at which the bike isn't a good deal (all-in above value, or a fit doubt). On 2026-09-29 the agent agreed $1,100 on a too-small Slice whose all-in was above its value, and Ryan had to cancel. Openers and questions are fine; the committed number must be a good deal.
 - **Never** offer or agree to a deposit, a shipment, or an e-transfer before viewing. Never share Ryan's address or phone number.
 - **Handing off:** once there's a price, the viewing time is Ryan's call. The seller only has to confirm the number; logistics go to Ryan.
 

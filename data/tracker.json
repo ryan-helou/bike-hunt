@@ -1202,7 +1202,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1433563015201756/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-09-29T20:08:26.633Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1214,7 +1214,10 @@
       "location": "Montréal, QC",
       "asking": 500,
       "status": "passed",
-      "verdict": "Frameset only."
+      "verdict": "Frameset only.",
+      "notes": [
+        "2026-09-29 re-check under the missing-parts rule: Kestrel Airfoil Pro SL-era carbon TT frame + fork + post + FD, $500 (or $750 with wheels, Dura-Ace RD, flat bar). Size not stated, 16 weeks listed. Needs shifters, basebar/aerobars, brakes, chain/cassette, build: all-in ~$1,300 at $750 vs ~$800 resale for a 2005-era Kestrel. Still pass."
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/27227286086909623/",
@@ -1672,6 +1675,40 @@
         "purpose": "Open on the FLO wheels at $300",
         "text": "Bonjour! Les roues FLO sont toujours disponibles? C'est quelle profondeur à l'arrière (60 ou 90)? Aucune fissure sur le carénage carbone et les roulements tournent bien? Je pourrais offrir 300$ cash, sous réserve de les voir. Je suis à Laval."
       }
+    },
+    {
+      "id": "35721421944172963",
+      "url": "https://www.facebook.com/marketplace/item/35721421944172963/",
+      "title": "Opus Magnificat TT frameset (7005 alloy, carbon stays/fork), 54 TT / 48 ST",
+      "location": "Longueuil, QC",
+      "asking": 300,
+      "status": "passed",
+      "verdict": "Frameset, 18 weeks listed. Built up: + wheels ~$250, 105 group ~$350, basebar/aerobars ~$150, saddle $60, build $150 = all-in ~$1,250. Worth ~$700 complete (weak-resale alloy TT). Not a steal even with parts.",
+      "firstSeenISO": "2026-09-29T20:08:26.633Z",
+      "updatedISO": "2026-09-29T20:08:26.633Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-29T20:08:26.633Z",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "id": "2192907787775490",
+      "url": "https://www.facebook.com/marketplace/item/2192907787775490/",
+      "title": "Devinci Leo T2 carbon frameset M (brakes/levers/aerobars incl.)",
+      "location": "Ottawa, ON",
+      "asking": 1000,
+      "status": "passed",
+      "verdict": "Needs wheels, crank, derailleurs, shifters, saddle (~$650-800 + build $150) plus gas $50: all-in ~$1,900 for a bike worth ~$1,100 (weak Devinci resale). Pass.",
+      "firstSeenISO": "2026-09-29T20:08:26.633Z",
+      "updatedISO": "2026-09-29T20:08:26.633Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-29T20:08:26.633Z",
+          "price": 1000
+        }
+      ]
     }
   ],
   "runs": [
@@ -1734,6 +1771,17 @@
         "Unverified: a $300 \"Argon 18\" in St-Eustache (1777479000113935) has only a video that would not load; almost certainly a road or hybrid at that price, not tracked.",
         "Pinkbike and the private tri groups not checked this run.",
         "No drafts: nobody replied, and the follow-ups only went out yesterday afternoon."
+      ]
+    },
+    {
+      "atISO": "2026-09-29T20:08:26.633Z",
+      "summary": "Afternoon ad-hoc sweep with the new missing-parts rule: no steals; three TT framesets (Opus, Devinci Leo T2, Kestrel) priced out above their built value.",
+      "searched": 17,
+      "newListings": 2,
+      "notes": [
+        "Ryan (2026-09-29): a steal with missing parts is still a steal; HUNT.md updated to price missing parts into allInCost.",
+        "Queries: cadre triathlon, tri frame, TT frameset, cervelo frame, triathlon/tri/TT bike, vélo triathlon, vélo contre la montre, cervelo, cannondale slice, felt triathlon, argon 18 triathlon, specialized transition, scott plasma (Montréal centre; Ottawa and Québec for the core tri queries), Kijiji triathlon.",
+        "Inbox: no seller replies (Lévis read our $750 counter). A Facebook 'Make an offer' prompt card appeared in the Montréal P2 thread; not from the seller."
       ]
     }
   ]

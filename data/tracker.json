@@ -419,7 +419,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T17:14:17.231Z",
+      "updatedISO": "2026-09-29T17:29:53.132Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -431,7 +431,7 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 990,
@@ -486,7 +486,12 @@
           "from": "us",
           "text": "Merci! Je peux monter à 750$ cash, sous réserve de le voir et l'essayer. Avant de faire 2h45 de route, peux-tu me confirmer que le cadre est bien en carbone, que les roues sont en aluminium et que les pneus sont en bon état?"
         }
-      ]
+      ],
+      "draft": {
+        "n": 2,
+        "purpose": "Follow-up: signal interest, ask groupset, stack measurement, seatpost, drivetrain photo",
+        "text": "Aussi, je suis vraiment intéressé! Quelques petites questions : c'est quel groupe (Tiagra, 105, Ultegra)? Peux-tu mesurer du centre du pédalier jusqu'en haut du tube de direction? La tige de selle bouge encore bien? Et si tu peux m'envoyer une photo du côté de la chaîne, ce serait parfait."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",

@@ -741,7 +741,6 @@
         "2026-09-29 18:28: seller rejected $1,100 with no counter. Draft 15 asks his number and moves to $1,200 (above the $1,150 target; Ryan to decide). All-in at $1,200 ~$1,370 (gas $50, tune-up $120) vs ~$1,300-1,500 value: fair, not a steal, but the exact-fit bike.",
         "2026-09-29 ~18:35: sent draft 15 ($1,200, asked his number) on Ryan's \"send\". Confirmed Sent.",
         "2026-09-29: Ryan: only steals. $1,200 fails the steal test (all-in ~$1,370 vs $1,300-1,500). If the seller accepts $1,200 or counters higher, pass politely; a steal needs ~$950 or less.",
-        "2026-09-29 19:01: seller replied to our $1,200: \"$1500 is the lowest I’ll go.\" Per Ryan, pass politely. Draft 16 declines and leaves the door open at $1,100. Listed 18 weeks; watch for a drop.",
         "2026-09-29 19:01: seller's floor is $1,500. Draft 19 passes politely and leaves the door open."
       ],
       "thread": [
@@ -769,11 +768,6 @@
           "atISO": "2026-09-29T22:38:06.918Z",
           "from": "us",
           "text": "No worries! What's the best you'd take? I could go up to $1,200 cash, and I'm ready to come pick it up this week."
-        },
-        {
-          "atISO": "2026-09-29T19:01:00-04:00",
-          "from": "seller",
-          "text": "$1500 is the lowest I’ll go."
         },
         {
           "atISO": "2026-09-29T19:01:00-04:00",
@@ -2017,7 +2011,7 @@
         "Opened: Québec \"Vélo Cervélo\" (Cervélo RS road), Montréal \"Vélo full CARBONE FELT\" (mountain bike), Boucherville \"Cannondale\" (Scalpel MTB), Valleyfield \"Vélo\" (Kestrel Talon road 57), Profile Design aerobar set ($1,000, parts only), three Argon 18 road bikes.",
         "Seen but over $2,000 or too big: Argon 18 tri bike Montréal $3,000 (just listed), TT/tri 58 cm Trois-Rivières $2,800.",
         "Kijiji: 24 searches (Québec + Ottawa), no tri bikes; FLO wheels and the Ottawa P5 still up.",
-        "Pending drafts for Ryan: 16 (P2C pass), plus older 1 (FLO wheels, on hold), 2 (Lévis P2 questions), 7 (Ste-Marguerite Slice, held).",
+        "Pending drafts for Ryan: 19 (P2C pass, drafted in Ryan’s live session), plus older 1 (FLO wheels, on hold), 2 (Lévis P2 questions), 7 (Ste-Marguerite Slice, held).",
         "Not checked this run: Facebook tri groups, Pinkbike."
       ]
     }

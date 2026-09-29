@@ -677,7 +677,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T22:20:45.140Z",
+      "updatedISO": "2026-09-29T22:31:31.953Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -689,7 +689,7 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 2000,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "54",
       "fairValue": 1300,
       "allInCost": 1470,
@@ -699,7 +699,8 @@
         "Headset, cables and front brake replaced last winter. XLab wing included.",
         "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-09-29: available, no crashes, great shape, 10-speed, seller is 5'9\" (Ryan's height, so the 54 should fit as set up). No price given. Worth ~$1,300-1,500; comps: P2C 48 Ottawa $1,300, P2 carbon 48 Burlington $1,400.",
-        "2026-09-29 ~18:20: sent draft 14 (committed-buyer tone) on Ryan's \"send\". Confirmed Sent in the chat."
+        "2026-09-29 ~18:20: sent draft 14 (committed-buyer tone) on Ryan's \"send\". Confirmed Sent in the chat.",
+        "2026-09-29 18:28: seller rejected $1,100 with no counter. Draft 15 asks his number and moves to $1,200 (above the $1,150 target; Ryan to decide). All-in at $1,200 ~$1,370 (gas $50, tune-up $120) vs ~$1,300-1,500 value: fair, not a steal, but the exact-fit bike."
       ],
       "thread": [
         {
@@ -716,8 +717,18 @@
           "atISO": "2026-09-29T22:20:45.140Z",
           "from": "us",
           "text": "Awesome, it sounds like the perfect bike for me since I'm your height! I'm ready to take it. Could you do $1,100 cash? If so it's a deal, and I can come to Ottawa this week."
+        },
+        {
+          "atISO": "2026-09-29T18:28:00-04:00",
+          "from": "seller",
+          "text": "Sorry. That's too low."
         }
-      ]
+      ],
+      "draft": {
+        "n": 15,
+        "purpose": "Ask his number, move to $1,200",
+        "text": "No worries! What's the best you'd take? I could go up to $1,200 cash, and I'm ready to come pick it up this week."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",

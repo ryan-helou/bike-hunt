@@ -419,7 +419,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-29T17:11:35.472Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -431,12 +431,12 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 990,
       "target": 750,
-      "verdict": "Available after all. Worth ~$1,250; all-in ~$990 at a $700 close (+ gas $70, tune-up $120, tyres $100 if needed). Not a steal by the rule even at $700 (1.26x); it only passes near $600. Offer $700 and see.",
+      "verdict": "Seller countered at $850 (from $1,000, after our $700). Worth ~$1,250; all-in ~$1,140 at $850 (+ gas $70, tune-up $120, tyres $100 if needed): not a steal. At $750 all-in ~$1,040 (1.2x), still short of the steal rule, which only passes near $600. Target stays $750.",
       "notes": [
         "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
         "Photos did not load this run. Listed 10 weeks.",
@@ -446,7 +446,8 @@
         "\"Roue en acier\" literally means steel wheels. Probably he means aluminium, but steel rims would brake badly in the wet: the draft asks.",
         "Seller 5'11\" on a 51 suggests a low front end and a long post; Ryan needs ~72 cm BB-to-saddle, which fits within the 99 cm ground-to-saddle he gives.",
         "2026-09-28 15:19: sent draft 1 on Ryan's \"yes send\" (offer $700, asked rims/tyres). Confirmed Sent in the chat.",
-        "2026-09-29 research: BBB Good for a 2010 P2 carbon is ~C$550-680, so the $700 offer is fair-to-good, not a steal. P2 2010-14 = 512/418 at 54; a 51 is lower and shorter. Threaded BSA BB."
+        "2026-09-29 research: BBB Good for a 2010 P2 carbon is ~C$550-680, so the $700 offer is fair-to-good, not a steal. P2 2010-14 = 512/418 at 54; a 51 is lower and shorter. Threaded BSA BB.",
+        "2026-09-29 13:10: seller replied \"850$\" only; he did not answer the rims/tyres question. Counter 2 of 3 drafted at $750 (target). Still unconfirmed whether the frame is carbon (main photo looks like a 2006-07 alloy P2K)."
       ],
       "thread": [
         {
@@ -473,8 +474,18 @@
           "atISO": "2026-09-28T15:19:00-04:00",
           "from": "us",
           "text": "Merci! Les roues sont en aluminium? Et les pneus sont en bon état? Vu que c'est un 10 vitesses de 2010 et que j'ai 2h45 de route pour venir, je peux t'offrir 700$ cash, sous réserve de le voir et l'essayer. Ça te va?"
+        },
+        {
+          "atISO": "2026-09-29T13:10:00-04:00",
+          "from": "seller",
+          "text": "850$"
         }
-      ]
+      ],
+      "draft": {
+        "n": 1,
+        "purpose": "Counter at $750 (our target cap) and confirm carbon frame, rims and tyres before a 2h45 drive",
+        "text": "Merci! Je peux monter à 750$ cash, sous réserve de le voir et l'essayer. Avant de faire 2h45 de route, peux-tu me confirmer que le cadre est bien en carbone, que les roues sont en aluminium et que les pneus sont en bon état?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",

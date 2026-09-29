@@ -55,7 +55,7 @@ export function validListing(x: unknown): x is Listing {
   return (
     !!l &&
     typeof l.id === "string" &&
-    /^\d+$/.test(l.id) &&
+    /^(kijiji-)?\d+$/.test(l.id) &&
     typeof l.url === "string" &&
     SOURCES.some((prefix) => l.url.startsWith(prefix)) &&
     typeof l.title === "string" &&

@@ -20,6 +20,8 @@ assert.ok(validListing({ ...base, url: "https://www.facebook.com/groups/quebecve
 assert.ok(validListing({ ...base, url: "https://www.kijiji.ca/v-road-bike/ottawa/cervelo-p2/123" }), "kijiji allowed");
 assert.ok(!validListing({ ...base, status: "whatever" }), "unknown status rejected");
 assert.ok(!validListing({ ...base, id: "12a" }), "ids are numeric");
+assert.ok(validListing({ ...base, id: "kijiji-1743545473" }), "kijiji ids allowed");
+assert.ok(!validListing({ ...base, id: "kijiji-" }), "kijiji id needs a number");
 
 const g = groupListings([
   { ...base, id: "1", status: "needs-ok", draft: { n: 2, purpose: "", text: "" } },

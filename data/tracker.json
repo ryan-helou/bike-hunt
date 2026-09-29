@@ -1634,6 +1634,38 @@
           "price": 1200
         }
       ]
+    },
+    {
+      "id": "kijiji-1743545473",
+      "source": "kijiji",
+      "url": "https://www.kijiji.ca/v-road-bike/ville-de-montreal/roues-carbone-velo-flo-11-vitesses/1743545473",
+      "title": "FLO carbon wheelset (FLO 60 front + likely 90 rear), 11-speed, rim brake, aluminium brake track",
+      "location": "Montréal, QC",
+      "driveHours": 0.4,
+      "asking": 350,
+      "status": "needs-ok",
+      "firstSeenISO": "2026-09-29T17:25:46.830Z",
+      "updatedISO": "2026-09-29T17:25:46.830Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-29T17:25:46.830Z",
+          "price": 350
+        }
+      ],
+      "fairValue": 450,
+      "target": 300,
+      "verdict": "Wheel upgrade for the Lévis P2, not a bike. FLO rims are carbon fairings over an aluminium brake track, so they pass the rim-brake rule. Asking $350, negotiable; worth ~$400-500 used. Net ~$250-275 after selling the P2's stock Shimano wheels.",
+      "notes": [
+        "Ad: bought 2016 for $800 + tax, used only for triathlon races, negotiable. Posted 1 week ago. Photo shows a FLO 60 front with Conti GP4000 tyres; a thin light band at the rim edge matches the alloy brake track.",
+        "11-speed freehub: takes the P2's 10-speed cassette with a 1.85 mm spacer.",
+        "Check: cracks or lifting where the carbon fairing meets the alloy rim, hub bearings, brake-track wear, and which rear depth it is.",
+        "Kijiji messaging needs Ryan's Kijiji login: send it himself if the session can't."
+      ],
+      "draft": {
+        "n": 1,
+        "purpose": "Open on the FLO wheels at $300",
+        "text": "Bonjour! Les roues FLO sont toujours disponibles? C'est quelle profondeur à l'arrière (60 ou 90)? Aucune fissure sur le carénage carbone et les roulements tournent bien? Je pourrais offrir 300$ cash, sous réserve de les voir. Je suis à Laval."
+      }
     }
   ],
   "runs": [

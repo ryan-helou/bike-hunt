@@ -602,7 +602,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T22:20:45.140Z",
+      "updatedISO": "2026-09-29T22:38:06.918Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -614,7 +614,7 @@
       "location": "Joliette, QC",
       "driveHours": 0.75,
       "asking": 1500,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1150,
       "allInCost": 1300,
@@ -624,7 +624,8 @@
         "Listed 5 weeks. Groupset and year not stated.",
         "2026-09-29 ~17:50: sent draft 5 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-09-29: seller says 2018 Slice, mostly SRAM Force, 53-39, 170 mm cranks, 10-speed, second owner, he's 5'6\". SRAM Force 10-speed suggests an older (pre-2015) Slice; \"2018\" may be when he bought it. No price or crash answer yet.",
-        "2026-09-29 ~18:20: sent draft 13 (committed-buyer tone) on Ryan's \"send\". Confirmed Sent in the chat."
+        "2026-09-29 ~18:20: sent draft 13 (committed-buyer tone) on Ryan's \"send\". Confirmed Sent in the chat.",
+        "2026-09-29 18:32: seller counters $1,200, no crashes. Likely a pre-2015 1st-gen Slice (SRAM Force 10-sp): worth ~$1,100-1,300; all-in at $1,200 ~$1,435 (gas ~$25, tune-up $120, BB30 service ~$90). Draft 16 counters $1,100."
       ],
       "thread": [
         {
@@ -646,8 +647,18 @@
           "atISO": "2026-09-29T22:20:45.140Z",
           "from": "us",
           "text": "Merci! Il m'intéresse vraiment, je suis prêt à le prendre. Il a déjà été accidenté? Si tu peux faire 1 050$ cash, c'est un deal et je passe le chercher cette semaine."
+        },
+        {
+          "atISO": "2026-09-29T18:32:00-04:00",
+          "from": "seller",
+          "text": "Prends-le pour 1 200. Il n'a jamais eu d'accident."
         }
-      ]
+      ],
+      "draft": {
+        "n": 16,
+        "purpose": "Counter the Slice at $1,100",
+        "text": "Merci! Je peux monter à 1 100$ cash, et je passe le chercher cette semaine. Ça te va?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1592605915624733/",
@@ -677,7 +688,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T22:31:31.953Z",
+      "updatedISO": "2026-09-29T22:38:06.918Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -689,18 +700,19 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 2000,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "54",
       "fairValue": 1300,
       "allInCost": 1470,
-      "target": 1150,
+      "target": 1200,
       "verdict": "Fits, stale (18 weeks) but $2,000 is well above ~$1,300 value. Only interesting under ~$1,000.",
       "notes": [
         "Headset, cables and front brake replaced last winter. XLab wing included.",
         "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-09-29: available, no crashes, great shape, 10-speed, seller is 5'9\" (Ryan's height, so the 54 should fit as set up). No price given. Worth ~$1,300-1,500; comps: P2C 48 Ottawa $1,300, P2 carbon 48 Burlington $1,400.",
         "2026-09-29 ~18:20: sent draft 14 (committed-buyer tone) on Ryan's \"send\". Confirmed Sent in the chat.",
-        "2026-09-29 18:28: seller rejected $1,100 with no counter. Draft 15 asks his number and moves to $1,200 (above the $1,150 target; Ryan to decide). All-in at $1,200 ~$1,370 (gas $50, tune-up $120) vs ~$1,300-1,500 value: fair, not a steal, but the exact-fit bike."
+        "2026-09-29 18:28: seller rejected $1,100 with no counter. Draft 15 asks his number and moves to $1,200 (above the $1,150 target; Ryan to decide). All-in at $1,200 ~$1,370 (gas $50, tune-up $120) vs ~$1,300-1,500 value: fair, not a steal, but the exact-fit bike.",
+        "2026-09-29 ~18:35: sent draft 15 ($1,200, asked his number) on Ryan's \"send\". Confirmed Sent."
       ],
       "thread": [
         {
@@ -722,13 +734,13 @@
           "atISO": "2026-09-29T18:28:00-04:00",
           "from": "seller",
           "text": "Sorry. That's too low."
+        },
+        {
+          "atISO": "2026-09-29T22:38:06.918Z",
+          "from": "us",
+          "text": "No worries! What's the best you'd take? I could go up to $1,200 cash, and I'm ready to come pick it up this week."
         }
-      ],
-      "draft": {
-        "n": 15,
-        "purpose": "Ask his number, move to $1,200",
-        "text": "No worries! What's the best you'd take? I could go up to $1,200 cash, and I'm ready to come pick it up this week."
-      }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",

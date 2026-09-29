@@ -613,7 +613,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T22:53:19.541Z",
+      "updatedISO": "2026-09-29T23:01:28.273Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -625,12 +625,12 @@
       "location": "Joliette, QC",
       "driveHours": 0.75,
       "asking": 1500,
-      "status": "locked",
+      "status": "passed",
       "size": "51",
       "fairValue": 1100,
       "allInCost": 1300,
       "target": 1100,
-      "verdict": "LOCKED at $1,100 (asked $1,500). 1st-gen-style Slice 51, SRAM Force 10-sp, no crashes. Worth ~$1,100-1,300; all-in ~$1,335 (gas ~$25 Joliette, tune-up $120, BB30 service ~$90). Fair price, fits (seller 5'6\", says 5'5\"-5'9\").",
+      "verdict": "Passed after agreeing $1,100: fails the steal test (all-in ~$1,335 vs ~$900-1,250 value) and the 51 Slice reach is short for 5'9\". Cancelled politely on 2026-09-29 before any pickup was arranged.",
       "notes": [
         "Listed 5 weeks. Groupset and year not stated.",
         "2026-09-29 ~17:50: sent draft 5 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
@@ -677,9 +677,13 @@
           "atISO": "2026-09-29T18:51:00-04:00",
           "from": "seller",
           "text": "D'accord"
+        },
+        {
+          "atISO": "2026-09-29T23:01:28.273Z",
+          "from": "us",
+          "text": "Salut! Désolé, après réflexion je vais passer mon tour : le cadre 51 risque d'être un peu petit pour moi et je préfère ne pas te faire perdre ton temps. Merci beaucoup et bonne vente!"
         }
-      ],
-      "lockedPrice": 1100
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1592605915624733/",
@@ -725,7 +729,7 @@
       "size": "54",
       "fairValue": 1300,
       "allInCost": 1470,
-      "target": 1200,
+      "target": 950,
       "verdict": "Fits, stale (18 weeks) but $2,000 is well above ~$1,300 value. Only interesting under ~$1,000.",
       "notes": [
         "Headset, cables and front brake replaced last winter. XLab wing included.",
@@ -733,7 +737,8 @@
         "2026-09-29: available, no crashes, great shape, 10-speed, seller is 5'9\" (Ryan's height, so the 54 should fit as set up). No price given. Worth ~$1,300-1,500; comps: P2C 48 Ottawa $1,300, P2 carbon 48 Burlington $1,400.",
         "2026-09-29 ~18:20: sent draft 14 (committed-buyer tone) on Ryan's \"send\". Confirmed Sent in the chat.",
         "2026-09-29 18:28: seller rejected $1,100 with no counter. Draft 15 asks his number and moves to $1,200 (above the $1,150 target; Ryan to decide). All-in at $1,200 ~$1,370 (gas $50, tune-up $120) vs ~$1,300-1,500 value: fair, not a steal, but the exact-fit bike.",
-        "2026-09-29 ~18:35: sent draft 15 ($1,200, asked his number) on Ryan's \"send\". Confirmed Sent."
+        "2026-09-29 ~18:35: sent draft 15 ($1,200, asked his number) on Ryan's \"send\". Confirmed Sent.",
+        "2026-09-29: Ryan: only steals. $1,200 fails the steal test (all-in ~$1,370 vs $1,300-1,500). If the seller accepts $1,200 or counters higher, pass politely; a steal needs ~$950 or less."
       ],
       "thread": [
         {

@@ -111,10 +111,10 @@
       "location": "Québec, QC",
       "driveHours": 2.75,
       "asking": 1200,
-      "status": "negotiating",
-      "verdict": "Good deal only at ~$700 or less: an alloy 2008 P2 SL is worth ~$900; all-in = price + ~$190. Size unknown.",
+      "status": "watching",
+      "verdict": "Seller's floor is $1,075. They're 5'11\" and first said '54 I think', then '56-58cm': probably too big for 5'9\", and $1,075 is above the ~$1,000 value. Pass unless the price drops a lot and the frame is confirmed as a 54.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-30T13:40:37.353Z",
+      "updatedISO": "2026-09-30T13:30:00-04:00",
       "firstAsking": 1400,
       "fairValue": 1000,
       "target": 700,
@@ -140,6 +140,36 @@
           "atISO": "2026-09-30T09:13:00-04:00",
           "from": "us",
           "text": "Salut, petit suivi pour le P2 SL. Je suis sérieux et prêt à acheter: si tu peux faire 700$ cash, c'est un deal et je m'organise pour venir à Québec cette semaine."
+        },
+        {
+          "atISO": "2026-09-30T12:20:00-04:00",
+          "from": "seller",
+          "text": "1075$"
+        },
+        {
+          "atISO": "2026-09-30T12:20:00-04:00",
+          "from": "seller",
+          "text": "L'état du vélo est comme neuf"
+        },
+        {
+          "atISO": "2026-09-30T12:20:00-04:00",
+          "from": "seller",
+          "text": "Je suis 5p 11"
+        },
+        {
+          "atISO": "2026-09-30T12:20:00-04:00",
+          "from": "seller",
+          "text": "Et le cadre je crois que c'est 54cm"
+        },
+        {
+          "atISO": "2026-09-30T12:21:00-04:00",
+          "from": "us",
+          "text": "Ok parfait merci pour les infos"
+        },
+        {
+          "atISO": "2026-09-30T12:22:00-04:00",
+          "from": "seller",
+          "text": "56-58cm"
         }
       ],
       "draft": null
@@ -229,9 +259,9 @@
       "driveHours": 2,
       "asking": 1050,
       "status": "negotiating",
-      "verdict": "Good deal only at ~$780 or less, and only if the 52 really fits: worth ~$950; all-in = price + ~$170.",
+      "verdict": "Size 51/52 (fine on the small side for 5'9\"). Floor $950 because of a competing offer; worth ~$950, so fair, not a steal. Waiting on the stack measurement. Pay by e-transfer only at pickup, after the inspection.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-30T10:22:01-04:00",
+      "updatedISO": "2026-09-30T13:30:00-04:00",
       "fairValue": 950,
       "target": 780,
       "size": "52?",
@@ -255,6 +285,21 @@
           "atISO": "2026-09-30T10:22:01-04:00",
           "from": "us",
           "text": "Hi, just following up on the P2. If the frame suits someone 5'9\" (51 to 54), I could do $780 cash and come to Ottawa this week. If that works, it's a deal."
+        },
+        {
+          "atISO": "2026-09-30T11:53:00-04:00",
+          "from": "seller",
+          "text": "Hi apologies I haven't had a chance to measure, I can try later today. It's a size 51 or 52 frame."
+        },
+        {
+          "atISO": "2026-09-30T11:53:00-04:00",
+          "from": "seller",
+          "text": "Etransfer is preferred. I have someone offering $950 so that's lowest I would go at the moment. Thanks!"
+        },
+        {
+          "atISO": "2026-09-30T12:00:00-04:00",
+          "from": "us",
+          "text": "Ok perfect, I'm very interested and can buy this week, please let me know when you measure"
         }
       ]
     },
@@ -658,7 +703,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T13:40:37.353Z",
+      "updatedISO": "2026-09-30T13:30:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -676,7 +721,7 @@
       "fairValue": 850,
       "allInCost": 1000,
       "target": 750,
-      "verdict": "Dropped from $1,250 and 15 weeks up, but a Trinity composite is worth ~$850; all-in ~$1,000 at $750. Size \"50\" on a Giant that runs large: check stack.",
+      "verdict": "Seller came down to $900 (worth ~$850), still no measurement. A size-50 Giant runs large, so it may fit. Not a deal at $900; only interesting at ~$750 once the fit is confirmed.",
       "notes": [
         "Easton Aero Force bars, AeroDrink, Look Keo pedals included.",
         "2026-09-29 evening: Ryan asked for more long shots; draft 29 written.",
@@ -699,6 +744,11 @@
           "atISO": "2026-09-30T09:32:00-04:00",
           "from": "us",
           "text": "Merci! J'ai déjà tout l'équipement, donc c'est juste le vélo qui m'intéresse. Envoie-moi la mesure quand tu peux. Pour le vélo seul, c'est quoi ton meilleur prix cash?"
+        },
+        {
+          "atISO": "2026-09-30T11:37:00-04:00",
+          "from": "seller",
+          "text": "Deja vraiment bas pour ce velo avec l'equipement ultegra en plus et autres pieces rare haute gamme, mais bon je peux allez a $900 ca paye ton gas pour venir le chercher."
         }
       ],
       "draft": null

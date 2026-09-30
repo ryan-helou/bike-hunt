@@ -111,16 +111,17 @@
       "location": "Québec, QC",
       "driveHours": 2.75,
       "asking": 1200,
-      "status": "negotiating",
+      "status": "needs-ok",
       "verdict": "Good deal only at ~$700 or less: an alloy 2008 P2 SL is worth ~$900; all-in = price + ~$190. Size unknown.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-30T13:05:49.656Z",
       "firstAsking": 1400,
       "fairValue": 1000,
       "target": 700,
       "notes": [
         "2026-09-27: still listed at $1,200, no change.",
-        "2026-09-29 ~17:50: sent draft 4 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~17:50: sent draft 4 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-09-30: early follow-up drafted on Ryan's ask (only ~14 h since the opener; this uses the one nudge)."
       ],
       "priceHistory": [
         {
@@ -134,7 +135,12 @@
           "from": "us",
           "text": "Salut! Toujours disponible? C'est quelle grandeur de cadre, et t'es de quelle taille toi? C'est quel groupe (105, Ultegra?) et 9 ou 10 vitesses? La tige de selle bouge encore bien? C'est quoi ton meilleur prix cash? Je suis à Laval."
         }
-      ]
+      ],
+      "draft": {
+        "n": 4,
+        "purpose": "Early follow-up with a committed good-deal number ($700)",
+        "text": "Salut, je fais un petit suivi pour le P2 SL. Je suis sérieux et prêt à acheter: si tu peux faire 700$ cash, c'est un deal et je m'organise pour venir à Québec cette semaine. Tu peux juste me confirmer la grandeur du cadre?"
+      }
     },
     {
       "id": "1366520905547089",
@@ -177,10 +183,10 @@
       "location": "Montague, ON",
       "driveHours": 2.5,
       "asking": 1000,
-      "status": "negotiating",
+      "status": "needs-ok",
       "verdict": "Good deal only at ~$700 or less for an alloy Transition: worth ~$800-950; all-in = price + ~$170.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T23:09:59.588Z",
+      "updatedISO": "2026-09-30T13:05:49.656Z",
       "fairValue": 950,
       "target": 700,
       "size": "53.4",
@@ -188,7 +194,8 @@
         "2026-09-27: still listed at $1,000, no change.",
         "2026-09-29 research: Transition carbon (2008-12) uses proprietary centre-pull brakes with the rear under the BB; alloy Transitions use standard calipers. Confirm which this is before any offer.",
         "2026-09-29 ~18:05: sent draft 9 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
-        "2026-09-29 evening: listing shows $1,000 with $1,200 crossed out (already dropped once). No reply yet."
+        "2026-09-29 evening: listing shows $1,000 with $1,200 crossed out (already dropped once). No reply yet.",
+        "2026-09-30: early follow-up drafted on Ryan's ask. $700 is a good deal only for an alloy/standard-brake Transition, hence the condition in the text."
       ],
       "priceHistory": [
         {
@@ -203,7 +210,12 @@
           "text": "Hi! Is this still available? What year is it, and is the frame aluminium or carbon? Does it use regular brake calipers? Any crashes, and what's the best you could do for cash? I'm in Laval."
         }
       ],
-      "firstAsking": 1200
+      "firstAsking": 1200,
+      "draft": {
+        "n": 5,
+        "purpose": "Early follow-up with a committed good-deal number ($700)",
+        "text": "Hi, just following up on the Transition. I'm ready to buy: if it has regular brake calipers and you could do $700 cash, it's a deal and I'll plan the drive this week."
+      }
     },
     {
       "id": "1071871482371740",
@@ -632,7 +644,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-09-30T13:05:49.656Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -645,7 +657,7 @@
       "driveHours": 1,
       "asking": 950,
       "firstAsking": 1250,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "50 (S?)",
       "fairValue": 850,
       "allInCost": 1000,
@@ -654,15 +666,26 @@
       "notes": [
         "Easton Aero Force bars, AeroDrink, Look Keo pedals included.",
         "2026-09-29 evening: Ryan asked for more long shots; draft 29 written.",
-        "2026-09-29 ~20:25: sent draft 29 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 29 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-09-30 07:50: seller is 5'8\" (good sign for fit), will measure stack later today, pushing a gear package (clothes, shoes, helmet). No commitment until the stack is known and the price is near a good deal (~$600-650: all-in = price + gas ~$40 + tune-up $120 vs ~$850 value)."
       ],
       "thread": [
         {
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Salut! Toujours disponible? Le 50 cm, c’est un Small ou un Medium chez Giant? T’es de quelle taille, et peux-tu mesurer du centre du pédalier jusqu’en haut du tube de direction? C’est quoi ton meilleur prix cash?"
+        },
+        {
+          "atISO": "2026-09-30T07:50:00-04:00",
+          "from": "seller",
+          "text": "Bonjour je mesure 5'8 je vais mesurer plus tard aujourd'hui et je vous dis les dimensions. J'ai beaucoup d'équipement de vélo si tu es dans la même taille que moi: plusieurs cuissards Shimano, jersey Shimano et autres, linge pour temps froid, souliers avec clips, casque qui matche le vélo. Je suis négo sur un package, tout doit partir."
         }
-      ]
+      ],
+      "draft": {
+        "n": 2,
+        "purpose": "Reply: bike only, wait for the stack measurement, ask price",
+        "text": "Merci! J'ai déjà tout le linge et l'équipement, donc c'est juste le vélo qui m'intéresse. Envoie-moi la mesure quand tu peux (centre du pédalier jusqu'en haut du tube de direction). Pour le vélo seul, c'est quoi ton meilleur prix cash?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
@@ -837,7 +860,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-30T13:05:49.656Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -849,7 +872,7 @@
       "location": "Montréal, QC",
       "driveHours": 0.25,
       "asking": 1900,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "?",
       "fairValue": 1300,
       "allInCost": 1450,
@@ -857,7 +880,8 @@
       "verdict": "Good deal only at ~$1,130 or less: worth ~$1,300; all-in = price + ~$170. Size/year unknown.",
       "notes": [
         "Listed 3 weeks. \"Selling because I have a better one.\"",
-        "2026-09-29 ~18:05: sent draft 10 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~18:05: sent draft 10 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-09-30: early follow-up drafted on Ryan's ask. $1,100 is under the $1,130 good-deal line; the size condition protects the fit."
       ],
       "thread": [
         {
@@ -865,7 +889,12 @@
           "from": "us",
           "text": "Hi! Is this still available? What year and frame size is it, and what groupset? Any crashes? What's the best you could do for cash? I'm in Laval and can come by this week."
         }
-      ]
+      ],
+      "draft": {
+        "n": 6,
+        "purpose": "Early follow-up with a committed good-deal number ($1,100)",
+        "text": "Hi, just following up on the P2. If it's a 54 (or a 51 or 56) and you could do $1,100 cash, it's a deal. I'm in Laval and can come by this week."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
@@ -1519,7 +1548,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-30T13:05:49.656Z",
       "thread": [
         {
           "atISO": "2026-09-29T22:09:19.438Z",
@@ -1543,7 +1572,7 @@
       "driveHours": 2.75,
       "asking": 1449,
       "firstAsking": 1750,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "unknown",
       "fairValue": 1050,
       "allInCost": 1190,
@@ -1554,8 +1583,14 @@
         "Ad: Ultegra groupset, FSA crank, two new tyres, used for one 70.3, two 40 km rides and half a trainer season. Comes with risers, rear bottle cage, Look pedals, computer mount.",
         "Value evidence: table $700-1,100 for B12/B14/B16; Kingston 2014 B14 (tracked) asks $1,000. BBB not checked.",
         "Listed a week ago, already down from $1,750.",
-        "2026-09-29 ~18:05: sent draft 11 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
-      ]
+        "2026-09-29 ~18:05: sent draft 11 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-09-30: early follow-up drafted on Ryan's ask. $850 posed as a question, not a commitment, since size/year are unknown (2014+ Felt runs tall)."
+      ],
+      "draft": {
+        "n": 7,
+        "purpose": "Early follow-up: size + price nudge",
+        "text": "Salut, petit suivi pour le Felt B14. C'est quelle grandeur de cadre et quelle année? S'il me fait, je suis prêt à l'acheter rapidement. Tu serais ouvert à 850$ cash?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1032305399343918/",
@@ -1670,7 +1705,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/3595288533961051/",
       "firstSeenISO": "2026-09-28T22:43:55.286Z",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T13:05:49.656Z",
       "thread": [],
       "priceHistory": [
         {
@@ -1682,19 +1717,25 @@
         "Model: Argon 18 E-80 (entry alloy TT, Thermotech Alu 3005 frame, carbon fork), year not stated (E-80 sold ~2009-2012). Seller says 53 cm frame height; geometry unknown, ask stack or seller height before any offer.",
         "Ad: \"Neuf\", tyres new, Shimano derailleur (groupset level not stated). Seller says paid $2,600. Also selling size 43 shoes.",
         "Value evidence: alloy entry TT bikes (P1 $650-900, Transition alloy $700-1,100 in the table); no E-80 comps found this run. BBB not checked.",
-        "Listed 7 weeks at $1,900 with no drop yet. Alloy frame: ask whether the seatpost moves."
+        "Listed 7 weeks at $1,900 with no drop yet. Alloy frame: ask whether the seatpost moves.",
+        "2026-09-30: hail mary on Ryan's ask. At $650 all-in ~$800 (gas ~$30, tune-up $120) vs ~$900 value: a good deal only at this price."
       ],
       "id": "3595288533961051",
       "title": "Argon 18 E-80 alloy TT, 53 cm, carbon fork",
       "location": "St-Germain-de-Grantham, QC",
       "driveHours": 1.25,
       "asking": 1900,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "53",
       "fairValue": 900,
       "allInCost": 1180,
       "target": 650,
-      "verdict": "Overpriced: worth ~$900 at most; all-in ~$1,180 even at a $1,000 close (+ gas $30, tune-up $120, tyres/tape unknown). Only worth a message under ~$650."
+      "verdict": "Overpriced: worth ~$900 at most; all-in ~$1,180 even at a $1,000 close (+ gas $30, tune-up $120, tyres/tape unknown). Only worth a message under ~$650.",
+      "draft": {
+        "n": 8,
+        "purpose": "Hail mary opener at $650",
+        "text": "Salut! Toujours disponible? T'es de quelle taille, et c'est quel groupe Shimano (105, Ultegra?), combien de vitesses? La tige de selle bouge encore bien? Vu que c'est un cadre alu, je pourrais offrir 650$ cash, et si ça te va c'est un deal."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2242395686540526/",
@@ -2170,6 +2211,62 @@
           "text": "Hi! Is this still available? What year is it, and what groupset (10 or 11 speed)? Any crashes, and how tall are you? I’m in Montréal: would you consider $1,050 cash if we met partway, around Kingston?"
         }
       ]
+    },
+    {
+      "id": "1982719719054859",
+      "source": "marketplace",
+      "url": "https://www.facebook.com/marketplace/item/1982719719054859/",
+      "title": "Cervélo P2 2012 carbon 54, Ultegra 6700, Mavic Cosmic Carbone SL",
+      "location": "Toronto, ON",
+      "asking": 1700,
+      "firstAsking": 1700,
+      "priceHistory": [
+        {
+          "atISO": "2026-09-30T13:05:49.656Z",
+          "price": 1700
+        }
+      ],
+      "status": "needs-ok",
+      "fairValue": 1400,
+      "allInCost": 1320,
+      "target": 1150,
+      "verdict": "Potential, good deal at ~$1,100: 2012 P2 54 (512/418, ideal fit), worth ~$1,400-1,500 with the Cosmic Carbone SLs; all-in at $1,100 ~$1,320 met in Kingston (gas ~$100, tune-up $120; new GP5000s so no tyres).",
+      "notes": [
+        "Ad: 2012 Cervélo P2, 54, full carbon, Ultegra 6700 2x10, 165 crank, 50/34, 10-25. Mavic Cosmic Carbone SL (carbon fairing over alloy brake track: passes the rim rule), GP5000 S TR + TPU tubes nearly new, 3T Aura Pro base bar + 3T clips, Cobb saddle. Minor cosmetic scratches, stored indoors, test ride offered. Listed 6 weeks at $1,700, pickup Liberty Village.",
+        "Geometry: P2 2010-14 size 54 = 512 / 418 (ideal). Threaded BSA BB.",
+        "Value: table P2 carbon 2011+ $1,200-1,600; Cosmic Carbone SL used ~$250-350 (estimate); BBB 2011 P2 ~C$690-850 Excellent (runs low). Fair ~$1,400.",
+        "All-in: Toronto pickup gas ~$160 (all-in ~$1,380 at $1,100), Kingston meet ~$100 (~$1,320). Both under value at $1,100; $1,150 max.",
+        "Found 2026-09-30 AM run (Ottawa \"TT bike\" search); opened on Ryan's ask for more messages."
+      ],
+      "draft": {
+        "n": 3,
+        "purpose": "Opener, committed at $1,100 (good-deal price)",
+        "text": "Hi! Is this still available? It looks like exactly the bike I need: I'm 5'9\" and ride a 54. Any crashes, and how tall are you? I'm in Montréal, so it's a trip: if you can do $1,100 cash, it's a deal, and I'd come this week (or meet partway in Kingston if that suits you)."
+      },
+      "thread": [],
+      "updatedISO": "2026-09-30T13:05:49.656Z"
+    },
+    {
+      "id": "981939188173501",
+      "source": "marketplace",
+      "url": "https://www.facebook.com/marketplace/item/981939188173501/",
+      "title": "Cannondale Ironman Slice (old alloy), Ultegra/105, R500",
+      "location": "Toronto, ON",
+      "asking": 900,
+      "firstAsking": 1500,
+      "priceHistory": [
+        {
+          "atISO": "2026-09-30T13:05:49.656Z",
+          "price": 900
+        }
+      ],
+      "status": "passed",
+      "verdict": "Not a good deal: an old alloy Ironman Slice with bar-end shifters and R500 wheels is worth ~$500-700; the Toronto trip + tune-up + tyres put all-in above that at any likely price. Size not stated.",
+      "notes": [
+        "Opened 2026-09-30 AM on Ryan's ask. Listed 9 weeks, down from $1,500."
+      ],
+      "thread": [],
+      "updatedISO": "2026-09-30T13:05:49.656Z"
     }
   ],
   "runs": [
@@ -2276,9 +2373,9 @@
     },
     {
       "atISO": "2026-09-30T10:44:05.061Z",
-      "summary": "Morning run: no seller replies overnight, all 24 tracked prices unchanged, and no new tri bikes in range on Marketplace, Kijiji or the joined tri group, so no drafts.",
+      "summary": "Morning run: prices unchanged; the Trinity seller replied (5'8\", measuring today); on Ryan's ask, drafted 7 messages including a new Toronto 2012 P2 54 opener at $1,100.",
       "searched": 113,
-      "newListings": 0,
+      "newListings": 2,
       "notes": [
         "Inbox: newest activity is still our Tue-evening messages (Lévis exit 22:27, hail-mary openers 20:19-20:25). No seller replies.",
         "Marketplace: 30 queries x 3 centres (90 searches), location still Montréal, 500 km. New cards were road/MTB/hybrid bikes, parts, or GTA/Barrie/NB tri bikes (Kuota Kalibur Kawartha Lakes $1,250, Cervélo P3 Burlington $2,000, P2 St Catharines $1,500, P2 54 Toronto $1,700, Speed Concept M Brantford $1,950, Trinity Oakville $1,875, Shiv Toronto $2,000, Plasma+ Disc Oakville $2,000, Slice Toronto $900 (unknown size), Slice XS 47 Ottawa-search $1,290).",
@@ -2286,7 +2383,8 @@
         "Kijiji: 23 searches (Québec + Ottawa), nothing new; FLO wheels still up; Ottawa P5 still listed (over budget); Argon 18 Anti-Matter Montréal is gravel.",
         "Facebook group Vente-Achat Route & Triathlon Québec (search \"triathlon\"): same as last night, all over budget (Slice 54 Montréal $2,800, Felt IA3 Sherbrooke $6,400, Felt IA2 Cap-Santé $5,200) plus a Parcours disc wheelset $2,500.",
         "Nudges: none due yet. The earliest opener without a reply and without a nudge (Québec P2 SL, Montague Transition, Ottawa P2 52, Montréal P2 3-wk, Felt B14) went out 29 Sep ~18:00, so the 3-day nudges come due on the 2 Oct evening run.",
-        "No new potentials to open, so no drafts and no notification. Photos not refreshed: scontent image URLs are blocked by the browser tool."
+        "No new potentials to open, so no drafts and no notification. Photos not refreshed: scontent image URLs are blocked by the browser tool.",
+        "Follow-up on Ryan's \"how about messages?\": the Trinity seller replied at 07:50 (5'8\", will measure, pushing a gear package). Drafted 2-8: Trinity reply, new Toronto P2 2012 54 opener ($1,100), four early follow-ups, Argon E-80 hail mary. Toronto Ironman Slice opened and passed."
       ]
     }
   ]

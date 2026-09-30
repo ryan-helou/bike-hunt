@@ -332,6 +332,13 @@ Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a s
 - **Never** offer or agree to a deposit, a shipment, or an e-transfer before viewing. Never share Ryan's address or phone number.
 - **Handing off:** once there's a price, the viewing time is Ryan's call. The seller only has to confirm the number; logistics go to Ryan.
 
+### When to make an offer (Ryan, 2026-09-30: "don't send offers for no reason, but don't be scared to send offers")
+Having several firm offers out at once is fine; Ryan doesn't mind. But every offer needs a reason:
+- **The seller answered**, and the bike fits and is worth more than the offer. Make the offer in the same reply.
+- **The seller has been quiet for about 36 h or more** after our questions. A concrete number is the nudge.
+- **The price is so low that speed wins** (a possible mispricing). Offer right away.
+- **Don't follow up within about 24 h of our last message.** Don't send offers on bikes whose fit or basic facts are still unknown, unless the offer is explicitly conditional on fit. Don't send offers that only reach a fair price, not a good deal.
+
 ### Message examples (match this tone: short, friendly, specific, written like Ryan)
 **Opening, French:**
 > Salut! Toujours disponible? C'est quelle grandeur de cadre exactement, et t'es de quelle taille toi? Est-ce que le vélo a déjà été accidenté? Et c'est quoi ton meilleur prix cash? Je suis à Laval, je peux passer cette semaine.

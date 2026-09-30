@@ -502,7 +502,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T01:25:47.018Z",
+      "updatedISO": "2026-09-30T02:28:04.191Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -514,7 +514,7 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "needs-ok",
+      "status": "watching",
       "size": "51",
       "fairValue": 750,
       "allInCost": 990,
@@ -536,7 +536,8 @@
         "2026-09-29 21:11: seller floor $800. Still no answer on carbon vs alloy, groupset, stack, seatpost or tyres. At $800 all-in ~$990-1,090 (gas $70, tune-up $120, tyres $100 if needed) vs ~$1,250 if carbon: good deal. If alloy (~$800 value): not.",
         "2026-09-29 21:18: Ryan chose questions only (no price acceptance). Sent: carbon?, groupset, drivetrain + frame photos. Confirmed Sent. Draft 33 dropped.",
         "2026-09-29 21:23: seller annoyed at the photo request (\"there are already photos\"). No answer on carbon or groupset. Floor $800.",
-        "2026-09-29 21:30 photo check: silver/blue paint, \"Gerard Vroomen White Design\" chainstay decal and P2C marking on the seatstay match a 2006-08 P2C (early carbon), not a 2010 P2. BBB/TPC put that at ~C$600-900. At $800 + gas $70 + tune-up $120 = ~$990 all-in for a ~$750 bike: fails the steal test. Size ~51 (20 in c-t)."
+        "2026-09-29 21:30 photo check: silver/blue paint, \"Gerard Vroomen White Design\" chainstay decal and P2C marking on the seatstay match a 2006-08 P2C (early carbon), not a 2010 P2. BBB/TPC put that at ~C$600-900. At $800 + gas $70 + tune-up $120 = ~$990 all-in for a ~$750 bike: fails the steal test. Size ~51 (20 in c-t).",
+        "2026-09-29 22:27: sent draft 34 (polite exit) on Ryan’s \"Send 34\". Confirmed Sent."
       ],
       "thread": [
         {
@@ -593,13 +594,14 @@
           "atISO": "2026-09-29T21:23:00-04:00",
           "from": "seller",
           "text": "Il y a déjà des photos tu me niaise"
+        },
+        {
+          "atISO": "2026-09-29T22:27:00-04:00",
+          "from": "us",
+          "text": "Pas de problème, désolé pour les questions! Avec 2h45 de route chaque bord, 800$ c’est un peu trop pour moi, alors je vais passer mon tour. Si jamais tu baisses, fais-moi signe. Bonne soirée!"
         }
       ],
-      "draft": {
-        "n": 34,
-        "purpose": "Polite exit at his $800 floor",
-        "text": "Pas de problème, désolé pour les questions! Avec 2h45 de route chaque bord, 800$ c’est un peu trop pour moi, alors je vais passer mon tour. Si jamais tu baisses, fais-moi signe. Bonne soirée!"
-      }
+      "draft": null
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",

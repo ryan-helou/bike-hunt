@@ -502,7 +502,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T01:18:59.923Z",
+      "updatedISO": "2026-09-30T01:25:47.018Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -514,12 +514,12 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "51",
-      "fairValue": 1250,
+      "fairValue": 750,
       "allInCost": 990,
-      "target": 800,
-      "verdict": "Good deal at $800 if the frame is carbon (all-in ~$990-1,090 vs ~$1,250). Not if it is the older alloy P2K. Carbon still unconfirmed.",
+      "target": 650,
+      "verdict": "Walk away: photos show a 2006-08 P2C, worth ~$750; the seller floor is $800, so all-in ~$990 (+ gas $70, tune-up $120). Not a steal.",
       "notes": [
         "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
         "Photos did not load this run. Listed 10 weeks.",
@@ -534,7 +534,9 @@
         "2026-09-29: sent draft 1 ($750 counter + carbon/rims/tyres check) on Ryan's \"ok go for it\". Confirmed Sent in the chat.",
         "2026-09-29 ~19:20: sent draft 2 (groupset, stack measurement, seatpost, drivetrain photo) on Ryan's \"send all\". Confirmed Sent in the chat. Seller had not replied to the $750 counter.",
         "2026-09-29 21:11: seller floor $800. Still no answer on carbon vs alloy, groupset, stack, seatpost or tyres. At $800 all-in ~$990-1,090 (gas $70, tune-up $120, tyres $100 if needed) vs ~$1,250 if carbon: good deal. If alloy (~$800 value): not.",
-        "2026-09-29 21:18: Ryan chose questions only (no price acceptance). Sent: carbon?, groupset, drivetrain + frame photos. Confirmed Sent. Draft 33 dropped."
+        "2026-09-29 21:18: Ryan chose questions only (no price acceptance). Sent: carbon?, groupset, drivetrain + frame photos. Confirmed Sent. Draft 33 dropped.",
+        "2026-09-29 21:23: seller annoyed at the photo request (\"there are already photos\"). No answer on carbon or groupset. Floor $800.",
+        "2026-09-29 21:30 photo check: silver/blue paint, \"Gerard Vroomen White Design\" chainstay decal and P2C marking on the seatstay match a 2006-08 P2C (early carbon), not a 2010 P2. BBB/TPC put that at ~C$600-900. At $800 + gas $70 + tune-up $120 = ~$990 all-in for a ~$750 bike: fails the steal test. Size ~51 (20 in c-t)."
       ],
       "thread": [
         {
@@ -586,8 +588,18 @@
           "atISO": "2026-09-30T01:18:59.923Z",
           "from": "us",
           "text": "Merci! Avant de faire la route, j’aurais juste besoin de quelques infos : le cadre est bien en carbone? C’est quel groupe (Tiagra, 105, Ultegra)? Et peux-tu m’envoyer une photo du côté de la chaîne et une du cadre de près?"
+        },
+        {
+          "atISO": "2026-09-29T21:23:00-04:00",
+          "from": "seller",
+          "text": "Il y a déjà des photos tu me niaise"
         }
-      ]
+      ],
+      "draft": {
+        "n": 34,
+        "purpose": "Polite exit at his $800 floor",
+        "text": "Pas de problème, désolé pour les questions! Avec 2h45 de route chaque bord, 800$ c’est un peu trop pour moi, alors je vais passer mon tour. Si jamais tu baisses, fais-moi signe. Bonne soirée!"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",

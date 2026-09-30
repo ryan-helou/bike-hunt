@@ -502,7 +502,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T01:17:18.650Z",
+      "updatedISO": "2026-09-30T01:18:59.923Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -514,7 +514,7 @@
       "location": "Lévis, QC",
       "driveHours": 2.75,
       "asking": 1000,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 990,
@@ -533,7 +533,8 @@
         "2026-09-29 13:10: seller replied \"850$\" only; he did not answer the rims/tyres question. Counter 2 of 3 drafted at $750 (target). Still unconfirmed whether the frame is carbon (main photo looks like a 2006-07 alloy P2K).",
         "2026-09-29: sent draft 1 ($750 counter + carbon/rims/tyres check) on Ryan's \"ok go for it\". Confirmed Sent in the chat.",
         "2026-09-29 ~19:20: sent draft 2 (groupset, stack measurement, seatpost, drivetrain photo) on Ryan's \"send all\". Confirmed Sent in the chat. Seller had not replied to the $750 counter.",
-        "2026-09-29 21:11: seller floor $800. Still no answer on carbon vs alloy, groupset, stack, seatpost or tyres. At $800 all-in ~$990-1,090 (gas $70, tune-up $120, tyres $100 if needed) vs ~$1,250 if carbon: good deal. If alloy (~$800 value): not."
+        "2026-09-29 21:11: seller floor $800. Still no answer on carbon vs alloy, groupset, stack, seatpost or tyres. At $800 all-in ~$990-1,090 (gas $70, tune-up $120, tyres $100 if needed) vs ~$1,250 if carbon: good deal. If alloy (~$800 value): not.",
+        "2026-09-29 21:18: Ryan chose questions only (no price acceptance). Sent: carbon?, groupset, drivetrain + frame photos. Confirmed Sent. Draft 33 dropped."
       ],
       "thread": [
         {
@@ -580,13 +581,13 @@
           "atISO": "2026-09-29T21:11:00-04:00",
           "from": "seller",
           "text": "Je descend pas en bas de 800$"
+        },
+        {
+          "atISO": "2026-09-30T01:18:59.923Z",
+          "from": "us",
+          "text": "Merci! Avant de faire la route, j’aurais juste besoin de quelques infos : le cadre est bien en carbone? C’est quel groupe (Tiagra, 105, Ultegra)? Et peux-tu m’envoyer une photo du côté de la chaîne et une du cadre de près?"
         }
-      ],
-      "draft": {
-        "n": 33,
-        "purpose": "Accept $800 on condition the frame is carbon, ask for 2 photos",
-        "text": "Ok, 800$ c’est un deal si le cadre est bien en carbone. Peux-tu juste m’envoyer une photo du côté de la chaîne et une du cadre de près pour que je confirme? Après ça on se trouve un moment pour que je passe."
-      }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1070375975828762/",

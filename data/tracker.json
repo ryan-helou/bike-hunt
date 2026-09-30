@@ -2244,7 +2244,10 @@
         "text": "Hi! Is this still available? It looks like exactly the bike I need: I'm 5'9\" and ride a 54. Any crashes, and how tall are you? I'm in Montréal, so it's a trip: if you can do $1,100 cash, it's a deal, and I'd come this week (or meet partway in Kingston if that suits you)."
       },
       "thread": [],
-      "updatedISO": "2026-09-30T13:05:49.656Z"
+      "updatedISO": "2026-09-30T13:05:49.656Z",
+      "driveHours": 5.5,
+      "size": "54",
+      "firstSeenISO": "2026-09-30T13:05:59.925Z"
     },
     {
       "id": "981939188173501",
@@ -2266,7 +2269,10 @@
         "Opened 2026-09-30 AM on Ryan's ask. Listed 9 weeks, down from $1,500."
       ],
       "thread": [],
-      "updatedISO": "2026-09-30T13:05:49.656Z"
+      "updatedISO": "2026-09-30T13:05:49.656Z",
+      "driveHours": 5.5,
+      "size": "unknown",
+      "firstSeenISO": "2026-09-30T13:05:59.925Z"
     }
   ],
   "runs": [

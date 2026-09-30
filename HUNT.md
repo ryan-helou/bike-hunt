@@ -305,6 +305,8 @@ Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a s
 | Greater Ottawa Bicycle Classifieds | 13K, 10+/day | https://www.facebook.com/groups/1648063688830400 |
 | Ottawa Bicycle Classy Ads | 44K, 7/day | https://www.facebook.com/groups/ottawabicycleclassfieds |
 
+**Sold prices seen in "Vente-Achat Route & Triathlon Québec" (2026-09-30), use as comps:** Slice 54 carbon + Cosmic $1,100 (Montréal) · Slice 54 $1,500 (Gatineau) · Slice 54 + Dura-Ace tubulars $2,000 · P2 Ultegra 6800 "comme neuf" $2,000 · P2 2017 54 Di2 $3,000 · P2 58 105 $2,700. The group's buy/sell feed lazy-loads badly; use group search (`/search/?q=`) instead and skip "(SOLD)" posts.
+
 "Vélo Volé - Montréal" (https://www.facebook.com/groups/velovolemtl, public, 23K) is a stolen-bike group. If a candidate looks too cheap, search it for the model.
 
 ## Seller conversations

@@ -2494,12 +2494,14 @@
     },
     {
       "atISO": "2026-09-30T23:13:05.598Z",
-      "summary": "Evening run (in progress): Laval Transition seller holds at $625, counter drafted at $600; tracked prices unchanged except the QR Tequilo ($2,000 -> $1,950).",
-      "searched": 0,
+      "summary": "Evening run (in progress): Laval Transition seller holds at $625, counter drafted at $600; tracked prices unchanged except the QR Tequilo ($2,000 -> $1,950); Marketplace turned up no new tri bikes in range.",
+      "searched": 88,
       "newListings": 0,
       "notes": [
         "Inbox: one new reply since 13:30 (Laval Transition, \"625$ not less\", 16:35). No other new seller messages. Marketplace location still Montréal, 500 km.",
-        "Tracked listings: 24 checked; all still up; only change is the QR Tequilo drop to $1,950."
+        "Tracked listings: 24 checked; all still up; only change is the QR Tequilo drop to $1,950.",
+        "Marketplace: 30 queries x 3 centres (88 pages; Montréal \"zipp 404\" and Québec \"specialized shiv\" froze the browser twice and were skipped). Location still Montréal, 500 km. New tri bikes were all GTA/Barrie/NB or too small: Scott Plasma 51 Brantford $1,500 (just listed), TT/tri Mississauga $2,000, Felt S32 Toronto $950 and Barrie 48 $1,000, P2 48 Burlington $1,400, P2C Brampton $1,400, P2C Saugeen Shores $1,600, Trek Equinox XS Toronto $1,000, QR Lucero S $1,490, Speed Concept Georgina $1,000 (proprietary brakes).",
+        "Opened and ruled out: Montréal \"TT / Road Bike 56cm Rival\" (a rental business, alloy road), St-Jean \"Vélo\" $800 (e-bike), Québec \"Vélo\" $1,900 (Vélomane road), Rawdon \"Cannondale\" (CAAD road), Valleyfield \"Vélo\" (Kestrel Talon road 57), Argon 18 Longueuil $1,050 (road S), Québec $1,900 (Gallium road), Montréal $750 (Krypton road), Stoneham $900 (Radon road), Charlemagne \"Vélo\" $300 (not a tri bike)."
       ]
     }
   ]

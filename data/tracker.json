@@ -231,7 +231,7 @@
       "status": "negotiating",
       "verdict": "Good deal only at ~$780 or less, and only if the 52 really fits: worth ~$950; all-in = price + ~$170.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-30T10:22:01-04:00",
       "fairValue": 950,
       "target": 780,
       "size": "52?",
@@ -250,6 +250,11 @@
           "atISO": "2026-09-29T22:09:19.438Z",
           "from": "us",
           "text": "Hi! Is this still available? What year is it, and is the frame carbon or aluminium? Could you measure from the centre of the crank to the top of the head tube? Any crashes, and what's the best you could do for cash? I'm in Laval, about 2 hours away."
+        },
+        {
+          "atISO": "2026-09-30T10:22:01-04:00",
+          "from": "us",
+          "text": "Hi, just following up on the P2. If the frame suits someone 5'9\" (51 to 54), I could do $780 cash and come to Ottawa this week. If that works, it's a deal."
         }
       ]
     },
@@ -478,7 +483,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-30T10:22:01-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -512,6 +517,11 @@
           "atISO": "2026-09-28T15:22:00-04:00",
           "from": "us",
           "text": "Hi, just following up on the Transition. Is it still available, and what's the best you could do for cash?"
+        },
+        {
+          "atISO": "2026-09-30T10:22:01-04:00",
+          "from": "us",
+          "text": "Hi, one last follow-up on the Transition. I'm in Laval too and could pick it up today or tomorrow for $550 cash. If that works, it's a deal."
         }
       ]
     },
@@ -2097,7 +2107,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-09-30T10:22:01-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2122,6 +2132,11 @@
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Salut! Toujours disponible? C’est quel modèle d’Argon 18 (route ou triathlon) et quelle grandeur? Tu peux m’envoyer une photo du vélo au complet? Je suis à Laval, tout près, je peux passer vite."
+        },
+        {
+          "atISO": "2026-09-30T10:22:01-04:00",
+          "from": "us",
+          "text": "Salut! Si c'est bien un vélo de triathlon et que la grandeur me fait (54 environ), je le prends à 300$ cash et je peux passer aujourd'hui."
         }
       ]
     },

@@ -143,23 +143,29 @@
       "location": "Montréal, QC",
       "driveHours": 0.25,
       "asking": 1500,
-      "status": "watching",
+      "status": "needs-ok",
       "verdict": "Carbon frame, deep wheels (material unknown), worn cockpit. Weak resale brand; only fair near $1,000.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "fairValue": 1050,
       "target": 1000,
       "size": "M",
       "notes": [
         "27 Sep: still $1,500, listed 6 weeks.",
-        "2026-09-27: still listed at $1,500, no change."
+        "2026-09-27: still listed at $1,500, no change.",
+        "2026-09-29 evening: Ryan asked for hail marys; draft 23 written."
       ],
       "priceHistory": [
         {
           "atISO": "2026-09-24T12:00:00-04:00",
           "price": 1500
         }
-      ]
+      ],
+      "draft": {
+        "n": 23,
+        "purpose": "Hail mary: $900 on the Planet X",
+        "text": "Salut! Toujours disponible? Les roues sont en carbone ou en alu, et c’est quel groupe? T’es de quelle taille? Je suis à Laval et prêt à acheter vite: si tu peux faire 900$ cash, c’est un deal."
+      }
     },
     {
       "id": "1094876409717853",
@@ -400,7 +406,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -413,7 +419,7 @@
       "driveHours": 0.3,
       "asking": 1900,
       "firstAsking": 2300,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "M (54?)",
       "fairValue": 1750,
       "allInCost": 1310,
@@ -428,7 +434,8 @@
         "Seller text: \"Serious buyers only, cash only, local pickup.\" No scam signals.",
         "2026-09-27 23:00: Ryan sent the opening himself. The sent bubble contains the text twice back to back (probably a double paste).",
         "2026-09-28 15:22: sent follow-up (draft 2) on Ryan's \"send all\". Confirmed Sent.",
-        "2026-09-29 research: BBB puts a 2011 P2 carbon at ~C$690-850 Excellent; used HED Jet 6/9 rim wheels ~C$500-900 (est.). Package fair value ~C$1,200-1,700, so $1,900 is high; a counter at $1,400 or less is justified. Target $1,150 unchanged."
+        "2026-09-29 research: BBB puts a 2011 P2 carbon at ~C$690-850 Excellent; used HED Jet 6/9 rim wheels ~C$500-900 (est.). Package fair value ~C$1,200-1,700, so $1,900 is high; a counter at $1,400 or less is justified. Target $1,150 unchanged.",
+        "2026-09-29 evening: Ryan asked for hail marys; draft 27 written."
       ],
       "thread": [
         {
@@ -441,7 +448,12 @@
           "from": "us",
           "text": "Hi, just following up on the P2. Is it still available? If so, what's the best cash price for the bike and both wheelsets, without the Tacx and fan?"
         }
-      ]
+      ],
+      "draft": {
+        "n": 27,
+        "purpose": "Third try with a number: $1,300 for the P2 + both wheelsets",
+        "text": "Hi, I’m still very interested in the P2 with both wheelsets. Without the trainer and fan, I can do $1,300 cash and pick it up this week. If that works, it’s a deal."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
@@ -819,7 +831,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -831,20 +843,26 @@
       "location": "L'Épiphanie, QC",
       "driveHours": 0.6,
       "asking": 1800,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "54",
       "fairValue": 1150,
       "allInCost": 1300,
       "target": 1000,
       "verdict": "Fits, but ~$1,150 value against $1,800 asking.",
       "notes": [
-        "Listed 4 weeks. New Look pedals, Vision cockpit."
-      ]
+        "Listed 4 weeks. New Look pedals, Vision cockpit.",
+        "2026-09-29 evening: Ryan asked for hail marys; draft 21 written."
+      ],
+      "draft": {
+        "n": 21,
+        "purpose": "Hail mary: $1,000 on the Wilier Blade",
+        "text": "Salut! Toujours disponible? T’es de quelle taille, et il a déjà été accidenté? Je suis prêt à l’acheter cette semaine: si tu peux faire 1 000$ cash, c’est un deal."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1062004785512482/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -857,13 +875,20 @@
       "driveHours": 1.75,
       "asking": 1800,
       "firstAsking": 1900,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "M",
       "fairValue": 1100,
       "allInCost": 1300,
       "target": 950,
       "verdict": "Stale (a year) and overpriced for a weak-resale brand. Only under ~$1,000.",
-      "notes": []
+      "notes": [
+        "2026-09-29 evening: Ryan asked for hail marys; draft 20 written."
+      ],
+      "draft": {
+        "n": 20,
+        "purpose": "Hail mary: $900 on the year-old Garneau",
+        "text": "Salut! Toujours disponible? C’est quel groupe, et t’es de quelle taille? Je cherche un vélo de triathlon et je suis prêt à acheter rapidement. Vu qu’il est en vente depuis un bout, si tu peux le laisser à 900$ cash, c’est un deal."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/27892804753681736/",
@@ -895,7 +920,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -911,7 +936,7 @@
       "location": "Boucherville, QC",
       "driveHours": 0.4,
       "asking": 1950,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "?",
       "fairValue": 1100,
       "allInCost": 1250,
@@ -919,13 +944,19 @@
       "verdict": "Just listed, prefers a trade. Weak resale; only interesting under ~$1,000.",
       "notes": [
         "Size not stated.",
-        "2026-09-29: now $1,950 and shows \"Listed a day ago\": relisted higher (was $1,800). Moving further from a steal."
-      ]
+        "2026-09-29: now $1,950 and shows \"Listed a day ago\": relisted higher (was $1,800). Moving further from a steal.",
+        "2026-09-29 evening: Ryan asked for hail marys; draft 26 written."
+      ],
+      "draft": {
+        "n": 26,
+        "purpose": "Questions + best price on the Boucherville Devinci",
+        "text": "Salut! Toujours disponible? C’est quelle grandeur de cadre, et t’es de quelle taille? Il a déjà été accidenté? Je suis à Laval et prêt à acheter cash: c’est quoi ton meilleur prix?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2141803323436059/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -937,7 +968,7 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 1875,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "54",
       "fairValue": 1150,
       "allInCost": 1300,
@@ -945,13 +976,19 @@
       "verdict": "Near-new but $1,875 is well above resale. Watch for a drop.",
       "notes": [
         "Ultegra, FSA crank, Dura-Ace RD, Mavic wheels. ~40 km.",
-        "2026-09-29 research: if this \"new\" Transition Expert is a 2008-12 carbon frame, it has proprietary brakes (hard no). Confirm year and brakes."
-      ]
+        "2026-09-29 research: if this \"new\" Transition Expert is a 2008-12 carbon frame, it has proprietary brakes (hard no). Confirm year and brakes.",
+        "2026-09-29 evening: Ryan asked for hail marys; draft 22 written."
+      ],
+      "draft": {
+        "n": 22,
+        "purpose": "Questions first: year and brakes on the Transition Expert",
+        "text": "Hi! Is this still available? What year is it, and does it use regular brake calipers or the integrated Specialized ones? How tall are you? I’m in Laval and seriously interested. What’s the best you could do for cash?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1796226728200924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -963,20 +1000,26 @@
       "location": "Québec, QC",
       "driveHours": 2.75,
       "asking": 2000,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "52",
       "fairValue": 1100,
       "allInCost": 1300,
       "target": 900,
       "verdict": "Overpriced: a Tequilo is worth ~$1,100.",
       "notes": [
-        "~2,000 km. Listed 2 weeks."
-      ]
+        "~2,000 km. Listed 2 weeks.",
+        "2026-09-29 evening: Ryan asked for hail marys; draft 25 written."
+      ],
+      "draft": {
+        "n": 25,
+        "purpose": "Questions + best price on the Tequilo (no number)",
+        "text": "Salut! Toujours disponible? C’est quelle année, et t’es de quelle taille? Il a déjà été accidenté? Je suis sérieux et je peux venir de Laval: c’est quoi ton meilleur prix cash?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1388503449842108/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:10:07.546Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -989,15 +1032,21 @@
       "driveHours": 2,
       "asking": 1050,
       "firstAsking": 1525,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "52",
       "fairValue": 800,
       "allInCost": 1000,
       "target": 750,
       "verdict": "Old (600 brakes) and weak resale: worth ~$800. Fair, not a steal.",
       "notes": [
-        "Listed 9 weeks, dropped from $1,525."
-      ]
+        "Listed 9 weeks, dropped from $1,525.",
+        "2026-09-29 evening: Ryan asked for hail marys; draft 24 written."
+      ],
+      "draft": {
+        "n": 24,
+        "purpose": "Hail mary: $625 on the Ottawa Devinci",
+        "text": "Hi! Is this still available? Is it 10-speed, and how tall are you? It’s been listed a while, and the 600 brakes are pretty old, so I could do $625 cash. If that works, it’s a deal and I’d come from Laval this week."
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1709318757040569/",

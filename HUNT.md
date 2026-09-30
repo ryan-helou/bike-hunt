@@ -175,7 +175,18 @@ Where good deals come from:
 
 **Buying priorities:** frame and fit first, then standard parts, then groupset (105/Ultegra; replacing a group costs $300–500+). Wheels are the easy swap: stock wheels resell for ~$50–150.
 
-Good deals that fit go to messaging (drafts for Ryan's OK). Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a good deal.
+**Message anything with potential, not only good deals (Ryan, 2026-09-30).** A listing gets an opener draft when it's **Good deal** or **Potential**. Potential means none of the three points is clearly failing yet:
+- It fits, or the size is unknown but plausible (ask).
+- It passes the hard rules, or the ad doesn't say (e.g. brakes or year unknown: ask).
+- A good-deal price is realistic with negotiation. Stale listings, price drops and listings up to about $2,000 count, as long as the fair value is at or above ~$1,000.
+
+In practice: any tri/TT bike in range that isn't a clear pass and hasn't been messaged yet gets a short opener. The opener asks what the ad doesn't say plus the best cash price. Only name a committed number ("if you can do $X, it's a deal") when $X is a good-deal price.
+
+Also draft a nudge for any seller who hasn't replied in 3+ days, at most one nudge per listing.
+
+List every Potential draft in the notification and the final message with a one-line reason ("P2 carbon, size unknown, 6 weeks listed"). They still need Ryan's "send N" / "send all", like every message.
+
+Everything else that fits goes to `watching`, and anything that fails a rule goes to `passed` with the reason. Watch for price drops on tracked listings, since a drop can turn a `watching` listing into a good deal.
 
 ## Scam signals (mark passed)
 Any of these gets a listing marked passed:
@@ -373,7 +384,7 @@ The app has no password, so anyone with the link can read the tracker. **Never w
 2. Run `node scripts/agent.mjs sync` from `~/Developer/BikeHunt`.
 3. **Notify only when there's something to act on**, with at most one push per run:
    - Something locked: `node scripts/agent.mjs notify "Price locked: <bike> <price>" "<location>. Open Bike Hunt for the checklist."`
-   - Drafts waiting: `node scripts/agent.mjs notify "<N> message(s) ready to send" "<bike 1 · bike 2>. Reply send 1 / send all in Claude."`
+   - Drafts waiting (good deals, potentials and replies): `node scripts/agent.mjs notify "<N> message(s) ready to send" "<bike 1 · bike 2 · …>. Reply send 1 / send all in Claude."`
    - Otherwise send nothing, and don't push "nothing new".
 4. Commit `data/tracker.json`, then push: `git add data && git commit -m "Hunt <date>: <summary>" && git push`.
 5. The final chat message lists the numbered drafts in full, so Ryan can approve them in this session.

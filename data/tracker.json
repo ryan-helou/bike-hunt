@@ -602,7 +602,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-09-30T00:14:47.540Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -615,15 +615,21 @@
       "driveHours": 1,
       "asking": 950,
       "firstAsking": 1250,
-      "status": "watching",
+      "status": "needs-ok",
       "size": "50 (S?)",
       "fairValue": 850,
       "allInCost": 1000,
       "target": 750,
       "verdict": "Dropped from $1,250 and 15 weeks up, but a Trinity composite is worth ~$850; all-in ~$1,000 at $750. Size \"50\" on a Giant that runs large: check stack.",
       "notes": [
-        "Easton Aero Force bars, AeroDrink, Look Keo pedals included."
-      ]
+        "Easton Aero Force bars, AeroDrink, Look Keo pedals included.",
+        "2026-09-29 evening: Ryan asked for more long shots; draft 29 written."
+      ],
+      "draft": {
+        "n": 29,
+        "purpose": "Size check on the Trinity 50",
+        "text": "Salut! Toujours disponible? Le 50 cm, c’est un Small ou un Medium chez Giant? T’es de quelle taille, et peux-tu mesurer du centre du pédalier jusqu’en haut du tube de direction? C’est quoi ton meilleur prix cash?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
@@ -1982,6 +1988,123 @@
           "text": "Salut! Toujours disponible? Le vélo m'intéresse beaucoup. C'est quelle année, et l'Ultegra est en 10 ou 11 vitesses? Les freins sont des étriers standards? Tu mesures combien toi? Et si tu peux m'envoyer une photo du moyeu des Zipp, ce serait parfait. Je suis à Laval."
         }
       ]
+    },
+    {
+      "firstSeenISO": "2026-09-30T00:14:47.540Z",
+      "updatedISO": "2026-09-30T00:14:47.540Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-30T00:14:47.540Z",
+          "price": 300
+        }
+      ],
+      "notes": [
+        "Ad: \"Argon 18 en bonne condition très peu servi\". Listed 3 weeks.",
+        "2026-09-29 evening: Ryan asked for more long shots; draft 28 written."
+      ],
+      "id": "1777479000113935",
+      "url": "https://www.facebook.com/marketplace/item/1777479000113935/",
+      "title": "Argon 18 (model unknown, video only)",
+      "location": "St-Eustache, QC",
+      "driveHours": 0.3,
+      "asking": 300,
+      "status": "needs-ok",
+      "verdict": "Unknown: model and size not stated, video only. At $300 almost certainly a road or hybrid, but it costs one message to check.",
+      "draft": {
+        "n": 28,
+        "purpose": "Ask model/size/photo on the $300 Argon",
+        "text": "Salut! Toujours disponible? C’est quel modèle d’Argon 18 (route ou triathlon) et quelle grandeur? Tu peux m’envoyer une photo du vélo au complet? Je suis à Laval, tout près, je peux passer vite."
+      }
+    },
+    {
+      "firstSeenISO": "2026-09-30T00:14:47.540Z",
+      "updatedISO": "2026-09-30T00:14:47.540Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-30T00:14:47.540Z",
+          "price": 3000
+        }
+      ],
+      "notes": [
+        "Ad: carbone, \"parfait pour un premier Ironman\", grandeur 54, Shimano, sold without pedals. Listed 4 hours ago.",
+        "2026-09-29 evening: Ryan asked for more long shots; draft 30 written."
+      ],
+      "id": "1652267093121252",
+      "url": "https://www.facebook.com/marketplace/item/1652267093121252/",
+      "title": "Argon 18 tri bike, carbon, 54, Shimano (model unknown)",
+      "location": "Montréal, QC",
+      "driveHours": 0.3,
+      "asking": 3000,
+      "status": "needs-ok",
+      "size": "54",
+      "verdict": "Unknown model: an E-117/E-112 could be worth $1,500-2,500; an E-118 has proprietary brakes (pass). Far above budget at $3,000; questions first.",
+      "draft": {
+        "n": 30,
+        "purpose": "Questions on the $3,000 Argon (model, year)",
+        "text": "Salut! Toujours disponible? C’est quel modèle (E-112, E-117, E-118?) et quelle année? C’est quel groupe Shimano, et t’es de quelle taille? Je suis à Laval, je peux passer vite."
+      }
+    },
+    {
+      "firstSeenISO": "2026-09-30T00:14:47.540Z",
+      "updatedISO": "2026-09-30T00:14:47.540Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-30T00:14:47.540Z",
+          "price": 1000
+        }
+      ],
+      "notes": [
+        "Ad: serviced at Trek Queen West Feb 2026 (new cables/housing), new Bontrager clip-on bars, Dura-Ace crank, Campagnolo FD, Ksyrium Elite. Listed 13 weeks, down from $2,200. Upgraded to a newer bike.",
+        "Check: which shifters/RD (Campy vs Shimano mix), year (1st-gen Plasma has standard brakes; Plasma 5 does not), stack.",
+        "2026-09-29 evening: Ryan asked for more long shots; draft 31 written."
+      ],
+      "id": "1014185267670492",
+      "url": "https://www.facebook.com/marketplace/item/1014185267670492/",
+      "title": "Scott Plasma carbon 54, Dura-Ace crank, Campagnolo FD, Ksyrium Elite",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 1000,
+      "firstAsking": 2200,
+      "status": "needs-ok",
+      "size": "54",
+      "fairValue": 1100,
+      "target": 900,
+      "verdict": "Possible good deal at ~$900 if met in Kingston (~$100 gas; serviced Feb 2026 so no tune-up): all-in ~$1,000 vs ~$1,100-1,300. Mixed Shimano/Campagnolo parts and year unknown.",
+      "draft": {
+        "n": 31,
+        "purpose": "Plasma: questions + $900 + Kingston meet",
+        "text": "Hi! Is this still available? What year is it, and are the shifters and rear derailleur Shimano or Campagnolo? Standard brake calipers? How tall are you? I’m in Montréal: would you consider $900 cash if we met partway, around Kingston?"
+      }
+    },
+    {
+      "firstSeenISO": "2026-09-30T00:14:47.540Z",
+      "updatedISO": "2026-09-30T00:14:47.540Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-09-30T00:14:47.540Z",
+          "price": 1250
+        }
+      ],
+      "notes": [
+        "Ad: carbon P3, recently tuned, great shape, 53 cm. Listed 12 weeks. Probably the same bike as passed listing 28016620517945702 (Toronto P3C 53, $1,250), relisted.",
+        "2026-09-29 evening: Ryan asked for more long shots; draft 32 written."
+      ],
+      "id": "1188631100095712",
+      "url": "https://www.facebook.com/marketplace/item/1188631100095712/",
+      "title": "Cervélo P3 carbon 53 (probably 2008-ish P3C)",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 1250,
+      "status": "needs-ok",
+      "size": "53",
+      "fairValue": 1400,
+      "target": 1100,
+      "verdict": "Possible good deal at ~$1,050-1,100 if met in Kingston: all-in ~$1,150-1,200 (gas ~$100, tuned recently) vs ~$1,400. Hidden gem model; groupset and year unknown.",
+      "draft": {
+        "n": 32,
+        "purpose": "P3: questions + $1,050 + Kingston meet",
+        "text": "Hi! Is this still available? What year is it, and what groupset (10 or 11 speed)? Any crashes, and how tall are you? I’m in Montréal: would you consider $1,050 cash if we met partway, around Kingston?"
+      }
     }
   ],
   "runs": [

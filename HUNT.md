@@ -18,8 +18,13 @@ Ryan is fine going a bit bigger or smaller (2026-09-27), so the range is wide on
 - **No:** 50 and under, XS, 650c wheels, 57+ / L and up, or a standover height at or above 81.5 cm.
 - If the ad gives no size, ask for it. Never assume.
 
-### Video-only ads
-Always check every photo thumbnail first: video ads often have a still photo too. Otherwise, play the video in the browser and screenshot 3–4 frames, pausing on the decals, the drivetrain and the cockpit. If the video won't load, message the seller for photos rather than guessing.
+### Videos: always watch them (Ryan, 2026-09-30)
+**Any listing with a video: always play it and screenshot frames**, even when there are photos too. Videos often show what the photos hide: the drivetrain side, damage, the decals, and how the seller rides it.
+1. Click the video. If it spins, click play and wait up to about 10 s. Bring the tab to the front, because background tabs often won't load video.
+2. Take 4–6 screenshots spread over the video. Pause on the decals and model name, the drivetrain, the brakes, the cockpit and the frame junctions. Zoom where it helps.
+3. Record what the frames show in the notes: "video: …".
+4. If the video still won't load, say so in the notes and ask the seller for photos. Never judge a bike from the ad text alone.
+5. Check every still photo too.
 
 ### Size by brand and model: the label on the frame isn't enough
 Brands measure differently. A "54" Cervélo, a "54" Felt and a "Medium" Speed Concept are not the same bike. For every candidate:

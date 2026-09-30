@@ -18,6 +18,9 @@ Ryan is fine going a bit bigger or smaller (2026-09-27), so the range is wide on
 - **No:** 50 and under, XS, 650c wheels, 57+ / L and up, or a standover height at or above 81.5 cm.
 - If the ad gives no size, ask for it. Never assume.
 
+### Video-only ads
+Always check every photo thumbnail first: video ads often have a still photo too. Otherwise, play the video in the browser and screenshot 3–4 frames, pausing on the decals, the drivetrain and the cockpit. If the video won't load, message the seller for photos rather than guessing.
+
 ### Size by brand and model: the label on the frame isn't enough
 Brands measure differently. A "54" Cervélo, a "54" Felt and a "Medium" Speed Concept are not the same bike. For every candidate:
 1. Identify the exact model and year. Use the photos (decals, cable routing, brakes, fork) if the ad doesn't say.

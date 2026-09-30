@@ -2107,7 +2107,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-09-30T10:22:01-04:00",
+      "updatedISO": "2026-09-30T10:25:32-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2121,12 +2121,12 @@
       ],
       "id": "1777479000113935",
       "url": "https://www.facebook.com/marketplace/item/1777479000113935/",
-      "title": "Argon 18 (model unknown, video only)",
+      "title": "Argon 18 flat-bar hybrid (not a tri bike)",
       "location": "St-Eustache, QC",
       "driveHours": 0.3,
       "asking": 300,
-      "status": "negotiating",
-      "verdict": "Unknown: model and size not stated, video only. At $300 almost certainly a road or hybrid, but it costs one message to check.",
+      "status": "passed",
+      "verdict": "The listing photo shows a flat-bar alloy Argon 18 fitness/hybrid bike with a triple crank, not a tri or TT bike. Our $300 offer was conditional on it being a tri bike, so there's no commitment. If the seller replies, decline politely.",
       "thread": [
         {
           "atISO": "2026-09-30T00:25:48.045Z",

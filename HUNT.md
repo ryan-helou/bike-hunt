@@ -301,7 +301,14 @@ Marketplace and Kijiji remain the main hunt. Everything else was checked and cos
 ## Facebook groups (searched once Ryan has joined)
 Ryan joins these himself. On 2026-09-29 he requested to join the two private tri groups ("Triathlon : achat/vente/échange… Montréal et Québec" and "Vente-Achat Route & Triathlon Québec"). Before searching a group, check that it shows "Joined". If it shows "Join" or "Pending", skip it and note that in the run summary.
 
-Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a short query set: triathlon, tri, clm, cervelo, slice, felt, speed concept, zipp. Group posts aren't Marketplace items, so use the post permalink as the listing `url` and a stable id taken from the post id.
+**How to search a group (tested 2026-09-30).** Default group search is by relevance, so it returns old SOLD posts and $3,000+ bikes. Use the most-recent filter:
+`https://www.facebook.com/groups/<id>/search/?q=<Q>&filters=eyJycF9jaHJvbm9fc29ydDowIjoie1wibmFtZVwiOlwiY2hyb25vc29ydFwiLFwiYXJnc1wiOlwiXCJ9In0%3D`
+- Queries per group: triathlon, clm, tri, cervelo, slice, felt, speed concept.
+- Read the results with `get_page_text`. Each sale post shows `CA$<price>`, then `· <CITY>`, then the title. Skip posts titled "(SOLD)" or "(VENDU)".
+- The group feed also has a "New listings" sort (`/groups/<id>/?sorting_setting=CHRONOLOGICAL_LISTINGS`). It lazy-loads and drops older posts from the page, so use it only for a quick look at the newest few.
+- To message a group seller, use the post's "Message" button, with the same approval rules as Marketplace.
+- For a listing's `url`, use the post or Marketplace link from the post. Its `id` is the numeric post or item id.
+- Check group membership at `https://www.facebook.com/groups/joins/`. Search only the groups listed under "joined".
 
 | Group | Size | Link |
 |---|---|---|

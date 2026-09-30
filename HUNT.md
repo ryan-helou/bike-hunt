@@ -317,7 +317,8 @@ Search each with `https://www.facebook.com/groups/<id>/search/?q=<Q>`, using a s
 
 ## Negotiation playbook
 - **Language:** reply in the seller's language. Use French for a French ad. Keep it short, friendly and plain, as Ryan would text.
-- **Opening message:** ask only the questions the ad doesn't answer, plus the lowest price. The questions are:
+- **Photos first, fewest questions (Ryan, 2026-09-30).** Before writing any message, open every photo of the listing and zoom in: model and year from the livery, brake type, frame material, groupset, wheels, condition. Drop every question the ad or the photos already answer, and never repeat a question an earlier message in the thread already asked (a follow-up carries only the offer). Prefer a committed offer that depends on the one unknown ("if it's a 51, $850 and it's a deal") over a list of questions. The aim is a smooth thread with as few back-and-forths as possible.
+- **Opening message:** ask only the questions the ad and photos don't answer, plus the lowest price. The questions are:
   - frame size
   - crashes or cracks
   - groupset, and 10 or 11 speed

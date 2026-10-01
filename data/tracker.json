@@ -111,8 +111,8 @@
       "location": "Québec, QC",
       "driveHours": 2.75,
       "asking": 1200,
-      "status": "watching",
-      "verdict": "Seller's floor is $1,075. They're 5'11\" and first said '54 I think', then '56-58cm': probably too big for 5'9\", and $1,075 is above the ~$1,000 value. Pass unless the price drops a lot and the frame is confirmed as a 54.",
+      "status": "passed",
+      "verdict": "Pass: not a carbon frame (Ryan wants carbon only, 2026-10-01). Seller's floor is $1,075. They're 5'11\" and first said '54 I think', then '56-58cm': probably too big for 5'9\", and $1,075 is above the ~$1,000 value. Pass unless the price drops a lot and the frame is confirmed as a 54.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
       "updatedISO": "2026-10-01T10:32:47.346Z",
       "firstAsking": 1400,
@@ -215,8 +215,8 @@
       "location": "Montague, ON",
       "driveHours": 2.5,
       "asking": 1000,
-      "status": "negotiating",
-      "verdict": "Good deal only at ~$700 or less for an alloy Transition: worth ~$800-950; all-in = price + ~$170.",
+      "status": "passed",
+      "verdict": "Pass: not a carbon frame (Ryan wants carbon only, 2026-10-01). Good deal only at ~$700 or less for an alloy Transition: worth ~$800-950; all-in = price + ~$170.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
       "updatedISO": "2026-10-01T10:32:47.346Z",
       "fairValue": 950,
@@ -540,12 +540,12 @@
       "location": "Laval, QC",
       "driveHours": 0.1,
       "asking": 700,
-      "status": "locked",
+      "status": "passed",
       "size": "S",
       "fairValue": 850,
       "allInCost": 755,
       "target": 600,
-      "verdict": "LOCKED at $600 cash, subject to seeing and trying it. 1st-gen alloy Transition, Small, Ultegra RD, FSA SL-K carbon crank, Mavic Cosmic Elite, Profile aerobars. Worth ~$850; all-in ~$730 with tyres and tape. 15 min away in Laval.",
+      "verdict": "Pass: alloy frame and too small (Ryan, 2026-10-01). Seller had accepted $600; polite decline drafted.",
       "notes": [
         "1st-gen alloy Transition with bar-end shifters, FSA SL-K carbon crank, Mavic Cosmic Elite (alloy). Photo shows red/white alloy frame, standard rim brakes.",
         "Small ≈ 51-52: geometry not looked up this run. Alloy frame: ask whether the seatpost moves.",
@@ -585,8 +585,7 @@
           "from": "seller",
           "text": "Yes it would work"
         }
-      ],
-      "lockedPrice": 600
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
@@ -734,12 +733,12 @@
       "driveHours": 1,
       "asking": 950,
       "firstAsking": 1250,
-      "status": "watching",
+      "status": "passed",
       "size": "50 (S?)",
       "fairValue": 850,
       "allInCost": 880,
       "target": 750,
-      "verdict": "Not a good deal: the seller turned down $650 (1 Oct 07:17) and holds at ~$900 against a ~$850 value, and the frame was never measured. Watching only; revisit if the ad drops to ~$750.",
+      "verdict": "Pass: not a carbon frame (Ryan wants carbon only, 2026-10-01). Not a good deal: the seller turned down $650 (1 Oct 07:17) and holds at ~$900 against a ~$850 value, and the frame was never measured. Watching only; revisit if the ad drops to ~$750.",
       "notes": [
         "Easton Aero Force bars, AeroDrink, Look Keo pedals included.",
         "2026-09-29 evening: Ryan asked for more long shots; draft 29 written.",

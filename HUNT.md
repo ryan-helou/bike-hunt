@@ -64,6 +64,8 @@ Always write the model, year, size, and stack and reach (or "geometry unknown") 
 - **Size traps:** Felt 2014+ 54 = 535 / 405 (too tall) and its 51 = 521 / 388 (short) · Shiv M = 540 · Trinity M = 539 · BMC "M-S" reach 377, take "M-L" · Cervélo P2/P3 48 and some Felt 48 are 650c.
 
 ## Hard rules for the bike
+- **Carbon frame only (Ryan, 2026-10-01).** Pass on alloy and aluminium frames (P1, P2/P2 SL/P2K before 2011, 1st-gen Transition, alloy Felt B, Argon E-80, Trinity alloy/composite, QR Lucero…), whatever the price. A carbon fork on an alloy frame doesn't count. If the frame material isn't clear, check the decals or the model year, or ask.
+- **Size:** no Small or 50/51 frames from brands that run small; prefer 54 (see Fit). Ryan found the Small Transition too small.
 - Rim or disc brakes are both fine, but **standard calipers only** (direct-mount counts as standard). **Proprietary or integrated brakes/fronts = pass:** Trek Speed Concept 2011–2017 (**both** Gen 1 and Gen 2), Specialized Shiv 2011–2019 (except maybe the alloy 2012–13 Shiv Elite A1) and **Transition carbon 2008–2012** (centre-pull, rear under the BB; alloy Transitions are fine), Giant Trinity Advanced/Pro 2016+ (SpeedControl), BMC TM01, Argon E-118, Felt IA/DA, Cannondale Slice RS, Scott Plasma 5, Speedmax CF SLX.
 - **Recalls to check:** Felt 2010 B12/B14/B16 fork steerer (confirm the replacement fork), Cervélo P3 Ultegra 3T base bar sold Sep 2012–Jan 2013, Slice RS 2013 brake plates.
 - Bottom brackets: threaded BSA (easiest) on P1, P2 2010–14, P3 2010–13, Argon E-112/114. BBright press-fit on P2 2015+ and P3 2013/14+. BB30 on the Slice (creaks; budget $60–120). BB90 on the Speed Concept.

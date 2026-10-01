@@ -714,7 +714,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T02:44:15.010Z",
+      "updatedISO": "2026-09-30T23:10:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -727,7 +727,7 @@
       "driveHours": 1,
       "asking": 950,
       "firstAsking": 1250,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "50 (S?)",
       "fairValue": 850,
       "allInCost": 1000,
@@ -761,13 +761,13 @@
           "atISO": "2026-09-30T11:37:00-04:00",
           "from": "seller",
           "text": "Deja vraiment bas pour ce velo avec l'equipement ultegra en plus et autres pieces rare haute gamme, mais bon je peux allez a $900 ca paye ton gas pour venir le chercher."
+        },
+        {
+          "atISO": "2026-09-30T23:05:00-04:00",
+          "from": "us",
+          "text": "Merci! Pour le vélo seul, si la mesure du cadre me fait, je peux faire 650$ cash et c'est un deal. Tu me dis quand tu l'as?"
         }
-      ],
-      "draft": {
-        "n": 11,
-        "purpose": "Reply to the Trinity seller's $900: conditional offer at $650 once the frame measures right",
-        "text": "Merci! Pour le vélo seul, si la mesure du cadre me fait, je peux faire 650$ cash et c'est un deal. Tu me dis quand tu l'as?"
-      }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1686535096227038/",
@@ -2419,20 +2419,20 @@
         "2026-09-30 21:16: Facebook's message limit blocked draft 10, so the default \"Hi, is this available?\" went instead. Draft 10 stays on hold as the follow-up once the seller answers.",
         "2026-09-30 night: draft 10 shortened per the new opener rule (one question; $2,000 is ~1.7x the ~$1,150 value, so ask about flexibility and let the seller name a number). Send only after the seller answers the 21:16 \"Hi, is this available?\"; no reply yet."
       ],
-      "draft": {
-        "n": 10,
-        "purpose": "Follow-up once the St-Jérôme Slice seller confirms it's available (overpriced: ask for flexibility, no number)",
-        "text": "Super, merci! Es-tu flexible sur le prix?"
-      },
       "thread": [
         {
           "atISO": "2026-09-30T21:18:00-04:00",
           "from": "us",
           "text": "Hi, is this available?"
+        },
+        {
+          "atISO": "2026-09-30T23:07:00-04:00",
+          "from": "us",
+          "text": "Super, merci! Es-tu flexible sur le prix?"
         }
       ],
       "firstSeenISO": "2026-10-01T00:16:57.020Z",
-      "updatedISO": "2026-10-01T02:44:15.010Z"
+      "updatedISO": "2026-09-30T23:10:00-04:00"
     },
     {
       "id": "1002062815915333",

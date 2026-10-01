@@ -125,6 +125,14 @@ The table above is only a starting point. For every candidate that might be a go
 3. **Wheels on their own:** if the bike has real deep carbon wheels (Zipp, HED, Enve, Reynolds, Mavic Cosmic Carbone), value them separately with Pinkbike or eBay sold listings, then add them to the frameset value.
 4. Put `fairValue` as the lower end of what the evidence supports. In notes, write the sources in one line, for example: "BBB US$1,050 → ~C$1,300; comps $1,400/$1,550 (P2 2012 105)".
 
+## Gearing for Muskoka (hilly: about 29 climbs, pitches up to 13–19%) (2026-10-01)
+Ryan races on a mechanical bike with bar-end shifters, so the gearing has to make the climbs easy. Check the crank and cassette on every candidate: look at the photos, or ask "C'est quel pédalier (53/39 ou 50/34) et quelle cassette?"
+- **Target:** a compact crank (50/34 or 52/36) and an 11-28 to 11-32 cassette.
+- **If the bike has 53/39 and a 12-25 or 11-25:** add about $150–300 to `allInCost` for the conversion: cassette $40–80, compact rings $80–150 or a used compact crank $100–200, and a chain $30. Ryan does the work himself.
+- **10-speed derailleurs** usually max out at 27–28 teeth; anything bigger needs a long-cage derailleur, about +$60–100 used.
+- **11-speed** (105 5800/R7000, Ultegra 6800/R8000) takes 11-30/11-32 easily, so it's worth about $100–150 more to Ryan than 10-speed.
+- **Carbon brake tracks:** fine for flat races, but not for Muskoka's long descents. Race on alloy brake-track wheels, or on name-brand carbon clinchers with proper pads that he's practised descending on.
+
 ## Package value: count every extra (Ryan, 2026-10-01: "we can always resell the parts")
 `fairValue` is the resale value of the **whole package**: the bike plus every extra in the ad or photos. Extras count at **about 75% of their used value**, because reselling parts takes time and fees. Extras worth less than about $30 count as $0.
 

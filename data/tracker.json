@@ -714,7 +714,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T11:23:08.581Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -727,19 +727,20 @@
       "driveHours": 1,
       "asking": 950,
       "firstAsking": 1250,
-      "status": "negotiating",
+      "status": "watching",
       "size": "50 (S?)",
       "fairValue": 850,
       "allInCost": 880,
       "target": 750,
-      "verdict": "Seller came down to $900 (worth ~$850), still no measurement. A size-50 Giant runs large, so it may fit. Not a deal at $900; only interesting at ~$750 once the fit is confirmed.",
+      "verdict": "Not a good deal: the seller turned down $650 (1 Oct 07:17) and holds at ~$900 against a ~$850 value, and the frame was never measured. Watching only; revisit if the ad drops to ~$750.",
       "notes": [
         "Easton Aero Force bars, AeroDrink, Look Keo pedals included.",
         "2026-09-29 evening: Ryan asked for more long shots; draft 29 written.",
         "2026-09-29 ~20:25: sent draft 29 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
         "2026-09-30 07:50: seller is 5'8\" (good sign for fit), will measure stack later today, pushing a gear package (clothes, shoes, helmet). No commitment until the stack is known and the price is near a good deal (~$600-650: all-in = price + gas ~$40 + tune-up $120 vs ~$850 value).",
         "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Confirmed Sent 9:32.",
-        "2026-09-30 night: the seller's 11:37 message ($900, \"ça paye ton gas\") had no reply from us, and the measurement still has not come. Draft 11 answers with a $650 offer that is explicitly conditional on the fit (good deal: all-in ~$810 = $650 + gas ~$40 + tune-up $120, vs ~$850 value). $900 is not a good deal (all-in ~$1,060)."
+        "2026-09-30 night: the seller's 11:37 message ($900, \"ça paye ton gas\") had no reply from us, and the measurement still has not come. Draft 11 answers with a $650 offer that is explicitly conditional on the fit (good deal: all-in ~$810 = $650 + gas ~$40 + tune-up $120, vs ~$850 value). $900 is not a good deal (all-in ~$1,060).",
+        "2026-10-01 07:17: seller declined the conditional $650 and closed the conversation (\"bonne chance dans tes recherches\"). No reply drafted: the thread hit the 3-counter limit and $900 is not a good deal. Moved to watching."
       ],
       "thread": [
         {
@@ -766,6 +767,11 @@
           "atISO": "2026-09-30T23:05:00-04:00",
           "from": "us",
           "text": "Merci! Pour le vélo seul, si la mesure du cadre me fait, je peux faire 650$ cash et c'est un deal. Tu me dis quand tu l'as?"
+        },
+        {
+          "atISO": "2026-10-01T07:17:00-04:00",
+          "from": "seller",
+          "text": "C'est beau avoir des reves d'envergure, juste les barres Easton avec la goude integer a couter plus cher que ton offre LOLLL ... Bonne chance dans tes recherches"
         }
       ]
     },
@@ -2462,6 +2468,29 @@
           "price": 1200
         }
       ]
+    },
+    {
+      "id": "4180635242225963",
+      "source": "facebook-group",
+      "url": "https://www.facebook.com/groups/achat.vente.echange.triathlon.montreal.quebec/posts/4180635242225963/",
+      "title": "Cervélo P3 2017, 51 cm, Ultegra, power-meter pedals (group post)",
+      "location": "Montréal area (group post, no city)",
+      "asking": 3000,
+      "firstAsking": 3000,
+      "priceHistory": [
+        {
+          "atISO": "2026-10-01T11:23:08.581Z",
+          "price": 3000
+        }
+      ],
+      "status": "passed",
+      "size": "51",
+      "verdict": "Not a good deal: $3,000 asking, far over the ~$2,000 reading cap; a 2017 P3 51 Ultegra is worth ~$1,800-2,100, so even a big drop would not reach $1,200. Post dates from 18 May 2025.",
+      "notes": [
+        "Found 2026-10-01 in \"Triathlon : achat/vente/échange… Montréal et au Québec\" (search cervelo, most recent). Seller injured and switched sports; bike barely ridden outdoors. Photos: black/white/blue P3 on a trainer, Ultegra 11-speed crank. Geometry (P-series 51, 2013-20) roughly 497/398, fine on the small side. Standard calipers on the 2014+ P3."
+      ],
+      "firstSeenISO": "2026-10-01T11:23:08.581Z",
+      "updatedISO": "2026-10-01T11:23:08.581Z"
     }
   ],
   "runs": [
@@ -2619,17 +2648,21 @@
       ]
     },
     {
-      "atISO": "2026-10-01T10:32:47.346Z",
-      "summary": "Morning run (in progress): no seller replies overnight, no price changes, and nothing new worth buying on Marketplace.",
-      "searched": 99,
-      "newListings": 0,
+      "atISO": "2026-10-01T11:23:08.581Z",
+      "summary": "Morning run: no new bike worth buying on Marketplace, Kijiji or the groups, tracked prices unchanged, and the Sorel Trinity seller turned down $650 (moved to watching); no new drafts.",
+      "searched": 154,
+      "newListings": 1,
       "notes": [
-        "Inbox: no seller messages since our 30 Sep evening messages; the newest seller message is still the Québec P2 SL \"56-58cm\". Marketplace location still Montréal, 500 km.",
+        "Inbox: one new seller message, the Sorel Trinity at 07:17 declining our conditional $650 (moved to watching, no reply drafted). No other replies since our 30 Sep evening messages. Marketplace location still Montréal, 500 km.",
         "Tracked: 26 Marketplace listings + the Kijiji FLO wheels checked, all still listed at the same prices.",
         "Nudges: none due (earliest 3-day nudges fall on 2-3 Oct).",
         "Marketplace: all 33 HUNT.md queries on Montréal, Ottawa and Québec (99 searches). Location still Montréal, 500 km (no \"Within 40 km\"). New tri/TT cards were all GTA or far: Toronto \"Carbon Guru crono 51\" $350 (opened: actually a Guru Cron'Alu alloy road bike with drop bars), Georgian Bluffs \"Triathlon bike\" $600 (~7 h away). Known GTA tri bikes unchanged (Kuota Kalibur $1,250, P3 Burlington $2,000, Plasma 51 Brantford $1,500, P2 St Catharines $1,500, P2 48 Burlington $1,400, Speed Concept Georgina $1,000, Trinity Oakville $1,875, Shiv Toronto $2,000, QR Lucero S $1,490).",
         "Opened and ruled out: Boisbriand KHS TR-101 $1,000 (new touring bike from a distributor), Montréal-Est \"Velo\" $500 (Garneau flat-bar hybrid), St-Paul \"Vélo\" $500 (kid's BMX-style), Montréal \"Vélo\" $410 (fat bike), Repentigny \"Vélo\" $200 (hybrid with panniers), Shefford \"Vélo\" $550 (alloy road 54), Lévis \"Vélo\" $500 (road Small), Coaticook \"Trek\" $500 (MTB), Montréal \"vélo Argon18\" $750 (Krypton road S), Longueuil \"Velo\" $500 (Scott hybrid), Hawkesbury \"Vélo Specialized\" $800 (Sequoia touring), Chelsea Specialized M $400 (MTB). Ste-Sophie \"2022 Giant\" $800 would not load.",
-        "The Ottawa \"tri bike\" extraction was blocked once by the browser tool's output filter; rerun without it, all GTA cards."
+        "The Ottawa \"tri bike\" extraction was blocked once by the browser tool's output filter; rerun without it, all GTA cards.",
+        "Kijiji: all 12 HUNT.md queries on Québec province and Ottawa (24 searches). No tri bikes: Ottawa Cervélo P5 still listed (over budget), FLO wheels still up at $350 (2 weeks), Argon 18 Nitrogen TT seatpost (part), a Montréal pawn-shop \"Vélo de course\" $1,200 is an Argon Krypton road bike.",
+        "Facebook groups (most-recent filter): Triathlon achat/vente Montréal-Québec and Vente-Achat Route & Triathlon Québec and Québec en Vélo (7 queries each), Ottawa Bicycle Classy Ads and Greater Ottawa Bicycle Classifieds (5 each) = 31 searches. Skipped Ventes petites annonces TRIATHLON (France). Cyclisme Québec - Vente & Achat still pending.",
+        "Group finds, all passes: Cervélo P3 2017 51 Ultegra + PM pedals $3,000 (May 2025 post, tracked as passed), Felt IA Valleyfield now $3,400 (was $3,750, integrated brakes), Prévost TT/Triathlon $3,500, P3 Ottawa $2,500 and $2,800, P3 Rouyn-Noranda $2,800, Slice-RS Coteau-du-Lac $1,820, Argon E-112 Loyalist $2,550, Felt S32 51 Ottawa $1,600, Devinci Leo SL Laval $2,300, St-Jérôme Slice $2,000 (tracked). New sold comp: Cervélo P3 48 Ultegra + power meter Ottawa $2,300.",
+        "Drafts: none new. Draft 1 (FLO wheels) still on hold. No nudges due yet: the earliest 3-day nudges (Ste-Sophie Devinci 2 Oct ~20:00; the 30 Sep 00:25 openers on 2 Oct evening) fall on the next runs. No notification sent. Videos: the Montréal P2 video still would not play (page hidden). Photos not refreshed (scontent URLs blocked by the browser tool)."
       ]
     }
   ]

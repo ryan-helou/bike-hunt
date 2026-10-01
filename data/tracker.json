@@ -528,7 +528,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T12:20:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -540,18 +540,19 @@
       "location": "Laval, QC",
       "driveHours": 0.1,
       "asking": 700,
-      "status": "negotiating",
+      "status": "locked",
       "size": "S",
       "fairValue": 850,
       "allInCost": 755,
       "target": 600,
-      "verdict": "Seller floor $625 (30 Sep 16:35). At $625 it is just short of a good deal: all-in ~$875 (, tyres $100, tape $30) vs worth ~$850. Good deal at $600; draft 9 counters there.",
+      "verdict": "LOCKED at $600 cash, subject to seeing and trying it. 1st-gen alloy Transition, Small, Ultegra RD, FSA SL-K carbon crank, Mavic Cosmic Elite, Profile aerobars. Worth ~$850; all-in ~$730 with tyres and tape. 15 min away in Laval.",
       "notes": [
         "1st-gen alloy Transition with bar-end shifters, FSA SL-K carbon crank, Mavic Cosmic Elite (alloy). Photo shows red/white alloy frame, standard rim brakes.",
         "Small ≈ 51-52: geometry not looked up this run. Alloy frame: ask whether the seatpost moves.",
         "Listed 8 weeks.",
         "2026-09-28 15:22: sent follow-up (draft 3) on Ryan's \"send all\". Confirmed Sent.",
-        "2026-09-30 evening: seller replied \"625$ not less\" at 16:35. Asking still $700, listed 8 weeks. Drafted a $600 counter (draft 9). If Ryan is fine $25 over the line, $625 is close to fair."
+        "2026-09-30 evening: seller replied \"625$ not less\" at 16:35. Asking still $700, listed 8 weeks. Drafted a $600 counter (draft 9). If Ryan is fine $25 over the line, $625 is close to fair.",
+        "Pickup checklist: cash $600, SPD pedals, 5 mm hex key. Check the seatpost moves (stuck posts are common on old alloy), cracks at the welds and BB, Cosmic rim brake tracks (concave = worn), chain wear, shifting. Test ride in aero; Small is on the small side for 5'9\", so check the saddle reaches ~72 cm and the reach feels OK."
       ],
       "thread": [
         {
@@ -578,8 +579,14 @@
           "atISO": "2026-09-30T21:15:00-04:00",
           "from": "us",
           "text": "Thanks for getting back to me! It needs new tyres and bar tape, so could you meet me at $600 cash? If so, it's a deal and I can come by tomorrow."
+        },
+        {
+          "atISO": "2026-10-01T12:05:00-04:00",
+          "from": "seller",
+          "text": "Yes it would work"
         }
-      ]
+      ],
+      "lockedPrice": 600
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",

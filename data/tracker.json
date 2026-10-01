@@ -2575,7 +2575,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T17:20:00-04:00",
+      "updatedISO": "2026-10-01T17:45:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2592,6 +2592,11 @@
           "atISO": "2026-10-01T17:20:00-04:00",
           "from": "seller",
           "text": "Yes, it is carbon. I have two sets of tires. It's in Immaculate shape and I would be negotiable with the price make me an offer."
+        },
+        {
+          "atISO": "2026-10-01T17:45:00-04:00",
+          "from": "us",
+          "text": "Thanks, great to hear! A few quick questions before I make the drive: What groupset is it (105, Ultegra?) and is it 10-speed? What wheels are on the bike, and are the Sonic wheels clincher or tubular? Any crashes or cracks, and does the seatpost still slide up and down freely? Roughly how many km on it? Could you also send a few more pictures: the drivetrain side, the crank and rear derailleur, the rear dropouts, where the seatpost goes into the frame, and the brake tracks on the Sonic wheels? For the bike with both wheelsets (without the trainer), I'd be at $1,080 cash, and I can come out this weekend."
         }
       ],
       "id": "1767532177930990",
@@ -2600,7 +2605,7 @@
       "location": "Casselman, ON",
       "driveHours": 1.75,
       "asking": 1800,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 1575,
@@ -2612,13 +2617,9 @@
         "Geometry: P2 51 (2008) roughly stack 486 / reach 400, lower and shorter than ideal but inside the window.",
         "Package (bike alone $1,800): bike ~$1,100 (P2C 2007-08) + Sonic carbon wheels ~$200x0.75 = $150 -> ~$1,250. Trainer excluded (seller prices it at $600 separately).",
         "All-in at a likely $1,530 close (85% of $1,800) + gas ~$45 (1.75 h each way) = ~$1,575. Margin ~-$325. Overpriced (1.44x value): opener asks flexibility, no number.",
-        "Quick run 2026-10-01 afternoon: draft 9 written."
-      ],
-      "draft": {
-        "n": 10,
-        "purpose": "offer",
-        "text": "Thanks, great to hear! Since it's a 2007-08 frame and I'd be driving out from Laval, I could do $1,080 cash for the bike with both wheelsets, without the trainer. If that works for you, I can come out this weekend."
-      }
+        "Quick run 2026-10-01 afternoon: draft 9 written.",
+        "Parts analysis 2026-10-01: 2007-08 P2C carbon 51, carbon fork, Cervélo aero post, standard calipers, alloy base bar + ski-bend extensions with bar-end shifters, alloy Shimano wheels on the bike, Sonic Mega ~80-88 mm carbon spares (carbon brake track; ~$300-450 resale). Groupset unconfirmed (likely 105/Ultegra 10-speed). Package ~$1,250; offer $1,080, ceiling ~$1,150."
+      ]
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",

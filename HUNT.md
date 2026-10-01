@@ -125,7 +125,29 @@ The table above is only a starting point. For every candidate that might be a go
 3. **Wheels on their own:** if the bike has real deep carbon wheels (Zipp, HED, Enve, Reynolds, Mavic Cosmic Carbone), value them separately with Pinkbike or eBay sold listings, then add them to the frameset value.
 4. Put `fairValue` as the lower end of what the evidence supports. In notes, write the sources in one line, for example: "BBB US$1,050 → ~C$1,300; comps $1,400/$1,550 (P2 2012 105)".
 
-## Extras Ryan wants: count them (2026-10-01)
+## Package value: count every extra (Ryan, 2026-10-01: "we can always resell the parts")
+`fairValue` is the resale value of the **whole package**: the bike plus every extra in the ad or photos. Extras count at **about 75% of their used value**, because reselling parts takes time and fees. Extras worth less than about $30 count as $0.
+
+Typical used values (count 75% of these):
+
+| Extra | Used value |
+|---|---|
+| Second wheelset (alloy) | $100–250 |
+| Second wheelset (deep carbon) | $500–1,200 |
+| Indoor trainer: wheel-on | $80–150 |
+| Indoor trainer: smart, direct-drive (Wahoo Kickr, Tacx Neo/Flux) | $400–800 |
+| GPS computer | see the table below |
+| Power meter | $200–500 |
+| Clipless pedals: Shimano Ultegra or Dura-Ace, Look Keo | $60–150 |
+| Aero helmet | $80–200 |
+| Bike bag or travel case | $100–300 |
+| Spare tyres and tubes, tools, a pump | about $20–60 total |
+
+Shoes and clothing count only if they're Ryan's size. If the size is unknown, count them as $0.
+
+Record the breakdown in notes, e.g. "Package ~$1,950: bike $1,250 + HED Jet 6/9 $600×0.75 + Tacx Flow $150×0.75".
+
+
 **A bike computer:** Ryan wants one, so if a listing includes it, its used value comes off the all-in cost, since he'd otherwise buy one. Used Québec values:
 - Garmin Edge 520/530/830, or Wahoo Elemnt Bolt/Roam: about $120–220
 - Garmin Edge 1030/1040, or Hammerhead Karoo: about $250–350

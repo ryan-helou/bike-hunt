@@ -182,17 +182,18 @@
       "driveHours": 0.25,
       "asking": 1500,
       "status": "negotiating",
-      "verdict": "Carbon frame, deep wheels (material unknown), worn cockpit. Weak resale brand; only fair near $1,000.",
+      "verdict": "Not a good deal: package ~$1,080 vs all-in ~$1,310 at a likely ~$1,275 close; only at ~$950 or less.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
-      "fairValue": 1050,
-      "target": 1000,
+      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "fairValue": 1080,
+      "target": 950,
       "size": "M",
       "notes": [
         "27 Sep: still $1,500, listed 6 weeks.",
         "2026-09-27: still listed at $1,500, no change.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 23 written.",
-        "2026-09-29 ~20:25: sent draft 23 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 23 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: still listed $1,500 (6 weeks). 3 photos, no video. Ad: 'Parfait état, fully tuned up, vient avec système d'hydratation'. Carbon Planet X Stealth Pro (carbon confirmed by the frame). Extras: rear hydration mount behind the saddle, wired CatEye-type computer (no GPS, $0). Package ~$1,080: bike $1,050 + hydration mount $40x0.75. All-in at a likely $1,275 close (85% of ask, seller silent): + gas ~$6 + extension bar tape $30 (worn) = ~$1,310. Margin ~-$230."
       ],
       "priceHistory": [
         {
@@ -206,7 +207,8 @@
           "from": "us",
           "text": "Salut! Toujours disponible? Les roues sont en carbone ou en alu, et c’est quel groupe? T’es de quelle taille? Je suis à Laval et prêt à acheter vite: si tu peux faire 900$ cash, c’est un deal."
         }
-      ]
+      ],
+      "allInCost": 1310
     },
     {
       "id": "1094876409717853",
@@ -259,15 +261,16 @@
       "driveHours": 2,
       "asking": 1050,
       "status": "negotiating",
-      "verdict": "Size 51/52 (fine on the small side for 5'9\"). Floor $950 because of a competing offer; worth ~$950, so fair, not a steal. Waiting on the stack measurement. Pay by e-transfer only at pickup, after the inspection.",
+      "verdict": "Not a good deal: package ~$880 vs all-in ~$1,000 at the seller's $950 floor; carbon not confirmed (blue/white 2007-08 livery could be the alloy P2).",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
-      "fairValue": 950,
-      "target": 780,
+      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "fairValue": 880,
+      "target": 750,
       "size": "52?",
       "notes": [
         "2026-09-27: still listed at $1,050, no change.",
-        "2026-09-29 ~18:05: sent draft 8 on Ryan's \"send all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~18:05: sent draft 8 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: still $1,050 (a week). 6 photos, no video. Ad: frame 52, seller 5'4\", Look 'special edition' pedals, gears upgraded April 2026 (original cassette included), aerobar shifters, used at 70.3 Tremblant. FRAME MATERIAL NOT CONFIRMED: ad doesn't say carbon; the blue main triangle with white stays/fork and lowercase 'cervélo' livery is 2007-08, when Cervélo sold both the alloy P2/P2SL and the carbon P2C. Ask 'carbon or aluminium?' before anything else; if alloy, pass (carbon only). Extras: Look pedals ~$70x0.75, behind-saddle dual cage mount ~$40x0.75, wired computer $0, spare original cassette ~$0. Package ~$880: bike ~$800 (2007-08 P2/P2C) + $50 + $30. All-in at the $950 floor: + gas $50 = ~$1,000. Margin ~-$120."
       ],
       "priceHistory": [
         {
@@ -301,7 +304,8 @@
           "from": "us",
           "text": "Ok perfect, I'm very interested and can buy this week, please let me know when you measure"
         }
-      ]
+      ],
+      "allInCost": 1000
     },
     {
       "id": "1081124437811279",
@@ -475,7 +479,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -490,10 +494,10 @@
       "firstAsking": 2300,
       "status": "negotiating",
       "size": "M (54?)",
-      "fairValue": 1750,
-      "allInCost": 1310,
+      "fairValue": 1940,
+      "allInCost": 1640,
       "target": 1400,
-      "verdict": "Good deal up to ~$1,400 for bike + HED Jet wheels: worth ~$1,700; all-in = price + ~$160.",
+      "verdict": "Not a good deal at the likely ~$1,600 close (over the $1,200 cap), even though package ~$1,940 beats all-in ~$1,640; a good deal with a ~$700 margin if it closes at $1,200.",
       "notes": [
         "Model/year: 2011 Cervélo P2, full carbon, \"Medium\". 2011 P2 sizes 48/51/54/56/58; Medium likely 54 (stack ~525, reach ~408 from memory of the Cervélo chart, not confirmed this run). Ask the exact size.",
         "Package: HED Jet RC6 front / RC9 rear \"Performance\" (alloy brake track under a carbon fairing, so fine with rim brakes; confirm HED hubs), training wheelset, ISM + Fizik saddles, new Continental tyres, 4 tubes, rear bottle cage, Tacx Flow smart trainer, fan. Pedals not included.",
@@ -505,7 +509,8 @@
         "2026-09-28 15:22: sent follow-up (draft 2) on Ryan's \"send all\". Confirmed Sent.",
         "2026-09-29 research: BBB puts a 2011 P2 carbon at ~C$690-850 Excellent; used HED Jet 6/9 rim wheels ~C$500-900 (est.). Package fair value ~C$1,200-1,700, so $1,900 is high; a counter at $1,400 or less is justified. Target $1,150 unchanged.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 27 written.",
-        "2026-09-29 ~20:25: sent draft 27 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 27 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: still $1,900 (was $2,300; 11 weeks). 1 photo, no video. 2011 P2 full carbon, Medium. Package ~$1,940: bike $1,200 (2011 P2 carbon, lower end of $1,200-1,600) + HED Jet RC6/RC9 Performance $650x0.75 = $490 + Tacx Flow smart trainer $150x0.75 = $110 + spare ISM saddle $60x0.75 = $45 + new Continental tyres and 4 tubes $90x0.75 = $70 + cooling fan $40x0.75 = $30 (RockBros dual rear cage < $30 counts $0; training wheelset counted in the bike). All-in at a likely $1,600 close (no reply to our $1,300): + gas ~$8 + aerobar tape $30 = ~$1,640. Margin ~+$300 at $1,600, ~+$700 at $1,200. Target $1,400 kept from earlier (above the $1,200 cap; only justified because ~$740 of extras resell)."
       ],
       "thread": [
         {
@@ -595,7 +600,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -609,10 +614,10 @@
       "asking": 1000,
       "status": "watching",
       "size": "51",
-      "fairValue": 750,
+      "fairValue": 780,
       "allInCost": 870,
       "target": 650,
-      "verdict": "Walk away: photos show a 2006-08 P2C, worth ~$750; the seller floor is $800, so all-in ~$990 (+ gas $70). Not a steal.",
+      "verdict": "Not a good deal: package ~$780 vs all-in ~$870 at the seller's $800 floor.",
       "notes": [
         "Seller: no crashes, 20\" BB to top tube, 39\" ground to saddle top, 2010, \"roue en acier\" (probably alloy, ask). Groupset not stated.",
         "Photos did not load this run. Listed 10 weeks.",
@@ -630,7 +635,8 @@
         "2026-09-29 21:18: Ryan chose questions only (no price acceptance). Sent: carbon?, groupset, drivetrain + frame photos. Confirmed Sent. Draft 33 dropped.",
         "2026-09-29 21:23: seller annoyed at the photo request (\"there are already photos\"). No answer on carbon or groupset. Floor $800.",
         "2026-09-29 21:30 photo check: silver/blue paint, \"Gerard Vroomen White Design\" chainstay decal and P2C marking on the seatstay match a 2006-08 P2C (early carbon), not a 2010 P2. BBB/TPC put that at ~C$600-900. At $800 + gas $70 + tune-up $120 = ~$990 all-in for a ~$750 bike: fails the steal test. Size ~51 (20 in c-t).",
-        "2026-09-29 22:27: sent draft 34 (polite exit) on Ryan’s \"Send 34\". Confirmed Sent."
+        "2026-09-29 22:27: sent draft 34 (polite exit) on Ryan’s \"Send 34\". Confirmed Sent.",
+        "2026-10-01 package re-value: still $1,000 (11 weeks). 2 photos, no video. Carbon P2C 2006-08 (silver/blue, Vroomen White Design decal), ~51. Extras: behind-saddle dual bottle mount ~$40x0.75 = $30; nothing else. Package ~$780: bike $750 + $30. All-in at the $800 floor: + gas $69 = ~$870. Margin ~-$90."
       ],
       "thread": [
         {
@@ -889,7 +895,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -903,10 +909,10 @@
       "asking": 2000,
       "status": "watching",
       "size": "54",
-      "fairValue": 1300,
-      "allInCost": 1350,
+      "fairValue": 1320,
+      "allInCost": 1580,
       "target": 1150,
-      "verdict": "Not a good deal at his $1,500 floor: all-in ~$1,670 vs ~$1,300-1,500 value. Good deal only up to ~$1,150.",
+      "verdict": "Not a good deal: package ~$1,320 vs all-in ~$1,580 at the seller's $1,500 floor; only at ~$1,150 or less.",
       "notes": [
         "Headset, cables and front brake replaced last winter. XLab wing included.",
         "2026-09-29 ~17:50: sent draft 6 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
@@ -916,7 +922,8 @@
         "2026-09-29 ~18:35: sent draft 15 ($1,200, asked his number) on Ryan's \"send\". Confirmed Sent.",
         "2026-09-29: Ryan: only steals. $1,200 fails the steal test (all-in ~$1,370 vs $1,300-1,500). If the seller accepts $1,200 or counters higher, pass politely; a steal needs ~$950 or less.",
         "2026-09-29 19:01: seller's floor is $1,500. Draft 19 passes politely and leaves the door open.",
-        "2026-09-29 ~19:10: sent draft 19 (polite pass, door open at $1,150) on Ryan's send. Confirmed Sent."
+        "2026-09-29 ~19:10: sent draft 19 (polite pass, door open at $1,150) on Ryan's send. Confirmed Sent.",
+        "2026-10-01 package re-value: still $2,000 (18 weeks). 8 photos, no video. P2C carbon 54 (red/white, P2C decal), Dura-Ace 7800 derailleurs and shifters, Ultegra crank, Ksyrium Equipe, GP4000S II. Extras: Profile Design aero bottle ~$40x0.75 = $30, XLab Super Wing + 2 cages ~$50x0.75 = $38. Package ~$1,320: bike $1,250 + $68. All-in at the $1,500 floor: + gas $50 + bar tape $30 (pink tape dirty) = ~$1,580. Margin ~-$260."
       ],
       "thread": [
         {
@@ -959,7 +966,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -973,17 +980,18 @@
       "asking": 1900,
       "status": "negotiating",
       "size": "?",
-      "fairValue": 1300,
-      "allInCost": 1450,
-      "target": 1130,
-      "verdict": "Good deal only at ~$1,130 or less: worth ~$1,300; all-in = price + ~$170. Size/year unknown.",
+      "fairValue": 1350,
+      "allInCost": 1620,
+      "target": 1200,
+      "verdict": "Not a good deal: package ~$1,350 (no extras) vs all-in ~$1,620 at a likely ~$1,615 close; good deal at ~$1,200 or less.",
       "notes": [
         "Listed 3 weeks. \"Selling because I have a better one.\"",
         "2026-09-29 ~18:05: sent draft 10 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-09-30: early follow-up drafted on Ryan's ask. $1,100 is under the $1,130 good-deal line; the size condition protects the fit.",
         "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Photos: graphite/white P2 (2013-14 style), standard front caliper; size not visible. Confirmed Sent 9:25.",
         "2026-09-30 night: the listing has a video; it would not load (spinner, tab could not be brought to the front), so it is still unwatched. Ask for drivetrain-side photos if the seller replies.",
-        "2026-10-01 morning: video clicked again but would not load (Chrome reports the page as hidden, so the video stays at 0:00). Still unwatched; ask the seller for drivetrain photos if they reply."
+        "2026-10-01 morning: video clicked again but would not load (Chrome reports the page as hidden, so the video stays at 0:00). Still unwatched; ask the seller for drivetrain photos if they reply.",
+        "2026-10-01 package re-value: still $1,900 (3 weeks). 2 photos + a video. Ad text only 'I'm selling my bike because I have a better one'. Photos: silver/white P2 with red P2 graphics (2013-14 carbon P2), standard front caliper, size not visible. Video: would not load (tab hidden, player stays 0:00 / readyState 0 after ~15 s); still unwatched. Extras: none visible or listed. Package ~$1,350 = bike only. All-in at a likely $1,615 close (85% of ask): + gas ~$6 = ~$1,620. Margin ~-$270."
       ],
       "thread": [
         {
@@ -1002,7 +1010,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1016,14 +1024,15 @@
       "asking": 1800,
       "status": "negotiating",
       "size": "54",
-      "fairValue": 1150,
-      "allInCost": 1300,
-      "target": 1000,
-      "verdict": "Fits, but ~$1,150 value against $1,800 asking.",
+      "fairValue": 1210,
+      "allInCost": 1545,
+      "target": 1100,
+      "verdict": "Not a good deal: package ~$1,210 vs all-in ~$1,545 at a likely ~$1,530 close; only at ~$1,100 or less.",
       "notes": [
         "Listed 4 weeks. New Look pedals, Vision cockpit.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 21 written.",
-        "2026-09-29 ~20:25: sent draft 21 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 21 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: still $1,800 (4 weeks). 5 photos, no video. Carbon Wilier Blade M (54), Ultegra 6700 crank/derailleurs/brakes (standard calipers), Vision cockpit, Ksyrium. Extras: new Look pedals ~$80x0.75 = $60; 2 cages $0. Package ~$1,210: bike $1,150 + $60. All-in at a likely $1,530 close (85%): + gas $15 = ~$1,545. Margin ~-$335."
       ],
       "thread": [
         {
@@ -1036,7 +1045,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1062004785512482/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1049,16 +1058,17 @@
       "driveHours": 1.75,
       "asking": 1800,
       "firstAsking": 1900,
-      "status": "negotiating",
+      "status": "gone",
       "size": "M",
       "fairValue": 1100,
       "allInCost": 1300,
       "target": 950,
-      "verdict": "Stale (a year) and overpriced for a weak-resale brand. Only under ~$1,000.",
+      "verdict": "Not a good deal: listing gone (the item page now redirects to other listings).",
       "notes": [
         "2026-09-29 evening: Ryan asked for hail marys; draft 20 written.",
         "2026-09-29 ~20:25: sent draft 20 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
-        "2026-09-30 night comp: a Garneau T1 Medium sold for $1,300 in Ottawa (group \"Greater Ottawa Bicycle Classifieds\")."
+        "2026-09-30 night comp: a Garneau T1 Medium sold for $1,300 in Ottawa (group \"Greater Ottawa Bicycle Classifieds\").",
+        "2026-10-01 package re-value: the listing URL redirects to unrelated items twice (a Gioda tri bike, then a Kingston Felt B14), so the Garneau is sold or removed. Marked gone."
       ],
       "thread": [
         {
@@ -1098,7 +1108,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1121,15 +1131,16 @@
       "status": "negotiating",
       "size": "?",
       "fairValue": 1100,
-      "allInCost": 1250,
-      "target": 950,
-      "verdict": "Just listed, prefers a trade. Weak resale; only interesting under ~$1,000.",
+      "allInCost": 1580,
+      "target": 1000,
+      "verdict": "Not a good deal: package ~$1,100 (no extras) vs all-in ~$1,580 at a likely ~$1,570 close; only at ~$1,000 or less.",
       "notes": [
         "Size not stated.",
         "2026-09-29: now $1,950 and shows \"Listed a day ago\": relisted higher (was $1,800). Moving further from a steal.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 26 written.",
         "2026-09-29 ~20:25: sent draft 26 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
-        "2026-09-30 night: dropped to $1,850 (was $1,950). Still far above the ~$1,100 value; our opener from 29 Sep has no reply."
+        "2026-09-30 night: dropped to $1,850 (was $1,950). Still far above the ~$1,100 value; our opener from 29 Sep has no reply.",
+        "2026-10-01 package re-value: $1,850 (was $1,950), relisted 3 days ago. 4 photos, no video. Ad: carbon Leo T2, SRAM Force 2x10 with Force carbon crank (FSA rings), Vision cockpit with extensions, Giant P-SL1 wheels, Selle Italia SLR, rim brakes, seat tube ~53 cm (5'7\"-5'10\"). Extras: wired computer ($0), cages ($0). Package ~$1,100 = bike only. All-in at a likely $1,570 close: + gas $10 = ~$1,580. Margin ~-$480."
       ],
       "thread": [
         {
@@ -1143,7 +1154,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2141803323436059/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1155,17 +1166,18 @@
       "location": "Ottawa, ON",
       "driveHours": 2,
       "asking": 1875,
-      "status": "negotiating",
+      "status": "passed",
       "size": "54",
       "fairValue": 1150,
       "allInCost": 1300,
       "target": 1000,
-      "verdict": "Near-new but $1,875 is well above resale. Watch for a drop.",
+      "verdict": "Not a good deal: alloy frame (Specialized E5 aluminium), fails the carbon-only rule.",
       "notes": [
         "Ultegra, FSA crank, Dura-Ace RD, Mavic wheels. ~40 km.",
         "2026-09-29 research: if this \"new\" Transition Expert is a 2008-12 carbon frame, it has proprietary brakes (hard no). Confirm year and brakes.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 22 written.",
-        "2026-09-29 ~20:25: sent draft 22 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 22 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: ad spec says 'Frame: Specialized E5 AEROTEC gold anodized aluminum' with a carbon fork and post. Alloy frame = pass under the carbon-only rule (Ryan, 2026-10-01). 10 photos checked: gold Transition Expert, Dura-Ace 7800 shifters/RD, Ultegra FD, FSA K-Force crank, Ksyrium Elite, standard calipers. No extras beyond the bike."
       ],
       "thread": [
         {
@@ -1178,7 +1190,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1796226728200924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1190,21 +1202,22 @@
         }
       ],
       "id": "1796226728200924",
-      "title": "Quintana Roo Tequilo carbon 52, 105",
+      "title": "Quintana Roo PRthree (sold as Tequilo) carbon 52, 105 11-sp",
       "location": "Québec, QC",
       "driveHours": 2.75,
       "asking": 1950,
       "status": "negotiating",
       "size": "52",
-      "fairValue": 1100,
-      "allInCost": 1300,
-      "target": 900,
-      "verdict": "Overpriced: a Tequilo is worth ~$1,100.",
+      "fairValue": 1545,
+      "allInCost": 1730,
+      "target": 1200,
+      "verdict": "Not a good deal at a likely ~$1,660 close: package ~$1,545 vs all-in ~$1,730; a good deal at $1,200 (all-in ~$1,270, margin ~$275).",
       "notes": [
         "~2,000 km. Listed 2 weeks.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 25 written.",
         "2026-09-29 ~20:25: sent draft 25 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
-        "2026-09-30 evening: price dropped $2,000 -> $1,950. No reply to our 30 Sep 00:25 opener yet. Still far above value (~$1,100)."
+        "2026-09-30 evening: price dropped $2,000 -> $1,950. No reply to our 30 Sep 00:25 opener yet. Still far above value (~$1,100).",
+        "2026-10-01 package re-value: still $1,950 (3 weeks). 5 photos, no video. Photos show a modern QR PRthree (decal 'PR THREE' on the top tube, SHIQ asymmetric frame, integrated rear storage box, top-tube bento), Shimano 105 R7000 11-speed, base bar + extensions, ISM saddle. Full carbon (ad + frame). QR size = stack: 52 = 520/410, ideal for Ryan. Previously valued as an old alloy-era Tequilo at $1,100: too low. Bike ~$1,500 (2016+ PRthree 105, estimate). Extras: Shimano 105 pedals ~$60x0.75 = $45; bento, cages, rear box $0. Package ~$1,545. All-in at a likely $1,660 close: + gas $69 = ~$1,730. Margin ~-$185 at the likely close, ~+$275 at $1,200."
       ],
       "thread": [
         {
@@ -1218,7 +1231,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1388503449842108/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:49:05.446Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1233,14 +1246,15 @@
       "firstAsking": 1525,
       "status": "negotiating",
       "size": "52",
-      "fairValue": 800,
-      "allInCost": 1000,
-      "target": 750,
-      "verdict": "Old (600 brakes) and weak resale: worth ~$800. Fair, not a steal.",
+      "fairValue": 845,
+      "allInCost": 980,
+      "target": 700,
+      "verdict": "Not a good deal: package ~$845 vs all-in ~$980 at a likely ~$900 close; only at ~$700 or less.",
       "notes": [
         "Listed 9 weeks, dropped from $1,525.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 24 written.",
-        "2026-09-29 ~20:25: sent draft 24 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 24 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: $1,050 (was $1,525; 9 weeks). 10 photos, no video. Carbon Devinci T2 Leo 20.5\" (frame, fork, post), Dura-Ace crank and shifters, Shimano 600 brakes (old, standard calipers), Easton Circuit alloy wheels with new tyres, Vision bar. Extras: Look Keo pedals ~$60x0.75 = $45; bottle cage $0. Package ~$845: bike $800 + $45. All-in at a likely $900 close: + gas $50 + brake pads $30 = ~$980. Margin ~-$135."
       ],
       "thread": [
         {

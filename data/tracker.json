@@ -184,7 +184,7 @@
       "status": "negotiating",
       "verdict": "Not a good deal: package ~$1,080 vs all-in ~$1,310 at a likely ~$1,275 close; only at ~$950 or less.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "fairValue": 1080,
       "target": 950,
       "size": "M",
@@ -263,7 +263,7 @@
       "status": "negotiating",
       "verdict": "Not a good deal: package ~$880 vs all-in ~$1,000 at the seller's $950 floor; carbon not confirmed (blue/white 2007-08 livery could be the alloy P2).",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-10-01T14:10:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "fairValue": 880,
       "target": 750,
       "size": "52?",
@@ -485,7 +485,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -608,7 +608,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -903,7 +903,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -974,7 +974,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T14:40:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1023,7 +1023,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1126,7 +1126,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1208,7 +1208,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1796226728200924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T13:40:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1255,7 +1255,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1388503449842108/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1702,7 +1702,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-10-01T14:10:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "thread": [
         {
           "atISO": "2026-09-29T22:09:19.438Z",
@@ -2152,7 +2152,7 @@
       "asking": 350,
       "status": "watching",
       "firstSeenISO": "2026-09-29T17:25:46.830Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T17:25:46.830Z",
@@ -2224,7 +2224,7 @@
       "status": "negotiating",
       "size": "54",
       "firstSeenISO": "2026-09-29T23:09:59.588Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T23:09:59.588Z",
@@ -2291,7 +2291,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2327,7 +2327,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T14:10:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2370,7 +2370,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T14:10:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2451,7 +2451,7 @@
           "text": "Hi, just checking in on the P2. Still available? I'm still very interested. Would you consider $1,150 cash?"
         }
       ],
-      "updatedISO": "2026-10-01T14:10:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "driveHours": 5.5,
       "size": "54",
       "firstSeenISO": "2026-09-30T13:05:59.925Z"
@@ -2526,7 +2526,7 @@
         }
       ],
       "firstSeenISO": "2026-10-01T00:16:57.020Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z"
+      "updatedISO": "2026-10-01T22:52:09.978Z"
     },
     {
       "id": "1002062815915333",
@@ -2549,7 +2549,7 @@
         "2026-10-01 package re-value: still $1,200 (12 weeks). 6 photos, no video. Guru Crono carbon (made in Canada decal) built with drop bars, Dura-Ace RD, FSA Gossamer crank, standard calipers, 2 cages. Ad: 'Very well maintained, 172.5 cm, Medium frame'. Extras: none of value. Clip-ons move over from the TCR ($0). The old $120 tune-up is dropped (no tune-up rule). Package ~$850. All-in at a likely $1,000 close: + gas $10 = ~$1,010. Margin ~-$160."
       ],
       "firstSeenISO": "2026-10-01T02:11:50.497Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T02:11:50.497Z",
@@ -2582,7 +2582,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T18:00:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2672,12 +2672,13 @@
         "Quick run 2026-10-01 afternoon: draft 9 written.",
         "Parts analysis 2026-10-01: 2007-08 P2C carbon 51, carbon fork, Cervélo aero post, standard calipers, alloy base bar + ski-bend extensions with bar-end shifters, alloy Shimano wheels on the bike, Sonic Mega ~80-88 mm carbon spares (carbon brake track; ~$300-450 resale). Groupset unconfirmed (likely 105/Ultegra 10-speed). Package ~$1,250; offer $1,080, ceiling ~$1,150.",
         "Ryan is messaging this seller himself too (2026-10-01). Good rapport; seller confirmed the trainer isn't needed. Photos and answers still pending; the $1,080 offer isn't answered yet.",
-        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)",
+        "Evening full run 2026-10-01: no new seller messages or photos after 18:15; the thread ends with Ryan's 'Oh okok'. Listing still up at $2,250 package. Photo analysis waits on her pictures."
       ]
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T16:50:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2705,7 +2706,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T16:50:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2733,7 +2734,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T16:50:00-04:00",
+      "updatedISO": "2026-10-01T22:52:09.978Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -3022,6 +3023,17 @@
         "Groups (most-recent, 'triathlon'): both tri groups joined. Vente-Achat: Canyon $8,500 SOLD, Felt AXS S $6,500, Argon E-119 $6,500 SOLD, Magnan M $5,000 SOLD. Achat/vente/echange: new 2026 Cervelo P-series (no price), wetsuits. Nothing in budget.",
         "Pinkbike: location=35-11-* (Quebec) and 35-9-* (Ontario) work; written into HUNT.md. Quebec 9 ads (parts, a $10,000 Speed Concept); Ontario 15 (Rockland E-117 $4,000, Timmins P2 48 $1,500 passed, GTA Speed Concept/Benotto).",
         "Pinkbike ad not stored: the app rejects pinkbike-<id> ids and pinkbike.com URLs (lib/listings.ts validListing allows only digits/kijiji- ids and known source prefixes). Timmins P2 48 (pinkbike.com/buysell/4179260) passed: too small."
+      ]
+    },
+    {
+      "atISO": "2026-10-01T22:52:09.978Z",
+      "id": "2026-10-01-evening-full",
+      "summary": "Evening full run in progress: inbox and tracked listings checked, no seller replies after 18:15 and no price changes.",
+      "searched": 0,
+      "newListings": 0,
+      "notes": [
+        "Inbox (Marketplace folder): no seller messages newer than 18:15. Casselman P2C thread ends with Ryan's 'Oh okok' (her last: 'Trained for but never completed'); her promised photos and answers have not arrived.",
+        "Tracked: all 22 Marketplace listings + Kijiji FLO wheels re-checked; all still listed at unchanged prices (Argon 18 Montréal 'Vendu' text is 'vendu sans les pédales', not sold)."
       ]
     }
   ]

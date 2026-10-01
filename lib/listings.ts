@@ -47,6 +47,7 @@ const SOURCES = [
   "https://www.facebook.com/marketplace/item/",
   "https://www.facebook.com/groups/",
   "https://www.kijiji.ca/",
+  "https://www.pinkbike.com/buysell/",
 ];
 
 /** Validate what the agent sends; reject the whole sync rather than store junk. */
@@ -55,7 +56,7 @@ export function validListing(x: unknown): x is Listing {
   return (
     !!l &&
     typeof l.id === "string" &&
-    /^(kijiji-)?\d+$/.test(l.id) &&
+    /^((kijiji|pinkbike)-)?\d+$/.test(l.id) &&
     typeof l.url === "string" &&
     SOURCES.some((prefix) => l.url.startsWith(prefix)) &&
     typeof l.title === "string" &&

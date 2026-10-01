@@ -972,7 +972,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T14:40:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1009,6 +1009,11 @@
           "atISO": "2026-09-30T09:25:00-04:00",
           "from": "us",
           "text": "Hi, just following up on the P2. If it's a 54 (or a 51 or 56) and you could do $1,100 cash, it's a deal. I'm in Laval and can come by this week."
+        },
+        {
+          "atISO": "2026-10-01T14:40:00-04:00",
+          "from": "us",
+          "text": "Salut! Toujours disponible? Es-tu un peu flexible sur le prix? Je suis à Laval, je peux passer cette semaine, cash."
         }
       ],
       "draft": null
@@ -1046,7 +1051,12 @@
           "from": "us",
           "text": "Salut! Toujours disponible? T’es de quelle taille, et il a déjà été accidenté? Je suis prêt à l’acheter cette semaine: si tu peux faire 1 000$ cash, c’est un deal."
         }
-      ]
+      ],
+      "draft": {
+        "n": 8,
+        "purpose": "nudge (approved, Chrome could not open the chat)",
+        "text": "Salut, petit suivi pour le Wilier. Toujours disponible? Es-tu un peu flexible sur le prix?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1062004785512482/",

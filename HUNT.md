@@ -339,7 +339,11 @@ Marketplace and Kijiji remain the main hunt. Everything else was checked and cos
 ## Pinkbike Canada (added 2026-10-01)
 Pinkbike buy/sell is the enthusiasts' classifieds site. Ads usually state the size, year and parts accurately. It blocks plain fetches (403), so use Claude in Chrome.
 - Search `https://www.pinkbike.com/buysell/list/?q=<Q>` with these queries: triathlon, tt bike, cervelo p2, cervelo p3, cannondale slice, felt b, speed concept, argon 18, quintana roo.
-- Narrow to Canada with the page's location or country filter if it has one. Otherwise filter by the location on each ad: keep Québec and Ontario within about 3 h (Montréal, Laval, Gatineau/Ottawa, Québec City, Sherbrooke, Kingston), and drop everything else.
+- **Narrow by province with `location=35-<prov>-*` (tested 2026-10-01).** `35` is Canada; Québec is `35-11-*`, Ontario is `35-9-*`, all of Canada is `35-*-*`. Run each query on Québec and Ontario:
+  - `https://www.pinkbike.com/buysell/list/?location=35-11-*&q=<Q>`
+  - `https://www.pinkbike.com/buysell/list/?location=35-9-*&q=<Q>`
+  - Then keep only ads within about 3 h (Montréal, Laval, Gatineau/Ottawa/Rockland, Québec City, Sherbrooke, Kingston). Ontario results are mostly GTA, Hamilton and the north. First test: "triathlon" gave 9 Québec ads (mostly parts) and 15 Ontario ads, none in budget and in range.
+  - Extract ads from the list page with the links whose path is `/buysell/<id>/`; each card shows the price with its currency and "City, Province, Canada".
 - Check whether each price is CAD or USD. Pinkbike shows a currency, and a USD ad from a Canadian seller still gets converted.
 - Treat each ad like a Marketplace listing, with the same rules. Use the Pinkbike ad URL as `url` and `pinkbike-<adId>` as `id`.
 - Messaging needs Ryan's Pinkbike login. If he isn't logged in, draft the message and note "send via Pinkbike yourself".

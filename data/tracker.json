@@ -271,7 +271,7 @@
         "2026-09-27: still listed at $1,050, no change.",
         "2026-09-29 ~18:05: sent draft 8 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-10-01 package re-value: still $1,050 (a week). 6 photos, no video. Ad: frame 52, seller 5'4\", Look 'special edition' pedals, gears upgraded April 2026 (original cassette included), aerobar shifters, used at 70.3 Tremblant. FRAME MATERIAL NOT CONFIRMED: ad doesn't say carbon; the blue main triangle with white stays/fork and lowercase 'cervélo' livery is 2007-08, when Cervélo sold both the alloy P2/P2SL and the carbon P2C. Ask 'carbon or aluminium?' before anything else; if alloy, pass (carbon only). Extras: Look pedals ~$70x0.75, behind-saddle dual cage mount ~$40x0.75, wired computer $0, spare original cassette ~$0. Package ~$880: bike ~$800 (2007-08 P2/P2C) + $50 + $30. All-in at the $950 floor: + gas $50 = ~$1,000. Margin ~-$120.",
-        "Gearing (est.): 2007-08 P2, likely 53/39 10-speed: est. +$200"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
       ],
       "priceHistory": [
         {
@@ -311,7 +311,7 @@
           "text": "Hi! Quick question: is the frame carbon or aluminium?"
         }
       ],
-      "allInCost": 1200
+      "allInCost": 1060
     },
     {
       "id": "1081124437811279",
@@ -501,7 +501,7 @@
       "status": "negotiating",
       "size": "M (54?)",
       "fairValue": 1940,
-      "allInCost": 1790,
+      "allInCost": 1700,
       "target": 1500,
       "verdict": "Not a good deal at the likely ~$1,600 close (over the $1,200 cap), even though package ~$1,940 beats all-in ~$1,640; a good deal with a ~$700 margin if it closes at $1,200.",
       "notes": [
@@ -518,7 +518,7 @@
         "2026-09-29 ~20:25: sent draft 27 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
         "2026-10-01 package re-value: still $1,900 (was $2,300; 11 weeks). 1 photo, no video. 2011 P2 full carbon, Medium. Package ~$1,940: bike $1,200 (2011 P2 carbon, lower end of $1,200-1,600) + HED Jet RC6/RC9 Performance $650x0.75 = $490 + Tacx Flow smart trainer $150x0.75 = $110 + spare ISM saddle $60x0.75 = $45 + new Continental tyres and 4 tubes $90x0.75 = $70 + cooling fan $40x0.75 = $30 (RockBros dual rear cage < $30 counts $0; training wheelset counted in the bike). All-in at a likely $1,600 close (no reply to our $1,300): + gas ~$8 + aerobar tape $30 = ~$1,640. Margin ~+$300 at $1,600, ~+$700 at $1,200. Target $1,400 kept from earlier (above the $1,200 cap; only justified because ~$740 of extras resell).",
         "2026-10-01: target raised to $1,500 under the net-cost rule. Keep the bike + HED Jets; sell the Tacx Flow, fan and training wheels (~$250 net). Net ~$1,250, package ~$1,940.",
-        "Gearing (est.): 2011 P2 10-speed, likely 53/39: est. +$150"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
       ],
       "thread": [
         {
@@ -1739,7 +1739,7 @@
       "status": "negotiating",
       "size": "51",
       "fairValue": 1165,
-      "allInCost": 1500,
+      "allInCost": 1380,
       "target": 1000,
       "verdict": "Not a good deal at a likely ~$1,250 close: package ~$1,165 vs all-in ~$1,320; size 51 confirmed (521/388), good deal at ~$1,000 or less.",
       "notes": [
@@ -1751,7 +1751,7 @@
         "2026-09-30: early follow-up drafted on Ryan's ask. $850 posed as a question, not a commitment, since size/year are unknown (2014+ Felt runs tall).",
         "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Photos: red/black 2014-16 B14 (new B-series frame). Felt 2014+ 54 = 535 stack (too tall), 51 = 521/388 (OK), so the offer is conditional on a 51; year question dropped. Confirmed Sent 9:31.",
         "2026-10-01 package re-value: still $1,449 (was $1,750; a week). 4 photos, no video. SIZE CONFIRMED 51 from the 'B SERIES 51' seat-tube sticker: Felt 2014+ 51 = 521/388 (fits; short reach, fix with extensions). Red/black 2014-16 carbon B14, Ultegra, FSA crank. The smart trainer in two photos is not in the included list. Extras (ad): aerobar risers ~$40x0.75 = $30, rear bottle mount ~$40x0.75 = $30, Look pedals ~$60x0.75 = $45, two new tyres ~$80x0.75 = $60, computer mount $0. Package ~$1,165: bike $1,000 + $165. All-in at a likely $1,250 close: + gas $69 = ~$1,320. Margin ~-$155. Our conditional '51 at $850' offer (30 Sep) is now unconditional in effect.",
-        "Gearing (est.): Felt B14 with Ultegra 10-speed, likely 53/39: est. +$180"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
       ],
       "draft": null
     },
@@ -2340,7 +2340,7 @@
         "2026-09-29 evening: Ryan asked for more long shots; draft 31 written.",
         "2026-09-29 ~20:25: sent draft 31 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
         "2026-10-01 package re-value: still $1,000 (was $2,200; 13 weeks). 6 photos (one is the Feb 2026 Trek Queen West service invoice; one shows it on a trainer, which the ad does not include), no video. 1st-gen Scott Plasma carbon 54 (black/gold, standard calipers), Dura-Ace crank, Campagnolo FD, Ksyrium Elite, new Bontrager Race Lite clip-ons, new cables/housing. Extras: new Shimano SPD-SL pedals ~$80x0.75 = $60. Package ~$1,110: bike $1,050 + $60. All-in at a likely $900 close (our offer): + Kingston meet gas ~$100, no parts (fresh service) = ~$1,000. Margin ~+$110.",
-        "Gearing (est.): Plasma with a Dura-Ace crank and mixed Campagnolo, likely 53/39, odd mix: est. +$250"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
       ],
       "id": "1014185267670492",
       "url": "https://www.facebook.com/marketplace/item/1014185267670492/",
@@ -2366,7 +2366,7 @@
           "text": "Hi, just following up on the Plasma. Still available? I could meet in Kingston this week, cash."
         }
       ],
-      "allInCost": 1250
+      "allInCost": 1060
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
@@ -2382,7 +2382,7 @@
         "2026-09-29 evening: Ryan asked for more long shots; draft 32 written.",
         "2026-09-29 ~20:25: sent draft 32 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
         "2026-10-01 package re-value: still $1,250 (12 weeks). 1 photo, no video. Red/black 'P3 Carbon' (2005-07 P3C, Vroomen White Design), SRAM crank, Easton alloy wheels, base bar + extensions, top-tube bag, 1 cage. Extras: none of value (bag/cage $0). Bike ~$1,250 (older P3C, below the 2008-13 P3 range). All-in at a likely $1,100 close: + Kingston gas ~$100 = ~$1,200. Margin ~+$50.",
-        "Gearing (est.): ~2008 P3C 10-speed, likely 53/39 + 11-23/25: est. +$220"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
       ],
       "id": "1188631100095712",
       "url": "https://www.facebook.com/marketplace/item/1188631100095712/",
@@ -2407,7 +2407,7 @@
           "text": "Hi, just following up on the P3. Still available? I'd be happy to meet in Kingston this week for cash."
         }
       ],
-      "allInCost": 1420
+      "allInCost": 1260
     },
     {
       "id": "1982719719054859",
@@ -2425,7 +2425,7 @@
       ],
       "status": "negotiating",
       "fairValue": 1480,
-      "allInCost": 1750,
+      "allInCost": 1610,
       "target": 1150,
       "verdict": "Not a good deal at a likely ~$1,450 close: package ~$1,480 vs all-in ~$1,550 (Kingston); good deal at ~$1,150 (all-in ~$1,250, margin ~$230).",
       "notes": [
@@ -2436,7 +2436,7 @@
         "Found 2026-09-30 AM run (Ottawa \"TT bike\" search); opened on Ryan's ask for more messages.",
         "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Dropped crash/height questions (ad covers condition; 54 is the ideal size). Photos: black 2012 P2, Cosmic Carbone SL, standard brakes. Listing flipped to \"Message again\" after Send; the chat popup would not reopen to screenshot.",
         "2026-10-01 package re-value: still $1,700 (6 weeks). 8 photos, no video. 2012 P2 54 full carbon (Vroomen White Design), Ultegra 6700 2x10, Mavic Cosmic Carbone SL (alloy brake track; replaces the stock wheels, which are not included), GP5000 S TR + TPU tubes nearly new, 3T Aura Pro + clips, Cobb saddle, top-tube bag, behind-saddle bottle mount. Package ~$1,480: bike with Cosmic Carbone SL $1,400 + near-new GP5000 S TR/TPU $110x0.75 = $80 (bag, mount $0). All-in at a likely $1,450 close: + Kingston gas ~$100 = ~$1,550 (Toronto pickup ~$1,610). Margin ~-$70.",
-        "Gearing (est.): 2012 P2 with Ultegra 6700 10-speed, likely 53/39: est. +$200"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
       ],
       "draft": null,
       "thread": [
@@ -2660,7 +2660,7 @@
       "status": "negotiating",
       "size": "51",
       "fairValue": 1250,
-      "allInCost": 1775,
+      "allInCost": 1635,
       "target": 1150,
       "verdict": "Carbon confirmed, 51 (fits), 'immaculate', seller negotiable ('make me an offer'). Bike alone $1,800, worth ~$1,250 with the Sonic wheels. Good deal at ~$1,150 or less.",
       "notes": [
@@ -2672,7 +2672,7 @@
         "Quick run 2026-10-01 afternoon: draft 9 written.",
         "Parts analysis 2026-10-01: 2007-08 P2C carbon 51, carbon fork, Cervélo aero post, standard calipers, alloy base bar + ski-bend extensions with bar-end shifters, alloy Shimano wheels on the bike, Sonic Mega ~80-88 mm carbon spares (carbon brake track; ~$300-450 resale). Groupset unconfirmed (likely 105/Ultegra 10-speed). Package ~$1,250; offer $1,080, ceiling ~$1,150.",
         "Ryan is messaging this seller himself too (2026-10-01). Good rapport; seller confirmed the trainer isn't needed. Photos and answers still pending; the $1,080 offer isn't answered yet.",
-        "Gearing (est.): 2007-08 P2C, likely 53/39 + 10-speed 12-25: est. +$200 for compact rings + 11-28"
+        "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)"
       ]
     },
     {

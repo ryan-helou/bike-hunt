@@ -2575,21 +2575,27 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T16:50:00-04:00",
+      "updatedISO": "2026-10-01T17:05:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
           "price": 1800
         }
       ],
-      "thread": [],
+      "thread": [
+        {
+          "atISO": "2026-10-01T17:05:00-04:00",
+          "from": "us",
+          "text": "Hi! Your Cervélo P2 is exactly what I've been looking for for my first 70.3 next summer, and a 51 is my size. Is the frame carbon? I'm in Laval and could come out this week with cash. Would you be a bit flexible on the bike-alone price?"
+        }
+      ],
       "id": "1767532177930990",
       "url": "https://www.facebook.com/marketplace/item/1767532177930990/",
       "title": "Cervélo P2 51 (likely 2007-08 P2C, carbon to confirm) + Sonic carbon wheels, trainer optional",
       "location": "Casselman, ON",
       "driveHours": 1.75,
       "asking": 1800,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 1575,
@@ -2602,12 +2608,7 @@
         "Package (bike alone $1,800): bike ~$1,100 (P2C 2007-08) + Sonic carbon wheels ~$200x0.75 = $150 -> ~$1,250. Trainer excluded (seller prices it at $600 separately).",
         "All-in at a likely $1,530 close (85% of $1,800) + gas ~$45 (1.75 h each way) = ~$1,575. Margin ~-$325. Overpriced (1.44x value): opener asks flexibility, no number.",
         "Quick run 2026-10-01 afternoon: draft 9 written."
-      ],
-      "draft": {
-        "n": 9,
-        "purpose": "Opener (Potential): confirm carbon, ask flexibility",
-        "text": "Hi! Your Cervélo P2 is exactly what I've been looking for for my first 70.3 next summer, and a 51 is my size. Is the frame carbon? I'm in Laval and could come out this week with cash. Would you be a bit flexible on the bike-alone price?"
-      }
+      ]
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",

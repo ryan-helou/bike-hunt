@@ -263,7 +263,7 @@
       "status": "negotiating",
       "verdict": "Not a good deal: package ~$880 vs all-in ~$1,000 at the seller's $950 floor; carbon not confirmed (blue/white 2007-08 livery could be the alloy P2).",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T14:10:00-04:00",
       "fairValue": 880,
       "target": 750,
       "size": "52?",
@@ -303,6 +303,11 @@
           "atISO": "2026-09-30T12:00:00-04:00",
           "from": "us",
           "text": "Ok perfect, I'm very interested and can buy this week, please let me know when you measure"
+        },
+        {
+          "atISO": "2026-10-01T14:10:00-04:00",
+          "from": "us",
+          "text": "Hi! Quick question: is the frame carbon or aluminium?"
         }
       ],
       "allInCost": 1000
@@ -1684,7 +1689,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T14:10:00-04:00",
       "thread": [
         {
           "atISO": "2026-09-29T22:09:19.438Z",
@@ -1695,6 +1700,11 @@
           "atISO": "2026-09-30T09:31:00-04:00",
           "from": "us",
           "text": "Salut, petit suivi pour le Felt B14. Si c'est un cadre 51, je suis prêt à l'acheter rapidement: 850$ cash et c'est un deal."
+        },
+        {
+          "atISO": "2026-10-01T14:10:00-04:00",
+          "from": "us",
+          "text": "Salut, j'ai vu sur les photos que c'est un cadre 51, parfait pour moi. Je pourrais faire 960$ cash et venir à Québec cette semaine. Ça te va?"
         }
       ],
       "priceHistory": [
@@ -2303,7 +2313,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T14:10:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2334,13 +2344,18 @@
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Hi! Is this still available? What year is it, and are the shifters and rear derailleur Shimano or Campagnolo? Standard brake calipers? How tall are you? I’m in Montréal: would you consider $900 cash if we met partway, around Kingston?"
+        },
+        {
+          "atISO": "2026-10-01T14:10:00-04:00",
+          "from": "us",
+          "text": "Hi, just following up on the Plasma. Still available? I could meet in Kingston this week, cash."
         }
       ],
       "allInCost": 1000
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T14:10:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2369,6 +2384,11 @@
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Hi! Is this still available? What year is it, and what groupset (10 or 11 speed)? Any crashes, and how tall are you? I’m in Montréal: would you consider $1,050 cash if we met partway, around Kingston?"
+        },
+        {
+          "atISO": "2026-10-01T14:10:00-04:00",
+          "from": "us",
+          "text": "Hi, just following up on the P3. Still available? I'd be happy to meet in Kingston this week for cash."
         }
       ],
       "allInCost": 1200
@@ -2407,9 +2427,14 @@
           "atISO": "2026-09-30T09:36:00-04:00",
           "from": "us",
           "text": "Hi! Is this still available? It looks like exactly the bike I need: I'm 5'9\" and ride a 54. I'm in Montréal, so it's a trip: if you can do $1,100 cash, it's a deal, and I'd come this week (or meet partway in Kingston if that suits you)."
+        },
+        {
+          "atISO": "2026-10-01T14:10:00-04:00",
+          "from": "us",
+          "text": "Hi, just checking in on the P2. Still available? I'm still very interested. Would you consider $1,150 cash?"
         }
       ],
-      "updatedISO": "2026-10-01T16:53:52.311Z",
+      "updatedISO": "2026-10-01T14:10:00-04:00",
       "driveHours": 5.5,
       "size": "54",
       "firstSeenISO": "2026-09-30T13:05:59.925Z"

@@ -126,7 +126,7 @@ The table above is only a starting point. For every candidate that might be a go
 ## All-in cost: count the real price, not the sticker
 The good-deal check compares resale value with the **all-in cost**, not the asking price. All-in cost is the likely closing price plus:
 - **Gas for the pickup:** about $25 per hour of one-way driving. Ottawa ≈ $50 and Québec City ≈ $70 round trip.
-- **Tune-up:** add $120 unless the seller says it was just serviced and the photos agree.
+- **No tune-up cost (Ryan, 2026-09-30: "who says I'll go to a tune-up").** He maintains the bike himself, so don't add a shop tune-up or a shop build. Only count parts that actually need replacing.
 - **Parts that need replacing, based on the photos and the ad:**
   - tyres: $100 for a pair of GP5000s if they're cracked, square or Gatorskins
   - chain: $40
@@ -179,7 +179,7 @@ Where good deals come from:
 - **Stale listings from motivated sellers:** a bike worth $1,600–2,200 that has sat for weeks at $1,500–1,900. These can come down to about $1,100–1,200 with a polite, reasoned offer.
 - **Race wheels bundled with the bike:** real Zipp 404/808, HED Jet or Enve are worth $600–1,200 on their own, so a "bike + deep wheels" ad can be a good deal even near full price.
 
-**Missing parts are fine (Ryan, 2026-09-29).** A frameset, a bike with no wheels, or one missing a saddle, aerobars or a shifter can still be a good deal: price the missing parts at used Québec prices (a rim-brake 10/11-speed wheelset ~$150–350 alloy or ~$300–450 FLO/Cosmic Carbone-type; 105 group ~$250–400; aerobars ~$80–150; saddle ~$60) plus about $150 for a shop build if needed, add them to `allInCost`, and judge on that. Only proprietary parts you can't buy (Speed Concept/Shiv brakes, a broken Plasma seat-mast topper) still mean pass.
+**Missing parts are fine (Ryan, 2026-09-29).** A frameset, a bike with no wheels, or one missing a saddle, aerobars or a shifter can still be a good deal: price the missing parts at used Québec prices (a rim-brake 10/11-speed wheelset ~$150–350 alloy or ~$300–450 FLO/Cosmic Carbone-type; 105 group ~$250–400; aerobars ~$80–150; saddle ~$60) add them to `allInCost`, and judge on that. Only proprietary parts you can't buy (Speed Concept/Shiv brakes, a broken Plasma seat-mast topper) still mean pass.
 
 **Buying priorities:** frame and fit first, then standard parts, then groupset (105/Ultegra; replacing a group costs $300–500+). Wheels are the easy swap: stock wheels resell for ~$50–150.
 

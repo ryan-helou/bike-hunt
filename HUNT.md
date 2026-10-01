@@ -5,7 +5,7 @@ The scheduled runs (6am and 6pm) follow this file. Read all of it before searchi
 ## The buyer
 - Ryan Helou, Laval QC (H7T 2W7). He's racing IRONMAN 70.3 Muskoka on 18 July 2027 and is replacing a $400 Giant TCR with clip-ons.
 - He is in no rush: he rides the ThinkRider trainer until February. **Only good deals should reach him** (see "Good deal or not").
-- Budget: about $1,000 to close, $1,200 at most. What he wants is a bike worth much more than he pays. A listing asking up to about $2,000 is worth reading, because stale listings come down.
+- Budget: a **net cost** (price minus resold extras) of about $1,000–1,200. The sticker price can go up to $2,000 when the extras resell for the difference. What he wants is a bike worth much more than he pays. A listing asking up to about $2,000 is worth reading, because stale listings come down.
 - Resale matters: he'll sell this bike later and wants his money back.
 - He doesn't want a bike fit or a tri saddle, so never count those as costs or selling points.
 
@@ -207,7 +207,7 @@ Ryan doesn't want a steal score. For every candidate, give a plain verdict: **Go
 
 A listing is a **good deal** when all of these hold:
 1. It fits and passes every hard rule.
-2. It can likely close at **$1,200 or less**.
+2. **Net cost of about $1,200 or less** (Ryan, 2026-10-01: "I don't mind spending $2,000 if I can sell some stuff for $800"). Net cost = closing price minus the resale of the extras he'd sell (at about 75%). The closing price itself can go up to **$2,000**.
 3. Its **all-in cost is at or below its fair used value**: he'd get his money back if he resold it. (See "Valuing a bike" and "All-in cost".)
 
 Anything else is **not a good deal**, even a nice bike: say which point fails (too small, proprietary brakes, all-in above value, too far…). Put the verdict first in `verdict`, then the numbers, for example "Good deal: worth ~$1,400; all-in ~$1,270 (close $1,100 + gas $50 + tune-up $120)". A good deal with a big margin (value well above all-in) is worth saying so, but no separate score.
@@ -250,9 +250,9 @@ Any of these gets a listing marked passed:
 - Only three city pages work by name: `montreal`, `ottawa`, `quebec`. Other names (sherbrooke, kingston, gatineau…) redirect to a generic search.
 
 So run **every query from all three centres**:
-- `https://www.facebook.com/marketplace/montreal/search?query=<Q>&maxPrice=2000&exact=false&radius=250`: Montréal, Laval, Laurentides, Lanaudière, Montérégie, Granby, St-Jean
-- `https://www.facebook.com/marketplace/ottawa/search?query=<Q>&maxPrice=2000&exact=false&radius=250`: Ottawa, Gatineau, Chelsea, Carleton Place, Cornwall, Kingston edge
-- `https://www.facebook.com/marketplace/quebec/search?query=<Q>&maxPrice=2000&exact=false&radius=250`: Québec City, Lévis, Beauce, Trois-Rivières edge
+- `https://www.facebook.com/marketplace/montreal/search?query=<Q>&maxPrice=2500&exact=false&radius=250`: Montréal, Laval, Laurentides, Lanaudière, Montérégie, Granby, St-Jean
+- `https://www.facebook.com/marketplace/ottawa/search?query=<Q>&maxPrice=2500&exact=false&radius=250`: Ottawa, Gatineau, Chelsea, Carleton Place, Cornwall, Kingston edge
+- `https://www.facebook.com/marketplace/quebec/search?query=<Q>&maxPrice=2500&exact=false&radius=250`: Québec City, Lévis, Beauce, Trois-Rivières edge
 
 Sherbrooke, Trois-Rivières, Drummondville and Kingston fall between the centres, so they only show up for specific searches (the model queries), where there are fewer than 15 nearer matches. That's acceptable. If a listing from there appears, it counts.
 

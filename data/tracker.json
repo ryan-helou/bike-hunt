@@ -1191,7 +1191,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1796226728200924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T16:49:05.446Z",
+      "updatedISO": "2026-10-01T13:40:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1225,6 +1225,11 @@
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Salut! Toujours disponible? C’est quelle année, et t’es de quelle taille? Il a déjà été accidenté? Je suis sérieux et je peux venir de Laval: c’est quoi ton meilleur prix cash?"
+        },
+        {
+          "atISO": "2026-10-01T13:40:00-04:00",
+          "from": "us",
+          "text": "Salut! Toujours disponible? Je suis vraiment intéressé, c'est exactement la grandeur qu'il me faut. Je pourrais faire 1 180$ cash, vu qu'il est en vente depuis un bout. Je peux me déplacer à Québec rapidement."
         }
       ],
       "firstAsking": 2000

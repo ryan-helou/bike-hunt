@@ -2371,6 +2371,43 @@
       "driveHours": 5.5,
       "size": "unknown",
       "firstSeenISO": "2026-09-30T13:05:59.925Z"
+    },
+    {
+      "id": "1635698474563759",
+      "source": "facebook-group",
+      "url": "https://www.facebook.com/marketplace/item/1635698474563759/",
+      "title": "Cannondale Slice (1st gen carbon) L/56, Ultegra 10-sp, deep carbon wheels",
+      "location": "St-Jérôme, QC",
+      "driveHours": 0.6,
+      "asking": 2000,
+      "firstAsking": 2000,
+      "priceHistory": [
+        {
+          "atISO": "2026-10-01T00:16:57.020Z",
+          "price": 2000
+        }
+      ],
+      "status": "needs-ok",
+      "size": "56 (L)",
+      "fairValue": 1150,
+      "allInCost": 1250,
+      "target": 750,
+      "verdict": "Potential, but only a good deal near $700-750: 1st-gen Slice L/56 worth ~$1,100-1,250 with its wheels; all-in = price + ~$500 (gas $20, tune-up $120, chain/cassette ~$100, alloy wheels ~$250 because the carbon rims brake on carbon). $2,000 is far above comps (Slice 54s sold $1,100-1,500 in the same group).",
+      "notes": [
+        "Found 2026-09-30 evening in the group \"Vente-Achat Route & Triathlon Québec\" (search \"slice\", most recent). Ad: vélo de triathlon, Ultegra, taille L (56), cosmetic imperfections only, no pedals, bottle cages included. The group listing shows no date.",
+        "Photos (5, no video): white/red/black 1st-gen Slice (2009-2012 livery), Cannondale crank, silver Ultegra 6600/6700-era rear derailleur (10-speed), Vision-style base bar with extensions and bar-end shifters, ~88 mm carbon wheels with large \"FAST...\" graphics (brand unclear, probably a carbon braking surface: not OK for descents, so budget alloy wheels). Cassette and chain look dirty and worn. Rear brake looks like a standard caliper; the front is not clearly visible. Not a Slice RS (that one has integrated brakes).",
+        "Geometry: 1st-gen Slice 56 not looked up; Slice 2013-15 size 54 = 509/398, so a 56 is probably ~525-530 stack, at the top of the window. Ask the seller's height.",
+        "Value: table Slice 1st gen $900-1,250; group comps Slice 54 + Cosmic $1,100, Slice 54 $1,500, Slice 54 + Dura-Ace tubulars $2,000. Unbranded deep carbon wheels ~$200-300 resale. Fair ~$1,150. allInCost shown at a $750 close.",
+        "Draft 10: French opener (year, seller height, wheel brand and brake track, best cash price)."
+      ],
+      "draft": {
+        "n": 10,
+        "purpose": "Opener on the St-Jérôme Slice 56 (group listing)",
+        "text": "Salut! Toujours disponible? C'est quelle année, et tu mesures combien toi? Les roues sont de quelle marque, avec une piste de freinage carbone ou alu? C'est quoi ton meilleur prix cash? Je suis à Laval, je peux passer rapidement."
+      },
+      "thread": [],
+      "firstSeenISO": "2026-10-01T00:16:57.020Z",
+      "updatedISO": "2026-10-01T00:16:57.020Z"
     }
   ],
   "runs": [
@@ -2493,15 +2530,19 @@
       ]
     },
     {
-      "atISO": "2026-09-30T23:13:05.598Z",
-      "summary": "Evening run (in progress): Laval Transition seller holds at $625, counter drafted at $600; tracked prices unchanged except the QR Tequilo ($2,000 -> $1,950); Marketplace turned up no new tri bikes in range.",
-      "searched": 88,
-      "newListings": 0,
+      "atISO": "2026-10-01T00:16:57.020Z",
+      "summary": "Evening run: the Laval Transition seller holds at $625 (a $600 counter is drafted), a new St-Jérôme Slice 56 at $2,000 turned up in a tri group (opener drafted), and tracked prices are unchanged except the QR Tequilo ($1,950); nothing new on Marketplace or Kijiji.",
+      "searched": 138,
+      "newListings": 1,
       "notes": [
         "Inbox: one new reply since 13:30 (Laval Transition, \"625$ not less\", 16:35). No other new seller messages. Marketplace location still Montréal, 500 km.",
         "Tracked listings: 24 checked; all still up; only change is the QR Tequilo drop to $1,950.",
         "Marketplace: 30 queries x 3 centres (88 pages; Montréal \"zipp 404\" and Québec \"specialized shiv\" froze the browser twice and were skipped). Location still Montréal, 500 km. New tri bikes were all GTA/Barrie/NB or too small: Scott Plasma 51 Brantford $1,500 (just listed), TT/tri Mississauga $2,000, Felt S32 Toronto $950 and Barrie 48 $1,000, P2 48 Burlington $1,400, P2C Brampton $1,400, P2C Saugeen Shores $1,600, Trek Equinox XS Toronto $1,000, QR Lucero S $1,490, Speed Concept Georgina $1,000 (proprietary brakes).",
-        "Opened and ruled out: Montréal \"TT / Road Bike 56cm Rival\" (a rental business, alloy road), St-Jean \"Vélo\" $800 (e-bike), Québec \"Vélo\" $1,900 (Vélomane road), Rawdon \"Cannondale\" (CAAD road), Valleyfield \"Vélo\" (Kestrel Talon road 57), Argon 18 Longueuil $1,050 (road S), Québec $1,900 (Gallium road), Montréal $750 (Krypton road), Stoneham $900 (Radon road), Charlemagne \"Vélo\" $300 (not a tri bike)."
+        "Opened and ruled out: Montréal \"TT / Road Bike 56cm Rival\" (a rental business, alloy road), St-Jean \"Vélo\" $800 (e-bike), Québec \"Vélo\" $1,900 (Vélomane road), Rawdon \"Cannondale\" (CAAD road), Valleyfield \"Vélo\" (Kestrel Talon road 57), Argon 18 Longueuil $1,050 (road S), Québec $1,900 (Gallium road), Montréal $750 (Krypton road), Stoneham $900 (Radon road), Charlemagne \"Vélo\" $300 (not a tri bike).",
+        "Kijiji: 24 searches (Québec + Ottawa). No tri bikes. FLO wheels still up at $350 (2 weeks); Ottawa P5 still listed; the Montréal Argon 18 \"haut de gamme\" is an Anti-Matter gravel bike at $10,000; the Ottawa \"unusual bike\" is a 3-speed fixed-gear steel Dawes.",
+        "Facebook groups joined: Triathlon achat/vente Montréal-Québec, Vente-Achat Route & Triathlon Québec, Québec en Vélo, Ventes petites annonces TRIATHLON, Ottawa Bicycle Classy Ads, Greater Ottawa Bicycle Classifieds. Cyclisme Québec - Vente & Achat is still pending. \"Ventes, petites annonces TRIATHLON\" is a France group (Cap-d'Ail, PAC listings), so only 5 queries there. Ottawa groups: triathlon/tri/cervelo/slice/felt only. About 26 group searches with the most-recent filter.",
+        "Group finds: Slice L/56 St-Jérôme $2,000 (new, tracked, draft 10); Slice-RS Coteau-du-Lac $1,820 (integrated brakes, pass); Liv Avail AR3 2021 Small Gatineau $1,600 (women's road bike with clip-ons, pass); Eclipse alloy tri 2x9 Gatineau $800 (sale pending, weak brand); Argon E-112 Loyalist ON $2,550 (over $2,000, ~3 h+). Over budget: P3 2014 48 Montréal $3,000, P3 2016 Ottawa $2,800, P3 WC Beaconsfield $4,000, Felt IA Valleyfield $3,750, Argon E117 Terrebonne $7,000, Speed Concept 2021 Ottawa $5,800.",
+        "Drafts for Ryan: 9 (Laval Transition counter at $600) and 10 (St-Jérôme Slice opener); the older draft 1 (FLO wheels) is still on hold. Nudges: none due (the first 3-day nudges come due on the 2 Oct evening run). Photos not refreshed (scontent URLs are blocked by the browser tool)."
       ]
     }
   ]

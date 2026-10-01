@@ -3135,17 +3135,23 @@
       ]
     },
     {
-      "atISO": "2026-10-01T23:31:04.527Z",
+      "atISO": "2026-10-01T23:46:07.532Z",
       "id": "2026-10-01-evening-full",
-      "summary": "Evening full run in progress: no seller replies after 18:15, tracked prices unchanged, Marketplace swept with two new tri bikes to watch (Rosemère Plasma + Reynolds $2,499, St-Constant Argon E-117 Tri M $2,500) and nothing in budget.",
-      "searched": 99,
+      "summary": "Evening full run: no seller replies after 18:15 (Casselman photos still pending), tracked prices unchanged, and Marketplace, Kijiji, Pinkbike and the groups turned up nothing in budget; two over-cap tri bikes added to watching (Rosemère Plasma + Reynolds $2,499, St-Constant Argon E-117 Tri M $2,500); no new drafts.",
+      "searched": 171,
       "newListings": 4,
       "notes": [
         "Inbox (Marketplace folder): no seller messages newer than 18:15. Casselman P2C thread ends with Ryan's 'Oh okok' (her last: 'Trained for but never completed'); her promised photos and answers have not arrived.",
         "Tracked: all 22 Marketplace listings + Kijiji FLO wheels re-checked; all still listed at unchanged prices (Argon 18 Montréal 'Vendu' text is 'vendu sans les pédales', not sold).",
         "Marketplace: all 33 HUNT.md queries on Montréal, Ottawa and Québec (99 searches, max 6 scrolls each). Location still Montréal, 500 km (no 'Within 40 km'). 'felt b12' returned no listings within 500 km; Montréal 'vélo carbone' loaded only 1 card.",
         "New tri/TT: Rosemère Scott Plasma 1st gen + Reynolds SDV66/disc $2,499 (was $3,250; watching, size unknown, 53/39 Ultegra 6700); St-Constant Argon E-117 Tri M 105 $2,500 (watching); Repentigny Stradalli 60 XL $2,250 (passed, too big); Mascouche S-Works Shiv 2013 S $2,500 (passed, brakes). GTA/far only: Pelham P3 2013 54 $2,500, Mississauga TT $2,000, Barrie Felt S32 48 $1,000, Collingwood Avanti TT $800, Brampton Slice XS $1,290, Brampton 'Cervelló' $950, Saugeen Shores P2C $1,600, Brampton P2C $1,400, Toronto Argon E-112 $2,250, Toronto Argon E-116 S $2,500, Oakville Plasma+disc $2,000, Toronto Storck Aero 52 $2,500, Brantford Speed Concept M $1,950, Saint John NB Speed Concept $800, Rouyn-Noranda P3 $2,500 (7 h).",
-        "Opened and ruled out: Valleyfield 'Vélo' $1,800 (Kestrel Talon road 57), Québec 'Vélo Cervélo' $1,500 (RS road), Québec 'Vélo TriAce' $900 (alloy flat-bar), Québec Argon Gallium S $1,900 and L $2,000 (road), Prévost Argon 18 $1,000 (flat-bar hybrid), Mirabel 'Velo trial bike' $2,000 (trials bike)."
+        "Opened and ruled out: Valleyfield 'Vélo' $1,800 (Kestrel Talon road 57), Québec 'Vélo Cervélo' $1,500 (RS road), Québec 'Vélo TriAce' $900 (alloy flat-bar), Québec Argon Gallium S $1,900 and L $2,000 (road), Prévost Argon 18 $1,000 (flat-bar hybrid), Mirabel 'Velo trial bike' $2,000 (trials bike).",
+        "Kijiji: all 12 HUNT.md queries on Québec and Ottawa (24 searches). No tri bikes: Ottawa Cervélo P5 54 still up (over budget), FLO wheels still $350, a Montréal Argon 18 Anti Matter gravel $10,000, an Ottawa 3-speed fixed-gear 'time trial' steel bike $950, plus parts (aero seatposts, Fizik Tritone, aerobars).",
+        "Pinkbike Canada: 9 queries x Québec (35-11-*) and Ontario (35-9-*) = 18 searches. Québec: Chelsea 2024 Speed Concept S $10,000, St-Adolphe-d'Howard 2018 E-117 Tri+ XS $2,850 (comp, too small), Ste-Julie 2021 E-117 S $4,850, Montréal Edwins funny-bike pursuit XL $1,500. Ontario all GTA/far: Vaughan Benotto $300, Bloomfield Felt IA 48 $3,350, Toronto E-118 XS $6,500, Toronto P3 2013 49 $2,500, K-W Speed Concept 2017 $4,000. Nothing in budget and in range.",
+        "Facebook groups (most-recent filter): Vente-Achat Route & Triathlon Québec, Triathlon achat/vente Montréal-Québec and Québec en Vélo (7 queries each), Ottawa Bicycle Classy Ads (4; 'felt' timed out) and Greater Ottawa Bicycle Classifieds (5) = 30 searches. Skipped Ventes petites annonces TRIATHLON (France); Cyclisme Québec - Vente & Achat still not joined.",
+        "Group finds, none in budget: Trois-Rivières TT/tri 58 cm $2,800 (too big), Sherbrooke Cervélo P-Series 105 $5,900, Montréal Cervélo P3 2014 M + Stages $3,000 (over cap; comp), Ottawa P3 2016 $2,800, Loyalist E-112 $2,550, Timmins P2 48 $1,475, Gatineau Eclipse alloy tri 9-sp $800 (pending, alloy), plus known listings (St-Jérôme Slice $2,000, Coteau-du-Lac Slice-RS $1,820, Valleyfield Felt IA $3,400, Québec Felt B14 $1,449, Laval Leo SL L $2,300).",
+        "Drafts: none new (Facebook already at ~10 messages today; nothing new qualifies as Potential at or under $2,000). No nudges due before 2 Oct evening. Draft 1 (FLO wheels) and draft 8 (Wilier nudge) unchanged. No notification sent.",
+        "Browser: one batch was cut off by an extension disconnect (reconnected immediately) and the Facebook tab froze twice on group pages; reopened a fresh tab and finished. A Pinkbike tab dropped out of the agent tab group when the group reset and could not be closed by the agent."
       ]
     }
   ]

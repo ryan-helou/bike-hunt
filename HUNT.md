@@ -128,7 +128,7 @@ The table above is only a starting point. For every candidate that might be a go
 ## Gearing for Muskoka (hilly: about 29 climbs, pitches up to 13–19%) (2026-10-01)
 Ryan races on a mechanical bike with bar-end shifters, so the gearing has to make the climbs easy. Check the crank and cassette on every candidate: look at the photos, or ask "C'est quel pédalier (53/39 ou 50/34) et quelle cassette?"
 - **Target:** a compact crank (50/34 or 52/36) and an 11-28 to 11-32 cassette.
-- **If the bike has 53/39 and a 12-25 or 11-25:** add about $150–300 to `allInCost` for the conversion: cassette $40–80, compact rings $80–150 or a used compact crank $100–200, and a chain $30. Ryan does the work himself.
+- **If the cassette's biggest cog is under 28 (e.g. 12-25):** add about $60 to `allInCost` for an 11-28 cassette. That's the real need: at about 8 km/h on 13% pitches, 39×25 means about 40 rpm. Compact chainrings (+$100–150) are optional, nice-to-have, and not counted. Ryan does the work himself (Ryan asked "is it a need?", 2026-10-01).
 - **10-speed derailleurs** usually max out at 27–28 teeth; anything bigger needs a long-cage derailleur, about +$60–100 used.
 - **11-speed** (105 5800/R7000, Ultegra 6800/R8000) takes 11-30/11-32 easily, so it's worth about $100–150 more to Ryan than 10-speed.
 - **Carbon brake tracks:** fine for flat races, but not for Muskoka's long descents. Race on alloy brake-track wheels, or on name-brand carbon clinchers with proper pads that he's practised descending on.

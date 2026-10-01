@@ -528,7 +528,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T23:12:59.751Z",
+      "updatedISO": "2026-09-30T21:20:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -540,7 +540,7 @@
       "location": "Laval, QC",
       "driveHours": 0.1,
       "asking": 700,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "S",
       "fairValue": 850,
       "allInCost": 875,
@@ -573,13 +573,13 @@
           "atISO": "2026-09-30T16:35:00-04:00",
           "from": "seller",
           "text": "625$ not less"
+        },
+        {
+          "atISO": "2026-09-30T21:15:00-04:00",
+          "from": "us",
+          "text": "Thanks for getting back to me! It needs new tyres and bar tape, so could you meet me at $600 cash? If so, it's a deal and I can come by tomorrow."
         }
-      ],
-      "draft": {
-        "n": 9,
-        "purpose": "Counter the Laval Transition at $600 (seller floor $625)",
-        "text": "Thanks for getting back to me! It needs new tyres and bar tape, so could you meet me at $600 cash? If so, it's a deal and I can come by tomorrow."
-      }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
@@ -2387,7 +2387,7 @@
           "price": 2000
         }
       ],
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "56 (L)",
       "fairValue": 1150,
       "allInCost": 1250,
@@ -2398,16 +2398,23 @@
         "Photos (5, no video): white/red/black 1st-gen Slice (2009-2012 livery), Cannondale crank, silver Ultegra 6600/6700-era rear derailleur (10-speed), Vision-style base bar with extensions and bar-end shifters, ~88 mm carbon wheels with large \"FAST...\" graphics (brand unclear, probably a carbon braking surface: not OK for descents, so budget alloy wheels). Cassette and chain look dirty and worn. Rear brake looks like a standard caliper; the front is not clearly visible. Not a Slice RS (that one has integrated brakes).",
         "Geometry: 1st-gen Slice 56 not looked up; Slice 2013-15 size 54 = 509/398, so a 56 is probably ~525-530 stack, at the top of the window. Ask the seller's height.",
         "Value: table Slice 1st gen $900-1,250; group comps Slice 54 + Cosmic $1,100, Slice 54 $1,500, Slice 54 + Dura-Ace tubulars $2,000. Unbranded deep carbon wheels ~$200-300 resale. Fair ~$1,150. allInCost shown at a $750 close.",
-        "Draft 10: French opener (year, seller height, wheel brand and brake track, best cash price)."
+        "Draft 10: French opener (year, seller height, wheel brand and brake track, best cash price).",
+        "2026-09-30: Facebook's default 'Hi, is this available?' went out, but the approved French draft 10 did not: Facebook showed 'temporary limit on how many messages you can send on Marketplace'. Send draft 10's questions once the limit lifts."
       ],
       "draft": {
         "n": 10,
         "purpose": "Opener on the St-Jérôme Slice 56 (group listing)",
         "text": "Salut! Toujours disponible? C'est quelle année, et tu mesures combien toi? Les roues sont de quelle marque, avec une piste de freinage carbone ou alu? C'est quoi ton meilleur prix cash? Je suis à Laval, je peux passer rapidement."
       },
-      "thread": [],
+      "thread": [
+        {
+          "atISO": "2026-09-30T21:18:00-04:00",
+          "from": "us",
+          "text": "Hi, is this available?"
+        }
+      ],
       "firstSeenISO": "2026-10-01T00:16:57.020Z",
-      "updatedISO": "2026-10-01T00:16:57.020Z"
+      "updatedISO": "2026-09-30T21:20:00-04:00"
     }
   ],
   "runs": [

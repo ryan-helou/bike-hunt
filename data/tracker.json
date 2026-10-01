@@ -528,7 +528,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T12:20:00-04:00",
+      "updatedISO": "2026-10-01T12:35:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -540,7 +540,7 @@
       "location": "Laval, QC",
       "driveHours": 0.1,
       "asking": 700,
-      "status": "passed",
+      "status": "gone",
       "size": "S",
       "fairValue": 850,
       "allInCost": 755,
@@ -584,6 +584,11 @@
           "atISO": "2026-10-01T12:05:00-04:00",
           "from": "seller",
           "text": "Yes it would work"
+        },
+        {
+          "atISO": "2026-10-01T12:33:00-04:00",
+          "from": "us",
+          "text": "Hi, really sorry to do this, but I've decided to go with a carbon frame in a slightly bigger size, so I'll pass on the Transition. Thanks a lot for your time and good luck with the sale!"
         }
       ]
     },

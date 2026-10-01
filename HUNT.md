@@ -125,6 +125,20 @@ The table above is only a starting point. For every candidate that might be a go
 3. **Wheels on their own:** if the bike has real deep carbon wheels (Zipp, HED, Enve, Reynolds, Mavic Cosmic Carbone), value them separately with Pinkbike or eBay sold listings, then add them to the frameset value.
 4. Put `fairValue` as the lower end of what the evidence supports. In notes, write the sources in one line, for example: "BBB US$1,050 → ~C$1,300; comps $1,400/$1,550 (P2 2012 105)".
 
+## Extras Ryan wants: count them (2026-10-01)
+**A bike computer:** Ryan wants one, so if a listing includes it, its used value comes off the all-in cost, since he'd otherwise buy one. Used Québec values:
+- Garmin Edge 520/530/830, or Wahoo Elemnt Bolt/Roam: about $120–220
+- Garmin Edge 1030/1040, or Hammerhead Karoo: about $250–350
+- Older Garmin Edge 500/510/800: about $50–80
+- A basic wired computer (CatEye, Bontrager, etc.): about $0–20, since it has no GPS
+
+Also valuable if included:
+- power meter (Stages/4iiii crank arm about $200, Quarq/SRM spider $300–500, Assioma or Garmin pedals $300–450)
+- deep wheels (see "Valuing a bike")
+- an aero bottle or between-the-arms (BTA) mount, about $30
+
+**Always ask** "Est-ce qu'un compteur est inclus?" when the photos show a computer mount, and mention any included computer in the verdict.
+
 ## All-in cost: count the real price, not the sticker
 The good-deal check compares resale value with the **all-in cost**, not the asking price. All-in cost is the likely closing price plus:
 - **Gas for the pickup:** about $25 per hour of one-way driving. Ottawa ≈ $50 and Québec City ≈ $70 round trip.

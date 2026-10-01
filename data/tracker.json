@@ -49,7 +49,7 @@
       "status": "watching",
       "verdict": "Not a good deal at $750: all-in ~$920 vs ~$650-800 for an alloy P1. Good only at ~$630 or less.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-29T23:05:12.445Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "fairValue": 850,
       "target": 630,
       "size": "54",
@@ -114,7 +114,7 @@
       "status": "watching",
       "verdict": "Seller's floor is $1,075. They're 5'11\" and first said '54 I think', then '56-58cm': probably too big for 5'9\", and $1,075 is above the ~$1,000 value. Pass unless the price drops a lot and the frame is confirmed as a 54.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-30T13:30:00-04:00",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "firstAsking": 1400,
       "fairValue": 1000,
       "target": 700,
@@ -184,7 +184,7 @@
       "status": "negotiating",
       "verdict": "Carbon frame, deep wheels (material unknown), worn cockpit. Weak resale brand; only fair near $1,000.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "fairValue": 1050,
       "target": 1000,
       "size": "M",
@@ -218,7 +218,7 @@
       "status": "negotiating",
       "verdict": "Good deal only at ~$700 or less for an alloy Transition: worth ~$800-950; all-in = price + ~$170.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-30T13:40:37.353Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "fairValue": 950,
       "target": 700,
       "size": "53.4",
@@ -261,7 +261,7 @@
       "status": "negotiating",
       "verdict": "Size 51/52 (fine on the small side for 5'9\"). Floor $950 because of a competing offer; worth ~$950, so fair, not a steal. Waiting on the stack measurement. Pay by e-transfer only at pickup, after the inspection.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-30T13:30:00-04:00",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "fairValue": 950,
       "target": 780,
       "size": "52?",
@@ -475,7 +475,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1383737736983330/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -528,7 +528,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2651831985252795/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T21:20:00-04:00",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -584,7 +584,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1037818218696939/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T02:28:04.191Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -714,7 +714,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/27094078976918279/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T23:10:00-04:00",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -872,7 +872,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/978309548239924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-29T23:12:43.028Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -942,7 +942,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T01:35:01.405Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -965,7 +965,8 @@
         "2026-09-29 ~18:05: sent draft 10 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-09-30: early follow-up drafted on Ryan's ask. $1,100 is under the $1,130 good-deal line; the size condition protects the fit.",
         "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Photos: graphite/white P2 (2013-14 style), standard front caliper; size not visible. Confirmed Sent 9:25.",
-        "2026-09-30 night: the listing has a video; it would not load (spinner, tab could not be brought to the front), so it is still unwatched. Ask for drivetrain-side photos if the seller replies."
+        "2026-09-30 night: the listing has a video; it would not load (spinner, tab could not be brought to the front), so it is still unwatched. Ask for drivetrain-side photos if the seller replies.",
+        "2026-10-01 morning: video clicked again but would not load (Chrome reports the page as hidden, so the video stays at 0:00). Still unwatched; ask the seller for drivetrain photos if they reply."
       ],
       "thread": [
         {
@@ -984,7 +985,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1065664379202971/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1018,7 +1019,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1062004785512482/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T02:44:15.010Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1080,7 +1081,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-10-01T01:35:01.405Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1125,7 +1126,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2141803323436059/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1160,7 +1161,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1796226728200924/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T23:12:59.751Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1200,7 +1201,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1388503449842108/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1646,7 +1647,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-30T13:40:37.353Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "thread": [
         {
           "atISO": "2026-09-29T22:09:19.438Z",
@@ -1805,7 +1806,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/3595288533961051/",
       "firstSeenISO": "2026-09-28T22:43:55.286Z",
-      "updatedISO": "2026-10-01T02:44:15.010Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "thread": [
         {
           "atISO": "2026-09-30T09:40:00-04:00",
@@ -2089,7 +2090,7 @@
       "asking": 350,
       "status": "watching",
       "firstSeenISO": "2026-09-29T17:25:46.830Z",
-      "updatedISO": "2026-10-01T02:44:15.010Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T17:25:46.830Z",
@@ -2159,7 +2160,7 @@
       "status": "negotiating",
       "size": "54",
       "firstSeenISO": "2026-09-29T23:09:59.588Z",
-      "updatedISO": "2026-09-29T23:53:14.228Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T23:09:59.588Z",
@@ -2225,7 +2226,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2257,7 +2258,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2292,7 +2293,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2358,7 +2359,7 @@
           "text": "Hi! Is this still available? It looks like exactly the bike I need: I'm 5'9\" and ride a 54. I'm in Montréal, so it's a trip: if you can do $1,100 cash, it's a deal, and I'd come this week (or meet partway in Kingston if that suits you)."
         }
       ],
-      "updatedISO": "2026-09-30T13:40:37.353Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "driveHours": 5.5,
       "size": "54",
       "firstSeenISO": "2026-09-30T13:05:59.925Z"
@@ -2432,7 +2433,7 @@
         }
       ],
       "firstSeenISO": "2026-10-01T00:16:57.020Z",
-      "updatedISO": "2026-09-30T23:10:00-04:00"
+      "updatedISO": "2026-10-01T10:32:47.346Z"
     },
     {
       "id": "1002062815915333",
@@ -2454,7 +2455,7 @@
         "Not messaged: value is under the ~$1,000 potential threshold. Message only if it drops to ~$800 or less."
       ],
       "firstSeenISO": "2026-10-01T02:11:50.497Z",
-      "updatedISO": "2026-10-01T02:11:50.497Z",
+      "updatedISO": "2026-10-01T10:32:47.346Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T02:11:50.497Z",
@@ -2615,6 +2616,17 @@
         "New sold comps: Slice SRAM Red Large Valleyfield $1,000; Slice 60 Québec $1,000; Slice 2012 51 + Quarq Chelsea $1,700; Slice 105 56 Chelsea $1,400; Argon E-80 Ste-Julie $1,000; Garneau T1 Medium Ottawa $1,300; Transition Elite Ottawa $800; Argon E-117 Ottawa $1,900; Prologue tri 105 Gatineau $950.",
         "Drafts: 11 (Trinity: $650 cash conditional on the frame measurement; the seller's $900 had no reply from us), 10 rewritten short (St-Jérôme Slice: flexible on price, once the seller answers), 1 rewritten short (FLO wheels, still on hold). No nudges due yet (the 3-day ones come due on the 2 Oct evening run). Only 2 sendable drafts tonight, well under the ~8/day message limit.",
         "Browser: the first tab of this run was orphaned when its tab group closed (it may still be open on the Montréal Cervélo P2 page). Videos could not play because the Chrome window was hidden."
+      ]
+    },
+    {
+      "atISO": "2026-10-01T10:32:47.346Z",
+      "summary": "Morning run (in progress): inbox and 27 tracked listings checked; no seller replies overnight and no price changes.",
+      "searched": 0,
+      "newListings": 0,
+      "notes": [
+        "Inbox: no seller messages since our 30 Sep evening messages; the newest seller message is still the Québec P2 SL \"56-58cm\". Marketplace location still Montréal, 500 km.",
+        "Tracked: 26 Marketplace listings + the Kijiji FLO wheels checked, all still listed at the same prices.",
+        "Nudges: none due (earliest 3-day nudges fall on 2-3 Oct)."
       ]
     }
   ]

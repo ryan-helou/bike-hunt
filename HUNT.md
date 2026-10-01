@@ -347,6 +347,18 @@ Ryan joins these himself. On 2026-09-29 he requested to join the two private tri
 - **Never** offer or agree to a deposit, a shipment, or an e-transfer before viewing. Never share Ryan's address or phone number.
 - **Handing off:** once there's a price, the viewing time is Ryan's call. The seller only has to confirm the number; logistics go to Ryan.
 
+### How to open (Ryan, 2026-09-30: "open with less")
+About 30% of sellers replied. The silent ones mostly got openers with 4–6 questions, or lowballs on overpriced bikes.
+- **Opener = "still available?" plus at most ONE question**, whichever matters most: usually the frame size, otherwise the year or the groupset. Don't ask what the photos or ad already answer. Ask further questions only after the seller replies.
+- **Overpriced listings** (asking more than about 1.4× fair value): don't open with a number. Ask whether they're flexible on price and let them name one. Once they reply, Ryan's aggressive offers are fine; he wants to keep making them.
+- **Follow-ups:** one nudge about 3 days after our last message, then stop. That listing goes back to `watching`, and we only contact it again if the price drops.
+- **Toronto/GTA and anything over 3 h:** only for an exceptional deal (margin $400+). Never "let's meet partway" otherwise.
+
+**Opener examples**
+- French: "Salut! Toujours disponible? C'est quelle grandeur de cadre?"
+- English: "Hi! Is this still available? What frame size is it?"
+- For an overpriced listing: "Salut! Toujours disponible? Es-tu flexible sur le prix?"
+
 ### When to make an offer (Ryan, 2026-09-30: "don't send offers for no reason, but don't be scared to send offers")
 Having several firm offers out at once is fine; Ryan doesn't mind. But every offer needs a reason:
 - **The seller answered**, and the bike fits and is worth more than the offer. Make the offer in the same reply.

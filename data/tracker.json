@@ -2620,13 +2620,16 @@
     },
     {
       "atISO": "2026-10-01T10:32:47.346Z",
-      "summary": "Morning run (in progress): inbox and 27 tracked listings checked; no seller replies overnight and no price changes.",
-      "searched": 0,
+      "summary": "Morning run (in progress): no seller replies overnight, no price changes, and nothing new worth buying on Marketplace.",
+      "searched": 99,
       "newListings": 0,
       "notes": [
         "Inbox: no seller messages since our 30 Sep evening messages; the newest seller message is still the Québec P2 SL \"56-58cm\". Marketplace location still Montréal, 500 km.",
         "Tracked: 26 Marketplace listings + the Kijiji FLO wheels checked, all still listed at the same prices.",
-        "Nudges: none due (earliest 3-day nudges fall on 2-3 Oct)."
+        "Nudges: none due (earliest 3-day nudges fall on 2-3 Oct).",
+        "Marketplace: all 33 HUNT.md queries on Montréal, Ottawa and Québec (99 searches). Location still Montréal, 500 km (no \"Within 40 km\"). New tri/TT cards were all GTA or far: Toronto \"Carbon Guru crono 51\" $350 (opened: actually a Guru Cron'Alu alloy road bike with drop bars), Georgian Bluffs \"Triathlon bike\" $600 (~7 h away). Known GTA tri bikes unchanged (Kuota Kalibur $1,250, P3 Burlington $2,000, Plasma 51 Brantford $1,500, P2 St Catharines $1,500, P2 48 Burlington $1,400, Speed Concept Georgina $1,000, Trinity Oakville $1,875, Shiv Toronto $2,000, QR Lucero S $1,490).",
+        "Opened and ruled out: Boisbriand KHS TR-101 $1,000 (new touring bike from a distributor), Montréal-Est \"Velo\" $500 (Garneau flat-bar hybrid), St-Paul \"Vélo\" $500 (kid's BMX-style), Montréal \"Vélo\" $410 (fat bike), Repentigny \"Vélo\" $200 (hybrid with panniers), Shefford \"Vélo\" $550 (alloy road 54), Lévis \"Vélo\" $500 (road Small), Coaticook \"Trek\" $500 (MTB), Montréal \"vélo Argon18\" $750 (Krypton road S), Longueuil \"Velo\" $500 (Scott hybrid), Hawkesbury \"Vélo Specialized\" $800 (Sequoia touring), Chelsea Specialized M $400 (MTB). Ste-Sophie \"2022 Giant\" $800 would not load.",
+        "The Ottawa \"tri bike\" extraction was blocked once by the browser tool's output filter; rerun without it, all GTA cards."
       ]
     }
   ]

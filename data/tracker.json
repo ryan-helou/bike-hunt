@@ -1678,7 +1678,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/4503935689882002/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "thread": [
         {
           "atISO": "2026-09-29T22:09:19.438Z",
@@ -1708,11 +1708,11 @@
       "asking": 1449,
       "firstAsking": 1750,
       "status": "negotiating",
-      "size": "unknown",
-      "fairValue": 1050,
-      "allInCost": 1190,
-      "target": 860,
-      "verdict": "Good deal only at ~$860 or less: worth ~$1,050; all-in = price + ~$190. Size/year unknown.",
+      "size": "51",
+      "fairValue": 1165,
+      "allInCost": 1320,
+      "target": 1000,
+      "verdict": "Not a good deal at a likely ~$1,250 close: package ~$1,165 vs all-in ~$1,320; size 51 confirmed (521/388), good deal at ~$1,000 or less.",
       "notes": [
         "Model/year: Felt B14, year not stated (probably 2012-2016 carbon). Size not stated: ask. Geometry unknown until size is known.",
         "Ad: Ultegra groupset, FSA crank, two new tyres, used for one 70.3, two 40 km rides and half a trainer season. Comes with risers, rear bottle cage, Look pedals, computer mount.",
@@ -1720,7 +1720,8 @@
         "Listed a week ago, already down from $1,750.",
         "2026-09-29 ~18:05: sent draft 11 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-09-30: early follow-up drafted on Ryan's ask. $850 posed as a question, not a commitment, since size/year are unknown (2014+ Felt runs tall).",
-        "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Photos: red/black 2014-16 B14 (new B-series frame). Felt 2014+ 54 = 535 stack (too tall), 51 = 521/388 (OK), so the offer is conditional on a 51; year question dropped. Confirmed Sent 9:31."
+        "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Photos: red/black 2014-16 B14 (new B-series frame). Felt 2014+ 54 = 535 stack (too tall), 51 = 521/388 (OK), so the offer is conditional on a 51; year question dropped. Confirmed Sent 9:31.",
+        "2026-10-01 package re-value: still $1,449 (was $1,750; a week). 4 photos, no video. SIZE CONFIRMED 51 from the 'B SERIES 51' seat-tube sticker: Felt 2014+ 51 = 521/388 (fits; short reach, fix with extensions). Red/black 2014-16 carbon B14, Ultegra, FSA crank. The smart trainer in two photos is not in the included list. Extras (ad): aerobar risers ~$40x0.75 = $30, rear bottle mount ~$40x0.75 = $30, Look pedals ~$60x0.75 = $45, two new tyres ~$80x0.75 = $60, computer mount $0. Package ~$1,165: bike $1,000 + $165. All-in at a likely $1,250 close: + gas $69 = ~$1,320. Margin ~-$155. Our conditional '51 at $850' offer (30 Sep) is now unconditional in effect."
       ],
       "draft": null
     },
@@ -2121,16 +2122,16 @@
       "asking": 350,
       "status": "watching",
       "firstSeenISO": "2026-09-29T17:25:46.830Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T17:25:46.830Z",
           "price": 350
         }
       ],
-      "fairValue": 450,
+      "fairValue": 480,
       "target": 300,
-      "verdict": "Wheel upgrade for the Lévis P2, not a bike. FLO rims are carbon fairings over an aluminium brake track, so they pass the rim-brake rule. Asking $350, negotiable; worth ~$400-500 used. Net ~$250-275 after selling the P2's stock Shimano wheels.",
+      "verdict": "Good deal (wheels, not a bike): package ~$480 vs all-in ~$310 at a likely $300 close; only useful once Ryan has a rim-brake bike to put them on.",
       "notes": [
         "Ad: bought 2016 for $800 + tax, used only for triathlon races, negotiable. Posted 1 week ago. Photo shows a FLO 60 front with Conti GP4000 tyres; a thin light band at the rim edge matches the alloy brake track.",
         "11-speed freehub: takes the P2's 10-speed cassette with a 1.85 mm spacer.",
@@ -2139,13 +2140,15 @@
         "2026-09-29: Ryan: hold the wheels message until the Lévis P2 closes at a good price. Draft kept, not approved.",
         "2026-09-30 06:00 run: still listed on Kijiji. The hold condition (Lévis P2 closing) is moot now that Ryan walked away from the Lévis P2 on 29 Sep; draft 1 stays unsent until Ryan has a bike these wheels would go on.",
         "2026-09-30 night: still listed at $350 (posted 2 weeks ago). Draft 1 still on hold.",
-        "2026-09-30 night: draft 1 shortened to the new opener format (still available + one question, no number). Still on hold: the Lévis P2 it was meant for is off."
+        "2026-09-30 night: draft 1 shortened to the new opener format (still available + one question, no number). Still on hold: the Lévis P2 it was meant for is off.",
+        "2026-10-01 package re-value: still $350 (posted 2 weeks). 2 photos: FLO 60-depth front and rear (both look ~60 mm, not 60/90), Continental GP4000 tyres mounted, alloy brake track. Package ~$480: FLO 60 pair ~$450 + GP4000 tyres ~$40x0.75 = $30. All-in at a likely $300 close: + gas ~$10 = ~$310."
       ],
       "draft": {
         "n": 1,
         "purpose": "Open on the FLO wheels (on hold until Ryan has a bike they would go on)",
         "text": "Bonjour! Les roues FLO sont toujours disponibles? C'est quelle profondeur à l'arrière, 60 ou 90?"
-      }
+      },
+      "allInCost": 310
     },
     {
       "id": "35721421944172963",
@@ -2191,17 +2194,17 @@
       "status": "negotiating",
       "size": "54",
       "firstSeenISO": "2026-09-29T23:09:59.588Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T23:09:59.588Z",
           "price": 1800
         }
       ],
-      "fairValue": 1400,
-      "allInCost": 1720,
-      "target": 1350,
-      "verdict": "Not a good deal at $1,800: worth ~$1,400 whole (parts ~$1,450-2,150); all-in = price + ~$60 (gas $20, carbon pads $40) if the Zipps are a brand-name 2011+ generation. Good deal up to ~$1,350.",
+      "fairValue": 1490,
+      "allInCost": 1810,
+      "target": 1150,
+      "verdict": "Not a good deal: package ~$1,490 vs all-in ~$1,810 at a likely ~$1,550 close (includes $250 alloy wheels because the Zipps brake on carbon); good deal at ~$1,150 or less.",
       "notes": [
         "Ad: 54 cm, Shimano Ultegra (speed not stated), Zipp 404 with new GP5000, full carbon, tune-up at start of season, aero bottle and cages included. Listed 9 h ago at $1,800.",
         "Model: Devinci Leo T2 (Devinci TT, rim brakes). Year and stack/reach unknown: geometry not found this run; ask stack or seller height before any offer.",
@@ -2210,7 +2213,8 @@
         "Photo not stored: scontent URLs are blocked by the browser tool.",
         "2026-09-29 ~19:50: Ryan asked to DM (questions only, no price). Sent and confirmed in the Marketplace inbox.",
         "Part values (estimates): frame/fork/post $400-600; Ultegra group $250-450 (10 vs 11 speed); Zipp 404 carbon clinchers $600-800; aerobars $80-150; GP5000s $80-100; bottles/cages/bag $30-50.",
-        "Ryan questioned the carbon-rim rule; proposed: brand-name 2011+ carbon clinchers OK with carbon pads and a brake-track check, no-name/pre-2011 still no. Not yet written into HUNT.md."
+        "Ryan questioned the carbon-rim rule; proposed: brand-name 2011+ carbon clinchers OK with carbon pads and a brake-track check, no-name/pre-2011 still no. Not yet written into HUNT.md.",
+        "2026-10-01 package re-value: still $1,800 (listed 2 days ago per the page, i.e. renewed). 3 photos, no video. Ad: 54 cm, Ultegra, Zipp 404 with new GP5000s, full carbon, tune-up at the start of the season, aero bottle and cages included. Photos: white/black Leo T2, Zipp 404 carbon clinchers (carbon brake track), BTA aero bottle, behind-saddle mount with 2 bottles, top-tube bag, frame bottle; no second (alloy) wheelset. Package ~$1,490: bike without wheels $850 + Zipp 404 pair $700x0.75 = $525 + new GP5000 pair $90x0.75 = $68 + aero bottle, rear mount and bag ~$60x0.75 = $45. All-in at a likely $1,550 close: + gas $13 + alloy rim-brake wheelset $250 (HUNT carbon-rim rule) = ~$1,810. If Ryan adopts the proposed 'brand-name 2011+ carbon clinchers OK with carbon pads' rule, swap the $250 for $40 pads: all-in ~$1,600, still above the package. Margin ~-$320."
       ],
       "thread": [
         {
@@ -2257,7 +2261,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2268,7 +2272,8 @@
         "Ad: carbone, \"parfait pour un premier Ironman\", grandeur 54, Shimano, sold without pedals. Listed 4 hours ago.",
         "2026-09-29 evening: Ryan asked for more long shots; draft 30 written.",
         "2026-09-29 ~20:25: sent draft 30 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
-        "2026-09-30 06:00 run: still $3,000, now shows \"Listed 14 hours ago\" (renewed/relisted overnight). No reply to our questions yet."
+        "2026-09-30 06:00 run: still $3,000, now shows \"Listed 14 hours ago\" (renewed/relisted overnight). No reply to our questions yet.",
+        "2026-10-01 package re-value: still $3,000 ('listed a day ago', renewed). 5 photos, no video. Ad: carbone, 54, Shimano, sold without pedals. Photos: modern matte black/red Argon 18 tri bike, E-117 Tri shape (dropped seatstays, standard-looking front caliper), Shimano 105-level 2x11 crank, base bar + extensions, red cages, small saddle bag. Model/year still to confirm (E-117 vs E-118: E-118 = pass). Extras: none of value (cages, saddle bag $0). Package ~$1,900 = bike estimate (2017+ E-117 105, no comps checked). All-in at a likely $2,500 close: + gas ~$8. Margin ~-$600."
       ],
       "id": "1652267093121252",
       "url": "https://www.facebook.com/marketplace/item/1652267093121252/",
@@ -2278,18 +2283,21 @@
       "asking": 3000,
       "status": "negotiating",
       "size": "54",
-      "verdict": "Unknown model: an E-117/E-112 could be worth $1,500-2,500; an E-118 has proprietary brakes (pass). Far above budget at $3,000; questions first.",
+      "verdict": "Not a good deal: package ~$1,900 (no extras) vs all-in ~$2,510 at a likely ~$2,500 close, and far over the $1,200 cap.",
       "thread": [
         {
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Salut! Toujours disponible? C’est quel modèle (E-112, E-117, E-118?) et quelle année? C’est quel groupe Shimano, et t’es de quelle taille? Je suis à Laval, je peux passer vite."
         }
-      ]
+      ],
+      "fairValue": 1900,
+      "allInCost": 2510,
+      "target": 1200
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2300,7 +2308,8 @@
         "Ad: serviced at Trek Queen West Feb 2026 (new cables/housing), new Bontrager clip-on bars, Dura-Ace crank, Campagnolo FD, Ksyrium Elite. Listed 13 weeks, down from $2,200. Upgraded to a newer bike.",
         "Check: which shifters/RD (Campy vs Shimano mix), year (1st-gen Plasma has standard brakes; Plasma 5 does not), stack.",
         "2026-09-29 evening: Ryan asked for more long shots; draft 31 written.",
-        "2026-09-29 ~20:25: sent draft 31 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 31 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: still $1,000 (was $2,200; 13 weeks). 6 photos (one is the Feb 2026 Trek Queen West service invoice; one shows it on a trainer, which the ad does not include), no video. 1st-gen Scott Plasma carbon 54 (black/gold, standard calipers), Dura-Ace crank, Campagnolo FD, Ksyrium Elite, new Bontrager Race Lite clip-ons, new cables/housing. Extras: new Shimano SPD-SL pedals ~$80x0.75 = $60. Package ~$1,110: bike $1,050 + $60. All-in at a likely $900 close (our offer): + Kingston meet gas ~$100, no parts (fresh service) = ~$1,000. Margin ~+$110."
       ],
       "id": "1014185267670492",
       "url": "https://www.facebook.com/marketplace/item/1014185267670492/",
@@ -2311,20 +2320,21 @@
       "firstAsking": 2200,
       "status": "negotiating",
       "size": "54",
-      "fairValue": 1100,
-      "target": 900,
-      "verdict": "Possible good deal at ~$900 if met in Kingston (~$100 gas; serviced Feb 2026 so no tune-up): all-in ~$1,000 vs ~$1,100-1,300. Mixed Shimano/Campagnolo parts and year unknown.",
+      "fairValue": 1110,
+      "target": 950,
+      "verdict": "Good deal (thin): package ~$1,110 vs all-in ~$1,000 at a likely $900 close met in Kingston; margin ~$110, below the $400 bar for a Toronto trip.",
       "thread": [
         {
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Hi! Is this still available? What year is it, and are the shifters and rear derailleur Shimano or Campagnolo? Standard brake calipers? How tall are you? I’m in Montréal: would you consider $900 cash if we met partway, around Kingston?"
         }
-      ]
+      ],
+      "allInCost": 1000
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2334,7 +2344,8 @@
       "notes": [
         "Ad: carbon P3, recently tuned, great shape, 53 cm. Listed 12 weeks. Probably the same bike as passed listing 28016620517945702 (Toronto P3C 53, $1,250), relisted.",
         "2026-09-29 evening: Ryan asked for more long shots; draft 32 written.",
-        "2026-09-29 ~20:25: sent draft 32 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 32 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-10-01 package re-value: still $1,250 (12 weeks). 1 photo, no video. Red/black 'P3 Carbon' (2005-07 P3C, Vroomen White Design), SRAM crank, Easton alloy wheels, base bar + extensions, top-tube bag, 1 cage. Extras: none of value (bag/cage $0). Bike ~$1,250 (older P3C, below the 2008-13 P3 range). All-in at a likely $1,100 close: + Kingston gas ~$100 = ~$1,200. Margin ~+$50."
       ],
       "id": "1188631100095712",
       "url": "https://www.facebook.com/marketplace/item/1188631100095712/",
@@ -2344,16 +2355,17 @@
       "asking": 1250,
       "status": "negotiating",
       "size": "53",
-      "fairValue": 1400,
+      "fairValue": 1250,
       "target": 1100,
-      "verdict": "Possible good deal at ~$1,050-1,100 if met in Kingston: all-in ~$1,150-1,200 (gas ~$100, tuned recently) vs ~$1,400. Hidden gem model; groupset and year unknown.",
+      "verdict": "Good deal (thin): package ~$1,250 (no extras) vs all-in ~$1,200 at a likely $1,100 close met in Kingston; margin ~$50, below the $400 bar for a Toronto trip.",
       "thread": [
         {
           "atISO": "2026-09-30T00:25:48.045Z",
           "from": "us",
           "text": "Hi! Is this still available? What year is it, and what groupset (10 or 11 speed)? Any crashes, and how tall are you? I’m in Montréal: would you consider $1,050 cash if we met partway, around Kingston?"
         }
-      ]
+      ],
+      "allInCost": 1200
     },
     {
       "id": "1982719719054859",
@@ -2370,17 +2382,18 @@
         }
       ],
       "status": "negotiating",
-      "fairValue": 1400,
-      "allInCost": 1200,
+      "fairValue": 1480,
+      "allInCost": 1550,
       "target": 1150,
-      "verdict": "Potential, good deal at ~$1,100: 2012 P2 54 (512/418, ideal fit), worth ~$1,400-1,500 with the Cosmic Carbone SLs; all-in at $1,100 ~$1,320 met in Kingston (gas ~$100; new GP5000s so no tyres).",
+      "verdict": "Not a good deal at a likely ~$1,450 close: package ~$1,480 vs all-in ~$1,550 (Kingston); good deal at ~$1,150 (all-in ~$1,250, margin ~$230).",
       "notes": [
         "Ad: 2012 Cervélo P2, 54, full carbon, Ultegra 6700 2x10, 165 crank, 50/34, 10-25. Mavic Cosmic Carbone SL (carbon fairing over alloy brake track: passes the rim rule), GP5000 S TR + TPU tubes nearly new, 3T Aura Pro base bar + 3T clips, Cobb saddle. Minor cosmetic scratches, stored indoors, test ride offered. Listed 6 weeks at $1,700, pickup Liberty Village.",
         "Geometry: P2 2010-14 size 54 = 512 / 418 (ideal). Threaded BSA BB.",
         "Value: table P2 carbon 2011+ $1,200-1,600; Cosmic Carbone SL used ~$250-350 (estimate); BBB 2011 P2 ~C$690-850 Excellent (runs low). Fair ~$1,400.",
         "All-in: Toronto pickup gas ~$160 (all-in ~$1,380 at $1,100), Kingston meet ~$100 (~$1,320). Both under value at $1,100; $1,150 max.",
         "Found 2026-09-30 AM run (Ottawa \"TT bike\" search); opened on Ryan's ask for more messages.",
-        "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Dropped crash/height questions (ad covers condition; 54 is the ideal size). Photos: black 2012 P2, Cosmic Carbone SL, standard brakes. Listing flipped to \"Message again\" after Send; the chat popup would not reopen to screenshot."
+        "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Dropped crash/height questions (ad covers condition; 54 is the ideal size). Photos: black 2012 P2, Cosmic Carbone SL, standard brakes. Listing flipped to \"Message again\" after Send; the chat popup would not reopen to screenshot.",
+        "2026-10-01 package re-value: still $1,700 (6 weeks). 8 photos, no video. 2012 P2 54 full carbon (Vroomen White Design), Ultegra 6700 2x10, Mavic Cosmic Carbone SL (alloy brake track; replaces the stock wheels, which are not included), GP5000 S TR + TPU tubes nearly new, 3T Aura Pro + clips, Cobb saddle, top-tube bag, behind-saddle bottle mount. Package ~$1,480: bike with Cosmic Carbone SL $1,400 + near-new GP5000 S TR/TPU $110x0.75 = $80 (bag, mount $0). All-in at a likely $1,450 close: + Kingston gas ~$100 = ~$1,550 (Toronto pickup ~$1,610). Margin ~-$70."
       ],
       "draft": null,
       "thread": [
@@ -2390,7 +2403,7 @@
           "text": "Hi! Is this still available? It looks like exactly the bike I need: I'm 5'9\" and ride a 54. I'm in Montréal, so it's a trip: if you can do $1,100 cash, it's a deal, and I'd come this week (or meet partway in Kingston if that suits you)."
         }
       ],
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "driveHours": 5.5,
       "size": "54",
       "firstSeenISO": "2026-09-30T13:05:59.925Z"
@@ -2437,10 +2450,10 @@
       ],
       "status": "needs-ok",
       "size": "56 (L)",
-      "fairValue": 1150,
-      "allInCost": 1130,
-      "target": 750,
-      "verdict": "Potential, but only a good deal near $700-750: 1st-gen Slice L/56 worth ~$1,100-1,250 with its wheels; all-in = price + ~$500 (gas $20, chain/cassette ~$100, alloy wheels ~$250 because the carbon rims brake on carbon). $2,000 is far above comps (Slice 54s sold $1,100-1,500 in the same group).",
+      "fairValue": 1090,
+      "allInCost": 1865,
+      "target": 650,
+      "verdict": "Not a good deal: package ~$1,090 vs all-in ~$1,865 at a likely ~$1,500 close (incl. $250 alloy wheels and $100 chain/cassette); only near $650.",
       "notes": [
         "Found 2026-09-30 evening in the group \"Vente-Achat Route & Triathlon Québec\" (search \"slice\", most recent). Ad: vélo de triathlon, Ultegra, taille L (56), cosmetic imperfections only, no pedals, bottle cages included. The group listing shows no date.",
         "Photos (5, no video): white/red/black 1st-gen Slice (2009-2012 livery), Cannondale crank, silver Ultegra 6600/6700-era rear derailleur (10-speed), Vision-style base bar with extensions and bar-end shifters, ~88 mm carbon wheels with large \"FAST...\" graphics (brand unclear, probably a carbon braking surface: not OK for descents, so budget alloy wheels). Cassette and chain look dirty and worn. Rear brake looks like a standard caliper; the front is not clearly visible. Not a Slice RS (that one has integrated brakes).",
@@ -2449,7 +2462,8 @@
         "Draft 10: French opener (year, seller height, wheel brand and brake track, best cash price).",
         "2026-09-30: Facebook's default 'Hi, is this available?' went out, but the approved French draft 10 did not: Facebook showed 'temporary limit on how many messages you can send on Marketplace'. Send draft 10's questions once the limit lifts.",
         "2026-09-30 21:16: Facebook's message limit blocked draft 10, so the default \"Hi, is this available?\" went instead. Draft 10 stays on hold as the follow-up once the seller answers.",
-        "2026-09-30 night: draft 10 shortened per the new opener rule (one question; $2,000 is ~1.7x the ~$1,150 value, so ask about flexibility and let the seller name a number). Send only after the seller answers the 21:16 \"Hi, is this available?\"; no reply yet."
+        "2026-09-30 night: draft 10 shortened per the new opener rule (one question; $2,000 is ~1.7x the ~$1,150 value, so ask about flexibility and let the seller name a number). Send only after the seller answers the 21:16 \"Hi, is this available?\"; no reply yet.",
+        "2026-10-01 package re-value: still $2,000 (group post, no date). 5 photos, no video. 1st-gen Slice carbon L/56 (white/red/black), Ultegra 10-speed, Vision-style base bar + extensions with worn white tape, ~88 mm carbon wheels with 'FAST'-style graphics (brand unknown, carbon brake track), dirty/worn cassette and chain, bottle in the frame and a rear bottle. Extras: the deep carbon wheels, counted as a separate extra because they can't be braked on: ~$250 resale x0.75 = $190; cages included ($0). Package ~$1,090: bike without wheels $900 + $190. All-in at a likely $1,500 close: + gas $15 + chain/cassette $100 + alloy wheelset $250 = ~$1,865. Margin ~-$775. Stack of the 56 still unknown."
       ],
       "thread": [
         {
@@ -2464,7 +2478,7 @@
         }
       ],
       "firstSeenISO": "2026-10-01T00:16:57.020Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z"
+      "updatedISO": "2026-10-01T16:53:52.311Z"
     },
     {
       "id": "1002062815915333",
@@ -2477,16 +2491,17 @@
       "source": "marketplace",
       "size": "M",
       "fairValue": 850,
-      "allInCost": 900,
-      "target": 700,
-      "verdict": "Not a good deal at $1,200: a Guru Crono (TT geometry) set up with drop bars is worth ~$800-900 (weak-resale brand); all-in = price + ~$120 tune-up. Good deal only around $700 or less.",
+      "allInCost": 1010,
+      "target": 750,
+      "verdict": "Not a good deal: package ~$850 (no extras) vs all-in ~$1,010 at a likely ~$1,000 close; only at ~$750 or less.",
       "notes": [
         "Found 2026-09-30 night via \"cervelo p2\" Montréal. Listed 12 weeks at $1,200, \"very well maintained\"; seller says 172.5 cm and Medium frame, so the fit is plausible (geometry unknown).",
         "Photos: lime/black Guru with \"crono\" on the top tube; drop bars and Shimano STI road levers, standard calipers, alloy rims, double crank (group not readable). Clip-ons would move over from the TCR. No video.",
-        "Not messaged: value is under the ~$1,000 potential threshold. Message only if it drops to ~$800 or less."
+        "Not messaged: value is under the ~$1,000 potential threshold. Message only if it drops to ~$800 or less.",
+        "2026-10-01 package re-value: still $1,200 (12 weeks). 6 photos, no video. Guru Crono carbon (made in Canada decal) built with drop bars, Dura-Ace RD, FSA Gossamer crank, standard calipers, 2 cages. Ad: 'Very well maintained, 172.5 cm, Medium frame'. Extras: none of value. Clip-ons move over from the TCR ($0). The old $120 tune-up is dropped (no tune-up rule). Package ~$850. All-in at a likely $1,000 close: + gas $10 = ~$1,010. Margin ~-$160."
       ],
       "firstSeenISO": "2026-10-01T02:11:50.497Z",
-      "updatedISO": "2026-10-01T10:32:47.346Z",
+      "updatedISO": "2026-10-01T16:53:52.311Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T02:11:50.497Z",
@@ -2688,6 +2703,15 @@
         "Facebook groups (most-recent filter): Triathlon achat/vente Montréal-Québec and Vente-Achat Route & Triathlon Québec and Québec en Vélo (7 queries each), Ottawa Bicycle Classy Ads and Greater Ottawa Bicycle Classifieds (5 each) = 31 searches. Skipped Ventes petites annonces TRIATHLON (France). Cyclisme Québec - Vente & Achat still pending.",
         "Group finds, all passes: Cervélo P3 2017 51 Ultegra + PM pedals $3,000 (May 2025 post, tracked as passed), Felt IA Valleyfield now $3,400 (was $3,750, integrated brakes), Prévost TT/Triathlon $3,500, P3 Ottawa $2,500 and $2,800, P3 Rouyn-Noranda $2,800, Slice-RS Coteau-du-Lac $1,820, Argon E-112 Loyalist $2,550, Felt S32 51 Ottawa $1,600, Devinci Leo SL Laval $2,300, St-Jérôme Slice $2,000 (tracked). New sold comp: Cervélo P3 48 Ultegra + power meter Ottawa $2,300.",
         "Drafts: none new. Draft 1 (FLO wheels) still on hold. No nudges due yet: the earliest 3-day nudges (Ste-Sophie Devinci 2 Oct ~20:00; the 30 Sep 00:25 openers on 2 Oct evening) fall on the next runs. No notification sent. Videos: the Montréal P2 video still would not play (page hidden). Photos not refreshed (scontent URLs blocked by the browser tool)."
+      ]
+    },
+    {
+      "atISO": "2026-10-01T16:53:52.356Z",
+      "summary": "Package re-value of all 21 active listings with every extra counted at 75%: Transition passed (alloy frame), Garneau gone, Felt B14 confirmed size 51, QR re-identified as a PRthree; only the Toronto Plasma and P3 and the FLO wheels clear all-in at their likely close, all thinly.",
+      "searched": 0,
+      "newListings": 0,
+      "notes": [
+        "No searching, no messages. Every listing page opened; photos viewed full size; the Montréal P2 video still would not load (tab hidden)."
       ]
     }
   ]

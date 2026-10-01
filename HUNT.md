@@ -377,6 +377,13 @@ Rules:
 - Never lie about Ryan or the bike.
 - Never pressure with fake deadlines or fake other offers.
 
+## Facebook message limit (hit 2026-09-30)
+After about 30 Marketplace messages in two days, Facebook blocked sending: "There is a temporary limit on how many messages you can send on Marketplace." To stay under it:
+- Send at most about 8 new messages a day.
+- Prioritise replies to sellers who answered over new openers and nudges.
+- If the limit dialog appears, stop sending immediately, keep the drafts, and tell Ryan.
+- Never try to get around the limit.
+
 ## Sending messages: approval is required, every time
 - **Never send a message to a seller without Ryan's explicit "send" in this chat, for that specific draft.**
   - An earlier approval, a general "go ahead" or instructions in the tracker don't count.

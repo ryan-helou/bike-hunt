@@ -2829,6 +2829,115 @@
       "notes": [
         "Listed 14 weeks; new SRAM chain and cassette."
       ]
+    },
+    {
+      "firstSeenISO": "2026-10-01T23:31:04.527Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-01T23:31:04.527Z",
+          "price": 2499
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad (4 weeks, already dropped from $3,250): black/white HMF carbon Plasma, Ultegra drivetrain and crank, Reynolds SDV66 carbon wheels with a rear disc cover, Fizik Arione Tri 2, Profile Design T2+ bars, 2 cages. Size not stated. 7 photos, no video.",
+        "Photos: 1st-gen Plasma (2008-10) carbon, standard front caliper behind the fork and standard rear caliper on the seat stays (passes the brake rule). Ultegra 6700 10-speed: 53/39 crank, short-cage RD, small cassette (looks 11-23/12-25). Saddle cover torn. No cracks visible in the photos; no close-ups of dropouts/BB underside.",
+        "Geometry unknown until the size is known (Plasma 1st gen M ~ stack 520 / reach 420).",
+        "Package ~$1,700: bike ~$1,175 (Plasma 3 BBB $810-1,280 Excellent) + Reynolds SDV66 wheels/disc cover ~$700x0.75 = $525.",
+        "All-in at a likely ~$1,750 close: + gas $15 + alloy race wheels $250 (Reynolds brake on carbon, not for Muskoka descents) + 11-28 cassette $60 + saddle-cover/tape $30 = ~$2,105. Net cost at $1,750 = ~$1,225.",
+        "Overpriced (1.45x package) and above the sticker cap: watching. If it drops to ~$2,000, open with the 'flexible on price' template and ask the size."
+      ],
+      "id": "2085685522313554",
+      "url": "https://www.facebook.com/marketplace/item/2085685522313554/",
+      "title": "Scott Plasma (2008-10) carbon + Reynolds SDV66 front and disc cover, Ultegra 6700",
+      "location": "Rosemère, QC",
+      "driveHours": 0.3,
+      "asking": 2499,
+      "firstAsking": 3250,
+      "status": "watching",
+      "size": "unknown",
+      "fairValue": 1700,
+      "allInCost": 2090,
+      "target": 1400,
+      "verdict": "Not a good deal at the ask: package ~$1,700 vs all-in ~$2,090 at a likely ~$1,750 close, and the $2,499 sticker is above the $2,000 cap; a good deal at ~$1,400 or less if the frame is a 54/M.",
+      "updatedISO": "2026-10-01T23:31:04.527Z"
+    },
+    {
+      "firstSeenISO": "2026-10-01T23:31:04.527Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-01T23:31:04.527Z",
+          "price": 2500
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad (3 weeks): E-117 Tri, size Medium, Shimano 105, carbon frame and fork, 'works perfectly', pedals not included. 2 photos, no video.",
+        "Photo: blue 2018+ E-117 Tri, stock aero cockpit with base bar and extensions, direct-mount brakes (standard per HUNT; not the E-118), alloy-rim stock wheels. Groupset likely 105 R7000 11-speed; stock gearing 52/36 + 11-28 (good for Muskoka, confirm).",
+        "Geometry: E-117 Tri M roughly stack ~525 / reach ~420 with the 3D headset at 0 (check the chart); fits the window.",
+        "Value: no BBB data; QC comps suggest ~$1,800-2,100 for a 105 E-117 Tri. Package ~$1,900. All-in at ~$2,300 close + gas $30 = ~$2,330.",
+        "Watching for a drop toward $2,000; even then net cost is far above the $1,200 cap unless it closes near $1,300."
+      ],
+      "id": "1637568934642868",
+      "url": "https://www.facebook.com/marketplace/item/1637568934642868/",
+      "title": "Argon 18 E-117 Tri (2018+) carbon, Medium, Shimano 105",
+      "location": "St-Constant, QC",
+      "driveHours": 0.6,
+      "asking": 2500,
+      "status": "watching",
+      "size": "M",
+      "fairValue": 1900,
+      "allInCost": 2340,
+      "target": 1300,
+      "verdict": "Not a good deal: package ~$1,900 (no extras) vs all-in ~$2,340 at a likely ~$2,300 close, and the $2,500 sticker is above the $2,000 cap.",
+      "updatedISO": "2026-10-01T23:31:04.527Z"
+    },
+    {
+      "firstSeenISO": "2026-10-01T23:31:04.527Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-01T23:31:04.527Z",
+          "price": 2250
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad (5 weeks): Stradalli full-carbon TT/tri, 60 cm XL, Mavic Cosmic carbon wheels, open to offers."
+      ],
+      "id": "4658324664437735",
+      "url": "https://www.facebook.com/marketplace/item/4658324664437735/",
+      "title": "Stradalli carbon tri bike 60 cm (XL) + Mavic Cosmic",
+      "location": "Repentigny, QC",
+      "driveHours": 0.4,
+      "asking": 2250,
+      "status": "passed",
+      "size": "60 (XL)",
+      "verdict": "Pass: 60 cm XL frame, far too big (57+ is a no).",
+      "updatedISO": "2026-10-01T23:31:04.527Z"
+    },
+    {
+      "firstSeenISO": "2026-10-01T23:31:04.527Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-01T23:31:04.527Z",
+          "price": 2500
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad (1 day): 2013 S-Works Shiv, Zipp 404 front / 808 rear tubeless, SRAM Force, mostly ridden indoors, unused 4 years. Proprietary Shiv brakes 2011-2019 = hard-rule pass."
+      ],
+      "id": "1476981454332582",
+      "url": "https://www.facebook.com/marketplace/item/1476981454332582/",
+      "title": "Specialized S-Works Shiv 2013, 52.5 Small, Zipp 404/808, SRAM Force",
+      "location": "Mascouche, QC",
+      "driveHours": 0.4,
+      "asking": 2500,
+      "firstAsking": 2800,
+      "status": "passed",
+      "size": "S (52.5)",
+      "verdict": "Pass: 2013 Shiv has proprietary integrated brakes, and the ask is over the $2,000 cap.",
+      "updatedISO": "2026-10-01T23:31:04.527Z"
     }
   ],
   "runs": [
@@ -3026,14 +3135,17 @@
       ]
     },
     {
-      "atISO": "2026-10-01T22:52:09.978Z",
+      "atISO": "2026-10-01T23:31:04.527Z",
       "id": "2026-10-01-evening-full",
-      "summary": "Evening full run in progress: inbox and tracked listings checked, no seller replies after 18:15 and no price changes.",
-      "searched": 0,
-      "newListings": 0,
+      "summary": "Evening full run in progress: no seller replies after 18:15, tracked prices unchanged, Marketplace swept with two new tri bikes to watch (Rosemère Plasma + Reynolds $2,499, St-Constant Argon E-117 Tri M $2,500) and nothing in budget.",
+      "searched": 99,
+      "newListings": 4,
       "notes": [
         "Inbox (Marketplace folder): no seller messages newer than 18:15. Casselman P2C thread ends with Ryan's 'Oh okok' (her last: 'Trained for but never completed'); her promised photos and answers have not arrived.",
-        "Tracked: all 22 Marketplace listings + Kijiji FLO wheels re-checked; all still listed at unchanged prices (Argon 18 Montréal 'Vendu' text is 'vendu sans les pédales', not sold)."
+        "Tracked: all 22 Marketplace listings + Kijiji FLO wheels re-checked; all still listed at unchanged prices (Argon 18 Montréal 'Vendu' text is 'vendu sans les pédales', not sold).",
+        "Marketplace: all 33 HUNT.md queries on Montréal, Ottawa and Québec (99 searches, max 6 scrolls each). Location still Montréal, 500 km (no 'Within 40 km'). 'felt b12' returned no listings within 500 km; Montréal 'vélo carbone' loaded only 1 card.",
+        "New tri/TT: Rosemère Scott Plasma 1st gen + Reynolds SDV66/disc $2,499 (was $3,250; watching, size unknown, 53/39 Ultegra 6700); St-Constant Argon E-117 Tri M 105 $2,500 (watching); Repentigny Stradalli 60 XL $2,250 (passed, too big); Mascouche S-Works Shiv 2013 S $2,500 (passed, brakes). GTA/far only: Pelham P3 2013 54 $2,500, Mississauga TT $2,000, Barrie Felt S32 48 $1,000, Collingwood Avanti TT $800, Brampton Slice XS $1,290, Brampton 'Cervelló' $950, Saugeen Shores P2C $1,600, Brampton P2C $1,400, Toronto Argon E-112 $2,250, Toronto Argon E-116 S $2,500, Oakville Plasma+disc $2,000, Toronto Storck Aero 52 $2,500, Brantford Speed Concept M $1,950, Saint John NB Speed Concept $800, Rouyn-Noranda P3 $2,500 (7 h).",
+        "Opened and ruled out: Valleyfield 'Vélo' $1,800 (Kestrel Talon road 57), Québec 'Vélo Cervélo' $1,500 (RS road), Québec 'Vélo TriAce' $900 (alloy flat-bar), Québec Argon Gallium S $1,900 and L $2,000 (road), Prévost Argon 18 $1,000 (flat-bar hybrid), Mirabel 'Velo trial bike' $2,000 (trials bike)."
       ]
     }
   ]

@@ -336,6 +336,14 @@ Marketplace and Kijiji remain the main hunt. Everything else was checked and cos
 - **New bikes from Canadian shops:** the cheapest new tri bike is about $3,500 (Aquila Crono 105), and prior-year Cervélo P / Argon E-117 run $5,300+. Clearance season runs October to February, but it's still far over budget.
 - **Building one:** a used frameset plus used parts plus a shop build comes to about $1,650–2,700, and 11-speed 105 was discontinued in March 2026. It only ties a $1,000 complete bike if a fitting frameset turns up at $400 or less and a used 105 11-speed group at $250 or less.
 
+## Pinkbike Canada (added 2026-10-01)
+Pinkbike buy/sell is the enthusiasts' classifieds site. Ads usually state the size, year and parts accurately. It blocks plain fetches (403), so use Claude in Chrome.
+- Search `https://www.pinkbike.com/buysell/list/?q=<Q>` with these queries: triathlon, tt bike, cervelo p2, cervelo p3, cannondale slice, felt b, speed concept, argon 18, quintana roo.
+- Narrow to Canada with the page's location or country filter if it has one. Otherwise filter by the location on each ad: keep Québec and Ontario within about 3 h (Montréal, Laval, Gatineau/Ottawa, Québec City, Sherbrooke, Kingston), and drop everything else.
+- Check whether each price is CAD or USD. Pinkbike shows a currency, and a USD ad from a Canadian seller still gets converted.
+- Treat each ad like a Marketplace listing, with the same rules. Use the Pinkbike ad URL as `url` and `pinkbike-<adId>` as `id`.
+- Messaging needs Ryan's Pinkbike login. If he isn't logged in, draft the message and note "send via Pinkbike yourself".
+
 ## Facebook groups (searched once Ryan has joined)
 Ryan joins these himself. On 2026-09-29 he requested to join the two private tri groups ("Triathlon : achat/vente/échange… Montréal et Québec" and "Vente-Achat Route & Triathlon Québec"). Before searching a group, check that it shows "Joined". If it shows "Join" or "Pending", skip it and note that in the run summary.
 

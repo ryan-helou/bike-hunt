@@ -2423,6 +2423,34 @@
       ],
       "firstSeenISO": "2026-10-01T00:16:57.020Z",
       "updatedISO": "2026-10-01T01:35:01.405Z"
+    },
+    {
+      "id": "1002062815915333",
+      "url": "https://www.facebook.com/marketplace/item/1002062815915333/",
+      "title": "Guru Crono carbon TT frame built as a road bike, Medium",
+      "location": "Montréal, QC",
+      "driveHours": 0.4,
+      "asking": 1200,
+      "status": "watching",
+      "source": "marketplace",
+      "size": "M",
+      "fairValue": 850,
+      "allInCost": 1020,
+      "target": 700,
+      "verdict": "Not a good deal at $1,200: a Guru Crono (TT geometry) set up with drop bars is worth ~$800-900 (weak-resale brand); all-in = price + ~$120 tune-up. Good deal only around $700 or less.",
+      "notes": [
+        "Found 2026-09-30 night via \"cervelo p2\" Montréal. Listed 12 weeks at $1,200, \"very well maintained\"; seller says 172.5 cm and Medium frame, so the fit is plausible (geometry unknown).",
+        "Photos: lime/black Guru with \"crono\" on the top tube; drop bars and Shimano STI road levers, standard calipers, alloy rims, double crank (group not readable). Clip-ons would move over from the TCR. No video.",
+        "Not messaged: value is under the ~$1,000 potential threshold. Message only if it drops to ~$800 or less."
+      ],
+      "firstSeenISO": "2026-10-01T02:11:50.497Z",
+      "updatedISO": "2026-10-01T02:11:50.497Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-01T02:11:50.497Z",
+          "price": 1200
+        }
+      ]
     }
   ],
   "runs": [
@@ -2561,13 +2589,17 @@
       ]
     },
     {
-      "atISO": "2026-10-01T01:35:01.405Z",
+      "atISO": "2026-10-01T02:11:50.497Z",
       "runKey": "big-2026-09-30-night",
-      "summary": "Big night search in progress: phase 1 done (no seller replies after 21:15; tracked prices unchanged except the Boucherville Devinci Leo T2 down to $1,850).",
-      "searched": 26,
-      "newListings": 0,
+      "summary": "Big night search in progress: phases 1-2 done (no seller replies after 21:15; Devinci Leo T2 down to $1,850; 46 Marketplace queries x 3 centres found no new tri bike in range, only a Guru Crono road-built in Montréal at $1,200, watching).",
+      "searched": 165,
+      "newListings": 1,
       "notes": [
-        "Inbox: no seller messages after 21:15 on 30 Sep. Latest activity is ours: Laval Transition $600 counter (21:15) and the default opener on the St-Jérôme Slice (21:16)."
+        "Inbox: no seller messages after 21:15 on 30 Sep. Latest activity is ours: Laval Transition $600 counter (21:15) and the default opener on the St-Jérôme Slice (21:16).",
+        "Tracked: 26 checked, all still listed; only change is the Boucherville Devinci Leo T2 at $1,850 (was $1,950). The Montréal P2 video would not load (browser window hidden), so it is still unwatched.",
+        "Marketplace: all 33 HUNT.md queries plus 13 extras (velo triathlon carbone, tt bike carbon, triathlon bike 54/52, cervelo carbon, felt b16, argon 18 e-114, specialized shiv 2010, trek speed concept 7, quintana roo kilo, kestrel 4000, aerobars, hed jet; felt b12 and zipp 808 were already in the list) on Montréal, Ottawa and Québec = 138 searches. Location still Montréal, 500 km (no \"Within 40 km\").",
+        "Opened and ruled out: Québec \"Vélo Cervélo\" $1,500 (RS road), Québec \"Vélo TriAce\" $900 (flat-bar alu road), Montréal \"Vélo full CARBONE FELT\" $500 (MTB), Québec \"Vélo entraînement en carbone\" $2,000 (road), Québec Argon 18 $500 (Cobalt road, Small), Ste-Marie-Salomé Argon 18 $500 (road, Large), Valleyfield \"Vélo\" $1,800 (Kestrel Talon road 57), Toronto QR Kilo $295 (650c wheels), Ste-Catherine \"Kestrel\" $140 (a weather meter).",
+        "New tri/TT cards outside the area or too small (not opened): Barrie Miele Gara TT $1,000 (x2), Whitby Cervélo Dual 54 $1,200, Welland P3 frameset $500, Toronto P5 frame $900, Markstay-Warren \"2010 Specialized P2\" $500, Trécesson TT 59 XL $750, Mississauga Trek Equinox 7 $950 and E7 $550, Toronto Equinox XS $1,000, Brampton Cervélo $950, Toronto Guru Crono $900, Collingwood Avanti TT $800, Sudbury QR Kilo $360."
       ]
     }
   ]

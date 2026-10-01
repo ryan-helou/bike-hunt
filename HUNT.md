@@ -354,10 +354,19 @@ About 30% of sellers replied. The silent ones mostly got openers with 4–6 ques
 - **Follow-ups:** one nudge about 3 days after our last message, then stop. That listing goes back to `watching`, and we only contact it again if the price drops.
 - **Toronto/GTA and anything over 3 h:** only for an exceptional deal (margin $400+). Never "let's meet partway" otherwise.
 
-**Opener examples**
-- French: "Salut! Toujours disponible? C'est quelle grandeur de cadre?"
-- English: "Hi! Is this still available? What frame size is it?"
-- For an overpriced listing: "Salut! Toujours disponible? Es-tu flexible sur le prix?"
+**What gets replies (research, 2026-09-30)**
+- **Show you read the ad and really want this bike.** Name the bike, add one specific genuine compliment, and give a short reason: "for my first 70.3". Triathletes like their bike going to a racer. Never send the generic "Is this still available?": sellers get dozens of those, and most of the people who send them never follow through.
+- **One question only**, the one that decides the purchase (usually frame size). "I have a couple of questions" reads as homework, so don't write it.
+- **Show you're a real buyer:** say when you can come ("cette semaine", "samedi"), and that you'd pay cash.
+- **3–4 lines maximum, no emojis.**
+- **No price in the opener**, except for a listing that's clearly underpriced, where speed wins. Talking price later, once the seller has replied and is engaged, works better.
+- **Make offers precise and reasoned:** "$1,040, since the tyres and chain need replacing", not "$1,000". Precise numbers come across as researched and get smaller counteroffers.
+- **Speed is the biggest factor.** Underpriced listings get most of their messages in the first hour. A strong new listing gets a draft right away, flagged as urgent in the notification.
+
+**Opener templates** (fill in the bike, the compliment, and the one question):
+- French: "Salut! Ton [Cervélo P2] est exactement ce que je cherche pour mon premier 70.3 l'été prochain, [il a l'air super bien entretenu]. C'est [un cadre 54]? Je suis à Laval et je peux passer cette semaine, cash."
+- English: "Hi! Your [Cervélo P2] is exactly what I've been looking for for my first 70.3 next summer, [it looks really well kept]. Is it [a 54]? I'm in Laval and can come by this week with cash."
+- Overpriced listing: same opener, ending "…Je peux passer cette semaine, cash. Es-tu un peu flexible sur le prix?"
 
 ### When to make an offer (Ryan, 2026-09-30: "don't send offers for no reason, but don't be scared to send offers")
 Having several firm offers out at once is fine; Ryan doesn't mind. But every offer needs a reason:

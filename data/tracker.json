@@ -937,7 +937,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/1044765311662820/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T13:40:37.353Z",
+      "updatedISO": "2026-10-01T01:35:01.405Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -959,7 +959,8 @@
         "Listed 3 weeks. \"Selling because I have a better one.\"",
         "2026-09-29 ~18:05: sent draft 10 on Ryan's \"send all\". Confirmed in the Marketplace inbox.",
         "2026-09-30: early follow-up drafted on Ryan's ask. $1,100 is under the $1,130 good-deal line; the size condition protects the fit.",
-        "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Photos: graphite/white P2 (2013-14 style), standard front caliper; size not visible. Confirmed Sent 9:25."
+        "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Photos: graphite/white P2 (2013-14 style), standard front caliper; size not visible. Confirmed Sent 9:25.",
+        "2026-09-30 night: the listing has a video; it would not load (spinner, tab could not be brought to the front), so it is still unwatched. Ask for drivetrain-side photos if the seller replies."
       ],
       "thread": [
         {
@@ -1073,7 +1074,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2809070319493148/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-30T00:25:48.045Z",
+      "updatedISO": "2026-10-01T01:35:01.405Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1082,13 +1083,17 @@
         {
           "atISO": "2026-09-29T10:53:43.719Z",
           "price": 1950
+        },
+        {
+          "atISO": "2026-10-01T01:35:01.405Z",
+          "price": 1850
         }
       ],
       "id": "2809070319493148",
       "title": "Devinci Leo T2 carbon, SRAM Force 2x10",
       "location": "Boucherville, QC",
       "driveHours": 0.4,
-      "asking": 1950,
+      "asking": 1850,
       "status": "negotiating",
       "size": "?",
       "fairValue": 1100,
@@ -1099,7 +1104,8 @@
         "Size not stated.",
         "2026-09-29: now $1,950 and shows \"Listed a day ago\": relisted higher (was $1,800). Moving further from a steal.",
         "2026-09-29 evening: Ryan asked for hail marys; draft 26 written.",
-        "2026-09-29 ~20:25: sent draft 26 on Ryan's \"send em all\". Confirmed in the Marketplace inbox."
+        "2026-09-29 ~20:25: sent draft 26 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
+        "2026-09-30 night: dropped to $1,850 (was $1,950). Still far above the ~$1,100 value; our opener from 29 Sep has no reply."
       ],
       "thread": [
         {
@@ -1107,7 +1113,8 @@
           "from": "us",
           "text": "Salut! Toujours disponible? C’est quelle grandeur de cadre, et t’es de quelle taille? Il a déjà été accidenté? Je suis à Laval et prêt à acheter cash: c’est quoi ton meilleur prix?"
         }
-      ]
+      ],
+      "firstAsking": 1950
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2141803323436059/",
@@ -2399,7 +2406,8 @@
         "Geometry: 1st-gen Slice 56 not looked up; Slice 2013-15 size 54 = 509/398, so a 56 is probably ~525-530 stack, at the top of the window. Ask the seller's height.",
         "Value: table Slice 1st gen $900-1,250; group comps Slice 54 + Cosmic $1,100, Slice 54 $1,500, Slice 54 + Dura-Ace tubulars $2,000. Unbranded deep carbon wheels ~$200-300 resale. Fair ~$1,150. allInCost shown at a $750 close.",
         "Draft 10: French opener (year, seller height, wheel brand and brake track, best cash price).",
-        "2026-09-30: Facebook's default 'Hi, is this available?' went out, but the approved French draft 10 did not: Facebook showed 'temporary limit on how many messages you can send on Marketplace'. Send draft 10's questions once the limit lifts."
+        "2026-09-30: Facebook's default 'Hi, is this available?' went out, but the approved French draft 10 did not: Facebook showed 'temporary limit on how many messages you can send on Marketplace'. Send draft 10's questions once the limit lifts.",
+        "2026-09-30 21:16: Facebook's message limit blocked draft 10, so the default \"Hi, is this available?\" went instead. Draft 10 stays on hold as the follow-up once the seller answers."
       ],
       "draft": {
         "n": 10,
@@ -2414,7 +2422,7 @@
         }
       ],
       "firstSeenISO": "2026-10-01T00:16:57.020Z",
-      "updatedISO": "2026-09-30T21:20:00-04:00"
+      "updatedISO": "2026-10-01T01:35:01.405Z"
     }
   ],
   "runs": [
@@ -2550,6 +2558,16 @@
         "Facebook groups joined: Triathlon achat/vente Montréal-Québec, Vente-Achat Route & Triathlon Québec, Québec en Vélo, Ventes petites annonces TRIATHLON, Ottawa Bicycle Classy Ads, Greater Ottawa Bicycle Classifieds. Cyclisme Québec - Vente & Achat is still pending. \"Ventes, petites annonces TRIATHLON\" is a France group (Cap-d'Ail, PAC listings), so only 5 queries there. Ottawa groups: triathlon/tri/cervelo/slice/felt only. About 26 group searches with the most-recent filter.",
         "Group finds: Slice L/56 St-Jérôme $2,000 (new, tracked, draft 10); Slice-RS Coteau-du-Lac $1,820 (integrated brakes, pass); Liv Avail AR3 2021 Small Gatineau $1,600 (women's road bike with clip-ons, pass); Eclipse alloy tri 2x9 Gatineau $800 (sale pending, weak brand); Argon E-112 Loyalist ON $2,550 (over $2,000, ~3 h+). Over budget: P3 2014 48 Montréal $3,000, P3 2016 Ottawa $2,800, P3 WC Beaconsfield $4,000, Felt IA Valleyfield $3,750, Argon E117 Terrebonne $7,000, Speed Concept 2021 Ottawa $5,800.",
         "Drafts for Ryan: 9 (Laval Transition counter at $600) and 10 (St-Jérôme Slice opener); the older draft 1 (FLO wheels) is still on hold. Nudges: none due (the first 3-day nudges come due on the 2 Oct evening run). Photos not refreshed (scontent URLs are blocked by the browser tool)."
+      ]
+    },
+    {
+      "atISO": "2026-10-01T01:35:01.405Z",
+      "runKey": "big-2026-09-30-night",
+      "summary": "Big night search in progress: phase 1 done (no seller replies after 21:15; tracked prices unchanged except the Boucherville Devinci Leo T2 down to $1,850).",
+      "searched": 26,
+      "newListings": 0,
+      "notes": [
+        "Inbox: no seller messages after 21:15 on 30 Sep. Latest activity is ours: Laval Transition $600 counter (21:15) and the default opener on the St-Jérôme Slice (21:16)."
       ]
     }
   ]

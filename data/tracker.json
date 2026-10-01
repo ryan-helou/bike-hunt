@@ -2575,7 +2575,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T17:05:00-04:00",
+      "updatedISO": "2026-10-01T17:20:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2587,20 +2587,25 @@
           "atISO": "2026-10-01T17:05:00-04:00",
           "from": "us",
           "text": "Hi! Your Cervélo P2 is exactly what I've been looking for for my first 70.3 next summer, and a 51 is my size. Is the frame carbon? I'm in Laval and could come out this week with cash. Would you be a bit flexible on the bike-alone price?"
+        },
+        {
+          "atISO": "2026-10-01T17:20:00-04:00",
+          "from": "seller",
+          "text": "Yes, it is carbon. I have two sets of tires. It's in Immaculate shape and I would be negotiable with the price make me an offer."
         }
       ],
       "id": "1767532177930990",
       "url": "https://www.facebook.com/marketplace/item/1767532177930990/",
-      "title": "Cervélo P2 51 (likely 2007-08 P2C, carbon to confirm) + Sonic carbon wheels, trainer optional",
+      "title": "Cervélo P2C carbon 51 + spare Sonic carbon wheels (trainer optional)",
       "location": "Casselman, ON",
       "driveHours": 1.75,
       "asking": 1800,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "51",
       "fairValue": 1250,
       "allInCost": 1575,
       "target": 1150,
-      "verdict": "Potential: 51 fits and 9 weeks listed, but at a likely ~$1,530 close the all-in ~$1,575 is above the ~$1,250 package; good deal at ~$1,150 or less, if the frame is carbon.",
+      "verdict": "Carbon confirmed, 51 (fits), 'immaculate', seller negotiable ('make me an offer'). Bike alone $1,800, worth ~$1,250 with the Sonic wheels. Good deal at ~$1,150 or less.",
       "notes": [
         "Ad (listed 9 weeks): P2 with two wheelsets and a trainer, $2,250 package, or bike alone $1,800, trainer alone $600. No year, groupset or material stated. 3 photos, no video.",
         "Photos: white/red/black livery with the big Cervélo down-tube logo (2007-08 P2C style, possibly the 2009 alloy P2: confirm carbon, hard rule). Standard front caliper, alloy wheels on the bike. Spare Sonic deep carbon wheels have a carbon brake track (resale only).",
@@ -2608,7 +2613,12 @@
         "Package (bike alone $1,800): bike ~$1,100 (P2C 2007-08) + Sonic carbon wheels ~$200x0.75 = $150 -> ~$1,250. Trainer excluded (seller prices it at $600 separately).",
         "All-in at a likely $1,530 close (85% of $1,800) + gas ~$45 (1.75 h each way) = ~$1,575. Margin ~-$325. Overpriced (1.44x value): opener asks flexibility, no number.",
         "Quick run 2026-10-01 afternoon: draft 9 written."
-      ]
+      ],
+      "draft": {
+        "n": 10,
+        "purpose": "offer",
+        "text": "Thanks, great to hear! Since it's a 2007-08 frame and I'd be driving out from Laval, I could do $1,080 cash for the bike with both wheelsets, without the trainer. If that works for you, I can come out this weekend."
+      }
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",

@@ -3056,7 +3056,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-02T23:12:41.210Z",
+      "updatedISO": "2026-10-02T23:17:55.590Z",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3090,7 +3090,8 @@
         "2026-10-02 6pm: a second Oakville listing (26598360063195933, $2,200, 5 weeks, different account) shows what looks like the same white/black/red Plasma with the same Di2/Quarq/Cosmic-disc spec and calls it a 2010. Ryan: confirm at pickup that the seller owns it.",
         "2026-10-02 18:39 seller reply: 2016 frame, never crashed, 11s Di2 charger included, Quarq works, 11-30 cassette on the bike (+ a 12-25), $1,650 if picked up in Oakville ($2,000 if met in Kingston), adds a rear Zipp 808 tubular. Ryan replied 'Deal' at 19:01 and said his Toronto friend will pick it up 3 Oct; seller asked what time.",
         "Gearing: 11-30 already on the bike, so no cassette cost for Muskoka. Year: the seller says 2016; the duplicate listing 26598360063195933 says 2010 (Plasma 3 livery). Ask for the frame's serial/receipt at pickup if it matters for resale.",
-        "Pickup by the friend (3 Oct, Oakville): confirm the $1,650 in writing incl. the disc wheel, the rear Zipp 808 and the Quarq; ask him to charge the Di2; agree a time and a public spot if possible; bring $1,650 cash, pedals/shoes or at least a test-ride plan; inspect fork, dropouts, seat mast (cut height must allow ~72 cm), BB, chainstays and coin-tap; shift every gear (Di2 battery charged); spin the Quarq crank and pair it if he has a Garmin/phone app; check brakes; spin the disc and 808 for true/hub play and check the tubular glue; test ride in aero; confirm the Di2 charger, the disc's 11-sp cassette and the spare 12-25 come with it."
+        "Pickup by the friend (3 Oct, Oakville): confirm the $1,650 in writing incl. the disc wheel, the rear Zipp 808 and the Quarq; ask him to charge the Di2; agree a time and a public spot if possible; bring $1,650 cash, pedals/shoes or at least a test-ride plan; inspect fork, dropouts, seat mast (cut height must allow ~72 cm), BB, chainstays and coin-tap; shift every gear (Di2 battery charged); spin the Quarq crank and pair it if he has a Garmin/phone app; check brakes; spin the disc and 808 for true/hub play and check the tubular glue; test ride in aero; confirm the Di2 charger, the disc's 11-sp cassette and the spare 12-25 come with it.",
+        "19:12: Ryan gave the seller his Toronto friend's number to arrange a 3 Oct evening pickup in Oakville."
       ],
       "thread": [
         {
@@ -3147,6 +3148,16 @@
           "atISO": "2026-10-02T19:11:00-04:00",
           "from": "seller",
           "text": "(a second message/attachment at 7:11 PM with no text; probably the Zipp 808 photo)"
+        },
+        {
+          "atISO": "2026-10-02T19:12:00-04:00",
+          "from": "us",
+          "text": "I will give you his number: [friend's number removed]"
+        },
+        {
+          "atISO": "2026-10-02T19:12:00-04:00",
+          "from": "us",
+          "text": "Text him and try to figure it out with him I believe he could in the evening"
         }
       ],
       "lockedPrice": 1650
@@ -4192,6 +4203,20 @@
         "Marketplace Montréal centre: triathlon bike, vélo triathlon, tt bike, cervelo, cannondale slice, felt, speed concept, quintana roo; Toronto centre: triathlon bike, cervelo. Untracked results were road bikes, parts, or far/over-cap tri bikes already noted (Oshawa Felt IA2 $3,400, London E-116 $1,550, Toronto P5 $3,800, Brampton Cervélo XS $590, Toronto P2-SL $1,200, Georgina Speed Concept gen-1 $1,000, Collingwood Soloist road).",
         "Groups (most recent, triathlon): Vente-Achat Route & Triathlon Québec: Felt AXS 2021 Small $6,500 (size, price), SOLD Slice RS 56 $2,500, SOLD Argon E116 $2,200; Triathlon achat/vente Montréal: SOLD Canyon $8,500 and a new 2026 Cervélo P-Series (new, far over budget). Nothing in budget.",
         "Pinkbike triathlon: Québec 9 ads, Ontario 14 ads, same as noon."
+      ]
+    },
+    {
+      "atISO": "2026-10-02T23:17:55.590Z",
+      "id": "2026-10-02-full-18",
+      "summary": "6pm full run: the Plasma 3 Di2 seller agreed to $1,650 for an Oakville pickup (Ryan accepted, his Toronto friend collects it 3 Oct) and threw in a rear Zipp 808; no other seller replies and no new good deals.",
+      "searched": 170,
+      "newListings": 9,
+      "notes": [
+        "Plasma (2026064858150818): seller replied 18:39 (2016 frame, never crashed, Di2 charger included, Quarq fine, 11-30 cassette + a spare 12-25, $1,650 in Oakville or $2,000 in Kingston, adds a rear Zipp 808 tubular). Ryan said 'Deal' at 19:01 and set up a friend pickup; status locked at $1,650. A second Oakville listing (26598360063195933, $2,200, 2010) looks like the same bike from another account.",
+        "Inbox: no other seller messages newer than 15:30 (checked 11 stored threads + Marketplace inbox). Casselman P2C asking went up to $2,250; every other tracked price unchanged.",
+        "Marketplace: all 33 queries from montreal/ottawa/quebec/toronto (zipp 404/808 and aerobars on 2 centres each); location still Montréal 500 km. New tri listings: Richmond Hill Cervélo P4 56 $2,000 (stock photo only, watching), Toronto E-112 $2,250 (watching), Milton Slice 56 $2,500 (watching), Valleyfield Kestrel Talon road setup $1,800 (watching); passed BMC TR02 track bike, London Argon Mercury alloy, Barrie Miele steel; far/over-cap: Saugeen Shores P2C $1,600, Rouyn-Noranda P3 $2,500, Barrie P2 51 $2,500, Toronto Storck 52 $2,500, Lakeshore/London listings.",
+        "Kijiji Québec + Ottawa: no tri bikes (parts, road bikes, a Peugeot vintage, an Ottawa fixed-gear TT project $950). Pinkbike QC/ON: same ads as noon; 2016 E-117 M Rockland $4,000 passed (integrated brakes, price).",
+        "Groups (most recent): Triathlon achat/vente Montréal, Vente-Achat Route & Triathlon Québec, Québec en Vélo, Cyclisme Québec, Greater Ottawa Bicycle Classifieds, Ottawa Bicycle Classy Ads; skipped the France group. Only SOLD posts or bikes far over budget (sold comps: P3 2014 51 11-sp $2,500 Terrebonne, Shiv S-Works S $2,700 Eastman, E-117 2019 S $2,595, E116 + carbon wheels $2,200 Montréal)."
       ]
     }
   ]

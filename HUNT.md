@@ -464,6 +464,13 @@ Rules:
 ## Opening an existing conversation (2026-10-02)
 For a listing we've already messaged, the "Message again" button often won't open a chat window in Claude's Chrome, and the Messenger Marketplace list often won't load either. Work out the thread id **when the conversation is first created** (Messenger URL `/messages/t/<id>`) and store it in the listing's notes as `thread: <id>`, so sends can go straight to `https://www.facebook.com/messages/t/<id>/`. Click the text box with a real click and check it has focus before typing; keystrokes get dropped when it doesn't. **What works (2026-10-02):** Messenger's "Search Messenger" box: click it, check it has focus, then type a word from the listing title (e.g. "Devinci", "Wilier"). The Marketplace chats show up as "Ryan · <listing title>"; open that one, never a person-name result. If a thread still can't be reached, mark the draft "send from your phone" and give Ryan the exact text.
 
+## First message from a listing page (what works, 2026-10-02)
+The listing's "Send seller a message" box often ignores real keystrokes and clicks. This works:
+1. Set every `textarea` on the page with the native value setter: `Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype,'value').set.call(t,msg)`, then `t.dispatchEvent(new Event('input',{bubbles:true}))`.
+2. Check the value.
+3. Call `.click()` on the one **visible** `[aria-label^="Send message to"]` button, once.
+4. Wait about 6 s, then confirm that the chat popup shows the text with "Sent". Never click Send twice.
+
 ## Facebook message limit (hit 2026-09-30)
 After about 30 Marketplace messages in two days, Facebook blocked sending: "There is a temporary limit on how many messages you can send on Marketplace." To stay under it:
 - Send at most about 8 new messages a day.

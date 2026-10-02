@@ -431,6 +431,12 @@ About 30% of sellers replied. The silent ones mostly got openers with 4–6 ques
 - English: "Hi! Your [Cervélo P2] is exactly what I've been looking for for my first 70.3 next summer, [it looks really well kept]. Is it [a 54]? I'm in Laval and can come by this week with cash."
 - Overpriced listing: same opener, ending "…Je peux passer cette semaine, cash. Es-tu un peu flexible sur le prix?"
 
+### Questions first, then ask their lowest (Ryan, 2026-10-02, overrides the offer examples below)
+Once a seller is engaged:
+1. Ask the questions that decide the purchase.
+2. Then ask how low they'll go, e.g. "Since it's a drive for me, what's the lowest you'd be willing to go?"
+3. **Don't name an offer number first.** Let the seller set the anchor. We only counter after they give a number, at or below `target`.
+
 ### When to make an offer (Ryan, 2026-09-30: "don't send offers for no reason, but don't be scared to send offers")
 Having several firm offers out at once is fine; Ryan doesn't mind. But every offer needs a reason:
 - **The seller answered**, and the bike fits and is worth more than the offer. Make the offer in the same reply.

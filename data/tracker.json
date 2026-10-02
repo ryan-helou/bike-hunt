@@ -3056,7 +3056,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-02T22:28:04.857Z",
+      "updatedISO": "2026-10-02T23:12:41.210Z",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3069,12 +3069,12 @@
       "driveHours": 5.75,
       "asking": 2000,
       "firstAsking": 2700,
-      "status": "negotiating",
+      "status": "locked",
       "size": "M",
       "fairValue": 1975,
       "allInCost": 1850,
       "target": 1700,
-      "verdict": "Potential, good deal at ~$1,700 or less: package ~$1,975 vs all-in ~$1,850 at a $1,700 close met in Kingston (margin ~+$125); net cost ~$1,025 after reselling the Quarq and disc. Listed 45 weeks, down from $2,700.",
+      "verdict": "Locked by Ryan at $1,650 for pickup in Oakville (his Toronto friend picks it up 3 Oct). Good deal: package ~$2,300 (bike ~$1,300 + Quarq ~$300 + Comete disc ~$375 + rear Zipp 808 tubular ~$340) vs all-in ~$1,650 + friend's trip; net cost ~$1,000 after reselling the disc and 808.",
       "notes": [
         "Ad: Scott Plasma TT/Tri, size Medium (max seatpost height 76 cm), 11-sp Di2 Dura-Ace shifters + Ultegra Di2 RD, SRAM Red 170 mm Quarq power meter, SRAM Red brakes, Selle Italia saddle; comes with Mavic Comete disc (Vittoria Corsa tubular) + 11-sp Ultegra cassette. Listed 45 weeks ago, $2,000 (was $2,700).",
         "Photos (9, no video): Plasma 3-generation carbon (black/white/red), integrated seat mast with Ritchey topper, standard calipers front and on the seatstays (passes the brake rule; not a Plasma 5), Zipp Vuka aero cockpit with Di2 bar-end shifters, alloy-brake-track clinchers (Continental tyres), Quarq SRAM Red crank (looks 53/39), disc with an 11-sp cassette. No visible damage.",
@@ -3087,7 +3087,10 @@
         "Parts (2026-10-02): wheels on the bike are Fulcrum Racing Sport alloy. Extras: Mavic Comete disc tubular + 11s Ultegra cassette (~$500–700 resale; sell it), Quarq SRAM Red 170 (~$250–400; keep it for training). Bike alone ~$1,200–1,400. Ceiling ~$1,750.",
         "6pm check (18:05): no reply yet to our 17:17 message (year, crash history, Di2 charger/battery, cassette, Quarq, $1,650). Ryan is handling this deal.",
         "Pickup checklist: confirm acceptance in writing incl. the disc wheel + power meter; ask him to charge the Di2; set date/time/public spot in Kingston (police safe-exchange zone or busy lot); confirm the morning of; bring $1,650 cash, shoes/pedals + 15 mm/8 mm tool, helmet, multi-tool, pump; inspect fork, dropouts, seat mast, BB, chainstays and coin-tap; shift every gear; pair the Quarq; check brakes; spin the disc; test ride in aero; confirm the charger + disc cassette.",
-        "2026-10-02 6pm: a second Oakville listing (26598360063195933, $2,200, 5 weeks, different account) shows what looks like the same white/black/red Plasma with the same Di2/Quarq/Cosmic-disc spec and calls it a 2010. Ryan: confirm at pickup that the seller owns it."
+        "2026-10-02 6pm: a second Oakville listing (26598360063195933, $2,200, 5 weeks, different account) shows what looks like the same white/black/red Plasma with the same Di2/Quarq/Cosmic-disc spec and calls it a 2010. Ryan: confirm at pickup that the seller owns it.",
+        "2026-10-02 18:39 seller reply: 2016 frame, never crashed, 11s Di2 charger included, Quarq works, 11-30 cassette on the bike (+ a 12-25), $1,650 if picked up in Oakville ($2,000 if met in Kingston), adds a rear Zipp 808 tubular. Ryan replied 'Deal' at 19:01 and said his Toronto friend will pick it up 3 Oct; seller asked what time.",
+        "Gearing: 11-30 already on the bike, so no cassette cost for Muskoka. Year: the seller says 2016; the duplicate listing 26598360063195933 says 2010 (Plasma 3 livery). Ask for the frame's serial/receipt at pickup if it matters for resale.",
+        "Pickup by the friend (3 Oct, Oakville): confirm the $1,650 in writing incl. the disc wheel, the rear Zipp 808 and the Quarq; ask him to charge the Di2; agree a time and a public spot if possible; bring $1,650 cash, pedals/shoes or at least a test-ride plan; inspect fork, dropouts, seat mast (cut height must allow ~72 cm), BB, chainstays and coin-tap; shift every gear (Di2 battery charged); spin the Quarq crank and pair it if he has a Garmin/phone app; check brakes; spin the disc and 808 for true/hub play and check the tubular glue; test ride in aero; confirm the Di2 charger, the disc's 11-sp cassette and the spare 12-25 come with it."
       ],
       "thread": [
         {
@@ -3104,8 +3107,49 @@
           "atISO": "2026-10-02T17:17:00-04:00",
           "from": "us",
           "text": "Awesome, thanks! Really excited about it. A few quick questions before I plan the drive: what year is the frame, and has it ever been crashed? Is the Di2 charger included, and does the battery still hold a good charge? What cassette is on the bike right now (11-25, 11-28)? And is the Quarq working and pairing fine? For price, would you take $1,650 cash? It's about 3 hours each way for me to Kingston. If that works, I could do this weekend or early next week, whatever suits you."
+        },
+        {
+          "atISO": "2026-10-02T18:39:00-04:00",
+          "from": "seller",
+          "text": "Its a 2016 frame, never crashed (no cracks and paint is in great condition). 11s di2 charger is included. Never had any problems with the power meter, super accurate. Right now its an 11-30 cassette but i also have a 12-25 if you would rather. I could do 1650$ if you come all the way to Oakville but if we meet in Kingston lets stick with 2000$. I also have a rear zipp 808 with a tubular tire i can throw in there for you."
+        },
+        {
+          "atISO": "2026-10-02T19:01:00-04:00",
+          "from": "us",
+          "text": "Deal 🤝"
+        },
+        {
+          "atISO": "2026-10-02T19:01:00-04:00",
+          "from": "us",
+          "text": "This is very exciting"
+        },
+        {
+          "atISO": "2026-10-02T19:01:00-04:00",
+          "from": "us",
+          "text": "my friend lives in Toronto, I will see if he can check it out quickly."
+        },
+        {
+          "atISO": "2026-10-02T19:09:00-04:00",
+          "from": "us",
+          "text": "My friend can pick it up tomorrow"
+        },
+        {
+          "atISO": "2026-10-02T19:09:00-04:00",
+          "from": "us",
+          "text": "Can you please send me a picture of the rear zip 808 aswell plz"
+        },
+        {
+          "atISO": "2026-10-02T19:11:00-04:00",
+          "from": "seller",
+          "text": "Awesome! Around what time tomorrow"
+        },
+        {
+          "atISO": "2026-10-02T19:11:00-04:00",
+          "from": "seller",
+          "text": "(a second message/attachment at 7:11 PM with no text; probably the Zipp 808 photo)"
         }
-      ]
+      ],
+      "lockedPrice": 1650
     },
     {
       "url": "https://www.facebook.com/marketplace/item/4584341358513815/",

@@ -11,7 +11,7 @@ This session's scheduled jobs fire this file at about 6am and 6pm. When one fire
 - **06:00 and 18:00 are FULL runs:** everything below.
 - **09:00, 12:00, 15:00 and 21:00 are QUICK runs**, about a quarter of the cost. They cover:
   - the seller inbox
-  - the top 8 Marketplace queries (triathlon bike, vélo triathlon, tt bike, cervelo, cannondale slice, felt, speed concept, quintana roo), Montréal centre only
+  - the top 8 Marketplace queries (triathlon bike, vélo triathlon, tt bike, cervelo, cannondale slice, felt, speed concept, quintana roo), Montréal centre only (plus Toronto for 'triathlon bike' and 'cervelo')
   - the most-recent search in the two Québec tri groups
   - Pinkbike, "triathlon" only
 

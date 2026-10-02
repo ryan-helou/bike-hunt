@@ -73,7 +73,12 @@ Always write the model, year, size, and stack and reach (or "geometry unknown") 
 - Rear axle: 130 mm QR, or 142 thru-axle, which the trainer can take with an adapter.
 - Groupset: at least Sora/Tiagra-level shifting, preferably 105/Ultegra/Rival/Force. Note whether it's 10- or 11-speed.
 - **Fake wheels:** "HED/Zipp/Enve" decals on Novatec or unbranded hubs. Ask for a photo of the hub.
-- Area: about 3 h or less from H7T 2W7, in Canada only. That covers Montréal, Laurentides, Lanaudière, Montérégie, Estrie, Trois-Rivières, Québec City (~2.75 h), Ottawa-Gatineau (~2 h), Kingston (~2.75 h) and Cornwall. It excludes Toronto/GTA and the US.
+- Area (widened 2026-10-02: Ryan will drive more than 3 h): about **6 h or less** from H7T 2W7, in Canada only. That covers everything above plus **Toronto/GTA (~5.5 h), Hamilton/Burlington (~6 h), Barrie, Peterborough, Belleville, Saguenay and Rimouski**. Gas always goes into the all-in:
+  - about $25 per hour of one-way driving, round trip; Toronto is ≈$150, a Kingston meet-halfway ≈$90
+  - prefer meeting halfway at Kingston or Belleville when the seller agrees
+  - a far bike has to beat a near one by at least its extra gas
+- Beyond 6 h, only if the seller ships (see Pinkbike: shipping within Canada is about $95–260, with no duty).
+- Still no US.
 
 ## Rough used values (CAD, Québec/Ontario Marketplace, 2026)
 These are estimates. Adjust them for condition, groupset and wheels.
@@ -253,7 +258,7 @@ Any of these gets a listing marked passed:
 ## Searching (Claude in Chrome, Ryan's logged-in Facebook)
 **How Facebook search behaves** (tested 2026-09-27):
 - Each search returns **at most about 15 listings, nearest first**, however large the radius. A Montréal search for "cervelo" with radius=300 returned only listings within about 40 km. Ottawa and Québec City **only appear when you search from those cities**.
-- The `radius` URL parameter is ignored. Facebook uses the Marketplace location radius saved on Ryan's account. That was 40 km, which is why the 27 Sep searches stopped there. On 27 Sep (evening) it was changed to **Montréal, 500 km** with Ryan's OK. The choices are 250 or 500, and 250 cuts close to Québec City and Kingston. A Montréal "cervelo p1" search then returned Ottawa, Québec City, Gatineau and Toronto listings. Keep the three-centre searches as a backstop. Expect Toronto/GTA, Barrie and Clarington in the results, and skip them because they're over 3 h away. If a search page shows "Within 40 km" again, the setting was reset: tell Ryan, and don't change it yourself.
+- The `radius` URL parameter is ignored. Facebook uses the Marketplace location radius saved on Ryan's account. That was 40 km, which is why the 27 Sep searches stopped there. On 27 Sep (evening) it was changed to **Montréal, 500 km** with Ryan's OK. The choices are 250 or 500, and 250 cuts close to Québec City and Kingston. A Montréal "cervelo p1" search then returned Ottawa, Québec City, Gatineau and Toronto listings. Keep the centre searches as a backstop. Toronto/GTA, Barrie and Clarington results now count (within 6 h). Add `toronto` as a fourth centre in full runs: `https://www.facebook.com/marketplace/toronto/search?query=<Q>&exact=false`. If a search page shows "Within 40 km" again, the setting was reset: tell Ryan, and don't change it yourself.
 - Sorting by newest or by price makes Facebook ignore the query. Use the default relevance order only.
 - Only three city pages work by name: `montreal`, `ottawa`, `quebec`. Other names (sherbrooke, kingston, gatineau…) redirect to a generic search.
 
@@ -410,7 +415,7 @@ About 30% of sellers replied. The silent ones mostly got openers with 4–6 ques
 - **Opener = "still available?" plus at most ONE question**, whichever matters most: usually the frame size, otherwise the year or the groupset. Don't ask what the photos or ad already answer. Ask further questions only after the seller replies.
 - **Overpriced listings** (asking more than about 1.4× fair value): don't open with a number. Ask whether they're flexible on price and let them name one. Once they reply, Ryan's aggressive offers are fine; he wants to keep making them.
 - **Follow-ups:** one nudge about 3 days after our last message, then stop. That listing goes back to `watching`, and we only contact it again if the price drops.
-- **Toronto/GTA and anything over 3 h:** only for an exceptional deal (margin $400+). Never "let's meet partway" otherwise.
+- **Toronto/GTA (up to ~6 h):** normal candidates now. Just count the gas, and offer to meet halfway ("je peux vous rejoindre à mi-chemin, à Kingston").
 
 **What gets replies (research, 2026-09-30)**
 - **Show you read the ad and really want this bike.** Name the bike, add one specific genuine compliment, and give a short reason: "for my first 70.3". Triathletes like their bike going to a racer. Never send the generic "Is this still available?": sellers get dozens of those, and most of the people who send them never follow through.

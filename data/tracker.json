@@ -3051,7 +3051,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-02T17:15:00-04:00",
+      "updatedISO": "2026-10-02T17:40:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3064,7 +3064,7 @@
       "driveHours": 5.75,
       "asking": 2000,
       "firstAsking": 2700,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "M",
       "fairValue": 1975,
       "allInCost": 1850,
@@ -3077,7 +3077,9 @@
         "Value: Plasma 3 BBB ~C$1,010-1,280 Exc (runs low) -> bike with Di2 ~$1,300; Quarq SRAM Red ~$400 x0.75 = $300; Mavic Comete tubular disc ~$500 x0.75 = $375. Package ~$1,975.",
         "All-in at a $1,700 close: + Kingston meet gas ~$90 + cassette check ~$60 (11-sp; size unknown) = ~$1,850. Oakville pickup instead: gas ~$145 -> ~$1,905. Good deal up to ~$1,700.",
         "Gearing: likely 53/39 Quarq; 11-sp Ultegra Di2 RD takes up to 11-28/30. Compact rings optional, not counted.",
-        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): new candidate from the Toronto-centre searches."
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): new candidate from the Toronto-centre searches.",
+        "thread: 1820186115655808",
+        "Parts (2026-10-02): wheels on the bike are Fulcrum Racing Sport alloy. Extras: Mavic Comete disc tubular + 11s Ultegra cassette (~$500–700 resale; sell it), Quarq SRAM Red 170 (~$250–400; keep it for training). Bike alone ~$1,200–1,400. Ceiling ~$1,750."
       ],
       "thread": [
         {
@@ -3089,13 +3091,13 @@
           "atISO": "2026-10-02T17:10:00-04:00",
           "from": "seller",
           "text": "Hey Ryan, great to hear! Yes, the seat can be set to 72cm. We can meet in kingston, let me know which dates would work for you"
+        },
+        {
+          "atISO": "2026-10-02T17:40:00-04:00",
+          "from": "us",
+          "text": "Awesome, thanks Charles! Really excited about it. A few quick questions before I plan the drive: what year is the frame, and has it ever been crashed? Is the Di2 charger included, and does the battery still hold a good charge? What cassette is on the bike right now (11-25, 11-28)? And is the Quarq working and pairing fine? For price, would you take $1,650 cash? It's about 3 hours each way for me to Kingston. If that works, I could do this weekend or early next week, whatever suits you."
         }
-      ],
-      "draft": {
-        "n": 11,
-        "purpose": "agree on price before planning the Kingston meet",
-        "text": "Awesome, thanks! Before I plan the drive: would you take $1,650 cash? It's about 3 hours each way for me to Kingston. If that works, I could do this weekend or early next week, whatever suits you. And is the Di2 charger included?"
-      }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/4584341358513815/",

@@ -3051,7 +3051,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-02T16:10:00-04:00",
+      "updatedISO": "2026-10-02T17:15:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3064,7 +3064,7 @@
       "driveHours": 5.75,
       "asking": 2000,
       "firstAsking": 2700,
-      "status": "negotiating",
+      "status": "needs-ok",
       "size": "M",
       "fairValue": 1975,
       "allInCost": 1850,
@@ -3084,8 +3084,18 @@
           "atISO": "2026-10-02T16:10:00-04:00",
           "from": "us",
           "text": "Hi! Your Scott Plasma is exactly what I've been looking for for my first 70.3 next summer, and the Di2 + Quarq setup is a great package. I'm 5'9\" with a 72 cm saddle height: can the seat mast go down that low? I'm in Montréal and could meet you halfway in Kingston this week, cash."
+        },
+        {
+          "atISO": "2026-10-02T17:10:00-04:00",
+          "from": "seller",
+          "text": "Hey Ryan, great to hear! Yes, the seat can be set to 72cm. We can meet in kingston, let me know which dates would work for you"
         }
-      ]
+      ],
+      "draft": {
+        "n": 11,
+        "purpose": "agree on price before planning the Kingston meet",
+        "text": "Awesome, thanks! Before I plan the drive: would you take $1,650 cash? It's about 3 hours each way for me to Kingston. If that works, I could do this weekend or early next week, whatever suits you. And is the Di2 charger included?"
+      }
     },
     {
       "url": "https://www.facebook.com/marketplace/item/4584341358513815/",

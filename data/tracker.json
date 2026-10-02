@@ -2647,11 +2647,15 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-02T16:59:58.684Z",
+      "updatedISO": "2026-10-02T22:36:28.616Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
           "price": 1800
+        },
+        {
+          "atISO": "2026-10-02T22:36:28.616Z",
+          "price": 2250
         }
       ],
       "thread": [
@@ -2756,7 +2760,7 @@
       "title": "Cervélo P2C carbon 51 + spare Sonic carbon wheels (trainer optional)",
       "location": "Casselman, ON",
       "driveHours": 1.75,
-      "asking": 1800,
+      "asking": 2250,
       "status": "watching",
       "size": "51",
       "fairValue": 1325,
@@ -2782,7 +2786,8 @@
         "Seller 06:31: doesn't know the specs, rejects $1,080, names no price. Ryan is chatting with her directly; no draft written (she asked nothing only we can answer). Next step is Ryan's: ask her best price for the bike plus the Sonic wheels without the trainer; good deal at $1,200 or less, walk-away above ~$1,250.",
         "Quick run 2026-10-02 9am: no new messages or photos from the seller after 06:31 (inbox list still ends with her 06:31 rejection of $1,080). Verdict, all-in and target unchanged; photo gaps (RD model/cage, dropouts/hanger, seat cluster, alloy brake tracks) still open. No draft: she asked nothing only we can answer; next move is Ryan's.",
         "thread: 1447673527250824",
-        "2 Oct noon: seller answered our polite pass with a thumbs-up (inbox showed it as the last message, stamped 10:33 AM). Thread closed amicably; watching only for a drop well below $1,600."
+        "2 Oct noon: seller answered our polite pass with a thumbs-up (inbox showed it as the last message, stamped 10:33 AM). Thread closed amicably; watching only for a drop well below $1,600.",
+        "2026-10-02 6pm: asking raised to $2,250 (from $1,800). Still not a good deal; stays watching."
       ]
     },
     {
@@ -3130,7 +3135,8 @@
         "Value: table P3 2008-14 $1,300-1,900; BBB ~C$1,100-1,470 Exc. 10-sp, stock alloy wheels, no extras: ~$1,500.",
         "All-in at a $1,330 close: + Kingston gas ~$90 + 11-28 cassette ~$60 = ~$1,480 (Burlington pickup gas ~$150 -> ~$1,540).",
         "Gearing (est.): 53/39 with a stock 12-25/11-25: +$60 for an 11-28.",
-        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): Burlington ~6 h, now in range."
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): Burlington ~6 h, now in range.",
+        "2026-10-02 6pm: opener (16:10) still unanswered; thread id not resolvable from the Marketplace inbox in Claude Chrome (row click did not open a /messages/t/ URL)."
       ],
       "thread": [
         {

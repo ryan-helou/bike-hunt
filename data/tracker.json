@@ -2582,7 +2582,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-01T22:52:09.978Z",
+      "updatedISO": "2026-10-02T00:48:36.237Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2673,7 +2673,8 @@
         "Parts analysis 2026-10-01: 2007-08 P2C carbon 51, carbon fork, Cervélo aero post, standard calipers, alloy base bar + ski-bend extensions with bar-end shifters, alloy Shimano wheels on the bike, Sonic Mega ~80-88 mm carbon spares (carbon brake track; ~$300-450 resale). Groupset unconfirmed (likely 105/Ultegra 10-speed). Package ~$1,250; offer $1,080, ceiling ~$1,150.",
         "Ryan is messaging this seller himself too (2026-10-01). Good rapport; seller confirmed the trainer isn't needed. Photos and answers still pending; the $1,080 offer isn't answered yet.",
         "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)",
-        "Evening full run 2026-10-01: no new seller messages or photos after 18:15; the thread ends with Ryan's 'Oh okok'. Listing still up at $2,250 package. Photo analysis waits on her pictures."
+        "Evening full run 2026-10-01: no new seller messages or photos after 18:15; the thread ends with Ryan's 'Oh okok'. Listing still up at $2,250 package. Photo analysis waits on her pictures.",
+        "Quick run 2026-10-01 ~20:45: still no new messages or photos from the seller after 18:13 (thread ends with Ryan's 'Oh okok'). Listing still $2,250 package. Photo analysis, verdict and all-in unchanged until her pictures arrive."
       ]
     },
     {
@@ -3152,6 +3153,20 @@
         "Group finds, none in budget: Trois-Rivières TT/tri 58 cm $2,800 (too big), Sherbrooke Cervélo P-Series 105 $5,900, Montréal Cervélo P3 2014 M + Stages $3,000 (over cap; comp), Ottawa P3 2016 $2,800, Loyalist E-112 $2,550, Timmins P2 48 $1,475, Gatineau Eclipse alloy tri 9-sp $800 (pending, alloy), plus known listings (St-Jérôme Slice $2,000, Coteau-du-Lac Slice-RS $1,820, Valleyfield Felt IA $3,400, Québec Felt B14 $1,449, Laval Leo SL L $2,300).",
         "Drafts: none new (Facebook already at ~10 messages today; nothing new qualifies as Potential at or under $2,000). No nudges due before 2 Oct evening. Draft 1 (FLO wheels) and draft 8 (Wilier nudge) unchanged. No notification sent.",
         "Browser: one batch was cut off by an extension disconnect (reconnected immediately) and the Facebook tab froze twice on group pages; reopened a fresh tab and finished. A Pinkbike tab dropped out of the agent tab group when the group reset and could not be closed by the agent."
+      ]
+    },
+    {
+      "atISO": "2026-10-02T00:48:36.237Z",
+      "id": "2026-10-01-quick-2045",
+      "summary": "Quick run (9pm, early): no seller replies after 19:45 (Casselman photos still pending) and nothing new in budget and in range on Marketplace, the two tri groups or Pinkbike; no drafts.",
+      "searched": 12,
+      "newListings": 0,
+      "notes": [
+        "Inbox (Marketplace buying): newest activity is the Casselman thread ending with Ryan's 'Oh okok'; every other thread ends with our message.",
+        "Marketplace Montréal, 8 quick-run queries (location still Montréal 500 km). Untracked results were road bikes, parts, or GTA/far tri bikes: Toronto Felt S32 $950, Kawartha Lakes Kuota Kalibur $1,250, Georgina Speed Concept $1,000 (far; proprietary-brake era), Whitchurch-Stouffville Cervelo $1,799. Laval Bianchi road + carbon wheels $2,000 not opened (road bike, not a clear wheel deal).",
+        "Groups (most-recent, triathlon): Achat/vente/echange: Squad Hornett XS $4,800 St-Sauveur, Norco TT 52-53 $3,800 Chelsea, Guru Crono 58 $2,600 Val-d'Or SOLD. Vente-Achat: only SOLD $3,200-8,500 posts. Nothing in budget.",
+        "Pinkbike triathlon: Québec 9 ads (parts, $10,000 Speed Concept); Ontario 15: new Mississauga 2014 Speed Concept L $1,350 (pass: GTA, proprietary brakes, L) and Thunder Bay Speed Concept $4,500; rest as before.",
+        "Browser: one extension disconnect mid-batch, recovered on retry."
       ]
     }
   ]

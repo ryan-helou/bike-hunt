@@ -323,10 +323,13 @@
       "driveHours": 6,
       "asking": 1000,
       "status": "passed",
-      "verdict": "About 6 h away, past the 3 h limit, and 1st-gen proprietary brakes and stem.",
+      "verdict": "Pass: 1st-gen Speed Concept proprietary brakes/stem, size L.",
       "firstSeenISO": "2026-09-24T12:00:00-04:00",
-      "updatedISO": "2026-09-27T12:00:00-04:00",
-      "size": "54"
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "size": "54",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
+      ]
     },
     {
       "id": "1068544315624448",
@@ -1410,7 +1413,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/813568748414916/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1422,12 +1425,15 @@
       "location": "Ajax, ON",
       "asking": 1100,
       "status": "passed",
-      "verdict": "Ajax (GTA), over 3 h away."
+      "verdict": "Pass: carbon Transition 2008-12 has proprietary brakes (centre-pull front, rear under the BB). Ajax is now in range, but the brakes fail.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2151992002341310/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1439,12 +1445,15 @@
       "location": "Guelph, ON",
       "asking": 1400,
       "status": "passed",
-      "verdict": "Guelph, over 3 h away."
+      "verdict": "Pass: P2-SL is an alloy frame (carbon only). Guelph ~6.5 h is also past the area.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1351098253885451/",
       "firstSeenISO": "2026-09-27T22:58:19-04:00",
-      "updatedISO": "2026-09-27T22:58:19-04:00",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-27T22:58:19-04:00",
@@ -1456,7 +1465,10 @@
       "location": "Perth South, ON",
       "asking": 1200,
       "status": "passed",
-      "verdict": "Perth South (near Stratford), over 3 h away."
+      "verdict": "Pass: P3 SL is an alloy frame (carbon only); Perth South ~7 h.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/29666516762938631/",
@@ -1844,7 +1856,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/989386040340722/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "thread": [],
       "priceHistory": [
         {
@@ -1859,13 +1871,15 @@
       "asking": 570,
       "status": "passed",
       "size": "52",
-      "verdict": "Oro-Medonte (near Barrie) is over 3 h away, and it is a vintage alloy frame.",
-      "notes": []
+      "verdict": "Pass: vintage alloy frame.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/1765271658159156/",
       "firstSeenISO": "2026-09-28T10:43:12.880Z",
-      "updatedISO": "2026-09-28T10:43:12.880Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "thread": [],
       "priceHistory": [
         {
@@ -1880,8 +1894,10 @@
       "asking": 1800,
       "status": "passed",
       "size": "M",
-      "verdict": "Toronto, over 3 h away, and $1,800 for a 2010 alloy Trinity.",
-      "notes": []
+      "verdict": "Pass: 2010 Trinity is alloy (carbon only).",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/3595288533961051/",
@@ -1975,14 +1991,17 @@
       "location": "Toronto, ON",
       "asking": 1250,
       "status": "passed",
-      "verdict": "Toronto, 12 weeks listed. Worth ~$1,300-1,600 but all-in ~$1,500 at a $1,150 close (+ gas $160, tune-up $120): not a steal once the trip is counted. Same bike noted in HUNT.md on 28 Sep.",
+      "verdict": "Pass (duplicate): same Toronto P3C as 1188631100095712, which is already in negotiation.",
       "firstSeenISO": "2026-09-29T10:53:43.719Z",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T10:53:43.719Z",
           "price": 1250
         }
+      ],
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
       ]
     },
     {
@@ -1992,16 +2011,19 @@
       "location": "Brampton, ON",
       "asking": 1290,
       "status": "passed",
-      "verdict": "Brampton (GTA). Dropped from $2,900, but a 1st-gen Slice is worth ~$900-1,250; all-in with the trip ~$1,450. Not a steal.",
+      "verdict": "Pass: relisted as 1698241141413384 'XS 47, 650c'; too small.",
       "firstSeenISO": "2026-09-29T10:53:43.719Z",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T10:53:43.719Z",
           "price": 1290
         }
       ],
-      "firstAsking": 2900
+      "firstAsking": 2900,
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
+      ]
     },
     {
       "id": "1434238748629724",
@@ -2010,14 +2032,17 @@
       "location": "Toronto, ON",
       "asking": 1000,
       "status": "passed",
-      "verdict": "Toronto. An alloy P3-SL is worth ~$1,000-1,200; all-in ~$1,280 with the trip. Fair at best.",
+      "verdict": "Pass: P3-SL is alloy (carbon only), whatever the distance.",
       "firstSeenISO": "2026-09-29T10:53:43.719Z",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T10:53:43.719Z",
           "price": 1000
         }
+      ],
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
       ]
     },
     {
@@ -2045,14 +2070,17 @@
       "location": "Belleville, ON",
       "asking": 1800,
       "status": "passed",
-      "verdict": "Belleville is ~3.5 h away and $1,800 is fair-to-high for a Plasma 2. Not a steal.",
+      "verdict": "Not a good deal: Belleville (~3.5 h) is now in range, but at $1,800 a Plasma 20/30-era 52 (likely S, reach ~390) is worth ~$1,200-1,300; good only at ~$1,100.",
       "firstSeenISO": "2026-09-29T10:53:43.719Z",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T10:53:43.719Z",
           "price": 1800
         }
+      ],
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated: photo shows a grey Plasma 3-era build, standard calipers; size 52 = S (short reach). Still not a good deal."
       ]
     },
     {
@@ -2062,14 +2090,17 @@
       "location": "Pickering, ON",
       "asking": 520,
       "status": "passed",
-      "verdict": "Pickering (GTA). An old alloy P2K is worth ~$500-600; the trip eats any margin.",
+      "verdict": "Pass: P2K is alloy (carbon only).",
       "firstSeenISO": "2026-09-29T10:53:43.719Z",
-      "updatedISO": "2026-09-29T10:53:43.719Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-29T10:53:43.719Z",
           "price": 520
         }
+      ],
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
       ]
     },
     {
@@ -2353,7 +2384,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T22:52:09.978Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2367,7 +2398,8 @@
         "2026-09-29 ~20:25: sent draft 31 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
         "2026-10-01 package re-value: still $1,000 (was $2,200; 13 weeks). 6 photos (one is the Feb 2026 Trek Queen West service invoice; one shows it on a trainer, which the ad does not include), no video. 1st-gen Scott Plasma carbon 54 (black/gold, standard calipers), Dura-Ace crank, Campagnolo FD, Ksyrium Elite, new Bontrager Race Lite clip-ons, new cables/housing. Extras: new Shimano SPD-SL pedals ~$80x0.75 = $60. Package ~$1,110: bike $1,050 + $60. All-in at a likely $900 close (our offer): + Kingston meet gas ~$100, no parts (fresh service) = ~$1,000. Margin ~+$110.",
         "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)",
-        "thread: 1485264280095954"
+        "thread: 1485264280095954",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): already negotiating; gas now counted at Kingston ~$90 (was ~$100), verdict unchanged."
       ],
       "id": "1014185267670492",
       "url": "https://www.facebook.com/marketplace/item/1014185267670492/",
@@ -2397,7 +2429,7 @@
     },
     {
       "firstSeenISO": "2026-09-30T00:14:47.540Z",
-      "updatedISO": "2026-10-01T22:52:09.978Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "priceHistory": [
         {
           "atISO": "2026-09-30T00:14:47.540Z",
@@ -2410,7 +2442,8 @@
         "2026-09-29 ~20:25: sent draft 32 on Ryan's \"send em all\". Confirmed in the Marketplace inbox.",
         "2026-10-01 package re-value: still $1,250 (12 weeks). 1 photo, no video. Red/black 'P3 Carbon' (2005-07 P3C, Vroomen White Design), SRAM crank, Easton alloy wheels, base bar + extensions, top-tube bag, 1 cage. Extras: none of value (bag/cage $0). Bike ~$1,250 (older P3C, below the 2008-13 P3 range). All-in at a likely $1,100 close: + Kingston gas ~$100 = ~$1,200. Margin ~+$50.",
         "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)",
-        "thread: 1515112190443979"
+        "thread: 1515112190443979",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): already negotiating; gas now counted at Kingston ~$90 (was ~$100), verdict unchanged."
       ],
       "id": "1188631100095712",
       "url": "https://www.facebook.com/marketplace/item/1188631100095712/",
@@ -2465,7 +2498,8 @@
         "2026-09-30: sent on Ryan's \"send all\" after a photo pass (Ryan: minimize questions, check photos first). Dropped crash/height questions (ad covers condition; 54 is the ideal size). Photos: black 2012 P2, Cosmic Carbone SL, standard brakes. Listing flipped to \"Message again\" after Send; the chat popup would not reopen to screenshot.",
         "2026-10-01 package re-value: still $1,700 (6 weeks). 8 photos, no video. 2012 P2 54 full carbon (Vroomen White Design), Ultegra 6700 2x10, Mavic Cosmic Carbone SL (alloy brake track; replaces the stock wheels, which are not included), GP5000 S TR + TPU tubes nearly new, 3T Aura Pro + clips, Cobb saddle, top-tube bag, behind-saddle bottle mount. Package ~$1,480: bike with Cosmic Carbone SL $1,400 + near-new GP5000 S TR/TPU $110x0.75 = $80 (bag, mount $0). All-in at a likely $1,450 close: + Kingston gas ~$100 = ~$1,550 (Toronto pickup ~$1,610). Margin ~-$70.",
         "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)",
-        "thread: 1811377293429623"
+        "thread: 1811377293429623",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): already negotiating; gas now counted at Kingston ~$90 (was ~$100), verdict unchanged."
       ],
       "draft": null,
       "thread": [
@@ -2480,7 +2514,7 @@
           "text": "Hi, just checking in on the P2. Still available? I'm still very interested. Would you consider $1,150 cash?"
         }
       ],
-      "updatedISO": "2026-10-01T22:52:09.978Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "driveHours": 5.5,
       "size": "54",
       "firstSeenISO": "2026-09-30T13:05:59.925Z"
@@ -2500,12 +2534,13 @@
         }
       ],
       "status": "passed",
-      "verdict": "Not a good deal: an old alloy Ironman Slice with bar-end shifters and R500 wheels is worth ~$500-700; the Toronto trip + tune-up + tyres put all-in above that at any likely price. Size not stated.",
+      "verdict": "Pass: old alloy Ironman Slice (carbon only).",
       "notes": [
-        "Opened 2026-09-30 AM on Ryan's ask. Listed 9 weeks, down from $1,500."
+        "Opened 2026-09-30 AM on Ryan's ask. Listed 9 weeks, down from $1,500.",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): re-evaluated; still a pass."
       ],
       "thread": [],
-      "updatedISO": "2026-09-30T13:05:49.656Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
       "driveHours": 5.5,
       "size": "unknown",
       "firstSeenISO": "2026-09-30T13:05:59.925Z"
@@ -3006,6 +3041,495 @@
       "size": "S (52.5)",
       "verdict": "Pass: 2013 Shiv has proprietary integrated brakes, and the ask is over the $2,000 cap.",
       "updatedISO": "2026-10-01T23:31:04.527Z"
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 2000
+        }
+      ],
+      "id": "2026064858150818",
+      "title": "Scott Plasma 3 carbon M, Dura-Ace Di2 11-sp shifters + Ultegra Di2 RD, SRAM Red Quarq, Mavic Comete disc",
+      "location": "Oakville, ON",
+      "driveHours": 5.75,
+      "asking": 2000,
+      "firstAsking": 2700,
+      "status": "needs-ok",
+      "size": "M",
+      "fairValue": 1975,
+      "allInCost": 1850,
+      "target": 1700,
+      "verdict": "Potential, good deal at ~$1,700 or less: package ~$1,975 vs all-in ~$1,850 at a $1,700 close met in Kingston (margin ~+$125); net cost ~$1,025 after reselling the Quarq and disc. Listed 45 weeks, down from $2,700.",
+      "notes": [
+        "Ad: Scott Plasma TT/Tri, size Medium (max seatpost height 76 cm), 11-sp Di2 Dura-Ace shifters + Ultegra Di2 RD, SRAM Red 170 mm Quarq power meter, SRAM Red brakes, Selle Italia saddle; comes with Mavic Comete disc (Vittoria Corsa tubular) + 11-sp Ultegra cassette. Listed 45 weeks ago, $2,000 (was $2,700).",
+        "Photos (9, no video): Plasma 3-generation carbon (black/white/red), integrated seat mast with Ritchey topper, standard calipers front and on the seatstays (passes the brake rule; not a Plasma 5), Zipp Vuka aero cockpit with Di2 bar-end shifters, alloy-brake-track clinchers (Continental tyres), Quarq SRAM Red crank (looks 53/39), disc with an 11-sp cassette. No visible damage.",
+        "Geometry: Plasma 3 M reach 415, stack ~505 (Slowtwitch calc; Scott never published stack) = ideal window. Seat mast: max saddle 76 cm stated; must confirm it goes down to ~72 cm (cut mast). Ask about the Di2 charger/battery.",
+        "Value: Plasma 3 BBB ~C$1,010-1,280 Exc (runs low) -> bike with Di2 ~$1,300; Quarq SRAM Red ~$400 x0.75 = $300; Mavic Comete tubular disc ~$500 x0.75 = $375. Package ~$1,975.",
+        "All-in at a $1,700 close: + Kingston meet gas ~$90 + cassette check ~$60 (11-sp; size unknown) = ~$1,850. Oakville pickup instead: gas ~$145 -> ~$1,905. Good deal up to ~$1,700.",
+        "Gearing: likely 53/39 Quarq; 11-sp Ultegra Di2 RD takes up to 11-28/30. Compact rings optional, not counted.",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): new candidate from the Toronto-centre searches."
+      ],
+      "draft": {
+        "n": 9,
+        "purpose": "Opener (potential: stale 45-week Plasma 3 M Di2 + Quarq + disc; one question = seat-mast min height)",
+        "text": "Hi! Your Scott Plasma is exactly what I've been looking for for my first 70.3 next summer, and the Di2 + Quarq setup is a great package. I'm 5'9\" with a 72 cm saddle height: can the seat mast go down that low? I'm in Montréal and could meet you halfway in Kingston this week, cash."
+      }
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/4584341358513815/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 2000
+        }
+      ],
+      "id": "4584341358513815",
+      "title": "Cervélo P3 carbon 54 (white, ~2010-12), 10-sp, standard brakes",
+      "location": "Burlington, ON",
+      "driveHours": 6,
+      "asking": 2000,
+      "firstAsking": 2250,
+      "status": "needs-ok",
+      "size": "54",
+      "fairValue": 1500,
+      "allInCost": 1500,
+      "target": 1300,
+      "verdict": "Potential, good deal only at ~$1,300-1,350: worth ~$1,500 (no extras); all-in ~$1,480 at $1,330 met in Kingston. Seller says open to offers and flexible on price.",
+      "notes": [
+        "Ad: 'Amazing road bike', 54 cm, open to offers, flexible on price. $2,000 (was $2,250).",
+        "Media: 15 s video + 1 photo. White P3 with black/red Cervélo logos (2010-12 P3 carbon), aero seatpost, standard calipers front and rear (seatstays), silver 5-arm crank (looks Ultegra 6700/105 5700, 53/39), Shimano alloy wheels, base bar + Profile-type extensions with bar-end shifters, black crank arm. Video shows decals, cockpit and seat area; no damage seen. Year and groupset not stated.",
+        "Geometry: P3 2008-13 size 54 = 498 / 419 (ideal). Threaded BSA BB (2010-13).",
+        "Value: table P3 2008-14 $1,300-1,900; BBB ~C$1,100-1,470 Exc. 10-sp, stock alloy wheels, no extras: ~$1,500.",
+        "All-in at a $1,330 close: + Kingston gas ~$90 + 11-28 cassette ~$60 = ~$1,480 (Burlington pickup gas ~$150 -> ~$1,540).",
+        "Gearing (est.): 53/39 with a stock 12-25/11-25: +$60 for an 11-28.",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): Burlington ~6 h, now in range."
+      ],
+      "draft": {
+        "n": 10,
+        "purpose": "Opener (potential: P3 carbon 54, flexible seller; one question = year/groupset)",
+        "text": "Hi! Your Cervélo P3 is exactly what I've been looking for for my first 70.3 next summer, and 54 is my size. What year is it, and is it 10 or 11-speed? I'm in Montréal and could meet you halfway in Kingston this week with cash."
+      }
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2952445855108865/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1500
+        }
+      ],
+      "id": "2952445855108865",
+      "title": "Scott Plasma carbon 51 (S), Ultegra, Profile Design bars",
+      "location": "Brantford, ON",
+      "driveHours": 6.25,
+      "asking": 1500,
+      "status": "watching",
+      "size": "51 (S)",
+      "fairValue": 1150,
+      "allInCost": 1650,
+      "target": 1050,
+      "verdict": "Not a good deal at $1,500: worth ~$1,150-1,250 (no extras); all-in ~$1,650 at asking via Kingston. Good only at ~$1,050 or less; listed only a day, so watch for a drop.",
+      "notes": [
+        "Ad: carbon, Ultegra, Profile Design bars, upgraded seat, ex-team bike, stored indoors, 51 cm. Listed 1 day ago.",
+        "Photos: 1 photo only, no video. Black/white/green Scott Plasma (Plasma 3-era 20/30 build), standard front caliper, alloy Shimano wheels; drivetrain side not shown.",
+        "Geometry: Plasma 3 S reach ~390, stack ~475 (Slowtwitch calc): just under Ryan's window, saddle height reach unknown. Brantford ~6.25 h (edge of the area).",
+        "Value: Plasma 3 BBB ~C$1,010-1,280 Exc."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1071919238537872/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1250
+        }
+      ],
+      "id": "1071919238537872",
+      "title": "Kuota Kalibur carbon 52, Campagnolo Chorus 10-sp, Zipp carbon wheels, Sigma computer",
+      "location": "Kawartha Lakes, ON",
+      "driveHours": 4.75,
+      "asking": 1250,
+      "firstAsking": 1800,
+      "status": "watching",
+      "size": "52",
+      "fairValue": 950,
+      "allInCost": 1400,
+      "target": 800,
+      "verdict": "Not a good deal: package ~$950 vs all-in ~$1,400 at asking (Kingston meet $90 + Campy 12-29 cassette ~$60); good only at ~$800. Weak-resale brand, Campagnolo, carbon brake track.",
+      "notes": [
+        "Ad: Kuota Kalibur monocoque carbon 52 (too small for the seller, wants a 54 or a trade), Campagnolo Chorus carbon crank + Chorus parts, Zipp carbon deep wheels, GP4000s, Vision carbon base bar + extensions, Sigma 1609 wired computer, Profile carbon cage. 4 weeks listed, down from $1,800.",
+        "Photos (11, no video): ~2006 Kalibur 'Evolution' green/dragon graphics, standard calipers, Chorus 53/39, Campy bar-ends, Zipp rims with carbon brake tracks (not for Muskoka descents), Sigma wired computer ($0).",
+        "Geometry unknown (Kuota 52 ~ M); ask if ever pursued.",
+        "Value: Kuota bike ~$700 + Zipp wheels ~$350 x0.75 = ~$260 -> ~$950. Campagnolo needs a Campy cassette for the trainer.",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): Kawartha Lakes ~4.75 h."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2173822969896201/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 900
+        }
+      ],
+      "id": "2173822969896201",
+      "title": "Guru Crono carbon 56, SRAM Red 10-sp, Reynolds/Rigida wheels",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 900,
+      "status": "watching",
+      "size": "56",
+      "fairValue": 850,
+      "allInCost": 1100,
+      "target": 750,
+      "verdict": "Not a good deal: worth ~$850 (weak-resale Guru, mismatched wheels, no saddle); all-in ~$1,100 at asking (Kingston $90 + saddle $60 + cassette $60). A 56 Guru may also be over the 530 stack.",
+      "notes": [
+        "Ad: Guru Crono aero carbon, 56 cm, SRAM Red brakes/RD, 2x10, Vision aerobar, Reynolds Solitude rear + Rigida front, saddle and pedals removed. 2 weeks listed.",
+        "Photos (4, no video): white/red Crono, standard calipers, SRAM Red RD, Vision cockpit with worn tape. Geometry unknown (custom-style Guru sizing).",
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): Toronto ~5.5 h."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1862364341394792/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1500
+        }
+      ],
+      "id": "1862364341394792",
+      "title": "Cervélo P2K-era alloy (yellow), Dura-Ace 9-sp + trainer/helmet/shoes",
+      "location": "St Catharines, ON",
+      "driveHours": 6.5,
+      "asking": 1500,
+      "status": "passed",
+      "size": "M (52-54)",
+      "verdict": "Pass: old yellow alloy Cervélo (P2K-era, carbon stays/fork only) with Dura-Ace 7700 9-sp; carbon frames only. Also ~6.5 h.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1050609533994686/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 950
+        }
+      ],
+      "id": "1050609533994686",
+      "title": "Cervélo P2 SL 54 (alloy)",
+      "location": "Brampton, ON",
+      "driveHours": 5.75,
+      "asking": 950,
+      "status": "passed",
+      "size": "54",
+      "verdict": "Pass: P2 SL is an alloy frame.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1698241141413384/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1290
+        }
+      ],
+      "id": "1698241141413384",
+      "title": "Cannondale Slice XS 47 (650c)",
+      "location": "Brampton, ON",
+      "driveHours": 5.75,
+      "asking": 1290,
+      "status": "passed",
+      "size": "47 (XS)",
+      "verdict": "Pass: XS 47 with 650c wheels (same seller/bike as the Brampton Slice 51 passed before).",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1782499749775564/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1490
+        }
+      ],
+      "id": "1782499749775564",
+      "title": "Quintana Roo Lucero 'carbon' Small",
+      "location": "Brampton, ON",
+      "driveHours": 5.75,
+      "asking": 1490,
+      "status": "passed",
+      "size": "S",
+      "verdict": "Pass: Small (5'3\"-5'6\"), price non-negotiable.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2195669977847031/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1950
+        }
+      ],
+      "id": "2195669977847031",
+      "title": "Trek Speed Concept 7.x (gen 2) M",
+      "location": "Brantford, ON",
+      "driveHours": 6.25,
+      "asking": 1950,
+      "status": "passed",
+      "size": "M",
+      "verdict": "Pass: 2nd-gen Speed Concept (2014-ish), proprietary brakes and stem.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2622511564834149/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1875
+        }
+      ],
+      "id": "2622511564834149",
+      "title": "Giant Trinity alloy",
+      "location": "Oakville, ON",
+      "driveHours": 5.75,
+      "asking": 1875,
+      "status": "passed",
+      "size": "?",
+      "verdict": "Pass: aluminium frame (ad says so).",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1018747097310257/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 2000
+        }
+      ],
+      "id": "1018747097310257",
+      "title": "Specialized Shiv Small, 105 2x10",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 2000,
+      "status": "passed",
+      "size": "S",
+      "verdict": "Pass: Shiv 2011-19 proprietary brakes, size Small.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/2362912877873988/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 2000
+        }
+      ],
+      "id": "2362912877873988",
+      "title": "Specialized Shiv (no description)",
+      "location": "Mississauga, ON",
+      "driveHours": 5.75,
+      "asking": 2000,
+      "status": "passed",
+      "size": "?",
+      "verdict": "Pass: Shiv 2011-19 proprietary front end/brakes; no description.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1860185861613640/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 800
+        }
+      ],
+      "id": "1860185861613640",
+      "title": "Avanti TT carbon Small 50",
+      "location": "Collingwood, ON",
+      "driveHours": 6.5,
+      "asking": 800,
+      "status": "passed",
+      "size": "50",
+      "verdict": "Pass: size Small 50 cm.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1460637605757328/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 900
+        }
+      ],
+      "id": "1460637605757328",
+      "title": "Kestrel 500 SCi vintage road frame + Zipp carbon wheels",
+      "location": "Brantford, ON",
+      "driveHours": 6.25,
+      "asking": 900,
+      "status": "passed",
+      "size": "?",
+      "verdict": "Pass: 1990s Kestrel road frame with clip-ons, carbon-brake-track Zipps; package ~$750 < asking.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/28357748710543230/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 950
+        }
+      ],
+      "id": "28357748710543230",
+      "title": "Felt S32 (alloy)",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 950,
+      "status": "passed",
+      "size": "?",
+      "verdict": "Pass: Felt S32 is an alloy frame.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1012177648293739/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1000
+        }
+      ],
+      "id": "1012177648293739",
+      "title": "Felt S32 48 (alloy)",
+      "location": "Barrie, ON",
+      "driveHours": 5.75,
+      "asking": 1000,
+      "status": "passed",
+      "size": "48",
+      "verdict": "Pass: alloy frame, size 48.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/5139308856287042/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 500
+        }
+      ],
+      "id": "5139308856287042",
+      "title": "Cervélo P3 frame and fork",
+      "location": "Welland, ON",
+      "driveHours": 6.5,
+      "asking": 500,
+      "status": "passed",
+      "size": "?",
+      "verdict": "Pass for now: frameset only (~$700-900 of parts to build), Welland ~6.5 h is past the area; size unknown.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1418305336848756/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 2500
+        }
+      ],
+      "id": "1418305336848756",
+      "title": "Cervélo P3 2013 54",
+      "location": "Pelham, ON",
+      "driveHours": 6.5,
+      "asking": 2500,
+      "status": "passed",
+      "size": "54",
+      "verdict": "Pass: $2,500 sticker over the $2,000 cap (was $2,800) and ~6.5 h; a 2013 P3 is worth ~$1,500-1,900.",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1024611250416475/",
+      "firstSeenISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T14:44:10.890Z",
+          "price": 1400
+        }
+      ],
+      "id": "1024611250416475",
+      "title": "Cervélo P2 carbon 48",
+      "location": "Burlington, ON",
+      "driveHours": 6,
+      "asking": 1400,
+      "status": "passed",
+      "size": "48",
+      "verdict": "Pass: 48 (650c-era size).",
+      "notes": [
+        "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
+      ]
     }
   ],
   "runs": [
@@ -3266,6 +3790,20 @@
         "Marketplace Montréal, 8 quick-run queries (page label shows Within 250 km, but results still reach Clarington, Whitby and Huntsville, so the 500 km account radius looks intact). Untracked results were road bikes, parts and rowers: Ste-Catherine Kuota K Factor road $1,000, Pointe-Claire Cervélo R3 2013 54 $1,750, Boisbriand Cervélo RS $950, Montréal R5 $2,500, Ottawa R3 2019 $2,500, L'Assomption Felt VR 60 $1,000 (just listed), Trois-Rivières Felt VR XXS $1,000, Longueuil Felt ZW6 $1,150, Chambly Felt F2 $1,650, Georgina Speed Concept $1,000 (known, far, proprietary-brake era), Barrie QR Palomar 650c $500. No new tri/TT bike.",
         "Groups (most-recent, triathlon): Vente-Achat: Felt AXS Small $6,500 plus SOLD Canyon Speedmax $8,500, Felt B14 2017 56 $3,500, Argon E-119 $6,500. Achat/vente/échange: new 2026 Cervélo P-Series (unpriced, new, far over budget), a race-entry transfer, SOLD posts. Nothing in budget.",
         "Pinkbike triathlon: Québec 9 ads (parts, Chelsea $10,000 Speed Concept, Campagnolo groups) and Ontario 15 (Vaughan Benotto $300, Timmins P2 48 $1,500, Mississauga 2014 Speed Concept L $1,350, Rockland E-117 $4,000, Thunder Bay Speed Concept $4,500, etc.), all seen before. Nothing new."
+      ]
+    },
+    {
+      "atISO": "2026-10-02T14:44:10.890Z",
+      "id": "2026-10-02-targeted-area-6h",
+      "summary": "Targeted run for the new ~6 h area: 19 Marketplace searches from Toronto and a re-check of past GTA/far passes found two potentials (Oakville Scott Plasma 3 M Di2 + Quarq + disc $2,000 after 45 weeks, Burlington Cervélo P3 54 $2,000 'flexible'), drafts 9 and 10; everything else fails the carbon, size or brake rules.",
+      "searched": 19,
+      "newListings": 20,
+      "notes": [
+        "Marketplace Toronto centre (sidebar: Montréal, Within 500 km): triathlon bike, tri bike, tt bike, time trial bike, cervelo p2, cervelo p3, cervelo, cannondale slice, felt b, felt ia, speed concept, quintana roo, argon 18, specialized shiv, giant trinity, scott plasma, kestrel, ceepo, dimond (ceepo/dimond returned nothing relevant).",
+        "Opened: Burlington P3 (video + photo), Oakville Plasma + Disc (9 photos), Brantford Plasma 51, Kawartha Kuota Kalibur (11 photos), Toronto Guru Crono, St Catharines yellow alloy Cervélo (video + 5 photos), Brampton P2 SL / Slice XS / QR Lucero S, Brantford Speed Concept, Oakville Trinity alloy, Toronto and Mississauga Shivs, Collingwood Avanti 50, Brantford Kestrel, Belleville Plasma 52.",
+        "Out of area or over cap, not opened: London Argon E-116 $1,550 and Argon 51-53 $1,000 (~7.5 h), Windsor Slice $800, Lakeshore tri $1,000, Saugeen P2C $1,600, Georgian Bluffs tri $600, Milton Slice $2,500, Loyalist E-112 $2,550, Oshawa Felt IA2 $3,400, Toronto P5 $3,800, Orangeville P3 $3,300, Georgina Speed Concept $1,000 (gen-1 brakes).",
+        "Past far passes re-evaluated: all still fail on alloy, brakes or size (Ajax Transition carbon, Guelph P2-SL, Perth South P3 SL, Toronto P3-SL, Pickering P2K, Toronto Trinity 2010, Ironman Slice, Mississauga SC, Brampton Slice now listed as XS 650c). Belleville Plasma 52 updated: in range now but overpriced. Kingston Felt B14 56 stays passed (stack).",
+        "Photo URLs not captured (the browser tool blocks returning scontent URLs this session)."
       ]
     }
   ]

@@ -456,6 +456,9 @@ Rules:
 - Never lie about Ryan or the bike.
 - Never pressure with fake deadlines or fake other offers.
 
+## Opening an existing conversation (2026-10-02)
+For a listing we've already messaged, the "Message again" button often won't open a chat window in Claude's Chrome, and the Messenger Marketplace list often won't load either. Work out the thread id **when the conversation is first created** (Messenger URL `/messages/t/<id>`) and store it in the listing's notes as `thread: <id>`, so sends can go straight to `https://www.facebook.com/messages/t/<id>/`. Click the text box with a real click and check it has focus before typing; keystrokes get dropped when it doesn't. If a thread can't be reached, mark the draft "send from your phone" and give Ryan the exact text.
+
 ## Facebook message limit (hit 2026-09-30)
 After about 30 Marketplace messages in two days, Facebook blocked sending: "There is a temporary limit on how many messages you can send on Marketplace." To stay under it:
 - Send at most about 8 new messages a day.

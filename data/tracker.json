@@ -3051,7 +3051,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T16:10:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3064,7 +3064,7 @@
       "driveHours": 5.75,
       "asking": 2000,
       "firstAsking": 2700,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "M",
       "fairValue": 1975,
       "allInCost": 1850,
@@ -3079,16 +3079,18 @@
         "Gearing: likely 53/39 Quarq; 11-sp Ultegra Di2 RD takes up to 11-28/30. Compact rings optional, not counted.",
         "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): new candidate from the Toronto-centre searches."
       ],
-      "draft": {
-        "n": 9,
-        "purpose": "Opener (potential: stale 45-week Plasma 3 M Di2 + Quarq + disc; one question = seat-mast min height)",
-        "text": "Hi! Your Scott Plasma is exactly what I've been looking for for my first 70.3 next summer, and the Di2 + Quarq setup is a great package. I'm 5'9\" with a 72 cm saddle height: can the seat mast go down that low? I'm in Montréal and could meet you halfway in Kingston this week, cash."
-      }
+      "thread": [
+        {
+          "atISO": "2026-10-02T16:10:00-04:00",
+          "from": "us",
+          "text": "Hi! Your Scott Plasma is exactly what I've been looking for for my first 70.3 next summer, and the Di2 + Quarq setup is a great package. I'm 5'9\" with a 72 cm saddle height: can the seat mast go down that low? I'm in Montréal and could meet you halfway in Kingston this week, cash."
+        }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/4584341358513815/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-02T14:44:10.890Z",
+      "updatedISO": "2026-10-02T16:10:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3101,7 +3103,7 @@
       "driveHours": 6,
       "asking": 2000,
       "firstAsking": 2250,
-      "status": "needs-ok",
+      "status": "negotiating",
       "size": "54",
       "fairValue": 1500,
       "allInCost": 1500,
@@ -3116,11 +3118,13 @@
         "Gearing (est.): 53/39 with a stock 12-25/11-25: +$60 for an 11-28.",
         "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): Burlington ~6 h, now in range."
       ],
-      "draft": {
-        "n": 10,
-        "purpose": "Opener (potential: P3 carbon 54, flexible seller; one question = year/groupset)",
-        "text": "Hi! Your Cervélo P3 is exactly what I've been looking for for my first 70.3 next summer, and 54 is my size. What year is it, and is it 10 or 11-speed? I'm in Montréal and could meet you halfway in Kingston this week with cash."
-      }
+      "thread": [
+        {
+          "atISO": "2026-10-02T16:10:00-04:00",
+          "from": "us",
+          "text": "Hi! Your Cervélo P3 is exactly what I've been looking for for my first 70.3 next summer, and 54 is my size. What year is it, and is it 10 or 11-speed? I'm in Montréal and could meet you halfway in Kingston this week with cash."
+        }
+      ]
     },
     {
       "url": "https://www.facebook.com/marketplace/item/2952445855108865/",

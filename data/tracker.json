@@ -3814,6 +3814,30 @@
       "asking": 1000,
       "status": "passed",
       "verdict": "Passed: steel frame, 60 cm, 7-speed."
+    },
+    {
+      "id": "pinkbike-4170531",
+      "url": "https://www.pinkbike.com/buysell/4170531/",
+      "source": "pinkbike",
+      "firstSeenISO": "2026-10-02T23:11:23.463Z",
+      "updatedISO": "2026-10-02T23:11:23.463Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:11:23.463Z",
+          "price": 4000
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad (posted Apr 2026): 2016 E-117 Tri M, Ultegra Di2 6870, TRP integrated Argon brakes, 11-34 cassette, Cosmic Pro Carbon wheels, Look pedals. $4,000, local pickup, Rockland ON."
+      ],
+      "title": "Argon 18 E-117 2016 M, Ultegra Di2, Cosmic Pro Carbon",
+      "location": "Rockland, ON",
+      "driveHours": 1.75,
+      "asking": 4000,
+      "status": "passed",
+      "size": "M",
+      "verdict": "Passed: $4,000 (far over budget) and TRP integrated Argon brakes."
     }
   ],
   "runs": [

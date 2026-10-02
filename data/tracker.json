@@ -3174,12 +3174,14 @@
     {
       "atISO": "2026-10-02T10:30:36.659Z",
       "id": "2026-10-02-morning-full",
-      "summary": "Morning full run (in progress): no seller replies since 20:45; QR PRthree Québec gone; other tracked prices unchanged.",
-      "searched": 0,
+      "summary": "Morning full run (in progress): no seller replies since 20:45; QR PRthree Québec gone; Marketplace (99 searches) found nothing new in range.",
+      "searched": 99,
       "newListings": 0,
       "notes": [
         "Inbox (Marketplace buying): no seller messages newer than 20:45 on 1 Oct; Casselman thread still ends with Ryan's 'Oh okok', no photos yet.",
-        "Tracked: 24 Marketplace listings + Kijiji FLO wheels re-checked; all unchanged except the Québec QR PRthree (no longer available -> gone)."
+        "Tracked: 24 Marketplace listings + Kijiji FLO wheels re-checked; all unchanged except the Québec QR PRthree (no longer available -> gone).",
+        "Marketplace: all 33 HUNT.md queries on Montréal, Ottawa and Québec (99 searches, max 6 scrolls). Sidebar still shows Montréal, Within 500 km. 468 untracked cards; none is a carbon tri/TT bike within 3 h. Opened: Montréal \"Vélo full CARBONE FELT\" $500 (a Felt mountain bike) and Trois-Rivières \"Vélo\" $500 (alloy Felt road bike): both not tri bikes.",
+        "GTA/far tri bikes seen (not tracked): Burlington P3 $2,000 (was $2,250), Brantford Plasma 51 $1,500, Burlington P2C 48 $1,400, St Catharines P2 $1,500, Oakville Trinity $1,875, Toronto Shiv $2,000, Mississauga Equinox 7 $950, Toronto Equinox XS $1,000, Brampton QR Lucero S $1,490, Toronto QR Seduza 46 $500, Sudbury/Toronto QR Kilo $360/$295, Markstay-Warren \"2010 P2\" $500 (6 h), Georgian Bluffs tri $600, plus the known Pelham P3, Mississauga TT, Kawartha Kuota, Barrie Felt S32, Collingwood Avanti, Brampton Slice XS, Saugeen P2C, Toronto Guru, Georgina/Brantford Speed Concept, Toronto Argon E-112, Oakville Plasma, Rouyn-Noranda P3."
       ]
     }
   ]

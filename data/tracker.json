@@ -2647,7 +2647,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-02T10:35:00-04:00",
+      "updatedISO": "2026-10-02T16:59:58.684Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2744,6 +2744,11 @@
           "atISO": "2026-10-02T10:50:00-04:00",
           "from": "us",
           "text": "No worries, I understand! It's a bit above my budget for now, but if anything changes, feel free to message me. Thanks a lot and good luck with the sale!"
+        },
+        {
+          "atISO": "2026-10-02T10:51:00-04:00",
+          "from": "seller",
+          "text": "[thumbs-up reaction/emoji in reply to our pass message]"
         }
       ],
       "id": "1767532177930990",
@@ -2776,7 +2781,8 @@
         "Gearing: 53/39 with a cassette under 28 -> +$60 for an 11-28 (a 10-sp short-cage RD officially tops out at 27-28T; check the RD at viewing). All-in at a $1,300 close: $1,300 + gas $45 + cassette $60 = $1,405. At $1,200: $1,305. Sonic tubulars are resale only for Muskoka (carbon brake track, tubular); value ~$300 used with the cassette -> $225 at 75%.",
         "Seller 06:31: doesn't know the specs, rejects $1,080, names no price. Ryan is chatting with her directly; no draft written (she asked nothing only we can answer). Next step is Ryan's: ask her best price for the bike plus the Sonic wheels without the trainer; good deal at $1,200 or less, walk-away above ~$1,250.",
         "Quick run 2026-10-02 9am: no new messages or photos from the seller after 06:31 (inbox list still ends with her 06:31 rejection of $1,080). Verdict, all-in and target unchanged; photo gaps (RD model/cage, dropouts/hanger, seat cluster, alloy brake tracks) still open. No draft: she asked nothing only we can answer; next move is Ryan's.",
-        "thread: 1447673527250824"
+        "thread: 1447673527250824",
+        "2 Oct noon: seller answered our polite pass with a thumbs-up (inbox showed it as the last message, stamped 10:33 AM). Thread closed amicably; watching only for a drop well below $1,600."
       ]
     },
     {
@@ -3530,6 +3536,33 @@
       "notes": [
         "2026-10-02 area widened to ~6 h (Toronto/GTA, Hamilton/Burlington, Barrie, Peterborough, Belleville now in range): seen in the Toronto-centre searches."
       ]
+    },
+    {
+      "id": "1627225791913755",
+      "url": "https://www.facebook.com/marketplace/item/1627225791913755/",
+      "title": "Cervélo Soloist SLC-SL 2008 road, 51, SRAM Red, Zipp 404 + Bontrager X-Lite wheels + Kinetic Rock and Roll trainer",
+      "location": "Whitchurch-Stouffville, ON",
+      "driveHours": 5.5,
+      "asking": 1799,
+      "firstAsking": 2200,
+      "status": "passed",
+      "size": "51",
+      "fairValue": 1600,
+      "allInCost": 1950,
+      "target": null,
+      "firstSeenISO": "2026-10-02T16:59:58.684Z",
+      "updatedISO": "2026-10-02T16:59:58.684Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T16:59:58.684Z",
+          "price": 1799
+        }
+      ],
+      "thread": [],
+      "verdict": "Not a good deal: road bike, not a TT bike, and all-in ~$1,950 (ask $1,799 + gas $150) is above the package value ~$1,600.",
+      "notes": [
+        "Ad: 2008 Cervélo Soloist SLC-SL, SRAM Red, Zipp 404 carbon (clincher/tubular unknown), second Bontrager X-Lite wheelset, Kinetic Rock and Roll trainer, 51 cm, was $2,200. Package ~$1,600: bike ~$700 + Zipp 404 ~$700x0.75 + X-Lite ~$150x0.75 + R&R trainer ~$350x0.75. The road-bike exception only applies when the wheels alone make it a good deal; they don't here. Quick run 2 Oct, text only, photos not reviewed."
+      ]
     }
   ],
   "runs": [
@@ -3814,6 +3847,19 @@
       "newListings": 0,
       "notes": [
         "triathlon: same 14 ads as before (Mississauga 2014 Speed Concept L $1,350, Timmins P2 48 $1,500, Hamilton Multisport alloy frameset $430, Vaughan Benotto $300, Bloomfield Felt IA 48 $3,350, etc.). cervelo: road bikes plus Burlington P5 49 $3,700. felt: no tri bikes. slice: no results."
+      ]
+    },
+    {
+      "atISO": "2026-10-02T16:59:58.684Z",
+      "id": "2026-10-02-quick-noon",
+      "summary": "Noon quick run: the Casselman P2C seller answered our pass with a thumbs-up, no other seller replies, and the searches turned up nothing new that fits (one Stouffville Soloist road bundle passed).",
+      "searched": 14,
+      "newListings": 1,
+      "notes": [
+        "Inbox: no seller messages newer than 10:50 other than the Casselman thumbs-up; every other thread ends with our message.",
+        "Marketplace Montréal centre: triathlon bike, vélo triathlon, tt bike, cervelo, cannondale slice, felt, speed concept, quintana roo; Toronto centre: triathlon bike, cervelo. New ids were road bikes, parts, or far/over-cap tri bikes already seen in the targeted run (Oshawa Felt IA2 $3,400, London E-116 $1,550, Toronto P5 $3,800, Windsor Slice $800, Georgina Speed Concept gen-1 $1,000), plus Toronto Cervélo P2-SL $1,200 (alloy) and Toronto Aquila Crono L $2,900 (size, over cap). Opened: Stouffville Soloist bundle (passed) and a Montréal 'Vélo full CARBONE FELT' $500 (no details, road listing, 8 weeks; not tracked).",
+        "Groups (most recent, 'triathlon'): Vente-Achat Route & Triathlon Québec only SOLD posts (Canyon Speedmax $8,500, Felt B14 2017 56 $3,500, Slice RS 56 $2,500) and an Argon E-119 rim Di2 post; Triathlon achat/vente Montréal only the SOLD Canyon. Nothing in budget.",
+        "Pinkbike 'triathlon': Québec 9 ads (parts, Speed Concept Iris S $10,000); Ontario 14 ads, same as the morning plus a 2018 Orbea Orca 57 road bike $2,500 (not tri, too big)."
       ]
     }
   ]

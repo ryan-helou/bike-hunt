@@ -437,6 +437,9 @@ Once a seller is engaged:
 2. Then ask how low they'll go, e.g. "Since it's a drive for me, what's the lowest you'd be willing to go?"
 3. **Don't name an offer number first.** Let the seller set the anchor. We only counter after they give a number, at or below `target`.
 
+### Short texts, not one block (Ryan, 2026-10-02)
+When there are several questions, send 2–4 short messages rather than one long paragraph, so it doesn't feel overbearing. For example: a thank-you line, then 1–2 questions, then 1–2 more questions, then "what's the lowest you'd go?". **Marketplace chats can't unsend for everyone**, so get the message right before sending.
+
 ### When to make an offer (Ryan, 2026-09-30: "don't send offers for no reason, but don't be scared to send offers")
 Having several firm offers out at once is fine; Ryan doesn't mind. But every offer needs a reason:
 - **The seller answered**, and the bike fits and is worth more than the offer. Make the offer in the same reply.

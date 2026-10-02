@@ -3086,7 +3086,8 @@
         "thread: 1820186115655808",
         "Parts (2026-10-02): wheels on the bike are Fulcrum Racing Sport alloy. Extras: Mavic Comete disc tubular + 11s Ultegra cassette (~$500–700 resale; sell it), Quarq SRAM Red 170 (~$250–400; keep it for training). Bike alone ~$1,200–1,400. Ceiling ~$1,750.",
         "6pm check (18:05): no reply yet to our 17:17 message (year, crash history, Di2 charger/battery, cassette, Quarq, $1,650). Ryan is handling this deal.",
-        "Pickup checklist: confirm acceptance in writing incl. the disc wheel + power meter; ask him to charge the Di2; set date/time/public spot in Kingston (police safe-exchange zone or busy lot); confirm the morning of; bring $1,650 cash, shoes/pedals + 15 mm/8 mm tool, helmet, multi-tool, pump; inspect fork, dropouts, seat mast, BB, chainstays and coin-tap; shift every gear; pair the Quarq; check brakes; spin the disc; test ride in aero; confirm the charger + disc cassette."
+        "Pickup checklist: confirm acceptance in writing incl. the disc wheel + power meter; ask him to charge the Di2; set date/time/public spot in Kingston (police safe-exchange zone or busy lot); confirm the morning of; bring $1,650 cash, shoes/pedals + 15 mm/8 mm tool, helmet, multi-tool, pump; inspect fork, dropouts, seat mast, BB, chainstays and coin-tap; shift every gear; pair the Quarq; check brakes; spin the disc; test ride in aero; confirm the charger + disc cassette.",
+        "2026-10-02 6pm: a second Oakville listing (26598360063195933, $2,200, 5 weeks, different account) shows what looks like the same white/black/red Plasma with the same Di2/Quarq/Cosmic-disc spec and calls it a 2010. Ryan: confirm at pickup that the seller owns it."
       ],
       "thread": [
         {
@@ -3633,6 +3634,186 @@
         }
       ],
       "thread": []
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1623950292791976/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 2000
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad (listed 2026-10-02, 5 h old): 2010 P4, custom matte black paint, 3T carbon cockpit, 10-sp Ultegra, size 56, not used for 10+ years; Zipp disc and training wheels can be included. Only photo is a stock P4 frameset image (scam signal unless real photos follow).",
+        "Geometry: P4 shares P3 geometry; 56 ≈ stack 519 / reach 431 (in window, upper end).",
+        "Value guess: P4 10-sp ~$1,300-1,500 + Zipp disc ~$600x0.75 + wheels ~$150x0.75 -> package ~$1,850-2,050; all-in at ask $2,000 + gas $145 + tyres/cables/chain ~$180 = ~$2,325. Needs a close ~$1,600 to be a good deal. Gearing: likely 53/39 + 10-sp; budget $60 for an 11-28 cassette."
+      ],
+      "id": "1623950292791976",
+      "title": "Cervélo P4 2010 carbon 56, Ultegra 10-sp, 3T cockpit (+ Zipp disc, training wheels)",
+      "location": "Richmond Hill, ON",
+      "driveHours": 5.75,
+      "asking": 2000,
+      "status": "watching",
+      "size": "56",
+      "verdict": "Watching: only a stock P4 frame photo so far (seller says real pics later); 56 is borderline-OK (P3/P4 56 ~519/431), unused 10 years, P4 rear brake sits under the BB. Re-check for real photos."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/26598360063195933/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 2200
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad: Scott Plasma Triathlon Bike 2010, $2,200, listed 5 weeks ago in Oakville. Text: older frame, many newer parts, Dura-Ace Di2 shifter, Ultegra Di2 derailleurs, Mavic Cosmic disc, SRAM Red crank + Quarq. Photos: white/black/red Plasma 3 with disc + Cosmic front, aero cockpit, standard brakes. Different seller account from the 2026064858150818 listing.",
+        "Useful for Ryan: dates the frame to 2010 (answers the year question) and shows the bike has been listed by two accounts. Worth confirming at pickup that the seller owns it."
+      ],
+      "id": "26598360063195933",
+      "title": "Scott Plasma 2010 (same livery/specs as the tracked Oakville Plasma 3 Di2): Dura-Ace Di2 shifters, Ultegra Di2, Cosmic disc, SRAM Red Quarq",
+      "location": "Oakville, ON",
+      "driveHours": 5.75,
+      "asking": 2200,
+      "status": "watching",
+      "size": "M?",
+      "verdict": "Watching (linked): almost certainly the same bike as the Plasma 3 Di2 Ryan is closing (listing 2026064858150818), posted by a second account at $2,200 five weeks ago. Not a separate deal."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/998315189744805/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 2250
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad: E-112 full carbon, long spec blurb, no size or groupset given; photos show a black E-112 with alloy wheels. Listed 12 weeks (was $2,500)."
+      ],
+      "id": "998315189744805",
+      "title": "Argon 18 E-112 carbon (size not stated), alloy wheels",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 2250,
+      "firstAsking": 2500,
+      "status": "watching",
+      "size": "?",
+      "verdict": "Not a good deal: $2,250 for an E-112 worth ~$1,100-1,600, size unknown, ad says low ballers ignored; 12 weeks listed. Watch for drops."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/996092253050560/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 1800
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad title just 'Vélo'; photos show a black/red Kestrel Talon full carbon with drop bars and alloy wheels."
+      ],
+      "id": "996092253050560",
+      "title": "Kestrel Talon carbon (road setup, drop bars)",
+      "location": "Salaberry-de-Valleyfield, QC",
+      "driveHours": 0.8,
+      "asking": 1800,
+      "status": "watching",
+      "size": "?",
+      "verdict": "Not a good deal: Talon in road config at $1,800 (worth ~$800-1,100 as a tri build), would need aerobars and bar-ends."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/981639110950266/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 2500
+        }
+      ],
+      "thread": [],
+      "notes": [
+        "Ad: second owner, 56 cm Large for riders 5'8\" to 6', tubeless 60 mm carbon wheels, FSA power-meter crank. Listed 21 weeks."
+      ],
+      "id": "981639110950266",
+      "title": "Cannondale Slice 56 L, FSA power-meter crank, 60 mm carbon tubeless wheels",
+      "location": "Milton, ON",
+      "driveHours": 5.75,
+      "asking": 2500,
+      "status": "watching",
+      "size": "56 (L)",
+      "verdict": "Not a good deal at $2,500 (package ~$1,650: Slice ~$1,100 + 60 mm carbon ~$500x0.75 + FSA PM ~$250x0.75); a 56 Slice is at the top of the fit window. 21 weeks listed: only interesting below ~$1,450."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1116025720823000/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 2000
+        }
+      ],
+      "thread": [],
+      "notes": [],
+      "id": "1116025720823000",
+      "title": "BMC TR02 (Trackmachine) 55",
+      "location": "St-Jérôme, QC",
+      "driveHours": 0.5,
+      "asking": 2000,
+      "status": "passed",
+      "verdict": "Passed: track bike (BMC Trackmachine TR02, alloy, fixed gear), not a tri bike."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/1338816901340430/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 1000
+        }
+      ],
+      "thread": [],
+      "notes": [],
+      "id": "1338816901340430",
+      "title": "Argon 18 Mercury (alloy) tri, 51-53",
+      "location": "London, ON",
+      "driveHours": 7,
+      "asking": 1000,
+      "firstAsking": 1200,
+      "status": "passed",
+      "verdict": "Passed: alloy frame (Argon Mercury) and London is beyond 6 h."
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/item/893418137154051/",
+      "firstSeenISO": "2026-10-02T23:04:20.262Z",
+      "updatedISO": "2026-10-02T23:04:20.262Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T23:04:20.262Z",
+          "price": 1000
+        }
+      ],
+      "thread": [],
+      "notes": [],
+      "id": "893418137154051",
+      "title": "Miele Gara chromoly TT 60 cm",
+      "location": "Barrie, ON",
+      "driveHours": 6,
+      "asking": 1000,
+      "status": "passed",
+      "verdict": "Passed: steel frame, 60 cm, 7-speed."
     }
   ],
   "runs": [

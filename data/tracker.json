@@ -2612,7 +2612,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-02T13:25:30.525Z",
+      "updatedISO": "2026-10-02T10:35:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2694,6 +2694,16 @@
           "atISO": "2026-10-02T06:31:00-04:00",
           "from": "seller",
           "text": "Truthfully I don't understand all the questions that you're asking me, I don't know all the specs and details. Unfortunately $1,080 is just not in the league of something that I could accept, I didn't notice that offer yesterday because my car was reading the messages to me and it did not read the entire message apparently."
+        },
+        {
+          "atISO": "2026-10-02T10:23:00-04:00",
+          "from": "us",
+          "text": "What's the lowest you can do? (Ryan)"
+        },
+        {
+          "atISO": "2026-10-02T10:30:00-04:00",
+          "from": "seller",
+          "text": "I'm not in a rush to sell it the absolute minimum I would do is $1600"
         }
       ],
       "id": "1767532177930990",
@@ -2702,12 +2712,12 @@
       "location": "Casselman, ON",
       "driveHours": 1.75,
       "asking": 1800,
-      "status": "negotiating",
+      "status": "watching",
       "size": "51",
       "fairValue": 1325,
       "allInCost": 1405,
       "target": 1200,
-      "verdict": "Not a good deal yet: she turned down $1,080 (\"not in the league\") without naming a number. Package ~$1,325 (P2C carbon 51 ~$1,100 + Sonic Mega carbon tubulars with a 2nd cassette ~$300 x 0.75); all-in ~$1,405 at a $1,300 close. Good deal at ~$1,200 or less (all-in ~$1,305; net ~$975 after reselling the Sonics).",
+      "verdict": "Not a good deal: seller's floor is $1,600 ('not in a rush'). Package ~$1,325, walk-away ~$1,250. Watch for a drop.",
       "notes": [
         "Ad (listed 9 weeks): P2 with two wheelsets and a trainer, $2,250 package, or bike alone $1,800, trainer alone $600. No year, groupset or material stated. 3 photos, no video.",
         "Photos: white/red/black livery with the big Cervélo down-tube logo (2007-08 P2C style, possibly the 2009 alloy P2: confirm carbon, hard rule). Standard front caliper, alloy wheels on the bike. Spare Sonic deep carbon wheels have a carbon brake track (resale only).",

@@ -3563,6 +3563,52 @@
       "notes": [
         "Ad: 2008 Cervélo Soloist SLC-SL, SRAM Red, Zipp 404 carbon (clincher/tubular unknown), second Bontrager X-Lite wheelset, Kinetic Rock and Roll trainer, 51 cm, was $2,200. Package ~$1,600: bike ~$700 + Zipp 404 ~$700x0.75 + X-Lite ~$150x0.75 + R&R trainer ~$350x0.75. The road-bike exception only applies when the wheels alone make it a good deal; they don't here. Quick run 2 Oct, text only, photos not reviewed."
       ]
+    },
+    {
+      "id": "2107890756467404",
+      "url": "https://www.facebook.com/marketplace/item/2107890756467404/",
+      "title": "Felt Z100 54 alloy road frame, TT cockpit project build (no crank)",
+      "location": "Montréal, QC",
+      "driveHours": 0.5,
+      "asking": 850,
+      "status": "passed",
+      "verdict": "Pass: alloy frame (Felt Z100 is an alloy endurance road bike converted with a TT cockpit); carbon only. Also missing a crankset.",
+      "firstSeenISO": "2026-10-02T20:00:31.114Z",
+      "updatedISO": "2026-10-02T20:00:31.114Z",
+      "size": "54",
+      "notes": [
+        "2026-10-02 3pm quick run: listed about an hour ago. Ad: Felt Z100 size 54 alloy frame, rim brakes, 11-speed, SRAM carbon brake levers + Microshift 11-sp levers, Profile Design Airwing bars, Felt alloy wheels; buyer must add an 11-speed crankset. Fails the carbon-frame rule."
+      ],
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T20:00:31.114Z",
+          "price": 850
+        }
+      ],
+      "thread": []
+    },
+    {
+      "id": "1079777934865444",
+      "url": "https://www.facebook.com/marketplace/item/1079777934865444/",
+      "title": "Cervélo P2 SL 58 (alloy)",
+      "location": "Toronto, ON",
+      "driveHours": 5.5,
+      "asking": 900,
+      "status": "passed",
+      "verdict": "Pass: P2 SL is alloy and 58 is too big.",
+      "firstSeenISO": "2026-10-02T20:00:31.114Z",
+      "updatedISO": "2026-10-02T20:00:31.114Z",
+      "size": "58",
+      "notes": [
+        "2026-10-02 3pm quick run: just listed in the Toronto-centre triathlon bike search. Title says P2 SL 58cm: fails carbon and size rules; not opened."
+      ],
+      "priceHistory": [
+        {
+          "atISO": "2026-10-02T20:00:31.114Z",
+          "price": 900
+        }
+      ],
+      "thread": []
     }
   ],
   "runs": [
@@ -3860,6 +3906,19 @@
         "Marketplace Montréal centre: triathlon bike, vélo triathlon, tt bike, cervelo, cannondale slice, felt, speed concept, quintana roo; Toronto centre: triathlon bike, cervelo. New ids were road bikes, parts, or far/over-cap tri bikes already seen in the targeted run (Oshawa Felt IA2 $3,400, London E-116 $1,550, Toronto P5 $3,800, Windsor Slice $800, Georgina Speed Concept gen-1 $1,000), plus Toronto Cervélo P2-SL $1,200 (alloy) and Toronto Aquila Crono L $2,900 (size, over cap). Opened: Stouffville Soloist bundle (passed) and a Montréal 'Vélo full CARBONE FELT' $500 (no details, road listing, 8 weeks; not tracked).",
         "Groups (most recent, 'triathlon'): Vente-Achat Route & Triathlon Québec only SOLD posts (Canyon Speedmax $8,500, Felt B14 2017 56 $3,500, Slice RS 56 $2,500) and an Argon E-119 rim Di2 post; Triathlon achat/vente Montréal only the SOLD Canyon. Nothing in budget.",
         "Pinkbike 'triathlon': Québec 9 ads (parts, Speed Concept Iris S $10,000); Ontario 14 ads, same as the morning plus a 2018 Orbea Orca 57 road bike $2,500 (not tri, too big)."
+      ]
+    },
+    {
+      "atISO": "2026-10-02T20:00:31.114Z",
+      "id": "2026-10-02-quick-15",
+      "summary": "3pm quick run: no seller replies since 12:45, and the only new tri listings (Montréal Felt Z100 alloy TT conversion $850, Toronto P2 SL 58 $900) fail the carbon rule.",
+      "searched": 14,
+      "newListings": 2,
+      "notes": [
+        "Inbox: no seller messages newer than 12:45. The Toronto P2 54 thread shows a 1:23 PM entry, but it is only Facebook's automatic 'Make an offer' card; our 1 Oct nudge is still the last message.",
+        "Marketplace Montréal centre: triathlon bike, vélo triathlon, tt bike, cervelo, cannondale slice, felt, speed concept, quintana roo; Toronto centre: triathlon bike, cervelo. Untracked results were road bikes, parts, or far/over-cap tri bikes already noted (Oshawa Felt IA2 $3,400, London E-116 $1,550, Toronto P5 $3,800, Brampton Cervélo XS $590, Toronto P2-SL $1,200, Georgina Speed Concept gen-1 $1,000, Collingwood Soloist road).",
+        "Groups (most recent, triathlon): Vente-Achat Route & Triathlon Québec: Felt AXS 2021 Small $6,500 (size, price), SOLD Slice RS 56 $2,500, SOLD Argon E116 $2,200; Triathlon achat/vente Montréal: SOLD Canyon $8,500 and a new 2026 Cervélo P-Series (new, far over budget). Nothing in budget.",
+        "Pinkbike triathlon: Québec 9 ads, Ontario 14 ads, same as noon."
       ]
     }
   ]

@@ -2583,7 +2583,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-02T10:30:36.659Z",
+      "updatedISO": "2026-10-02T11:19:02.380Z",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2650,6 +2650,21 @@
           "atISO": "2026-10-01T18:13:00-04:00",
           "from": "us",
           "text": "Oh okok (Ryan)"
+        },
+        {
+          "atISO": "2026-10-02T06:28:00-04:00",
+          "from": "seller",
+          "text": "[sent 7 photos]"
+        },
+        {
+          "atISO": "2026-10-02T06:28:00-04:00",
+          "from": "seller",
+          "text": "Good morning I got in pretty late last night"
+        },
+        {
+          "atISO": "2026-10-02T06:31:00-04:00",
+          "from": "seller",
+          "text": "Truthfully I don't understand all the questions that you're asking me, I don't know all the specs and details. Unfortunately $1,080 is just not in the league of something that I could accept, I didn't notice that offer yesterday because my car was reading the messages to me and it did not read the entire message apparently."
         }
       ],
       "id": "1767532177930990",
@@ -2660,10 +2675,10 @@
       "asking": 1800,
       "status": "negotiating",
       "size": "51",
-      "fairValue": 1250,
-      "allInCost": 1635,
-      "target": 1150,
-      "verdict": "Carbon confirmed, 51 (fits), 'immaculate', seller negotiable ('make me an offer'). Bike alone $1,800, worth ~$1,250 with the Sonic wheels. Good deal at ~$1,150 or less.",
+      "fairValue": 1325,
+      "allInCost": 1405,
+      "target": 1200,
+      "verdict": "Not a good deal yet: she turned down $1,080 (\"not in the league\") without naming a number. Package ~$1,325 (P2C carbon 51 ~$1,100 + Sonic Mega carbon tubulars with a 2nd cassette ~$300 x 0.75); all-in ~$1,405 at a $1,300 close. Good deal at ~$1,200 or less (all-in ~$1,305; net ~$975 after reselling the Sonics).",
       "notes": [
         "Ad (listed 9 weeks): P2 with two wheelsets and a trainer, $2,250 package, or bike alone $1,800, trainer alone $600. No year, groupset or material stated. 3 photos, no video.",
         "Photos: white/red/black livery with the big Cervélo down-tube logo (2007-08 P2C style, possibly the 2009 alloy P2: confirm carbon, hard rule). Standard front caliper, alloy wheels on the bike. Spare Sonic deep carbon wheels have a carbon brake track (resale only).",
@@ -2676,7 +2691,11 @@
         "Gearing (est.): likely needs an 11-28 cassette, est. +$60 (compact rings optional, not counted)",
         "Evening full run 2026-10-01: no new seller messages or photos after 18:15; the thread ends with Ryan's 'Oh okok'. Listing still up at $2,250 package. Photo analysis waits on her pictures.",
         "Quick run 2026-10-01 ~20:45: still no new messages or photos from the seller after 18:13 (thread ends with Ryan's 'Oh okok'). Listing still $2,250 package. Photo analysis, verdict and all-in unchanged until her pictures arrive.",
-        "Full run 2026-10-02 6am: no new messages or photos from the seller since 18:13 on 1 Oct (thread still ends with Ryan's 'Oh okok'). Listing still $2,250 package. Photo analysis pending."
+        "Full run 2026-10-02 6am: no new messages or photos from the seller since 18:13 on 1 Oct (thread still ends with Ryan's 'Oh okok'). Listing still $2,250 package. Photo analysis pending.",
+        "Photos 2026-10-02 06:28 (7, 480 px; one duplicate). (1/7) Shimano alloy clincher wheelset on the bike, rear with a ~10-sp Shimano cassette, looks 12-23/12-25 (largest cog well under 28). (2) Cockpit: alloy base bar with bar-end brake levers, J-bend extensions with bar-end shifters, Cervélo arm pads, alloy stem; bar tape worn but intact. (3) Underside at the BB: bolt-on front-derailleur braze-on, silver Shimano double crank, big ring looks 53 (standard 53/39, not compact), no cracks or chips visible at the BB shell or chainstays from that angle. (4) Whole bike on a Saris direct-drive trainer, rear wheel off: P2C decal on the seat tube confirms carbon (2007-08 white/red/black), Cervélo aero seatpost and red saddle, standard front caliper. (5) Cassette close-up: 10-speed Shimano, worn but not shark-finned. (6) Sonic Mega deep carbon wheels (handmade in Belgium, ~80 mm), carbon brake track (no alloy band), tyres look glued on = tubular; the rear carries its own cassette.",
+        "Still not shown: rear derailleur model and cage, rear dropouts and hanger, seat-tube clamp / seat cluster, top cap, alloy brake tracks up close. Groupset level (105 vs Ultegra 5600/6600) unconfirmed from these shots; crank looks 53/39.",
+        "Gearing: 53/39 with a cassette under 28 -> +$60 for an 11-28 (a 10-sp short-cage RD officially tops out at 27-28T; check the RD at viewing). All-in at a $1,300 close: $1,300 + gas $45 + cassette $60 = $1,405. At $1,200: $1,305. Sonic tubulars are resale only for Muskoka (carbon brake track, tubular); value ~$300 used with the cassette -> $225 at 75%.",
+        "Seller 06:31: doesn't know the specs, rejects $1,080, names no price. Ryan is chatting with her directly; no draft written (she asked nothing only we can answer). Next step is Ryan's: ask her best price for the bike plus the Sonic wheels without the trainer; good deal at $1,200 or less, walk-away above ~$1,250."
       ]
     },
     {
@@ -3183,7 +3202,8 @@
         "Marketplace: all 33 HUNT.md queries on Montréal, Ottawa and Québec (99 searches, max 6 scrolls). Sidebar still shows Montréal, Within 500 km. 468 untracked cards; none is a carbon tri/TT bike within 3 h. Opened: Montréal \"Vélo full CARBONE FELT\" $500 (a Felt mountain bike) and Trois-Rivières \"Vélo\" $500 (alloy Felt road bike): both not tri bikes.",
         "GTA/far tri bikes seen (not tracked): Burlington P3 $2,000 (was $2,250), Brantford Plasma 51 $1,500, Burlington P2C 48 $1,400, St Catharines P2 $1,500, Oakville Trinity $1,875, Toronto Shiv $2,000, Mississauga Equinox 7 $950, Toronto Equinox XS $1,000, Brampton QR Lucero S $1,490, Toronto QR Seduza 46 $500, Sudbury/Toronto QR Kilo $360/$295, Markstay-Warren \"2010 P2\" $500 (6 h), Georgian Bluffs tri $600, plus the known Pelham P3, Mississauga TT, Kawartha Kuota, Barrie Felt S32, Collingwood Avanti, Brampton Slice XS, Saugeen P2C, Toronto Guru, Georgina/Brantford Speed Concept, Toronto Argon E-112, Oakville Plasma, Rouyn-Noranda P3.",
         "Kijiji: all 12 HUNT.md queries on Québec and Ottawa (24 searches, 55 unique ads). No tri/TT bikes in budget: Ottawa Cervélo P5 54 still up (over budget), FLO wheels still $350; rest road/MTB/e-bikes and tri parts (aero seatposts, Fizik Tritone, aerobar pads), an Ottawa Peugeot PB14 \"triathlon\" vintage road bike and the Ottawa 3-speed fixed-gear.",
-        "Pinkbike Canada: 9 queries x Québec (35-11-*) and Ontario (35-9-*) = 18 searches. Nothing in budget and in range: Ontario 2018 Speed Concept Di2 $4,500, 2017 Speed Concept M $4,000, 2014 Speed Concept L $1,350 (GTA, proprietary brakes), 2020 E-118+ XS $6,500, 2019 Felt IA 48 $3,350, 2016 E-117 $10,000, 2013 P3 49 $2,500, Cannondale Multisport 4000 alloy frameset $430; Québec 2021 E-117 S $4,850, 2018 E-117+ XS $2,850, Montréal Edwins funny-bike XL $1,500, 2024 Speed Concept SLR S."
+        "Pinkbike Canada: 9 queries x Québec (35-11-*) and Ontario (35-9-*) = 18 searches. Nothing in budget and in range: Ontario 2018 Speed Concept Di2 $4,500, 2017 Speed Concept M $4,000, 2014 Speed Concept L $1,350 (GTA, proprietary brakes), 2020 E-118+ XS $6,500, 2019 Felt IA 48 $3,350, 2016 E-117 $10,000, 2013 P3 49 $2,500, Cannondale Multisport 4000 alloy frameset $430; Québec 2021 E-117 S $4,850, 2018 E-117+ XS $2,850, Montréal Edwins funny-bike XL $1,500, 2024 Speed Concept SLR S.",
+        "Casselman P2C: seller replied 06:28-06:31 with 7 photos and a rejection of $1,080 (no counter). Photos analysed (P2C carbon confirmed, 53/39, ~12-25 10-sp, Sonic Mega carbon tubulars). Package revalued to ~$1,325, target $1,200. The chat popup opened on its own during group search, so her messages now show as read."
       ]
     }
   ]

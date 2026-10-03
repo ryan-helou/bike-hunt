@@ -3962,6 +3962,54 @@
       "status": "passed",
       "size": "M",
       "verdict": "Passed: $4,000 (far over budget) and TRP integrated Argon brakes."
+    },
+    {
+      "id": "1081367147987735",
+      "url": "https://www.facebook.com/marketplace/item/1081367147987735/",
+      "title": "Argon 18 E-116 carbon M (~52 c-t), Ultegra 11-sp 52/36",
+      "location": "London, ON",
+      "driveHours": 7,
+      "asking": 1550,
+      "firstAsking": 2000,
+      "status": "passed",
+      "size": "M (52)",
+      "firstSeenISO": "2026-10-03T13:35:00.000Z",
+      "updatedISO": "2026-10-03T13:35:00.000Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-03T13:35:00.000Z",
+          "price": 1550
+        }
+      ],
+      "verdict": "Not a good deal vs the locked Plasma: London is beyond the ~6 h range, no extras (stock wheels, no power meter), E-116 bike alone ~$1,300-1,500.",
+      "notes": [
+        "Ad (listed 5 days ago, $2,000 -> $1,550): E-116 Medium ~52 cm c-t, Ultegra 11-sp, 52/36, Shimano pedals, 'normal cosmetic wear'. Found on the Toronto 'triathlon bike' search, 3 Oct 9am."
+      ],
+      "thread": []
+    },
+    {
+      "id": "1002803326152474",
+      "url": "https://www.facebook.com/marketplace/item/1002803326152474/",
+      "title": "TT/Road bike 56 aluminium, SRAM Rival (rental business)",
+      "location": "Montréal, QC",
+      "driveHours": 0.3,
+      "asking": 1300,
+      "firstAsking": null,
+      "status": "passed",
+      "size": "56",
+      "firstSeenISO": "2026-10-03T13:35:00.000Z",
+      "updatedISO": "2026-10-03T13:35:00.000Z",
+      "priceHistory": [
+        {
+          "atISO": "2026-10-03T13:35:00.000Z",
+          "price": 1300
+        }
+      ],
+      "verdict": "Not a good deal: aluminium rental fleet bike (listing is mostly a rental ad), 56, road-type.",
+      "notes": [
+        "Ad: rental business offering TT/road 56 cm bikes at $1,300 or by the day; Bicycle Type Road, Aluminum. Passed 3 Oct."
+      ],
+      "thread": []
     }
   ],
   "runs": [
@@ -4305,11 +4353,12 @@
     {
       "atISO": "2026-10-03T13:20:00.000Z",
       "id": "2026-10-03-quick-09",
-      "summary": "9am quick run: the Plasma seller explained the seat mast is set at 74 cm and left uncut so Ryan can trim it to 72 cm himself (Ryan agreed); the Ste-Sophie Leo T2 seller answered (2015, 11-speed) and asked if Ryan can come today.",
-      "searched": 1,
-      "newListings": 0,
+      "summary": "9am quick run: the Plasma seller explained the seat mast is set at 74 cm and left uncut so Ryan can trim it to 72 cm himself (Ryan agreed); the Ste-Sophie Leo T2 seller answered (2015, 11-speed) and asked if Ryan can come today. Searches: nothing better than the Plasma deal.",
+      "searched": 6,
+      "newListings": 2,
       "notes": [
-        "Inbox read via Marketplace inbox list + Plasma and Leo T2 threads. Other inbox rows end with our messages or a Facebook system prompt; no other seller messages newer than 21:30 2 Oct."
+        "Inbox read via Marketplace inbox list + Plasma and Leo T2 threads. Other inbox rows end with our messages or a Facebook system prompt; no other seller messages newer than 21:30 2 Oct.",
+        "Marketplace Montréal centre (triathlon bike, vélo triathlon, tt bike, cervelo) + Toronto (triathlon bike): new untracked results were road bikes (Kuota K Factor, Cervélo R3/R2), over-cap tri bikes (Felt IA2 $3,400 Oshawa, Speed Concept 7.5 $4,800, P5-Six $3,800), a Montréal aluminium TT rental bike $1,300 (passed) and a London ON Argon E-116 M $1,550 (passed: beyond range, no extras). Nothing better than the locked Plasma. Groups, Pinkbike and Kijiji skipped this run."
       ]
     }
   ]

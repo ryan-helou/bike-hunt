@@ -2273,7 +2273,7 @@
       "status": "negotiating",
       "size": "54",
       "firstSeenISO": "2026-09-29T23:09:59.588Z",
-      "updatedISO": "2026-10-03T13:20:00.000Z",
+      "updatedISO": "2026-10-03T15:30:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-09-29T23:09:59.588Z",
@@ -2296,7 +2296,8 @@
         "2026-10-01 package re-value: still $1,800 (listed 2 days ago per the page, i.e. renewed). 3 photos, no video. Ad: 54 cm, Ultegra, Zipp 404 with new GP5000s, full carbon, tune-up at the start of the season, aero bottle and cages included. Photos: white/black Leo T2, Zipp 404 carbon clinchers (carbon brake track), BTA aero bottle, behind-saddle mount with 2 bottles, top-tube bag, frame bottle; no second (alloy) wheelset. Package ~$1,490: bike without wheels $850 + Zipp 404 pair $700x0.75 = $525 + new GP5000 pair $90x0.75 = $68 + aero bottle, rear mount and bag ~$60x0.75 = $45. All-in at a likely $1,550 close: + gas $13 + alloy rim-brake wheelset $250 (HUNT carbon-rim rule) = ~$1,810. If Ryan adopts the proposed 'brand-name 2011+ carbon clinchers OK with carbon pads' rule, swap the $250 for $40 pads: all-in ~$1,600, still above the package. Margin ~-$320.",
         "Full run 2026-10-02 6am: still $1,800, renewed. No reply to our 29 Sep questions. Draft 3 = the one 3-day nudge, asking flexibility only (fit still unknown, so no number). Near break-even around $1,250-1,300 (all-in ~$1,510-1,560 vs package ~$1,490); good deal at ~$1,150. If no answer, back to watching.",
         "thread: 1101868782212891",
-        "3 Oct 9am: seller replied 22:32-22:34 Fri: 2015, 11-speed Ultegra, standard calipers (he thinks), he is 5'11\" and says it's 'vraiment juste' (tight for him), asks if Ryan can come Saturday 3 Oct; someone else is coming next Monday. He also edited the description (not re-read: listing page did not render this run). Plasma is locked, so no draft; still not a good deal at $1,800 (good at ~$1,150)."
+        "3 Oct 9am: seller replied 22:32-22:34 Fri: 2015, 11-speed Ultegra, standard calipers (he thinks), he is 5'11\" and says it's 'vraiment juste' (tight for him), asks if Ryan can come Saturday 3 Oct; someone else is coming next Monday. He also edited the description (not re-read: listing page did not render this run). Plasma is locked, so no draft; still not a good deal at $1,800 (good at ~$1,150).",
+        "3 Oct 9:54: Facebook system prompt only (\"waiting for your response\"); no new seller text. No draft (Plasma locked)."
       ],
       "thread": [
         {
@@ -2673,7 +2674,7 @@
     },
     {
       "firstSeenISO": "2026-10-01T16:50:00-04:00",
-      "updatedISO": "2026-10-02T22:36:28.616Z",
+      "updatedISO": "2026-10-03T15:30:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-01T16:50:00-04:00",
@@ -2779,6 +2780,11 @@
           "atISO": "2026-10-02T10:51:00-04:00",
           "from": "seller",
           "text": "[thumbs-up reaction/emoji in reply to our pass message]"
+        },
+        {
+          "atISO": "2026-10-03T10:58:00-04:00",
+          "from": "seller",
+          "text": "Ryan, what's your max?"
         }
       ],
       "id": "1767532177930990",
@@ -2813,7 +2819,8 @@
         "Quick run 2026-10-02 9am: no new messages or photos from the seller after 06:31 (inbox list still ends with her 06:31 rejection of $1,080). Verdict, all-in and target unchanged; photo gaps (RD model/cage, dropouts/hanger, seat cluster, alloy brake tracks) still open. No draft: she asked nothing only we can answer; next move is Ryan's.",
         "thread: 1447673527250824",
         "2 Oct noon: seller answered our polite pass with a thumbs-up (inbox showed it as the last message, stamped 10:33 AM). Thread closed amicably; watching only for a drop well below $1,600.",
-        "2026-10-02 6pm: asking raised to $2,250 (from $1,800). Still not a good deal; stays watching."
+        "2026-10-02 6pm: asking raised to $2,250 (from $1,800). Still not a good deal; stays watching.",
+        "3 Oct 10:58: seller reopened with \"what's your max?\" (after floor $1,600, asking since raised to $2,250). Plasma is locked, so no draft; not a good deal at her numbers."
       ]
     },
     {
@@ -3082,7 +3089,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-03T13:20:00.000Z",
+      "updatedISO": "2026-10-03T15:30:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3120,7 +3127,8 @@
         "19:12: Ryan gave the seller his Toronto friend's number to arrange a 3 Oct evening pickup in Oakville.",
         "Same bike also listed by a family member in Oakville (listing 26598360063195933, $2,200), which calls it a 2010 frame with newer parts. Frame is likely 2010, not 2016. Bike alone ~$1,200–1,500; package ~$2,300–3,100. Still a great deal at $1,650. A friend is picking it up and has the full checklist.",
         "21:00 check: seller texted the friend directly to set the pickup time; e-transfer or cash both OK (friend likely pays cash). No pickup time in the Marketplace thread yet; last message is the seller thumbs-up at 20:54.",
-        "9am 3 Oct check: seller 22:31 said the seat mast is currently set to 74 cm; reaching 72 cm needs a cut, which he left uncut so Ryan can set saddle/setback first (Ryan agreed 22:35, will trim it himself). No pickup time, seller height or problems mentioned in the Marketplace thread; pickup is being arranged with the friend directly. Friend: check there is mast/topper adjustment range below 74 cm and that the mast has not already been cut too short for resale."
+        "9am 3 Oct check: seller 22:31 said the seat mast is currently set to 74 cm; reaching 72 cm needs a cut, which he left uncut so Ryan can set saddle/setback first (Ryan agreed 22:35, will trim it himself). No pickup time, seller height or problems mentioned in the Marketplace thread; pickup is being arranged with the friend directly. Friend: check there is mast/topper adjustment range below 74 cm and that the mast has not already been cut too short for resale.",
+        "3 Oct ~15:30 check: no new messages in the Plasma thread since our 22:35 reply on 2 Oct (no pickup time, purchase confirmation or problems posted there; pickup being handled with the friend directly)."
       ],
       "thread": [
         {
@@ -4359,6 +4367,17 @@
       "notes": [
         "Inbox read via Marketplace inbox list + Plasma and Leo T2 threads. Other inbox rows end with our messages or a Facebook system prompt; no other seller messages newer than 21:30 2 Oct.",
         "Marketplace Montréal centre (triathlon bike, vélo triathlon, tt bike, cervelo) + Toronto (triathlon bike): new untracked results were road bikes (Kuota K Factor, Cervélo R3/R2), over-cap tri bikes (Felt IA2 $3,400 Oshawa, Speed Concept 7.5 $4,800, P5-Six $3,800), a Montréal aluminium TT rental bike $1,300 (passed) and a London ON Argon E-116 M $1,550 (passed: beyond range, no extras). Nothing better than the locked Plasma. Groups, Pinkbike and Kijiji skipped this run."
+      ]
+    },
+    {
+      "atISO": "2026-10-03T18:40:04.950Z",
+      "id": "2026-10-03-quick-15",
+      "summary": "3pm quick run: no new messages in the Plasma thread; the P2C 51 seller asked what our max is (no draft, Plasma locked); searches found nothing better than the Plasma deal.",
+      "searched": 5,
+      "newListings": 0,
+      "notes": [
+        "Inbox: Marketplace inbox list did not render; read via Messenger Marketplace folder (Plasma, P2C 51, Leo T2, P3 rows). Only seller text newer than 09:35: P2C 51 at 10:58. Leo T2 had a Facebook system prompt at 9:54.",
+        "Montréal (triathlon bike, vélo triathlon, tt bike, cervelo) + Toronto (triathlon bike): untracked results were road bikes (Cervélo R3/R2/S2/S5, Kuota K Factor, Kuota Sherbrooke), a Cervélo P5 frame only $800 Toronto, Nineteen Richter $525 Toronto, Cannondale Slice Aero $800 Windsor (too far), and over-cap/pending tri bikes (Felt IA2 $3,400, Aquila Crono $2,900 pending, Speed Concept $4,800). Nothing better than the locked Plasma."
       ]
     }
   ]

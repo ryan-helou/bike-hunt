@@ -3056,7 +3056,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-02T23:17:55.590Z",
+      "updatedISO": "2026-10-03T01:32:21.048Z",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3092,7 +3092,8 @@
         "Gearing: 11-30 already on the bike, so no cassette cost for Muskoka. Year: the seller says 2016; the duplicate listing 26598360063195933 says 2010 (Plasma 3 livery). Ask for the frame's serial/receipt at pickup if it matters for resale.",
         "Pickup by the friend (3 Oct, Oakville): confirm the $1,650 in writing incl. the disc wheel, the rear Zipp 808 and the Quarq; ask him to charge the Di2; agree a time and a public spot if possible; bring $1,650 cash, pedals/shoes or at least a test-ride plan; inspect fork, dropouts, seat mast (cut height must allow ~72 cm), BB, chainstays and coin-tap; shift every gear (Di2 battery charged); spin the Quarq crank and pair it if he has a Garmin/phone app; check brakes; spin the disc and 808 for true/hub play and check the tubular glue; test ride in aero; confirm the Di2 charger, the disc's 11-sp cassette and the spare 12-25 come with it.",
         "19:12: Ryan gave the seller his Toronto friend's number to arrange a 3 Oct evening pickup in Oakville.",
-        "Same bike also listed by a family member in Oakville (listing 26598360063195933, $2,200), which calls it a 2010 frame with newer parts. Frame is likely 2010, not 2016. Bike alone ~$1,200–1,500; package ~$2,300–3,100. Still a great deal at $1,650. A friend is picking it up and has the full checklist."
+        "Same bike also listed by a family member in Oakville (listing 26598360063195933, $2,200), which calls it a 2010 frame with newer parts. Frame is likely 2010, not 2016. Bike alone ~$1,200–1,500; package ~$2,300–3,100. Still a great deal at $1,650. A friend is picking it up and has the full checklist.",
+        "21:00 check: seller texted the friend directly to set the pickup time; e-transfer or cash both OK (friend likely pays cash). No pickup time in the Marketplace thread yet; last message is the seller thumbs-up at 20:54."
       ],
       "thread": [
         {
@@ -3159,6 +3160,36 @@
           "atISO": "2026-10-02T19:12:00-04:00",
           "from": "us",
           "text": "Text him and try to figure it out with him I believe he could in the evening"
+        },
+        {
+          "atISO": "2026-10-02T19:27:00-04:00",
+          "from": "seller",
+          "text": "Sent him a message, to work it out when he can come by. Will your friend be paying for the bike?"
+        },
+        {
+          "atISO": "2026-10-02T19:37:00-04:00",
+          "from": "us",
+          "text": "Yes he’ll be paying for it"
+        },
+        {
+          "atISO": "2026-10-02T19:37:00-04:00",
+          "from": "us",
+          "text": "Can u do e-transfer?"
+        },
+        {
+          "atISO": "2026-10-02T19:41:00-04:00",
+          "from": "seller",
+          "text": "Yes e-transfer works 👍"
+        },
+        {
+          "atISO": "2026-10-02T19:46:00-04:00",
+          "from": "us",
+          "text": "Ok I believe he rather cash, but he will keep you posted"
+        },
+        {
+          "atISO": "2026-10-02T20:54:00-04:00",
+          "from": "seller",
+          "text": "(thumbs-up emoji)"
         }
       ],
       "lockedPrice": 1650
@@ -4218,6 +4249,20 @@
         "Marketplace: all 33 queries from montreal/ottawa/quebec/toronto (zipp 404/808 and aerobars on 2 centres each); location still Montréal 500 km. New tri listings: Richmond Hill Cervélo P4 56 $2,000 (stock photo only, watching), Toronto E-112 $2,250 (watching), Milton Slice 56 $2,500 (watching), Valleyfield Kestrel Talon road setup $1,800 (watching); passed BMC TR02 track bike, London Argon Mercury alloy, Barrie Miele steel; far/over-cap: Saugeen Shores P2C $1,600, Rouyn-Noranda P3 $2,500, Barrie P2 51 $2,500, Toronto Storck 52 $2,500, Lakeshore/London listings.",
         "Kijiji Québec + Ottawa: no tri bikes (parts, road bikes, a Peugeot vintage, an Ottawa fixed-gear TT project $950). Pinkbike QC/ON: same ads as noon; 2016 E-117 M Rockland $4,000 passed (integrated brakes, price).",
         "Groups (most recent): Triathlon achat/vente Montréal, Vente-Achat Route & Triathlon Québec, Québec en Vélo, Cyclisme Québec, Greater Ottawa Bicycle Classifieds, Ottawa Bicycle Classy Ads; skipped the France group. Only SOLD posts or bikes far over budget (sold comps: P3 2014 51 11-sp $2,500 Terrebonne, Shiv S-Works S $2,700 Eastman, E-117 2019 S $2,595, E116 + carbon wheels $2,200 Montréal)."
+      ]
+    },
+    {
+      "atISO": "2026-10-03T01:32:21.048Z",
+      "id": "2026-10-02-quick-21",
+      "summary": "9pm quick run: the Plasma seller is arranging the pickup time directly with Ryan’s friend (e-transfer or cash OK), no other seller replies, and no new listings worth tracking.",
+      "searched": 14,
+      "newListings": 0,
+      "notes": [
+        "Plasma (2026064858150818): seller 19:27 said he texted the friend to work out a time and asked if the friend pays; Ryan 19:37 yes, asked about e-transfer; seller 19:41 e-transfer works; Ryan 19:46 friend probably prefers cash; seller thumbs-up 20:54. No pickup time stated in the thread.",
+        "Inbox: no other seller messages newer than 19:15 (next most recent thread entry is our 4:10 PM P3 opener).",
+        "Marketplace Montréal centre (8 queries) + Toronto (triathlon bike, cervelo): untracked results were road bikes, parts, or far/over-cap tri bikes already noted; only new tri listing is an Ottawa 2015 Speed Concept 7.5 $4,800 (over cap).",
+        "Groups (most recent, triathlon): Triathlon achat/vente Montréal: new Argon E-119 Tri+ Disc 2025 XS $11,000 Sorel-Tracy (size, price), the new 2026 Cervélo P-Series; Vente-Achat Route & Triathlon Québec: SOLD Canyon, Felt AXS Small $6,500, E-119 rim Di2. Nothing in budget.",
+        "Pinkbike triathlon: Québec 9 ads, Ontario 14 ads, same as earlier."
       ]
     }
   ]

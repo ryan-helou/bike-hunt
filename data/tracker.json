@@ -3089,7 +3089,7 @@
     {
       "url": "https://www.facebook.com/marketplace/item/2026064858150818/",
       "firstSeenISO": "2026-10-02T14:44:10.890Z",
-      "updatedISO": "2026-10-03T15:30:00-04:00",
+      "updatedISO": "2026-10-04T00:40:00-04:00",
       "priceHistory": [
         {
           "atISO": "2026-10-02T14:44:10.890Z",
@@ -3097,7 +3097,7 @@
         }
       ],
       "id": "2026064858150818",
-      "title": "Scott Plasma 3 carbon M, Dura-Ace Di2 11-sp shifters + Ultegra Di2 RD, SRAM Red Quarq, Mavic Comete disc",
+      "title": "BOUGHT: Scott Plasma (2010 frame) Di2 + Quarq + Mavic disc + Zipp 808",
       "location": "Oakville, ON",
       "driveHours": 5.75,
       "asking": 2000,
@@ -3107,7 +3107,7 @@
       "fairValue": 1975,
       "allInCost": 1850,
       "target": 1700,
-      "verdict": "Locked by Ryan at $1,650 for pickup in Oakville (his Toronto friend picks it up 3 Oct). Good deal: package ~$2,300 (bike ~$1,300 + Quarq ~$300 + Comete disc ~$375 + rear Zipp 808 tubular ~$340) vs all-in ~$1,650 + friend's trip; net cost ~$1,000 after reselling the disc and 808.",
+      "verdict": "BOUGHT 2026-10-03 for $1,650. A friend picked it up in Oakville. Package ~$2,300–3,100: keep the bike + Quarq, sell the Mavic disc (~$500–700), and keep or sell the Zipp 808 (~$300–450). 11-30 cassette, Di2 charger included. Seat mast is at its 74 cm minimum: trim to the final height after the trainer fit.",
       "notes": [
         "Ad: Scott Plasma TT/Tri, size Medium (max seatpost height 76 cm), 11-sp Di2 Dura-Ace shifters + Ultegra Di2 RD, SRAM Red 170 mm Quarq power meter, SRAM Red brakes, Selle Italia saddle; comes with Mavic Comete disc (Vittoria Corsa tubular) + 11-sp Ultegra cassette. Listed 45 weeks ago, $2,000 (was $2,700).",
         "Photos (9, no video): Plasma 3-generation carbon (black/white/red), integrated seat mast with Ritchey topper, standard calipers front and on the seatstays (passes the brake rule; not a Plasma 5), Zipp Vuka aero cockpit with Di2 bar-end shifters, alloy-brake-track clinchers (Continental tyres), Quarq SRAM Red crank (looks 53/39), disc with an 11-sp cassette. No visible damage.",
@@ -4379,6 +4379,12 @@
         "Inbox: Marketplace inbox list did not render; read via Messenger Marketplace folder (Plasma, P2C 51, Leo T2, P3 rows). Only seller text newer than 09:35: P2C 51 at 10:58. Leo T2 had a Facebook system prompt at 9:54.",
         "Montréal (triathlon bike, vélo triathlon, tt bike, cervelo) + Toronto (triathlon bike): untracked results were road bikes (Cervélo R3/R2/S2/S5, Kuota K Factor, Kuota Sherbrooke), a Cervélo P5 frame only $800 Toronto, Nineteen Richter $525 Toronto, Cannondale Slice Aero $800 Windsor (too far), and over-cap/pending tri bikes (Felt IA2 $3,400, Aquila Crono $2,900 pending, Speed Concept $4,800). Nothing better than the locked Plasma."
       ]
+    },
+    {
+      "atISO": "2026-10-04T00:40:00-04:00",
+      "summary": "Hunt finished: the Scott Plasma was bought for $1,650. Searches stopped.",
+      "searched": 0,
+      "newListings": 0
     }
   ]
 }

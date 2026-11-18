@@ -1,6 +1,12 @@
+<div align="center">
+
 # Bike Hunt
 
-A personal tracker for finding a good deal on a used triathlon bike.
+**A personal tracker for finding a good deal on a used triathlon bike.**
+
+</div>
+
+<br>
 
 The owner is shopping for a second-hand triathlon (time-trial) bike for an upcoming race and only wants to hear about bargains. An AI assistant searches used-bike listings a few times a day, judges each one (fit, condition, fair price, total cost), and records what it finds. This small web app is where those results are shown. It was built for one buyer, not as a general tool.
 

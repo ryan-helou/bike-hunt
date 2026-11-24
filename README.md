@@ -2,7 +2,7 @@
 
 # Bike Hunt
 
-**A personal tracker for finding a good deal on a used triathlon bike.**
+**A tracker for finding a good deal on a used triathlon bike.**
 
 <!-- facts --><img alt="Checks: 6 times a day" src="https://img.shields.io/badge/Checks-6_times_a_day-24292f?style=for-the-badge"> <img alt="Searches: 3 used-bike sites" src="https://img.shields.io/badge/Searches-3_used--bike_sites-24292f?style=for-the-badge"> <img alt="Messages: approved by hand" src="https://img.shields.io/badge/Messages-approved_by_hand-24292f?style=for-the-badge">
 
@@ -10,7 +10,7 @@
 
 <br>
 
-The owner is shopping for a second-hand triathlon (time-trial) bike for an upcoming race and only wants to hear about bargains. An AI assistant searches used-bike listings a few times a day, judges each one (fit, condition, fair price, total cost), and records what it finds. This small web app is where those results are shown. It was built for one buyer, not as a general tool.
+I'm shopping for a second-hand triathlon (time-trial) bike for an upcoming race and only want to hear about bargains. An AI assistant searches used-bike listings a few times a day, judges each one (fit, condition, fair price, total cost), and records what it finds. This web app is where those results are shown.
 
 ## What you can do with it
 
@@ -18,7 +18,7 @@ The owner is shopping for a second-hand triathlon (time-trial) bike for an upcom
 - Check each listing's asking price, estimated fair value, target price, and the margin between them.
 - Follow price drops over time on a listing.
 - Read the notes on each bike, such as size, model year and anything spotted in the photos.
-- Review drafted messages to sellers. Nothing is sent automatically; each message needs the owner's approval first.
+- Review drafted messages to sellers. Nothing is sent automatically; each message needs approval first.
 - Turn on phone notifications so a good find shows up right away. The app can be added to a phone's home screen like a regular app.
 
 A banner warns when no search has run for a while (for example, if the computer running the searches was asleep).
